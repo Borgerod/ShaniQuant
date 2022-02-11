@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+LOPE220218C00090000,90.0,USD,3.25,0.20000005,6.557379,11,15,1.45,4.1,REGULAR,2022-02-18,2022-01-05 18:09:25,0.920899228515625,False
+LOPE220218C00095000,95.0,USD,1.74,0.0,0.0,2,2,0.6,2.55,REGULAR,2022-02-18,2021-12-23 19:16:15,0.9184578466796876,False

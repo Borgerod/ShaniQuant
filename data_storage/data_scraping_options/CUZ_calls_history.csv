@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+CUZ220414C00040000,40.0,USD,3.5,0.0,0.0,10,10,0.5,5.0,REGULAR,2022-04-14,2021-12-13 14:30:02,0.5715374877929689,False
+CUZ220414C00045000,45.0,USD,0.3,0.0,0.0,1,6,0.3,0.7,REGULAR,2022-04-14,2021-12-27 19:59:32,0.43555251953125,False

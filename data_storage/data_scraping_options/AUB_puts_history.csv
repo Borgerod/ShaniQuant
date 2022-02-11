@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+AUB220414P00035000,35.0,USD,2.35,0.0,0.0,10,0.2,3.4,REGULAR,2022-04-14,2021-12-20 14:30:22,0.6123085644531252,False

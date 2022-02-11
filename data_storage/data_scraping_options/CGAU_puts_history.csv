@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+CGAU220218C00007500,7.5,USD,1.25,0.0,0.0,20,35,1.05,1.2,REGULAR,2022-02-18,2022-01-04 15:08:24,1.12891060546875,True

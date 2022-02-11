@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+CADE220218C00030000,30.0,USD,2.2,0.0,0.0,1,101,1.95,2.85,REGULAR,2022-02-18,2022-01-04 15:13:04,0.726565234375,True

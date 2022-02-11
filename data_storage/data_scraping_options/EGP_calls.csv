@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+EGP220218C00200000,200.0,USD,33.0,0.0,0.0,1,1,19.0,23.0,REGULAR,2022-02-18,2021-12-31 19:47:25,1.670167664794922,False

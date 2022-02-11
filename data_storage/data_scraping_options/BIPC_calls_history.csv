@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+BIPC220218C00070000,70.0,USD,1.95,0.0,0.0,5,10,0.6,1.4,REGULAR,2022-02-18,2021-12-27 16:59:56,0.5688519677734375,False

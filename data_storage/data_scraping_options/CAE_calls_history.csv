@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+CAE220218C00025000,25.0,USD,2.0,0.0,0.0,1,1,0.85,2.25,REGULAR,2022-02-18,2021-12-23 20:52:40,0.73437765625,True

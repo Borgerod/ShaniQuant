@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+ROOT220211C00004000,4.0,USD,0.15,0.0,0.0,2,124,0.05,0.17,REGULAR,2022-02-11,2022-01-04 19:16:06,7.437500703125,False

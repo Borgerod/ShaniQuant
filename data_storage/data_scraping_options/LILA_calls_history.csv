@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney,volume
+LILA220218C00010000,10.0,USD,1.25,0.0,0.0,40,0.55,3.2,REGULAR,2022-02-18,2021-12-20 19:19:51,1.8007822460937497,True,
+LILA220218C00012500,12.5,USD,0.45,0.0,0.0,14,0.0,0.65,REGULAR,2022-02-18,2022-01-04 14:34:06,1.08984830078125,False,11.0

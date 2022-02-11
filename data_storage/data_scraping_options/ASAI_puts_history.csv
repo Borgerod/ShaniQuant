@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+ASAI220218P00010000,10.0,USD,0.65,0.0,0.0,1,0.0,0.9,REGULAR,2022-02-18,2022-01-10 14:30:10,1.7382825585937498,False

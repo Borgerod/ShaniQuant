@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+IBTX220218P00070000,70.0,USD,3.5,0.0,0.0,4,0.35,2.5,REGULAR,2022-02-18,2021-12-20 17:29:15,0.7670921728515626,False

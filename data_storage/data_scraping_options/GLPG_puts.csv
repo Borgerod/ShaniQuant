@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+GLPG220218C00060000,60.0,USD,1.7,-0.29999995,-14.999998,150,151,0.55,2.2,REGULAR,2022-02-18,2022-01-05 16:59:41,1.0000000000000003e-05,True

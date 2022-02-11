@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney,volume
+CFR220218C00120000,120.0,USD,8.49,0.0,0.0,1,10.9,13.6,REGULAR,2022-02-18,2021-12-21 18:26:22,1.0000000000000003e-05,True,
+CFR220218C00130000,130.0,USD,6.1,0.6999998,12.962959,5,4.0,6.7,REGULAR,2022-02-18,2022-01-05 17:51:43,1.0000000000000003e-05,True,3.0

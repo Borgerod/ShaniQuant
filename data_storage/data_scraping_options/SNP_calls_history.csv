@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+SNP220218C00050000,50.0,USD,1.17,0.46999997,67.14285,10,43,0.9,1.5,REGULAR,2022-02-18,2022-01-05 15:09:50,1.0000000000000003e-05,True

@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+SWN220211C00005000,5.0,USD,0.28,-0.00999999,-3.4482725,1,81,0.12,0.18,REGULAR,2022-02-11,2022-01-05 14:53:52,2.156254609375,False
+SWN220211C00005500,5.5,USD,0.12,0.0,0.0,175,203,0.04,0.27,REGULAR,2022-02-11,2022-01-04 20:20:55,2.9531276171874996,False

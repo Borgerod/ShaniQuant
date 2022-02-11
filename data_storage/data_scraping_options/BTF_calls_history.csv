@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+BTF220211C00022000,22.0,USD,0.65,0.0,0.0,1,2,0.3,0.65,REGULAR,2022-02-11,2022-01-03 16:19:51,2.8593778515625,False

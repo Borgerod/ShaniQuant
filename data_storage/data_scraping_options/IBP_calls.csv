@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+IBP220218C00140000,140.0,USD,8.2,0.0,0.0,1,2.0,4.9,REGULAR,2022-02-18,2021-12-29 16:10:51,1.7402356738281248,False

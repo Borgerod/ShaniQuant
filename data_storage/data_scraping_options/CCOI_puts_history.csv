@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+CCOI220218C00070000,70.0,USD,5.17,0.0,0.0,20,2.05,2.8,REGULAR,2022-02-18,2021-12-22 17:43:03,1.1352582299804688,False

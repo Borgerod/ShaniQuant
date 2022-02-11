@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+SWX220218C00075000,75.0,USD,0.45,0.0,0.0,6,7,0.0,1.05,REGULAR,2022-02-18,2022-01-03 20:55:12,0.641605146484375,False

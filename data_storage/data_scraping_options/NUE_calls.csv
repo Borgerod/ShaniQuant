@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+NUE220211C00116000,116.0,USD,5.0,0.0,0.0,2,2,9.1,11.7,REGULAR,2022-02-11,2021-12-31 16:04:20,2.540042712402343,False
+NUE220211C00124000,124.0,USD,6.3,2.9500003,88.05971,11,3,6.0,7.1,REGULAR,2022-02-11,2022-01-05 20:00:06,2.3637736218261716,False

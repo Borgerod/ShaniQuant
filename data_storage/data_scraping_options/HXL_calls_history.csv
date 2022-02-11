@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+HXL220218C00060000,60.0,USD,0.92,0.0,0.0,1,4,0.0,4.5,REGULAR,2022-02-18,2022-01-03 16:53:33,1.2553748168945313,False

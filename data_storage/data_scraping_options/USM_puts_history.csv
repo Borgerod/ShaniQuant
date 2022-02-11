@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+USM220218P00025000,25.0,USD,0.6,0.0,0.0,20,20,0.0,4.6,REGULAR,2022-02-18,2021-12-17 18:39:46,2.3261760595703116,False

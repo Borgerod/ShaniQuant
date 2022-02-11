@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+CENTA220318C00050000,50.0,USD,7.2,0.0,0.0,1,1,0.05,4.7,REGULAR,2022-03-18,2021-11-11 18:32:50,0.9350592431640624,False

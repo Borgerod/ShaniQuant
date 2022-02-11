@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+NTCT220218C00045000,45.0,USD,0.3,0.0,0.0,200,0.0,0.25,REGULAR,2022-02-18,2021-12-20 14:37:17,1.2382850585937497,False

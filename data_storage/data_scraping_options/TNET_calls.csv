@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+TNET220218C00095000,95.0,USD,1.28,0.0,0.0,1,2,0.7,1.45,REGULAR,2022-02-18,2022-01-14 19:55:51,0.6147499462890625,False

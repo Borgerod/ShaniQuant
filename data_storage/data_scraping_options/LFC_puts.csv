@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+LFC220218C00005000,5.0,USD,3.27,0.0,0.0,2,3.3,3.5,REGULAR,2022-02-18,2021-12-21 15:25:47,1.0000000000000003e-05,True
+LFC220218C00007500,7.5,USD,0.9,0.0,0.0,4,0.85,1.0,REGULAR,2022-02-18,2021-12-30 20:37:54,1.0000000000000003e-05,True

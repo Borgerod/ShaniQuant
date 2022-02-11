@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+SFNC220218P00030000,30.0,USD,0.7,-0.59999996,-46.153847,11,10,0.7,0.8,REGULAR,2022-02-18,2022-01-05 19:57:05,1.0000000000000003e-05,True

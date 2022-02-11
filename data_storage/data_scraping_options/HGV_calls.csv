@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+HGV220218C00055000,55.0,USD,2.3,-0.29999995,-11.53846,86,25,1.3,1.95,REGULAR,2022-02-18,2022-01-05 16:46:29,1.0410204199218753,False

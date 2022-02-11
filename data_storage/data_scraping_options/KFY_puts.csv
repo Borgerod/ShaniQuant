@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+KFY220218C00075000,75.0,USD,3.12,0.0,0.0,10,2.95,4.4,REGULAR,2022-02-18,2021-12-20 15:15:16,1.3720734521484375,False

@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+SPXC220218C00065000,65.0,USD,0.85,0.050000012,6.2500014,2,2,0.4,1.5,REGULAR,2022-02-18,2022-01-05 15:43:02,1.3701203369140624,False

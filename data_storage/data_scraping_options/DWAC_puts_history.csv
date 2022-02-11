@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+DWAC220211C00051000,51.0,USD,3.6,-1.3000002,-26.530615,1,1,2.96,5.85,REGULAR,2022-02-11,2022-01-05 19:41:52,1.0000000000000003e-05,True
+DWAC220211C00052000,52.0,USD,4.15,-0.2999997,-6.741567,1,2,2.58,5.5,REGULAR,2022-02-11,2022-01-05 16:45:23,1.0000000000000003e-05,True

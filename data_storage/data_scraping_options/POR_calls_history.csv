@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+POR220218C00050000,50.0,USD,3.1,0.0,0.0,1,3,1.2,6.0,REGULAR,2022-02-18,2021-12-23 14:37:37,0.6196327099609377,True
+POR220218C00055000,55.0,USD,0.7,0.0,0.0,4,23,0.0,4.8,REGULAR,2022-02-18,2021-12-30 14:37:33,0.9863282617187501,False

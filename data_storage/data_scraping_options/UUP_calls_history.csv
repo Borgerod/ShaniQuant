@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+UUP220211C00025500,25.5,USD,0.34,0.0,0.0,10,15,0.33,0.42,REGULAR,2022-02-11,2021-12-31 19:51:40,0.398443515625,True

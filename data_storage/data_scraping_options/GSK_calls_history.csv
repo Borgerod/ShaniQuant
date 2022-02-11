@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+GSK220211C00044000,44.0,USD,1.1,0.0,0.0,1,2,0.45,3.1,REGULAR,2022-02-11,2022-01-04 14:44:32,0.6543003320312502,True
+GSK220211C00046000,46.0,USD,0.49,-0.099999964,-16.949146,1,8,0.15,4.7,REGULAR,2022-02-11,2022-01-05 17:57:14,1.6972671386718752,False

@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+COUP220211C00160000,160.0,USD,3.2,-4.6000004,-58.97436,4,27,2.8,3.5,REGULAR,2022-02-11,2022-01-05 20:49:16,2.3652384619140623,False

@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+TFSL220218C00020000,20.0,USD,0.1,0.0,0.0,1,45,0.0,0.05,REGULAR,2022-02-18,2022-01-04 16:22:15,0.500005,False

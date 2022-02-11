@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+BHC220211C00031000,31.0,USD,0.61,0.0,0.0,100,0.13,0.58,REGULAR,2022-02-11,2021-12-30 14:37:03,2.1875045312499997,False

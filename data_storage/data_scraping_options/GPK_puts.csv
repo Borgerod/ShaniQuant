@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+GPK220218C00017500,17.5,USD,3.1,0.0,0.0,5,10,2.35,3.4,REGULAR,2022-02-18,2022-01-04 17:06:49,1.857422587890625,True
+GPK220218C00020000,20.0,USD,0.95,-0.15000004,-13.636367,2,421,0.65,0.85,REGULAR,2022-02-18,2022-01-05 14:38:17,1.0107471337890623,False

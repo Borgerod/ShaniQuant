@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+VALE220211C00014500,14.5,USD,0.37,0.00999999,2.777775,4060,3304,0.34,0.39,REGULAR,2022-02-11,2022-01-05 20:15:45,1.0000000000000003e-05,True
+VALE220211C00015500,15.5,USD,0.16,0.0,0.0,2,8,0.03,0.21,REGULAR,2022-02-11,2022-01-04 15:40:00,1.0000000000000003e-05,True

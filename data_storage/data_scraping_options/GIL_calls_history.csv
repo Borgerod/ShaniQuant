@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+GIL220218C00045000,45.0,USD,0.75,-0.29999995,-28.571424,1.0,4,0.45,0.65,REGULAR,2022-02-18,2022-01-05 17:44:40,0.6972686523437501,False
+GIL220218C00050000,50.0,USD,0.1,0.0,0.0,,2,0.0,1.15,REGULAR,2022-02-18,2021-12-28 18:48:49,1.1162153564453123,False

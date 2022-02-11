@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+DOX220218P00070000,70.0,USD,0.85,-1.8000001,-67.92453,1,9,0.8,1.35,REGULAR,2022-02-18,2022-01-05 19:09:18,0.7070341796875,False

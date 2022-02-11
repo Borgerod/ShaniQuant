@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+SITC220218C00017500,17.5,USD,0.3,0.10000001,50.000008,1,10,0.1,0.35,REGULAR,2022-02-18,2022-01-05 14:30:02,1.01172369140625,False

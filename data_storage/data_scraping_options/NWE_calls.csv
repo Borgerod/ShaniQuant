@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+NWE220218C00060000,60.0,USD,0.6,0.0,0.0,15,30,0.0,4.8,REGULAR,2022-02-18,2022-01-04 20:32:18,0.7861349511718749,False

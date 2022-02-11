@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+DUST220211C00019000,19.0,USD,1.42,0.07999992,5.9701433,2,2,1.95,2.25,REGULAR,2022-02-11,2022-01-05 16:49:17,3.378907802734375,False
+DUST220211C00019500,19.5,USD,1.45,0.0,0.0,10,20,1.7,2.0,REGULAR,2022-02-11,2021-12-30 18:26:34,3.302736118164062,False

@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+LBRT220218C00011000,11.0,USD,1.65,0.14999998,9.999999,5,3,1.0,2.3,REGULAR,2022-02-18,2022-01-05 19:41:10,1.6367205664062499,True

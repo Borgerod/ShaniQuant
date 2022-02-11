@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+B220218C00050000,50.0,USD,1.85,0.0,0.0,1,2,0.0,3.9,REGULAR,2022-02-18,2022-01-04 17:00:23,1.2021524267578125,False

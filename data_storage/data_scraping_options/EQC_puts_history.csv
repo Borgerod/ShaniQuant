@@ -1,0 +1,4 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+EQC220218C00020000,20.0,USD,6.03,0.0,0.0,3,3,3.7,8.4,REGULAR,2022-02-18,2021-12-17 17:22:53,1.015629921875,True
+EQC220218C00022500,22.5,USD,3.6,0.0,0.0,2,3,1.2,5.9,REGULAR,2022-02-18,2021-12-27 14:30:29,0.632816171875,True
+EQC220218C00025000,25.0,USD,1.3,0.0,0.0,2,4,0.1,4.8,REGULAR,2022-02-18,2022-01-04 20:52:03,1.154301103515625,True

@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+CHT220218C00040000,40.0,USD,2.12,0.0,0.0,43,39,0.0,4.8,REGULAR,2022-02-18,2021-12-23 19:07:23,1.154301103515625,True

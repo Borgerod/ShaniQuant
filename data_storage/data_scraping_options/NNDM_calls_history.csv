@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+NNDM220211C00004000,4.0,USD,0.35,-0.050000012,-12.500003,33,16,0.09,0.33,REGULAR,2022-02-11,2022-01-05 19:33:58,1.9062504687500001,False

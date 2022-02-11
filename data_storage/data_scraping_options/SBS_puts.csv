@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+SBS220218C00005000,5.0,USD,1.55,-0.85000014,-35.41667,10,11,1.5,1.6,REGULAR,2022-02-18,2022-01-05 19:38:44,1.0000000000000003e-05,True
+SBS220218C00007500,7.5,USD,0.3,0.0,0.0,4,9,0.05,0.15,REGULAR,2022-02-18,2021-12-30 15:25:24,0.6914093359375001,False

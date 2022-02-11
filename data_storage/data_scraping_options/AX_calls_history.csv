@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+AX220218C00055000,55.0,USD,3.2,0.0,0.0,1,11,3.8,4.6,REGULAR,2022-02-18,2021-12-23 20:41:11,1.11328568359375,True

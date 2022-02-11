@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+TOL220211C00070000,70.0,USD,4.5,0.0,0.0,5,2.2,2.95,REGULAR,2022-02-11,2021-12-30 18:41:40,3.3603531616210933,False

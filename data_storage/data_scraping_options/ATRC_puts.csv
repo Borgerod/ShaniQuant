@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+ATRC220218P00060000,60.0,USD,2.55,0.0,0.0,2,0.75,3.7,REGULAR,2022-02-18,2021-12-16 20:56:43,1.276859084472656,False

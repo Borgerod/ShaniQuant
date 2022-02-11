@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+PPBI220218C00045000,45.0,USD,0.45,0.0,0.0,1,1,0.05,2.55,REGULAR,2022-02-18,2021-12-17 18:24:26,1.18359783203125,False

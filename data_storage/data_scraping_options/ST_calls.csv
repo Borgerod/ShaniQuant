@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+ST220218C00060000,60.0,USD,6.2,0.6999998,12.727269,3,113,3.8,5.5,REGULAR,2022-02-18,2022-01-05 16:06:40,1.6127949047851562,False
+ST220218C00065000,65.0,USD,2.8,0.25,9.803922,1,102,2.1,2.45,REGULAR,2022-02-18,2022-01-05 17:08:44,1.3676789428710938,False

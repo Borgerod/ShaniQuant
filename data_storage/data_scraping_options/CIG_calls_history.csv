@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+CIG220218C00002500,2.5,USD,0.06,-0.040000003,-40.000004,25,21,0.0,0.1,REGULAR,2022-02-18,2022-01-05 17:01:04,0.8125018749999999,False

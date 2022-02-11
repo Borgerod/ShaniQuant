@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+SPWR220211C00021000,21.0,USD,1.2,-0.54999995,-31.42857,26,37,1.11,1.39,REGULAR,2022-02-11,2022-01-05 20:57:21,4.687504140625,False

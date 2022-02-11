@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+HMC220218C00030000,30.0,USD,0.73,-0.099999964,-12.048188,20,175,0.65,0.8,REGULAR,2022-02-18,2022-01-05 20:25:36,0.5019581054687501,False

@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+DTM220218C00050000,50.0,USD,1.7,0.0,0.0,2,7,0.65,3.1,REGULAR,2022-02-18,2022-01-04 16:46:14,0.44922425781249997,True

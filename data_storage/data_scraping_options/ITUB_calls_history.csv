@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+ITUB220218C00004000,4.0,USD,0.09,-0.049999997,-35.714283,42.0,68,0.08,0.1,REGULAR,2022-02-18,2022-01-05 20:02:35,1.0000000000000003e-05,True
+ITUB220218C00005000,5.0,USD,0.25,0.0,0.0,,1,0.0,0.02,REGULAR,2022-02-18,2021-12-16 15:32:30,0.2500075,False

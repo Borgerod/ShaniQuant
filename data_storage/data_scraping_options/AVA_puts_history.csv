@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+AVA220218P00035000,35.0,USD,0.35,0.0,0.0,5,0.0,0.0,REGULAR,2022-02-18,2021-12-27 15:24:53,0.2500075,False

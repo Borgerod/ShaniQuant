@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney,volume
+LKFN220318C00060000,60.0,USD,9.5,0.0,0.0,10,12.5,16.5,REGULAR,2022-03-18,2021-11-10 12:00:43,1.0000000000000003e-05,True,
+LKFN220318C00070000,70.0,USD,4.2,0.0,0.0,2,4.6,8.5,REGULAR,2022-03-18,2021-11-10 12:00:43,1.0000000000000003e-05,True,1.0

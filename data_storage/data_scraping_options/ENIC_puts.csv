@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+ENIC220218C00002500,2.5,USD,0.04,0.0,0.0,21,498,0.0,0.05,REGULAR,2022-02-18,2021-12-30 17:35:20,1.3750031249999999,False
+ENIC220218C00005000,5.0,USD,0.05,0.0,0.0,2,90,0.0,0.05,REGULAR,2022-02-18,2021-12-28 16:53:40,3.3125017187499997,False

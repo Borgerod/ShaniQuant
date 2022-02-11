@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+TRU220218C00120000,120.0,USD,4.4,0.0,0.0,1,1.9,2.5,REGULAR,2022-02-18,2021-12-30 16:56:32,1.1413617150878905,False

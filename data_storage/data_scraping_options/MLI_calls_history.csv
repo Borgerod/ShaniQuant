@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney,volume
+MLI220218C00055000,55.0,USD,6.8,0.0,0.0,17,4.7,6.0,REGULAR,2022-02-18,2021-12-29 18:46:11,1.2719762963867183,True,
+MLI220218C00070000,70.0,USD,0.45,0.0,0.0,8,0.25,0.65,REGULAR,2022-02-18,2022-01-03 20:03:42,0.9960937890625,False,5.0

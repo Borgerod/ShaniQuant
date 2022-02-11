@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+NUVA220218C00050000,50.0,USD,7.08,2.08,41.6,3,8,5.0,7.7,REGULAR,2022-02-18,2022-01-05 19:24:38,1.7333997705078126,True

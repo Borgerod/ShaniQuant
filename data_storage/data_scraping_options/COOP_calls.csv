@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+COOP220218C00045000,45.0,USD,0.52,-0.18,-25.714287,40.0,137,0.45,0.6,REGULAR,2022-02-18,2022-01-05 20:38:56,0.7187528125,False
+COOP220218C00050000,50.0,USD,0.1,0.0,0.0,,4,0.0,1.0,REGULAR,2022-02-18,2021-12-27 15:42:30,1.0996138769531252,False

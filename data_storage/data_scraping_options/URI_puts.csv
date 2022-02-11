@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+URI220211C00370000,370.0,USD,7.0,0.0,0.0,2,10,3.8,5.1,REGULAR,2022-02-11,2022-01-04 19:12:12,1.5593283752441405,False

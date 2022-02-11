@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+CBT220218C00060000,60.0,USD,1.7,0.0,0.0,1,15,0.65,3.8,REGULAR,2022-02-18,2022-01-04 19:01:48,1.0000000000000003e-05,True

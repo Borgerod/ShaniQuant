@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+ENIA220218P00005000,5.0,USD,0.2,0.0,0.0,15,17,0.0,0.15,REGULAR,2022-02-18,2021-12-20 17:58:31,0.7421900781249999,False

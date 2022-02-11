@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+JHG220218C00050000,50.0,USD,0.18,0.0,0.0,2,0.0,1.0,REGULAR,2022-02-18,2021-12-20 19:39:53,1.505861845703125,False

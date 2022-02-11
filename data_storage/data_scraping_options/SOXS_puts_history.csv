@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+SOXS220211C00004000,4.0,USD,0.25,0.049999997,24.999998,6,24,0.2,0.3,REGULAR,2022-02-11,2022-01-05 20:07:21,0.8437515624999999,True

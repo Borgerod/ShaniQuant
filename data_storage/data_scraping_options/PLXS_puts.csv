@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+PLXS220218P00065000,65.0,USD,0.51,0.0,0.0,1,0.0,4.8,REGULAR,2022-02-18,2021-12-21 14:46:11,1.3476595117187498,False

@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+ICL220218C00010000,10.0,USD,0.7,0.14999998,27.272722,1,13,0.15,0.55,REGULAR,2022-02-18,2022-01-05 15:32:36,0.648441015625,False
+ICL220218C00012500,12.5,USD,0.05,-0.009999998,-16.666664,18,3,0.0,0.1,REGULAR,2022-02-18,2022-01-05 20:27:07,0.9531254687499999,False

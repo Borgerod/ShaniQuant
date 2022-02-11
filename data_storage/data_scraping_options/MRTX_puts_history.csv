@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+MRTX220218C00135000,135.0,USD,13.3,0.0,0.0,2,8.6,12.7,REGULAR,2022-02-18,2021-12-16 20:58:14,2.805178768310547,False

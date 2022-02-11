@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+IART220218C00080000,80.0,USD,0.33,0.0,0.0,10,10,0.05,3.7,REGULAR,2022-02-18,2021-12-31 18:34:44,1.4018584594726562,False

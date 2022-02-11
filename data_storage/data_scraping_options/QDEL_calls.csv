@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+QDEL220211C00135000,135.0,USD,9.9,0.0,0.0,2,4.3,8.0,REGULAR,2022-02-11,2021-12-30 17:19:39,4.93066789916992,False

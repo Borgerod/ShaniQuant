@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+VG220218C00021000,21.0,USD,0.05,0.0,0.0,1,2,0.0,5.0,REGULAR,2022-02-18,2022-01-05 14:48:55,1.8583991455078124,False

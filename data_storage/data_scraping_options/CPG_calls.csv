@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+CPG220218C00005000,5.0,USD,0.95,0.099999964,11.764702,136,175,0.9,1.05,REGULAR,2022-02-18,2022-01-05 20:47:38,1.0000000000000003e-05,True
+CPG220218C00007500,7.5,USD,0.1,0.0,0.0,282,41,0.05,0.15,REGULAR,2022-02-18,2022-01-05 20:34:47,1.140629296875,False

@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+AZN220211P00045000,45.0,USD,0.13,-0.010000005,-7.1428614,2,149,0.0,2.24,REGULAR,2022-02-11,2022-01-05 16:53:53,2.7275422436523433,False
+AZN220211P00050000,50.0,USD,0.21,0.0,0.0,80,110,0.14,2.35,REGULAR,2022-02-11,2022-01-03 15:34:51,1.9521486767578127,False

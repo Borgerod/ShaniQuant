@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+TFX220218C00340000,340.0,USD,12.65,0.0,0.0,2,310,8.6,12.5,REGULAR,2022-02-18,2021-12-28 19:50:25,0.8168963623046874,False

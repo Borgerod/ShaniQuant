@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+SPXU220211C00013000,13.0,USD,0.73,0.27,58.695656,1,210,0.72,0.83,REGULAR,2022-02-11,2022-01-05 20:08:57,1.0000000000000003e-05,True

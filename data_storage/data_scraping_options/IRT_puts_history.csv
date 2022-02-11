@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+IRT220218C00022500,22.5,USD,2.55,0.0,0.0,6,5,1.95,2.5,REGULAR,2022-02-18,2022-01-03 20:43:24,1.23047259765625,True
+IRT220218C00025000,25.0,USD,1.19,0.0,0.0,1,33,0.75,1.0,REGULAR,2022-02-18,2022-01-04 18:12:40,1.0185595947265624,False

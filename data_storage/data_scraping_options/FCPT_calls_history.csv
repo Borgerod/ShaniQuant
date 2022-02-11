@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+FCPT220218C00030000,30.0,USD,0.06,0.0,0.0,2,8,0.0,0.1,REGULAR,2022-02-18,2022-02-04 16:19:07,0.5468795312500001,False

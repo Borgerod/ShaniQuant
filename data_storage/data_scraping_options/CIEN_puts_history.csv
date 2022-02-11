@@ -1,0 +1,3 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+CIEN220211C00080000,80.0,USD,1.7,0.0,0.0,8,4,0.01,2.3,REGULAR,2022-02-11,2021-12-31 17:05:37,2.189457651367187,False
+CIEN220211C00083000,83.0,USD,0.75,0.0,0.0,151,142,0.38,0.87,REGULAR,2022-02-11,2021-12-31 20:13:45,2.0351611621093753,False

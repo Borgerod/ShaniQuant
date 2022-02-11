@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+KEP220218C00007500,7.5,USD,1.75,0.0,0.0,1,1.25,2.0,REGULAR,2022-02-18,2021-12-30 16:36:06,1.5546897265624997,True

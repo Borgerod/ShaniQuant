@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+AVNT220218C00055000,55.0,USD,3.9,0.5,14.705881,4,1,2.85,3.8,REGULAR,2022-02-18,2022-01-05 19:50:04,1.2578162109375,False

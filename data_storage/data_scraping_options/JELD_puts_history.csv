@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+JELD220218C00030000,30.0,USD,0.44,0.0,0.0,8,0.2,0.95,REGULAR,2022-02-18,2021-12-29 15:10:41,1.57422087890625,False

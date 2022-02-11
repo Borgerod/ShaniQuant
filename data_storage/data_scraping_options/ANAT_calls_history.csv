@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+ANAT220218C00190000,190.0,USD,1.55,0.0,0.0,11,23,0.0,0.0,REGULAR,2022-02-18,2022-01-04 14:30:01,0.0039162109375,False

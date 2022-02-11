@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+AWI220218C00115000,115.0,USD,4.74,0.0,0.0,28,2.85,3.4,REGULAR,2022-02-18,2021-12-16 17:01:49,1.3042026977539058,False

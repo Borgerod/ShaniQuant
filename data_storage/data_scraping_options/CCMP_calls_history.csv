@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+CCMP220218C00190000,190.0,USD,6.99,0.0,0.0,1,4.0,6.1,REGULAR,2022-02-18,2021-12-30 16:34:57,0.6049844189453126,False

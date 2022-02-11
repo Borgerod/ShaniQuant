@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+ITW220211C00250000,250.0,USD,5.82,1.4700003,33.79311,2,1,4.9,5.5,REGULAR,2022-02-11,2022-01-05 16:10:05,1.6574724157714846,False

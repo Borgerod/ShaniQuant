@@ -1,0 +1,4 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,volume,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+TAL220211C00004500,4.5,USD,0.15,0.0,0.0,1,24,0.1,0.15,REGULAR,2022-02-11,2022-01-04 16:43:18,3.50000125,False
+TAL220211C00005500,5.5,USD,0.15,0.0,0.0,1,1,0.01,0.1,REGULAR,2022-02-11,2021-12-31 19:49:41,3.81250046875,False
+TAL220211C00006000,6.0,USD,0.12,0.0,0.0,25,25,0.01,0.08,REGULAR,2022-02-11,2021-12-31 20:09:04,4.12500484375,False

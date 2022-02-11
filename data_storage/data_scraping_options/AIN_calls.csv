@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+AIN220218C00090000,90.0,USD,4.93,0.0,0.0,1,0.35,3.3,REGULAR,2022-02-18,2021-12-30 17:44:43,0.6752962158203126,False

@@ -1,0 +1,2 @@
+contractSymbol,strike,currency,lastPrice,change,percentChange,openInterest,bid,ask,contractSize,expiration,lastTradeDate,impliedVolatility,inTheMoney
+LFUS220218C00330000,330.0,USD,5.9,0.0,0.0,1,5.7,9.0,REGULAR,2022-02-18,2021-12-27 16:41:00,1.6330584753417967,False
