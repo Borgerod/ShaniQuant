@@ -11,6 +11,10 @@ import os
 import os.path
 import json
 
+MOREN DIN
+
+
+
 # start = 2019
 # end = 2022
 # cik_input = 1090872
