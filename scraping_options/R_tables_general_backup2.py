@@ -59,24 +59,13 @@ def titles(i):
 	doc_table = soup.find_all('table')
 	# print(soup.prettify)
 
-
+	master_list = []
 	#Finding titles:
 	for row in doc_table[0].find_all('tr')[:1]:
 		# find all the columns
 		cols = row.find_all('th')#, class_='pl')
 		# if there are no columns move on to the next row.
 		file_dict = {}
-		file_dict = {'table_name': [],
-				'title1': [],
-				'title2':[],
-				'title3':[],
-				'title4':[],
-				'title5':[],
-				'title6':[],
-				'title7':[],
-				'title8':[],
-				'title9':[]
-				}
 		if len(cols) != 0:
 			table_name = cols[0].text.strip()
 			table_name_short	= table_name#[:-45]
@@ -85,11 +74,12 @@ def titles(i):
 			print("table_name:   " + table_name_short)
 			for j in range(10):
 				if j < len(cols):
-					title  = cols[1].text.strip()
+					title  = cols[j].text.strip()
 					print("title" + str(j) + ": " + title)
-					file_dict['title'+str(j)].append(title)
+					file_dict['title'+str(j)] = title
 				else:
-					file_dict['title'+str(j)].append("BLANK")
+					file_dict['title'+str(j)] = " "
+		master_list.append(file_dict)
 
 
 
