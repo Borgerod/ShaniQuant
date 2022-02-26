@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action
+2013-01-09 07:58:42,Stifel Nicolaus,Hold,Sell,up
+2013-01-17 08:12:49,Macquarie,Outperform,Neutral,up
+2013-03-07 08:17:14,Macquarie,Neutral,Outperform,down
+2014-08-28 06:13:41,Compass Point,Neutral,,init
+2014-09-26 05:47:44,"Keefe, Bruyette & Woods",Market Perform,Underperform,up
+2014-11-03 18:25:11,Compass Point,Neutral,,main
+2014-11-04 00:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2014-11-04 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-02-11 04:57:25,Keefe Bruyette & Woods,Underperform,Market Perform,down
+2016-02-19 07:05:30,Raymond James,Market Perform,Underperform,up
+2019-10-29 10:40:05,"Keefe, Bruyette & Woods",Market Perform,Outperform,down
+2020-04-03 09:43:19,Raymond James,Underperform,Market Perform,down

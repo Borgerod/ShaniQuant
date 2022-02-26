@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action
+2019-07-22 11:13:04,Piper Jaffray,Overweight,,init
+2019-07-22 11:36:27,Wells Fargo,Market Perform,,init
+2019-07-22 11:45:29,Goldman Sachs,Buy,,init
+2019-07-22 11:45:39,Barclays,Overweight,,init
+2019-07-22 11:55:30,Cantor Fitzgerald,Overweight,,init
+2019-07-22 12:28:28,JP Morgan,Overweight,,init
+2019-07-22 12:30:12,SVB Leerink,Outperform,,init
+2019-07-22 12:30:22,SunTrust Robinson Humphrey,Buy,,init
+2019-07-22 12:31:48,Guggenheim,Buy,,init
+2019-07-22 12:33:11,Cowen & Co.,Outperform,,init
+2019-07-22 12:37:29,Credit Suisse,Outperform,,init
+2019-07-22 13:11:36,William Blair,Outperform,,init
+2019-07-22 14:10:53,Bank of America,Buy,,init
+2019-09-26 13:24:23,Deutsche Bank,Buy,,init
+2019-11-22 12:41:30,RBC Capital,Outperform,,init
+2019-12-20 11:19:14,Raymond James,Outperform,,init
+2020-01-08 15:49:24,Wells Fargo,Equal-Weight,,main
+2020-02-14 13:15:16,Deutsche Bank,Buy,,main
+2020-03-10 09:38:13,Wells Fargo,Overweight,Equal-Weight,up
+2020-03-18 11:25:01,Raymond James,Strong Buy,Outperform,up
+2020-03-18 12:07:28,Credit Suisse,Outperform,,main
+2020-03-26 16:43:46,SunTrust Robinson Humphrey,Buy,,main
+2020-04-09 12:15:43,Barclays,Overweight,,main
+2020-04-13 12:49:05,Credit Suisse,Outperform,,main
+2020-04-13 14:02:05,B of A Securities,Buy,,main
+2020-04-17 16:51:03,Deutsche Bank,Buy,,main
+2020-04-22 15:06:28,SunTrust Robinson Humphrey,Buy,,main
+2020-06-05 13:57:31,SunTrust Robinson Humphrey,Buy,,main
+2020-06-08 12:06:34,Deutsche Bank,Buy,,main
+2020-07-14 12:29:26,Citigroup,Buy,,init
+2020-08-07 09:35:27,SVB Leerink,Outperform,,main
+2020-09-28 14:52:10,Credit Suisse,Outperform,,main
+2020-11-05 16:11:24,Cantor Fitzgerald,Overweight,,main
+2020-11-09 14:27:53,Credit Suisse,Outperform,,main
+2020-12-08 16:26:16,Berenberg,Buy,,init
+2020-12-15 11:29:22,SVB Leerink,Outperform,,main
+2021-01-07 11:35:16,Guggenheim,Neutral,Buy,down
+2021-01-07 11:36:59,Credit Suisse,Neutral,Outperform,down
+2021-01-07 13:44:46,RBC Capital,Sector Perform,Outperform,down
+2021-01-08 12:45:19,Deutsche bank,Hold,Buy,down
+2021-01-08 12:47:53,Cantor Fitzgerald,Neutral,Overweight,down
+2021-01-11 13:03:13,Berenberg,Hold,Buy,down

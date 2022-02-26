@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action
+2019-10-07 10:46:37,William Blair,Outperform,,init
+2019-10-07 10:50:28,Stifel,Buy,,init
+2019-10-07 11:25:47,Credit Suisse,Outperform,,init
+2019-10-07 11:35:18,JP Morgan,Overweight,,init
+2019-10-07 12:39:43,Citi,Buy,,init
+2019-10-07 12:40:25,Loop Capital,Buy,,init
+2019-11-13 13:18:17,Credit Suisse,Outperform,,main
+2019-11-13 14:23:20,Loop Capital,Buy,,main
+2019-11-14 12:31:21,UBS,Buy,,main
+2019-12-18 13:20:52,Goldman Sachs,Neutral,,init
+2020-01-06 14:49:12,Craig-Hallum,Buy,,init
+2020-01-09 16:12:26,Wolfe Research,Underperform,,init
+2020-02-26 13:04:38,JP Morgan,Overweight,,main
+2020-02-26 14:04:29,Jefferies,Hold,Buy,down
+2020-02-26 14:08:37,Credit Suisse,Outperform,,main
+2020-02-26 15:21:36,Stifel,Buy,,main
+2020-02-26 17:42:39,B of A Securities,Buy,,main
+2020-03-02 13:05:10,UBS,Neutral,Buy,down
+2020-05-14 11:30:27,B of A Securities,Underperform,Buy,down
+2020-05-14 13:41:49,JP Morgan,Overweight,,main
+2020-05-20 12:43:35,UBS,Neutral,,main
+2020-06-25 10:01:33,Stephens & Co.,Overweight,,init
+2020-09-09 11:42:01,Wolfe Research,Peer Perform,Underperform,up
+2020-12-08 11:47:57,Wolfe Research,Outperform,Peer Perform,up
+2021-05-11 11:28:07,JP Morgan,Neutral,Overweight,down
+2021-06-23 11:55:43,Loop Capital,Hold,Buy,down
+2021-07-08 10:11:56,BNP Paribas,Underperform,,init
+2021-08-10 09:37:23,JP Morgan,Underweight,Neutral,down
+2021-08-10 10:21:31,William Blair,Market Perform,Outperform,down
+2021-08-10 11:34:32,Stephens & Co.,Equal-Weight,Overweight,down
+2021-08-10 13:14:55,Craig-Hallum,Hold,Buy,down
+2021-08-13 12:20:02,Wolfe Research,Peer Perform,Outperform,down
+2021-09-21 09:20:49,Stifel,Hold,Buy,down
+2021-11-09 13:49:22,Craig-Hallum,Sell,Hold,down
+2022-01-07 16:38:09,Credit Suisse,Outperform,,main
+2022-01-25 13:05:41,Craig-Hallum,Hold,Sell,up
+2022-01-31 13:30:47,Morgan Stanley,Equal-Weight,,init

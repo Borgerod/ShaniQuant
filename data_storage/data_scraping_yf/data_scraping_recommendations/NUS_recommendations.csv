@@ -1,0 +1,83 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-07 08:03:00,Stifel Nicolaus,Buy,,main
+2012-04-12 06:15:00,Deutsche Bank,Buy,,main
+2012-04-26 14:33:00,DA Davidson,Buy,,main
+2012-04-27 07:40:00,Canaccord Genuity,Buy,,main
+2012-04-27 08:45:00,Stifel Nicolaus,Buy,,main
+2012-05-17 08:20:00,Stifel Nicolaus,Buy,,main
+2012-07-27 08:46:00,Stifel Nicolaus,Buy,,main
+2012-11-01 08:21:00,Canaccord Genuity,Buy,,main
+2013-05-03 07:52:37,Deutsche Bank,Buy,,main
+2013-05-03 10:43:11,Stifel Nicolaus,Hold,Buy,down
+2013-07-10 07:12:33,DA Davidson,Buy,,main
+2013-07-10 07:37:56,Deutsche Bank,Buy,,main
+2013-07-10 07:57:16,Canaccord Genuity,Buy,,main
+2013-08-02 07:57:44,Deutsche Bank,Buy,,main
+2013-09-12 13:58:05,DA Davidson,Neutral,Buy,down
+2013-09-27 11:05:06,Sidoti & Co.,Neutral,Buy,down
+2013-10-08 07:58:16,Deutsche Bank,Buy,,main
+2013-10-09 16:00:00,DA Davidson,Buy,Neutral,up
+2013-10-22 08:00:00,Sidoti & Co.,Buy,Neutral,up
+2013-11-22 11:03:19,Deutsche Bank,Buy,,main
+2014-01-16 16:00:00,Canaccord Genuity,Hold,Buy,down
+2014-01-17 06:46:46,Bank of America,Neutral,Buy,down
+2014-03-04 08:00:00,Deutsche Bank,Buy,,main
+2014-05-07 00:13:33,JP Morgan,Overweight,,main
+2014-08-07 06:19:50,JP Morgan,Neutral,Overweight,down
+2014-08-07 16:00:00,Deutsche Bank,Buy,,main
+2014-10-20 08:00:00,Pivotal Research,Buy,,init
+2014-11-06 09:00:00,Canaccord Genuity,Hold,,main
+2014-11-19 06:16:14,BTIG Research,Neutral,,init
+2014-11-25 08:06:08,Citigroup,Neutral,,init
+2014-12-15 09:00:00,Bank of America,Underperform,,main
+2014-12-16 09:00:00,Citigroup,Neutral,,main
+2015-02-06 09:00:00,JP Morgan,Neutral,,main
+2015-02-11 08:25:08,Citigroup,,Neutral,up
+2015-04-10 09:00:00,JP Morgan,Neutral,,main
+2015-05-07 09:00:00,Citigroup,Buy,,main
+2015-07-09 11:00:00,Citigroup,Buy,,main
+2015-08-07 11:00:00,Deutsche Bank,Buy,,main
+2015-08-07 13:17:31,Canaccord Genuity,Hold,,main
+2015-10-07 06:42:33,Stifel Nicolaus,Sell,Hold,down
+2015-10-07 11:00:00,JP Morgan,Neutral,,main
+2016-02-12 08:58:22,Sidoti & Co.,Neutral,Buy,down
+2016-02-12 13:01:58,Stifel Nicolaus,Sell,,main
+2016-04-19 06:19:26,Citigroup,Buy,,main
+2016-06-03 06:14:14,Jefferies,Hold,,init
+2016-07-25 12:47:09,Jefferies,Hold,,main
+2016-08-05 09:25:19,Citigroup,Buy,,main
+2016-08-05 09:36:49,Deutsche Bank,Buy,,main
+2016-08-05 12:09:09,Stifel Nicolaus,Sell,,main
+2016-09-15 07:06:59,Citigroup,Buy,,main
+2016-09-21 07:25:36,Citigroup,Buy,,main
+2016-09-22 08:47:25,Jefferies,Hold,,main
+2017-04-26 15:05:14,Sidoti & Co.,Neutral,Buy,down
+2017-07-10 21:24:32,Bank of America,Underperform,,main
+2018-02-16 18:13:10,Deutsche Bank,Buy,Buy,main
+2018-04-13 11:39:17,Deutsche Bank,Hold,Buy,down
+2018-04-30 12:23:07,Citigroup,Buy,Buy,main
+2018-06-14 11:21:38,Jefferies,Buy,,init
+2018-08-03 11:12:15,Stifel Nicolaus,Hold,Sell,up
+2018-10-09 20:37:39,DA Davidson,Buy,,init
+2019-03-25 11:53:37,Stifel Nicolaus,Sell,Hold,down
+2019-05-01 10:49:46,Deutsche Bank,Buy,Hold,up
+2019-07-17 11:50:06,DA Davidson,Neutral,Buy,down
+2019-07-18 12:42:55,Citigroup,Buy,,main
+2019-10-30 12:51:40,Stifel Nicolaus,Hold,Sell,up
+2019-11-06 14:43:58,Citigroup,Neutral,Buy,down
+2020-02-13 16:44:21,B of A Securities,Underperform,,main
+2020-02-14 12:03:01,Citigroup,Neutral,,main
+2020-03-09 10:50:18,Deutsche Bank,Hold,Buy,down
+2020-05-07 11:53:47,Deutsche Bank,Hold,,main
+2020-05-07 16:46:19,Citigroup,Neutral,,main
+2020-06-11 12:14:13,Stifel,Hold,,main
+2020-07-02 09:30:09,Jefferies,Buy,Hold,up
+2020-07-02 11:16:32,DA Davidson,Buy,Neutral,up
+2020-08-06 14:21:50,Stifel,Hold,,main
+2020-10-02 11:18:17,B of A Securities,Neutral,Underperform,up
+2020-10-02 12:44:54,DA Davidson,Buy,,main
+2021-02-02 16:27:03,Jefferies,Buy,,main
+2021-02-12 16:22:47,DA Davidson,Neutral,Buy,down
+2021-10-06 08:45:13,DA Davidson,Neutral,,main
+2021-11-24 16:08:19,Citigroup,Neutral,,main
+2022-02-17 09:47:33,DA Davidson,Neutral,,main

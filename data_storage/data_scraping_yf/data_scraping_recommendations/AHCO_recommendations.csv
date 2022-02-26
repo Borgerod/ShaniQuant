@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action
+2019-12-10 11:47:54,Deutsche Bank,Buy,,init
+2019-12-11 12:58:32,SVB Leerink,Outperform,,init
+2020-01-07 12:35:20,Jefferies,Buy,,init
+2020-01-31 11:10:43,Stifel Nicolaus,Buy,,init
+2020-02-26 15:04:45,Stifel,Buy,,main
+2020-05-27 12:05:11,Stifel,Buy,,main
+2020-06-09 11:39:30,RBC Capital,Outperform,,init
+2020-07-01 09:21:25,SVB Leerink,Outperform,,init
+2020-07-06 10:22:40,SVB Leerink,Outperform,,main
+2020-08-10 13:56:44,Canaccord Genuity,Buy,,init
+2020-11-05 11:09:38,SVB Leerink,Outperform,,main
+2020-11-05 17:15:26,Canaccord Genuity,Buy,,main
+2020-11-17 11:00:20,Baird,Outperform,,init
+2020-11-19 16:30:49,Canaccord Genuity,Buy,,main
+2020-12-02 11:17:22,SVB Leerink,Outperform,,main
+2020-12-02 15:15:46,Canaccord Genuity,Buy,,main
+2020-12-10 17:35:58,UBS,Buy,,init
+2021-01-26 12:14:23,B of A Securities,Buy,,init
+2021-03-18 12:14:48,Truist Securities,Buy,,init
+2021-04-14 11:58:00,Baird,Neutral,Outperform,down
+2021-07-14 09:56:39,Baird,Outperform,Neutral,up
+2021-09-27 10:03:56,SVB Leerink,Outperform,,init
+2021-11-05 10:23:51,SVB Leerink,Outperform,,main

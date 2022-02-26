@@ -1,0 +1,123 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-10 06:22:00,Morgan Stanley,Equal-Weight,,up
+2012-05-17 06:06:00,Jefferies,Buy,,up
+2013-01-17 06:32:09,JP Morgan,Overweight,Neutral,up
+2013-02-04 09:00:12,MKM Partners,Buy,Neutral,up
+2013-02-06 08:15:42,Jefferies,Buy,,main
+2013-03-19 06:11:50,Goldman Sachs,Neutral,Sell,up
+2013-04-25 12:22:50,Needham,Buy,Hold,up
+2013-06-17 06:40:30,Jefferies,Hold,Buy,down
+2013-07-17 08:23:54,William Blair,Outperform,,init
+2013-12-20 16:00:00,FBR Capital,Outperform,,init
+2014-01-21 16:00:00,Jefferies,Hold,,main
+2014-03-12 08:00:00,Goldman Sachs,Buy,Neutral,up
+2014-03-20 07:16:27,Stifel Nicolaus,Buy,Hold,up
+2014-04-24 03:08:07,Jefferies,Hold,,main
+2014-09-08 06:02:40,Jefferies,Buy,Hold,up
+2014-09-15 08:14:30,Barrington Research,Outperform,,init
+2014-10-23 09:00:00,Jefferies,Buy,,main
+2014-10-23 11:59:35,National Alliance,Buy,Hold,up
+2014-11-10 07:37:45,Stifel Nicolaus,Buy,,main
+2014-12-16 07:55:03,Wedbush,Neutral,,init
+2015-01-06 00:00:00,Needham,Hold,Buy,down
+2015-01-23 09:00:00,Stifel Nicolaus,Buy,,main
+2015-04-02 05:59:03,Goldman Sachs,Neutral,Buy,down
+2015-04-22 09:00:00,Stifel Nicolaus,Buy,,main
+2015-05-12 06:16:53,Deutsche Bank,Buy,,init
+2015-07-23 11:00:00,Jefferies,Buy,,main
+2015-08-18 07:41:57,Northland Securities,Outperform,,init
+2015-09-08 05:50:03,Goldman Sachs,Sell,Neutral,down
+2015-10-08 08:24:01,Needham,Buy,,up
+2015-10-09 04:05:59,Morgan Stanley,Equal-Weight,,init
+2015-12-04 10:44:25,Raymond James,Outperform,,init
+2016-01-11 07:56:16,Wells Fargo,Market Perform,,init
+2016-01-27 06:36:24,Citigroup,Buy,,init
+2016-02-12 11:48:32,Deutsche Bank,Buy,,main
+2016-02-12 13:01:57,Stifel Nicolaus,Buy,,main
+2016-04-08 08:57:10,Drexel Hamilton,Buy,,init
+2016-04-15 06:32:44,Goldman Sachs,Neutral,Sell,up
+2016-04-28 06:03:36,Citigroup,Neutral,Buy,down
+2016-04-28 06:55:10,MKM Partners,Neutral,Buy,down
+2016-06-03 06:23:31,Nomura,Buy,,init
+2016-07-25 06:14:34,Needham,Strong Buy,Buy,up
+2016-07-28 06:02:19,Nomura,Neutral,Buy,down
+2016-07-28 06:16:04,JP Morgan,Neutral,Overweight,down
+2016-07-28 06:51:02,Raymond James,Market Perform,Outperform,down
+2016-07-28 08:22:47,Northland Securities,Market Perform,Outperform,down
+2016-07-28 08:49:30,Jefferies,Hold,Buy,down
+2016-07-28 10:48:44,Citigroup,Neutral,,main
+2016-07-28 11:15:12,Deutsche Bank,Buy,,main
+2016-08-25 04:45:03,Citigroup,Sell,Neutral,down
+2016-09-30 07:16:14,Stifel Nicolaus,Hold,,init
+2017-01-19 14:25:48,PiperJaffray,Neutral,,init
+2017-02-10 11:25:57,Nomura,Buy,Neutral,up
+2017-03-16 13:44:39,Goldman Sachs,Buy,Neutral,up
+2017-05-26 10:47:30,Wells Fargo,Outperform,Market Perform,up
+2017-06-14 12:52:26,MKM Partners,Buy,Neutral,up
+2017-07-18 12:45:11,Craig-Hallum,Buy,,init
+2017-07-21 17:14:02,Citigroup,Sell,,main
+2017-08-07 17:17:25,Deutsche Bank,Buy,,main
+2017-08-18 18:22:08,MKM Partners,Buy,,main
+2017-10-16 14:19:31,Citigroup,Neutral,Sell,up
+2017-11-09 13:13:04,MKM Partners,Neutral,Buy,down
+2017-11-09 14:02:30,Nomura,Buy,,main
+2017-11-10 12:50:18,Citigroup,Neutral,,main
+2018-01-24 13:01:16,Citigroup,Neutral,Neutral,main
+2018-02-08 17:27:33,Northland Securities,Outperform,Market Perform,up
+2018-03-09 13:24:03,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-03-09 13:39:10,Citigroup,Neutral,Neutral,main
+2018-03-19 13:06:58,Northland Securities,Market Perform,Outperform,down
+2018-05-03 12:31:46,JP Morgan,Neutral,,init
+2018-05-05 14:00:37,B. Riley FBR,Buy,,init
+2018-05-05 14:00:37,B. Riley FBR,Neutral,Buy,down
+2018-05-05 14:00:38,B. Riley FBR,Buy,Neutral,up
+2018-05-05 14:00:39,B. Riley FBR,Buy,,main
+2018-05-05 14:00:39,B. Riley FBR,Buy,Buy,main
+2018-05-08 12:37:00,B. Riley FBR,Neutral,Buy,down
+2018-05-10 18:27:22,B. Riley FBR,Neutral,Neutral,main
+2018-05-29 14:51:39,Jefferies,Underperform,Hold,down
+2018-07-24 11:49:28,Raymond James,Underperform,Market Perform,down
+2018-07-24 12:22:36,Northland Securities,Outperform,Market Perform,up
+2018-08-02 13:23:06,B. Riley FBR,Neutral,Neutral,main
+2018-08-08 13:37:46,B. Riley FBR,Neutral,Neutral,main
+2018-10-01 12:34:18,MKM Partners,Sell,Neutral,down
+2018-11-05 16:59:07,B. Riley FBR,Neutral,Neutral,main
+2018-11-07 11:24:08,Nomura,Neutral,Buy,down
+2018-11-09 12:26:49,Jefferies,Hold,Underperform,up
+2018-11-13 11:08:56,Morgan Stanley,Equal-Weight,Overweight,down
+2019-02-25 12:26:11,MKM Partners,Neutral,Sell,up
+2019-03-11 10:50:00,MKM Partners,Buy,Neutral,up
+2019-06-03 10:41:39,JP Morgan,Underweight,Neutral,down
+2019-06-03 12:10:13,JP Morgan,Underweight,Neutral,down
+2019-07-23 10:37:15,B. Riley,Buy,Neutral,up
+2019-08-08 10:54:20,Raymond James,Market Perform,Underperform,up
+2019-09-27 13:55:47,B. Riley,Buy,,main
+2019-10-01 11:54:54,MKM Partners,Buy,,main
+2019-11-07 16:08:38,Jefferies,Underperform,Hold,down
+2019-11-13 11:35:34,JP Morgan,Neutral,Underweight,up
+2019-11-13 14:44:41,Nomura,Neutral,,main
+2020-01-02 12:48:34,Needham,Strong Buy,,reit
+2020-02-24 21:41:10,Needham,Strong Buy,,reit
+2020-02-26 12:13:27,Rosenblatt,Neutral,,main
+2020-02-26 13:03:41,MKM Partners,Buy,,main
+2020-02-26 15:10:06,Stifel,Hold,,main
+2020-03-16 11:21:20,Citigroup,Sell,Neutral,down
+2020-03-30 18:16:48,Nomura,Neutral,,main
+2020-04-02 09:11:18,Piper Sandler,Overweight,Neutral,up
+2020-04-21 11:00:32,Rosenblatt,Neutral,,main
+2020-05-13 11:03:16,B. Riley FBR,Buy,,main
+2020-05-13 14:02:09,Jefferies,Underperform,,main
+2020-05-13 15:31:15,Northland Capital Markets,Market Perform,Outperform,down
+2020-06-19 12:12:55,MKM Partners,Buy,,main
+2020-07-24 16:06:20,Wolfe Research,Underperform,,init
+2020-08-06 09:52:59,Needham,Strong Buy,,main
+2020-08-06 10:12:21,Rosenblatt,Buy,Neutral,up
+2020-08-06 11:13:20,Citigroup,Sell,,main
+2020-08-06 12:59:07,Morgan Stanley,Equal-Weight,,main
+2020-08-17 10:41:34,Stifel,Buy,Hold,up
+2021-02-10 13:14:19,Rosenblatt,Buy,,main
+2021-05-05 13:15:45,Northland Capital Markets,Market Perform,,main
+2021-05-13 10:44:51,Wolfe Research,Peer Perform,Underperform,up
+2021-09-24 11:35:17,MKM Partners,Neutral,Buy,down
+2021-10-18 10:18:04,JP Morgan,Underweight,Neutral,down
+2022-01-24 11:31:41,B. Riley Securities,Buy,Neutral,up

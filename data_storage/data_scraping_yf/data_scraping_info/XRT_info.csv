@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,SPDR S&P Retail ETF
+longName,SPDR S&P Retail ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,XRT
+messageBoardId,finmb_27776413
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.52
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1150675200
+annualReportExpenseRatio,
+totalAssets,704598080
+bookValue,
+fundFamily,SPDR State Street Global Advisors
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0068
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.2994
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Consumer Cyclical
+fiveYearAverageReturn,0.16870001
+phone,866-787-2257
+longBusinessSummary,"In seeking to track the performance of the S&P Retail Select Industry Index (the ""index""), the fund employs a sampling strategy. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the retail segment of the S&P Total Market Index (""S&P TMI"")."
+companyOfficers,[]
+previousClose,81.66
+regularMarketOpen,81.15
+twoHundredDayAverage,92.61955
+trailingAnnualDividendYield,0.007959832
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,81.45
+navPrice,90.88
+averageDailyVolume10Day,5726290
+regularMarketPreviousClose,81.66
+fiftyDayAverage,85.3276
+trailingAnnualDividendRate,0.65
+open,81.15
+toCurrency,
+averageVolume10days,5726290
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,79.79
+currency,USD
+trailingPE,5.6533017
+regularMarketVolume,4789689
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,4781508
+dayLow,79.79
+ask,89.5
+askSize,800
+volume,4789689
+fiftyTwoWeekHigh,104.31
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,74.38
+bid,80.07
+tradeable,False
+dividendYield,
+bidSize,900
+dayHigh,81.45
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0.75}, {'basic_materials': 0}, {'consumer_defensive': 0.1528}, {'technology': 0.0202}, {'communication_services': 0.0417}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0.0084}, {'energy': 0}, {'healthcare': 0.026800001}]"
+holdings,"[{'symbol': 'ETSY', 'holdingName': 'Etsy Inc', 'holdingPercent': 0.0125}, {'symbol': 'BKE', 'holdingName': 'Buckle Inc', 'holdingPercent': 0.0123000005}, {'symbol': 'RVLV', 'holdingName': 'Revolve Group Inc Class A', 'holdingPercent': 0.0121}, {'symbol': 'DASH', 'holdingName': 'DoorDash Inc Ordinary Shares - Class A', 'holdingPercent': 0.0117}, {'symbol': 'BOOT', 'holdingName': 'Boot Barn Holdings Inc', 'holdingPercent': 0.0112}, {'symbol': 'KMX', 'holdingName': 'CarMax Inc', 'holdingPercent': 0.0111}, {'symbol': 'CVNA', 'holdingName': 'Carvana Co Class A', 'holdingPercent': 0.0111}, {'symbol': 'AEO', 'holdingName': 'American Eagle Outfitters Inc', 'holdingPercent': 0.011}, {'symbol': 'PRTS', 'holdingName': 'CarParts.com Inc', 'holdingPercent': 0.011}, {'symbol': 'SIG', 'holdingName': 'Signet Jewelers Ltd', 'holdingPercent': 0.0109}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 7.09, 'priceToSales': 0.59, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 15.63, 'priceToBook': 3.94, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9994
+regularMarketPrice,80.65
+preMarketPrice,82
+logo_url,

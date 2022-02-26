@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action
+2021-03-16 10:23:27,Stifel,Buy,,init
+2021-04-05 10:31:25,B of A Securities,Buy,,init
+2021-04-05 10:37:17,Goldman Sachs,Buy,,init
+2021-04-05 11:18:55,Truist Securities,Buy,,init
+2021-04-05 11:22:37,Morgan Stanley,Overweight,,init
+2021-05-04 12:55:35,JP Morgan,Overweight,,init
+2021-05-07 14:53:51,LightShed Partners,Buy,,init
+2021-05-11 14:11:52,Morgan Stanley,Overweight,,main
+2021-06-01 12:16:18,Truist Securities,Buy,,main
+2021-06-30 10:33:05,Citic Securities,Overweight,,init
+2021-07-13 11:13:22,Benchmark,Sell,,init
+2021-08-18 11:49:03,Morgan Stanley,Overweight,,main
+2021-08-26 09:42:49,Jefferies,Hold,,init
+2021-09-20 13:17:35,Jefferies,Hold,,main
+2021-10-27 09:08:00,BTIG,Buy,,init
+2021-11-18 14:31:57,Morgan Stanley,Overweight,,main
+2021-12-08 09:58:50,Keybanc,Sector Weight,,init
+2021-12-17 11:14:47,Needham,Buy,,init
+2022-01-19 14:11:53,Morgan Stanley,Overweight,,main
+2022-02-17 10:35:24,Needham,Buy,,main
+2022-02-17 11:15:07,BTIG,Buy,,main
+2022-02-17 11:29:58,Goldman Sachs,Buy,,main
+2022-02-17 11:52:24,Stifel,Buy,,main
+2022-02-17 14:03:46,Truist Securities,Buy,,main

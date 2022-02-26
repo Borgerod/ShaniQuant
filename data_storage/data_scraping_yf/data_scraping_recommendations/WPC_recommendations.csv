@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action
+2013-05-06 09:31:56,Evercore Partners,Overweight,,init
+2013-06-19 08:44:23,Ladenburg Thalmann,Buy,Neutral,up
+2013-09-11 08:43:53,BMO Capital,Outperform,,init
+2014-04-03 08:00:00,Capital One Financial,Equal-Weight,,init
+2014-10-10 08:30:00,Bank of America,Neutral,,init
+2014-12-03 00:00:00,Citigroup,Neutral,,init
+2015-02-18 06:15:11,Wells Fargo,Market Perform,,init
+2015-06-04 10:41:50,Capital One Financial,Overweight,,up
+2015-06-25 09:12:29,Bank of America,Underperform,Neutral,down
+2015-08-05 07:20:05,BMO Capital,Market Perform,Outperform,down
+2015-11-05 08:10:52,Evercore ISI Group,Hold,Buy,down
+2015-12-11 06:40:19,Citigroup,Sell,Neutral,down
+2016-02-11 06:30:09,Capital One Financial,Equal-Weight,Overweight,down
+2016-07-07 13:17:57,Citigroup,Sell,,main
+2017-04-03 13:31:26,Evercore ISI Group,In-Line,Outperform,down
+2017-06-12 11:28:03,Evercore ISI Group,Underperform,In-Line,down
+2017-08-14 11:48:14,Evercore ISI Group,In-Line,Underperform,up
+2017-10-18 19:06:12,Baird,Outperform,,init
+2017-12-11 14:18:50,Evercore ISI Group,Underperform,In-Line,down
+2018-06-14 11:08:52,Wells Fargo,Market Perform,Market Perform,main
+2018-08-13 14:20:30,Bank of America,Underperform,Underperform,main
+2018-12-19 12:31:04,JP Morgan,Neutral,,init
+2019-03-26 11:50:23,Mitsubishi UFJ,Neutral,,init
+2019-06-07 12:07:15,Citigroup,Neutral,Sell,up
+2019-10-25 11:15:38,BMO Capital,Outperform,,init
+2019-11-11 12:01:10,Evercore ISI Group,In-Line,Underperform,up
+2019-12-10 12:21:21,Wells Fargo,Outperform,Market Perform,up
+2020-03-02 13:11:22,Citigroup,Neutral,,main
+2020-04-02 12:57:05,Wells Fargo,Overweight,,main
+2020-04-07 20:14:21,Citigroup,Neutral,,main
+2020-06-10 11:56:57,Wells Fargo,Overweight,,main
+2021-04-07 11:54:41,B of A Securities,Underperform,Buy,down
+2021-06-15 15:51:46,JP Morgan,Overweight,Neutral,up
+2021-06-23 11:41:09,Wells Fargo,Overweight,,main
+2021-09-17 15:50:20,RBC Capital,Outperform,,init
+2021-11-01 12:47:46,RBC Capital,Outperform,,main
+2022-01-20 14:47:01,B of A Securities,Neutral,Underperform,up

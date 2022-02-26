@@ -1,0 +1,59 @@
+Date,Firm,To Grade,From Grade,Action
+2015-10-27 05:17:14,Barclays,Overweight,,init
+2015-10-27 05:27:53,Credit Suisse,Outperform,,init
+2015-10-27 06:26:20,BB&T Capital,Buy,,init
+2015-10-27 11:16:21,Morgan Stanley,Equal-Weight,,init
+2016-02-04 12:12:12,Barclays,Overweight,,main
+2016-09-23 06:06:06,Barclays,Overweight,,init
+2016-10-13 11:33:49,BMO Capital,Outperform,,init
+2016-12-09 13:57:11,Goldman Sachs,Buy,,init
+2017-01-24 12:58:19,Barclays,Equal-Weight,Overweight,down
+2017-01-24 21:37:48,RBC Capital,Sector Perform,,init
+2017-01-25 13:37:57,RBC Capital,Sector Perform,,init
+2017-05-16 12:17:52,Loop Capital,Buy,,init
+2017-09-13 16:15:31,Morgan Stanley,Equal-Weight,,main
+2017-09-13 16:40:06,BMO Capital,Outperform,,main
+2017-11-03 11:46:33,Wells Fargo,Outperform,Market Perform,up
+2017-11-09 18:30:20,Morgan Stanley,Equal-Weight,,main
+2018-04-18 09:54:49,Credit Suisse,Outperform,,init
+2018-06-08 16:40:20,Jefferies,Hold,,init
+2018-08-10 14:22:28,RBC Capital,Sector Perform,Sector Perform,main
+2018-08-16 11:48:39,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-08-16 13:54:00,BMO Capital,Outperform,Outperform,main
+2018-10-23 10:47:51,Buckingham,Buy,,init
+2018-12-21 13:42:21,Citigroup,Buy,,init
+2019-04-17 12:16:44,Bank of America,Buy,,init
+2019-07-30 11:50:13,Wells Fargo,Outperform,,main
+2019-08-15 12:04:44,Buckingham Research,Buy,,main
+2019-10-02 15:35:25,Bank of America,Buy,,main
+2019-11-07 13:52:14,Buckingham,Buy,,main
+2019-11-07 17:17:15,Barclays,Equal-Weight,,main
+2019-12-23 12:50:34,Wells Fargo,Overweight,,main
+2020-02-06 14:02:20,Buckingham,Buy,,main
+2020-03-16 13:05:50,Wells Fargo,Overweight,,main
+2020-03-26 10:05:11,Jefferies,Buy,Hold,up
+2020-04-23 10:31:13,BMO Capital,Market Perform,Outperform,down
+2020-05-05 15:20:12,Guggenheim,Buy,,main
+2020-08-13 13:47:57,BTIG,Buy,,main
+2020-09-21 13:10:30,Credit Suisse,Outperform,,main
+2020-09-23 12:11:56,Wolfe Research,Outperform,,init
+2020-09-29 10:08:46,Morgan Stanley,Overweight,,init
+2020-11-05 13:25:41,Morgan Stanley,Overweight,,main
+2020-11-05 14:30:15,Credit Suisse,Outperform,,main
+2020-11-05 16:05:39,BTIG,Buy,,main
+2020-11-10 12:45:35,BMO Capital,Outperform,Market Perform,up
+2021-01-06 12:26:31,Barclays,Overweight,Equal-Weight,up
+2021-01-19 14:42:35,Morgan Stanley,Overweight,,main
+2021-01-27 11:32:09,Wells Fargo,Overweight,,main
+2021-02-04 14:05:48,Morgan Stanley,Overweight,,main
+2021-02-04 14:11:44,Credit Suisse,Outperform,,main
+2021-04-09 10:18:24,Piper Sandler,Overweight,,init
+2021-04-12 14:34:32,Morgan Stanley,Overweight,,main
+2021-07-29 10:12:41,UBS,Buy,,init
+2021-08-20 11:11:33,BTIG,Neutral,Buy,down
+2021-08-20 13:09:18,Credit Suisse,Outperform,,main
+2021-09-17 11:10:21,BMO Capital,Outperform,,main
+2021-11-11 12:52:40,Credit Suisse,Outperform,,main
+2021-12-15 13:17:36,Barclays,Overweight,,main
+2022-02-01 12:04:56,Truist Securities,Buy,,init
+2022-02-10 13:57:19,Morgan Stanley,Overweight,,main

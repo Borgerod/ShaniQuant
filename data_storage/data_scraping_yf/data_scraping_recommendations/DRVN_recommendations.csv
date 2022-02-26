@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action
+2021-02-09 11:02:14,Goldman Sachs,Neutral,,init
+2021-02-09 11:03:45,Baird,Outperform,,init
+2021-02-09 11:24:17,B of A Securities,Buy,,init
+2021-02-09 11:35:11,JP Morgan,Overweight,,init
+2021-02-09 12:35:23,Barclays,Equal-Weight,,init
+2021-02-09 12:36:40,Morgan Stanley,Equal-Weight,,init
+2021-02-09 12:38:21,Piper Sandler,Overweight,,init
+2021-02-09 14:29:00,William Blair,Outperform,,init
+2021-04-29 11:59:09,Morgan Stanley,Equal-Weight,,main
+2021-06-29 08:54:28,Stifel,Buy,,init
+2021-07-29 11:20:55,Credit Suisse,Outperform,,main
+2021-08-02 12:55:28,Morgan Stanley,Equal-Weight,,main
+2021-10-29 10:47:12,Morgan Stanley,Overweight,Equal-Weight,up

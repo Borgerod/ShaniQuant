@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action
+2019-02-25 12:43:55,Citigroup,Buy,,init
+2019-02-25 12:45:30,Stifel Nicolaus,Buy,,init
+2019-02-25 12:53:36,Morgan Stanley,Overweight,,init
+2019-05-16 11:30:26,JMP Securities,Market Outperform,,main
+2019-09-30 11:30:16,Citigroup,Buy,,main
+2019-09-30 11:45:41,Citi,Buy,,main
+2019-10-02 10:51:35,BTIG,Buy,,init
+2020-05-08 12:06:07,Citigroup,Buy,,main
+2020-06-17 10:21:13,Johnson Rice,Buy,,init
+2020-07-22 11:09:44,ScotiaBank,Sector Outperform,,init
+2020-08-04 12:36:08,Morgan Stanley,Overweight,,main
+2020-08-05 13:44:32,ScotiaBank,Sector Outperform,,main
+2020-08-26 11:03:20,Fearnleys,Buy,,init
+2020-09-08 12:24:39,Credit Suisse,Neutral,,main
+2020-10-28 10:10:44,Stifel,Hold,Buy,down
+2020-11-02 13:51:23,Morgan Stanley,Overweight,,main
+2020-11-10 14:21:19,Credit Suisse,Neutral,,main
+2021-01-26 14:17:38,Credit Suisse,Neutral,,main
+2021-03-16 10:24:41,Stifel,Buy,Hold,up
+2021-06-02 13:41:24,Credit Suisse,Neutral,,main
+2021-07-22 11:57:03,Barclays,Equal-Weight,,main
+2021-08-19 09:11:29,Credit Suisse,Outperform,Neutral,up
+2021-08-23 13:25:31,Morgan Stanley,Overweight,,main
+2021-10-04 11:52:47,Barclays,Equal-Weight,,main
+2021-10-19 12:24:04,Barclays,Equal-Weight,,main
+2022-02-16 13:39:54,Morgan Stanley,Overweight,,main

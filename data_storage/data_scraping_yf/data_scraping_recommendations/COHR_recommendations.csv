@@ -1,0 +1,55 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-02 08:22:00,Stifel Nicolaus,Buy,,main
+2012-11-01 08:17:00,Stifel Nicolaus,Buy,,main
+2012-11-01 10:56:00,Needham,Hold,Buy,down
+2013-01-07 08:25:01,Stifel Nicolaus,Buy,,main
+2013-01-25 09:24:50,Noble Financial,Buy,Hold,up
+2013-04-25 12:18:15,Needham,Buy,Hold,up
+2013-10-21 08:48:36,Stifel Nicolaus,Buy,,main
+2013-10-31 08:27:48,Stifel Nicolaus,Buy,,main
+2014-01-06 07:24:31,Stifel Nicolaus,Buy,,main
+2014-11-05 05:45:21,Longbow Research,Hold,Buy,down
+2015-06-02 07:03:02,Benchmark,Buy,,init
+2015-06-15 09:46:11,Sidoti & Co.,Buy,,init
+2015-07-31 14:12:40,Stifel Nicolaus,Buy,,main
+2016-03-07 07:48:18,Stifel Nicolaus,Buy,,main
+2016-07-28 11:59:44,Stifel Nicolaus,Buy,,main
+2016-10-25 14:07:00,Northcoast Research,Buy,,init
+2017-02-15 11:31:20,Susquehanna,Neutral,,init
+2017-08-03 19:01:42,Susquehanna,Positive,Neutral,up
+2017-11-08 12:41:05,Stifel Nicolaus,Buy,,main
+2017-11-08 16:31:19,Barclays,Overweight,,main
+2018-02-08 13:39:54,Barclays,Overweight,Overweight,main
+2018-02-08 14:42:00,Stifel Nicolaus,Buy,Buy,main
+2018-05-02 12:23:41,Barclays,Overweight,Overweight,main
+2018-05-05 14:00:36,B. Riley FBR,Neutral,Buy,down
+2018-05-05 14:00:36,B. Riley FBR,Neutral,,main
+2018-05-05 14:00:36,B. Riley FBR,Neutral,,main
+2018-05-05 14:00:36,B. Riley FBR,Neutral,,main
+2018-05-05 14:00:36,B. Riley FBR,Buy,Neutral,up
+2018-07-27 13:02:59,Stifel Nicolaus,Buy,Buy,main
+2018-08-01 11:36:41,Stifel Nicolaus,Buy,Buy,main
+2018-10-09 14:50:31,Longbow Research,Neutral,Buy,down
+2018-10-23 13:39:18,Barclays,Overweight,Overweight,main
+2018-12-11 14:11:47,Goldman Sachs,Neutral,,init
+2019-01-17 13:47:57,Barclays,Equal-Weight,Overweight,down
+2019-01-30 13:24:51,Needham,Hold,Buy,down
+2019-04-29 12:44:36,Susquehanna,Neutral,Positive,down
+2019-05-01 15:09:10,Stifel Nicolaus,Buy,Buy,main
+2019-09-17 11:54:13,Benchmark,Buy,,main
+2019-12-16 13:14:50,Susquehanna,Positive,Neutral,up
+2019-12-20 11:21:09,PiperJaffray,Overweight,,init
+2020-02-06 17:10:24,Barclays,Equal-Weight,,main
+2020-04-17 17:52:26,Barclays,Equal-Weight,,main
+2020-04-24 10:37:21,Goldman Sachs,Buy,Neutral,up
+2020-05-28 13:24:13,Benchmark,Buy,,main
+2020-05-28 13:33:53,Stifel,Buy,,main
+2020-05-28 15:44:50,Piper Sandler,Overweight,,main
+2020-07-27 10:25:34,Longbow Research,Buy,Neutral,up
+2020-08-05 12:23:20,Benchmark,Buy,,main
+2020-11-11 12:35:21,Stifel,Hold,Buy,down
+2020-11-12 12:36:19,Longbow Research,Neutral,Buy,down
+2021-01-12 12:53:18,Barclays,Underweight,Equal-Weight,down
+2021-01-21 15:43:38,Berenberg,Hold,Buy,down
+2021-02-11 12:53:14,Benchmark,Hold,Buy,down
+2021-09-22 09:00:07,Susquehanna,Neutral,Positive,down

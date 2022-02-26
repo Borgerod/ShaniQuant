@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action
+2021-04-05 10:32:55,Mizuho,Neutral,,init
+2021-04-05 10:39:16,Goldman Sachs,Buy,,init
+2021-04-05 11:20:04,Deutsche Bank,Hold,,init
+2021-04-06 12:18:51,JP Morgan,Neutral,,init
+2021-04-06 13:58:29,Credit Suisse,Neutral,,init
+2021-04-07 16:10:17,JP Morgan,Neutral,,init
+2021-05-13 10:40:01,Deutsche Bank,Buy,Hold,up
+2021-07-09 10:25:20,CLSA,Outperform,,init
+2021-07-14 14:06:01,Deutsche Bank,Hold,Buy,down
+2021-08-12 10:11:06,Deutsche Bank,Buy,Hold,up
+2021-08-26 11:41:10,Daiwa Capital,Buy,Outperform,up

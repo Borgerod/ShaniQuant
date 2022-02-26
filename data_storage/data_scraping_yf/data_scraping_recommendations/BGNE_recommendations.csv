@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action
+2016-02-29 05:08:45,Goldman Sachs,Buy,,init
+2016-02-29 05:08:55,Baird,Outperform,,init
+2016-02-29 05:38:52,Cowen & Co.,Outperform,,init
+2016-02-29 09:03:54,Morgan Stanley,Overweight,,init
+2016-09-22 07:17:32,Maxim Group,Buy,,init
+2017-08-07 12:11:29,Ladenburg Thalmann,Buy,,init
+2017-10-06 19:39:25,Morgan Stanley,Overweight,,main
+2017-11-14 13:51:24,Baird,Neutral,Outperform,down
+2018-03-21 13:27:16,Morgan Stanley,Overweight,Overweight,main
+2018-04-13 11:59:19,PiperJaffray,Overweight,,init
+2018-09-25 12:49:16,Leerink Swann,Outperform,,init
+2018-11-21 12:26:01,JP Morgan,Overweight,,init
+2019-05-14 12:04:09,Morgan Stanley,Overweight,,main
+2019-07-15 13:34:07,Morgan Stanley,Overweight,,main
+2019-08-12 13:18:18,Morgan Stanley,Overweight,,main
+2019-10-11 12:42:22,Morgan Stanley,Overweight,,main
+2019-11-04 13:11:44,JP Morgan,Overweight,,main
+2019-11-04 14:15:13,Maxim Group,Buy,,main
+2019-11-13 15:03:59,Cowen & Co.,Outperform,,main
+2019-11-13 17:14:10,CLSA,Outperform,Buy,down
+2019-11-15 12:52:29,Guggenheim,Buy,,main
+2019-11-18 14:14:17,Bank of America,Buy,,reit
+2019-12-16 18:01:42,PiperJaffray,Neutral,Overweight,down
+2019-12-16 18:17:19,Guggenheim,Neutral,Buy,down
+2020-03-03 16:17:22,Maxim Group,Buy,,main
+2020-04-15 12:50:15,Morgan Stanley,Overweight,,main
+2020-05-28 12:03:15,Morgan Stanley,Overweight,,main
+2020-06-03 15:13:31,SVB Leerink,Outperform,,main
+2020-08-10 12:42:42,Morgan Stanley,Overweight,,main
+2020-10-13 12:26:00,Morgan Stanley,Overweight,,main
+2020-11-06 11:07:52,Piper Sandler,Underweight,Neutral,down
+2020-11-06 15:38:47,SVB Leerink,Outperform,,main
+2020-11-11 12:47:31,Morgan Stanley,Overweight,,main
+2020-11-19 11:34:37,SVB Leerink,Outperform,,main
+2020-12-08 15:53:36,Ladenburg Thalmann,Buy,Neutral,up
+2021-01-19 14:05:52,Morgan Stanley,Overweight,,main
+2021-02-18 16:51:30,Cowen & Co.,Outperform,,main
+2021-05-10 11:47:45,Morgan Stanley,Overweight,,main
+2021-06-03 11:59:03,Morgan Stanley,Overweight,,main
+2021-06-14 11:16:55,SVB Leerink,Outperform,,main
+2021-08-16 12:29:41,Morgan Stanley,Overweight,,main
+2021-10-12 10:44:28,Bernstein,Outperform,,init
+2021-10-14 10:25:39,SVB Leerink,Outperform,,main
+2022-01-18 13:58:23,Morgan Stanley,Overweight,,main

@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action
+2015-08-28 07:30:36,Baird,Outperform,,init
+2015-09-18 07:36:58,JMP Securities,Market Outperform,,init
+2015-12-16 05:39:11,Canaccord Genuity,Buy,,init
+2016-01-07 07:04:11,Baird,Neutral,Outperform,down
+2016-01-08 08:11:39,BB&T Capital,Hold,,init
+2016-01-19 07:53:50,Ladenburg Thalmann,Sell,Neutral,down
+2016-11-29 10:58:12,Baird,Outperform,Neutral,up
+2017-03-03 13:31:46,Canaccord Genuity,Hold,Buy,down
+2017-05-03 13:53:26,Wells Fargo,Market Perform,,init
+2017-08-11 18:57:38,Canaccord Genuity,Hold,,main
+2018-01-12 18:47:05,KeyBanc,Sector Weight,,init
+2018-01-31 17:08:39,Barclays,Equal-Weight,,init
+2018-02-27 19:33:31,Barclays,Equal-Weight,Equal-Weight,main
+2018-08-08 12:29:11,B. Riley FBR,Buy,Neutral,up
+2019-08-12 10:14:42,Barclays,Overweight,Equal-Weight,up
+2019-11-07 12:50:09,Wells Fargo,Market Perform,,main
+2019-12-16 13:08:42,Janney Capital,Buy,,init
+2020-02-27 12:11:12,B. Riley FBR,Buy,,main
+2020-03-09 16:13:50,Capital One,Overweight,Equal-Weight,up
+2020-03-17 09:44:34,Barclays,Equal-Weight,Overweight,down
+2020-03-23 10:53:56,B. Riley FBR,Buy,,main
+2020-07-22 13:58:05,Wells Fargo,Equal-Weight,,main
+2020-10-05 09:33:39,Compass Point,Buy,,init
+2020-11-16 16:49:01,Wells Fargo,Equal-Weight,,main
+2020-12-02 16:06:53,B. Riley FBR,Neutral,Buy,down
+2021-04-28 11:12:11,Barclays,Equal-Weight,,main
+2021-06-04 11:04:37,Barclays,Equal-Weight,,main
+2021-09-01 13:29:01,Barclays,Overweight,Equal-Weight,up
+2021-10-18 12:25:57,Wells Fargo,Underweight,Equal-Weight,down

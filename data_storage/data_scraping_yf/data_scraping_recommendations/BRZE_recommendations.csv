@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action
+2021-12-13 09:36:17,Piper Sandler,Overweight,,init
+2021-12-13 10:33:27,JP Morgan,Overweight,,init
+2021-12-13 10:37:38,Oppenheimer,Outperform,,init
+2021-12-13 11:13:42,Needham,Buy,,init
+2021-12-13 11:30:30,Cowen & Co.,Outperform,,init
+2021-12-13 11:49:29,Goldman Sachs,Buy,,init
+2021-12-13 11:57:14,JMP Securities,Market Outperform,,init
+2021-12-13 12:02:41,Raymond James,Outperform,,init
+2021-12-13 12:28:02,Canaccord Genuity,Buy,,init
+2021-12-13 13:10:56,William Blair,Outperform,,init
+2021-12-13 13:20:44,Barclays,Overweight,,init
+2021-12-13 14:59:57,Loop Capital,Buy,,init
+2021-12-14 12:06:22,Barclays,Overweight,,init
+2021-12-21 12:13:04,JMP Securities,Market Outperform,,main

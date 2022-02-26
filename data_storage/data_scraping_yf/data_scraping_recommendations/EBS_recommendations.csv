@@ -1,0 +1,36 @@
+Date,Firm,To Grade,From Grade,Action
+2013-04-10 16:32:53,Janney Capital,Buy,,init
+2014-02-17 20:38:46,JP Morgan,Overweight,,main
+2014-05-15 09:45:59,Summer Street,Buy,,init
+2015-01-12 09:00:00,JP Morgan,Overweight,,main
+2015-08-07 11:00:00,JP Morgan,Overweight,,main
+2016-02-19 08:39:46,Wells Fargo,Outperform,,init
+2016-03-28 14:43:34,Singular Research,Buy,,init
+2016-04-15 05:56:37,Chardan Capital,Buy,,init
+2016-08-05 11:25:04,JP Morgan,Overweight,,main
+2018-01-24 13:28:02,Goldman Sachs,Neutral,,init
+2018-02-27 10:53:00,Singular Research,Buy,Buy,main
+2018-04-25 11:54:39,Wells Fargo,Market Perform,Outperform,down
+2018-06-12 10:31:55,Cantor Fitzgerald,Overweight,,init
+2018-06-13 12:04:34,Argus,Buy,,init
+2018-08-30 11:53:27,Wells Fargo,Market Perform,Market Perform,main
+2018-09-04 10:15:38,Chardan Capital,Buy,Buy,main
+2018-11-02 11:20:59,Goldman Sachs,Buy,Neutral,up
+2018-11-02 14:38:51,Cantor Fitzgerald,Overweight,Overweight,main
+2019-09-04 10:17:25,Wells Fargo,Outperform,Market Perform,up
+2019-09-12 11:21:19,Guggenheim,Buy,,init
+2020-02-25 13:05:01,Wells Fargo,Overweight,,main
+2020-04-30 15:22:09,Wells Fargo,Overweight,,main
+2020-05-01 13:24:48,Chardan Capital,Buy,,main
+2020-05-01 14:00:20,Cantor Fitzgerald,Overweight,,main
+2020-05-06 13:24:47,Argus Research,Buy,,main
+2020-06-08 12:54:48,Cantor Fitzgerald,Overweight,,main
+2020-07-31 11:47:36,Chardan Capital,Buy,,main
+2021-01-08 12:55:17,Wells Fargo,Equal-Weight,Overweight,down
+2021-02-19 13:05:50,Chardan Capital,Neutral,Buy,down
+2021-02-24 12:21:07,Chardan Capital,Buy,Neutral,up
+2021-04-07 11:37:20,Benchmark,Buy,,init
+2021-04-30 14:26:43,Chardan Capital,Buy,,main
+2021-05-05 12:54:42,Argus Research,Hold,Buy,down
+2021-11-08 11:51:37,Benchmark,Hold,Buy,down
+2021-11-10 13:22:39,Chardan Capital,Buy,,main

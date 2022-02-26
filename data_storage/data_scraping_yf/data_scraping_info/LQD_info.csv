@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,iShares iBoxx $ Investment Grad
+longName,iShares iBoxx $ Investment Grade Corporate Bond ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,LQD
+messageBoardId,finmb_8797348
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.78
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1027296000
+annualReportExpenseRatio,
+totalAssets,38988427264
+bookValue,
+fundFamily,iShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0248
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.0794
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Corporate Bond
+fiveYearAverageReturn,0.052699998
+phone,800-474-2737
+longBusinessSummary,The fund generally invests at least 90% of its assets in component securities of the underlying index and at least 95% of its assets in investment-grade corporate bonds. The underlying index is designed to provide a broad representation of the U.S. dollar-denominated liquid investment-grade corporate bond market.
+companyOfficers,[]
+previousClose,123.38
+regularMarketOpen,123.76
+twoHundredDayAverage,132.56825
+trailingAnnualDividendYield,0.029202463
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,124.14
+navPrice,130.95
+averageDailyVolume10Day,22487060
+regularMarketPreviousClose,123.38
+fiftyDayAverage,129.1246
+trailingAnnualDividendRate,3.603
+open,123.76
+toCurrency,
+averageVolume10days,22487060
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,123.26
+currency,USD
+trailingPE,13.33046
+regularMarketVolume,19233798
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,17341664
+dayLow,123.26
+ask,124.66
+askSize,1100
+volume,19233798
+fiftyTwoWeekHigh,136.78
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,122.62
+bid,123.02
+tradeable,False
+dividendYield,
+bidSize,3000
+dayHigh,124.14
+preferredPosition,
+bondPosition,0.9547
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'XTSLA', 'holdingName': 'BlackRock Cash Funds Treasury SL Agency', 'holdingPercent': 0.0109}, {'symbol': '', 'holdingName': 'GE Capital International Funding Company Unlimited Company 4.42%', 'holdingPercent': 0.0034}, {'symbol': '', 'holdingName': 'Anheuser-Busch Companies LLC / Anheuser-Busch InBev Worldwide Inc 4.9%', 'holdingPercent': 0.003}, {'symbol': '', 'holdingName': 'CVS Health Corp 5.05%', 'holdingPercent': 0.0026}, {'symbol': '', 'holdingName': 'Goldman Sachs Group, Inc. 6.75%', 'holdingPercent': 0.0022}, {'symbol': '', 'holdingName': 'CVS Health Corp 4.3%', 'holdingPercent': 0.0021}, {'symbol': '', 'holdingName': 'T-Mobile USA, Inc. 3.88%', 'holdingPercent': 0.0021}, {'symbol': '', 'holdingName': 'AT&T Inc 3.5%', 'holdingPercent': 0.002}, {'symbol': '', 'holdingName': 'AT&T Inc 3.55%', 'holdingPercent': 0.0019}, {'symbol': '', 'holdingName': 'Wells Fargo & Company 5.01%', 'holdingPercent': 0.0019}]"
+bondHoldings,"{'maturity': 13.76, 'duration': 9.65, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0.0005}, {'aa': 0.0849}, {'aaa': 0.027}, {'a': 0.3797}, {'other': -0.0013}, {'b': 0}, {'bbb': 0.5092}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0
+regularMarketPrice,123.68
+preMarketPrice,
+logo_url,

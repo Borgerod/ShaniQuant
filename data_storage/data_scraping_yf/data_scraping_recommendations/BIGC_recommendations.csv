@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action
+2020-08-31 08:40:29,KeyBanc,Sector Weight,,init
+2020-08-31 09:45:39,Jefferies,Hold,,init
+2020-08-31 09:46:49,Morgan Stanley,Underweight,,init
+2020-08-31 09:48:36,Barclays,Equal-Weight,,init
+2020-08-31 11:33:07,Canaccord Genuity,Hold,,init
+2020-08-31 11:34:51,Raymond James,Market Perform,,init
+2020-08-31 15:41:15,Truist Securities,Hold,,init
+2020-08-31 16:18:10,Needham,Buy,,init
+2020-09-10 11:14:24,Canaccord Genuity,Hold,,main
+2020-09-10 11:44:58,Morgan Stanley,Underweight,,main
+2020-09-10 12:56:09,Barclays,Equal-Weight,,main
+2020-10-23 10:04:57,Wedbush,Neutral,,init
+2020-11-06 16:15:11,Morgan Stanley,Underweight,,main
+2020-11-13 12:23:46,Citigroup,Sell,,init
+2020-11-16 12:33:11,Stifel,Buy,,init
+2020-11-18 09:47:34,Piper Sandler,Overweight,,init
+2021-01-12 15:52:07,William Blair,Market Perform,,init
+2021-02-23 10:35:14,Needham,Buy,,main
+2021-02-24 10:01:21,KeyBanc,Overweight,Sector Weight,up
+2021-03-15 12:37:41,JP Morgan,Neutral,,init
+2021-05-12 10:59:43,Morgan Stanley,Equal-Weight,Underweight,up
+2021-05-12 11:01:20,Needham,Buy,,main
+2021-05-12 12:07:39,Guggenheim,Neutral,Sell,up
+2021-05-12 15:20:33,Canaccord Genuity,Hold,,main
+2021-05-13 14:15:14,Truist Securities,Buy,,main
+2021-07-23 13:05:46,Barclays,Equal-Weight,,main
+2021-07-28 10:07:38,Needham,Buy,,main
+2021-07-28 15:19:33,Canaccord Genuity,Hold,,main
+2021-08-06 11:40:20,Barclays,Equal-Weight,,main
+2021-11-05 10:14:10,Canaccord Genuity,Buy,Hold,up
+2021-11-08 13:26:05,Barclays,Equal-Weight,,main
+2021-12-08 12:42:56,B of A Securities,Buy,,init
+2021-12-13 11:34:39,Goldman Sachs,Buy,,init
+2021-12-22 12:04:33,Wedbush,Outperform,Neutral,up
+2022-01-12 11:23:23,Piper Sandler,Overweight,,main
+2022-01-12 12:04:09,Barclays,Equal-Weight,,main
+2022-01-25 09:51:42,Keybanc,Overweight,,main

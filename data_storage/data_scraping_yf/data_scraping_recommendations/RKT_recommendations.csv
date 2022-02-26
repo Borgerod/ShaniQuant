@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action
+2020-08-13 11:06:53,Susquehanna,Neutral,,init
+2020-08-31 10:03:41,Wells Fargo,Equal-Weight,,init
+2020-08-31 10:05:37,RBC Capital,Outperform,,init
+2020-08-31 10:07:33,Morgan Stanley,Equal-Weight,,init
+2020-08-31 11:02:59,Citigroup,Buy,,init
+2020-08-31 11:58:56,B of A Securities,Buy,,init
+2020-08-31 12:00:40,Barclays,Equal-Weight,,init
+2020-08-31 12:02:28,Credit Suisse,Neutral,,init
+2020-09-09 14:48:15,Susquehanna,Negative,Neutral,down
+2020-09-10 10:06:02,Wedbush,Neutral,,init
+2020-09-25 11:35:30,Susquehanna,Neutral,Negative,up
+2020-10-09 10:12:41,JP Morgan,Overweight,Neutral,up
+2020-11-02 13:58:44,Morgan Stanley,Equal-Weight,,main
+2020-11-11 13:19:49,Credit Suisse,Neutral,,main
+2020-11-11 13:56:38,B of A Securities,Buy,,reit
+2020-12-18 12:47:28,"Keefe, Bruyette & Woods",Underperform,Market Perform,down
+2021-01-19 12:26:40,JP Morgan,Underweight,Overweight,down
+2021-03-03 12:42:12,RBC Capital,Sector Perform,Outperform,down
+2021-03-09 14:13:57,Morgan Stanley,Equal-Weight,,main
+2021-04-21 12:22:06,B of A Securities,Neutral,Buy,down
+2021-05-06 13:51:33,Credit Suisse,Neutral,,main
+2021-05-07 12:43:37,Goldman Sachs,Neutral,,main
+2021-05-28 11:42:30,Morgan Stanley,Equal-Weight,,main
+2021-06-08 11:23:57,Piper Sandler,Neutral,,init
+2021-06-08 15:13:02,Argus Research,Buy,,init
+2021-07-09 11:33:11,Barclays,Equal-Weight,,main
+2021-07-12 09:09:04,Jefferies,Hold,Buy,down
+2021-07-20 11:08:08,Wedbush,Underperform,Neutral,down
+2021-08-13 11:41:40,Credit Suisse,Neutral,,main
+2021-08-13 13:13:41,Morgan Stanley,Equal-Weight,,main
+2021-08-13 14:04:47,Barclays,Equal-Weight,,main
+2021-08-13 14:12:49,RBC Capital,Sector Perform,,main
+2021-10-08 11:23:19,RBC Capital,Sector Perform,,main
+2021-10-11 12:19:52,Barclays,Equal-Weight,,main
+2021-11-30 13:00:04,Morgan Stanley,Equal-Weight,,main
+2021-12-16 15:15:17,Wells Fargo,Equal-Weight,,main
+2022-01-19 14:50:02,JP Morgan,Overweight,Underweight,up

@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,Materials Select Sector SPDR
+longName,Materials Select Sector SPDR Fund
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,XLB
+messageBoardId,finmb_8795509
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.1
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,913766400
+annualReportExpenseRatio,
+totalAssets,8181479936
+bookValue,
+fundFamily,SPDR State Street Global Advisors
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0163
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.2281
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Natural Resources
+fiveYearAverageReturn,0.1429
+phone,866-732-8673
+longBusinessSummary,"In seeking to track the performance of the index, the fund employs a replication strategy. It generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes securities of companies from the following industries: chemicals; metals and mining; paper and forest products; containers and packaging; and construction materials. The fund is non-diversified."
+companyOfficers,[]
+previousClose,84
+regularMarketOpen,84.18
+twoHundredDayAverage,85.1256
+trailingAnnualDividendYield,0.015595238
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,84.62
+navPrice,90.55
+averageDailyVolume10Day,9652700
+regularMarketPreviousClose,84
+fiftyDayAverage,86.7772
+trailingAnnualDividendRate,1.31
+open,84.18
+toCurrency,
+averageVolume10days,9652700
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,83.39
+currency,USD
+trailingPE,3.301575
+regularMarketVolume,8957011
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,8003535
+dayLow,83.39
+ask,84.51
+askSize,2200
+volume,8957011
+fiftyTwoWeekHigh,92.31
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,72.34
+bid,83.14
+tradeable,False
+dividendYield,
+bidSize,1200
+dayHigh,84.62
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0.1118}, {'basic_materials': 0.8694}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0.0187}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'LIN.L', 'holdingName': 'Linde PLC', 'holdingPercent': 0.1591}, {'symbol': 'SHW', 'holdingName': 'Sherwin-Williams Co', 'holdingPercent': 0.069}, {'symbol': 'APD', 'holdingName': 'Air Products & Chemicals Inc', 'holdingPercent': 0.0674}, {'symbol': 'FCX', 'holdingName': 'Freeport-McMoRan Inc', 'holdingPercent': 0.0575}, {'symbol': 'ECL', 'holdingName': 'Ecolab Inc', 'holdingPercent': 0.0542}, {'symbol': 'NEM', 'holdingName': 'Newmont Corp', 'holdingPercent': 0.0537}, {'symbol': 'DD', 'holdingName': 'DuPont de Nemours Inc', 'holdingPercent': 0.0442}, {'symbol': 'DOW', 'holdingName': 'Dow Inc', 'holdingPercent': 0.0437}, {'symbol': 'PPG', 'holdingName': 'PPG Industries Inc', 'holdingPercent': 0.0432}, {'symbol': 'IFF', 'holdingName': 'International Flavors & Fragrances Inc', 'holdingPercent': 0.0399}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 14.53, 'priceToSales': 2.67, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 29.48, 'priceToBook': 3.32, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9956
+regularMarketPrice,83.86
+preMarketPrice,
+logo_url,

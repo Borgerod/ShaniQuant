@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action
+2013-06-04 08:45:23,Bank of America,Neutral,,init
+2013-06-17 06:37:11,JP Morgan,Overweight,,init
+2013-06-24 08:43:47,Citigroup,Buy,,init
+2013-07-16 09:22:56,FBR Capital,Outperform,,init
+2013-07-17 06:42:20,Deutsche Bank,Buy,,init
+2013-07-31 09:06:57,Wells Fargo,Outperform,Market Perform,up
+2013-09-10 07:32:43,JMP Securities,Market Outperform,,init
+2013-11-01 07:11:56,UBS,Buy,,init
+2014-03-04 07:11:00,Bank of America,Neutral,,main
+2014-04-03 06:58:34,Bank of America,Neutral,,main
+2014-07-31 21:40:58,JP Morgan,Overweight,,main
+2014-10-29 09:00:00,Deutsche Bank,Buy,,main
+2014-11-10 09:00:00,JMP Securities,Market Outperform,,main
+2015-02-19 09:00:00,JP Morgan,Overweight,,main
+2015-02-20 09:00:00,Jefferies,Market Outperform,,main
+2015-04-13 09:00:00,Deutsche Bank,Buy,,main
+2015-04-15 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-05-01 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-06-22 09:34:31,Bank of America,Buy,Neutral,up
+2016-04-18 06:38:51,Credit Suisse,Outperform,,init
+2016-07-28 11:55:52,Keefe Bruyette & Woods,Market Perform,,main
+2016-12-15 16:03:37,Bank of America,Neutral,Buy,down
+2017-10-26 12:08:22,FBR Capital,Buy,,main
+2018-03-27 12:21:12,Raymond James,Market Perform,,init
+2018-08-21 11:09:41,Credit Suisse,Outperform,Outperform,main
+2018-10-09 10:32:30,BTIG Research,Neutral,,init
+2018-12-17 13:24:39,Deutsche Bank,Hold,Buy,down
+2019-02-13 12:58:24,Deutsche Bank,Buy,Hold,down
+2019-12-02 13:26:26,Compass Point,Neutral,,init
+2020-01-08 13:28:09,Credit Suisse,Neutral,Outperform,down
+2020-01-29 11:33:41,JP Morgan,Overweight,Neutral,up
+2020-03-26 15:43:17,Citigroup,Neutral,,main
+2020-05-15 13:35:08,Citigroup,Neutral,,main
+2020-06-17 11:48:21,Deutsche Bank,Hold,,main
+2021-03-17 12:54:43,Credit Suisse,Neutral,,main
+2021-04-13 10:56:34,BTIG,Buy,,init
+2021-04-26 10:20:03,JP Morgan,Neutral,Overweight,down

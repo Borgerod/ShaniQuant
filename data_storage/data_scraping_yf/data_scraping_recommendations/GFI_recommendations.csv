@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-17 13:16:00,Deutsche Bank,Hold,,up
+2012-12-04 08:24:01,UBS,Buy,Neutral,up
+2013-02-12 08:21:19,Citigroup,Neutral,Sell,up
+2013-02-15 06:32:54,Bank of America,Neutral,Buy,down
+2013-02-15 10:05:41,CIBC,,Sector Perform,down
+2013-04-17 09:58:20,Deutsche Bank,Buy,Hold,up
+2013-04-29 09:19:18,HSBC,Neutral,Overweight,down
+2013-08-23 09:43:24,Citigroup,Sell,Neutral,down
+2013-10-03 16:00:00,CIBC,Sector Perform,Underperform,up
+2013-10-21 10:40:55,HSBC,Underweight,Neutral,down
+2013-11-05 17:04:05,Exane BNP Paribas,Buy,,init
+2013-11-25 07:22:58,Bank of America,Neutral,Underperform,up
+2014-02-18 16:00:00,Morgan Stanley,Equal-weight,Overweight,down
+2014-02-20 08:00:00,Goldman Sachs,,Neutral,down
+2014-02-27 08:00:00,HSBC,Neutral,Underweight,up
+2014-09-03 10:26:39,UBS,Buy,Neutral,up
+2015-05-13 07:38:30,UBS,Neutral,Sell,up
+2015-05-26 06:14:09,HSBC,Buy,Hold,up
+2015-06-02 06:22:08,RBC Capital,Outperform,Sector Perform,up
+2015-06-30 05:08:05,Goldman Sachs,Neutral,,up
+2015-08-31 08:24:26,Scotia Howard Weil,Sector Perform,,up
+2015-12-01 06:22:32,RBC Capital,Sector Perform,Outperform,down
+2016-01-15 09:16:00,Goldman Sachs,Neutral,Sell,up
+2016-03-15 09:41:14,Macquarie,Neutral,Outperform,down
+2016-03-24 09:42:36,Goldman Sachs,Sell,Neutral,down
+2016-06-22 07:44:08,RBC Capital,Outperform,Sector Perform,up
+2016-07-12 06:36:22,JP Morgan,Neutral,Underweight,up
+2016-12-12 18:36:36,RBC Capital,Sector Perform,Outperform,down
+2017-03-03 15:24:18,JP Morgan,Overweight,Neutral,up
+2018-04-09 12:30:36,JP Morgan,Overweight,Overweight,main
+2018-04-13 12:58:29,Bank of America,Buy,Underperform,up
+2018-12-10 15:02:29,BMO Capital,Underperform,,init
+2019-02-21 12:36:23,JP Morgan,Neutral,Overweight,down
+2019-06-26 11:17:18,RBC Capital,Sector Perform,Outperform,down
+2019-09-12 12:35:23,JP Morgan,Neutral,,main
+2020-06-22 14:29:10,JP Morgan,Overweight,Neutral,up
+2020-08-21 13:57:33,ScotiaBank,Sector Perform,,main
+2021-02-12 17:00:25,Goldman Sachs,Neutral,,init
+2021-05-24 11:15:56,RBC Capital,Sector Perform,,main
+2021-08-13 14:10:56,RBC Capital,Sector Perform,,main
+2021-10-12 09:59:20,RBC Capital,Outperform,Sector Perform,up

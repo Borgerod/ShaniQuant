@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action
+2021-08-16 09:16:54,Jefferies,Buy,,init
+2021-08-16 09:26:42,Needham,Buy,,init
+2021-08-16 10:20:48,JMP Securities,Market Outperform,,init
+2021-08-16 10:57:34,Credit Suisse,Outperform,,init
+2021-08-16 11:02:23,Stifel,Buy,,init
+2021-08-16 11:07:28,Deutsche Bank,Hold,,init
+2021-08-16 11:09:54,Raymond James,Outperform,,init
+2021-08-16 11:19:11,Baird,Outperform,,init
+2021-08-16 12:12:31,Cowen & Co.,Market Perform,,init
+2021-08-16 12:17:01,Truist Securities,Buy,,init
+2021-08-16 13:37:47,JP Morgan,Neutral,,init
+2021-09-01 11:14:46,Credit Suisse,Outperform,,main
+2021-09-01 11:25:07,JMP Securities,Market Outperform,,main
+2021-12-13 11:42:04,Goldman Sachs,Neutral,,init
+2022-01-25 12:25:16,Raymond James,Outperform,,main

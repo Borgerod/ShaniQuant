@@ -1,0 +1,93 @@
+Date,Firm,To Grade,From Grade,Action
+2014-08-25 05:53:50,SunTrust Robinson Humphrey,Overweight,,init
+2014-08-25 05:54:14,JP Morgan,Outperform,,init
+2014-08-25 05:54:44,Wells Fargo,Outperform,,init
+2014-08-25 07:44:57,Raymond James,Outperform,,init
+2015-02-19 06:44:47,Barrington Research,Outperform,,init
+2015-03-06 05:36:20,Leerink Swann,Outperform,,init
+2015-03-25 09:00:00,Leerink Swann,Outperform,,main
+2015-06-09 09:00:00,Baird,Neutral,,main
+2015-07-08 11:00:00,Leerink Swann,Outperform,,main
+2015-08-17 11:00:00,SunTrust Robinson Humphrey,Buy,,main
+2016-01-25 12:53:21,Leerink Swann,Outperform,,main
+2016-03-23 07:35:16,Avondale Partners,Market Outperform,,main
+2016-03-23 12:08:19,Barrington Research,Outperform,,main
+2016-04-04 07:45:11,Leerink Swann,Outperform,,main
+2016-06-08 12:41:05,SunTrust Robinson Humphrey,Buy,,main
+2016-09-07 08:27:29,Baird,Neutral,,main
+2016-09-12 08:12:18,Raymond James,Outperform,,main
+2016-12-13 11:08:40,Chardan Capital,Buy,,init
+2017-01-23 22:32:56,KeyBanc,Overweight,,init
+2017-02-07 14:06:07,Chardan Capital,Buy,,init
+2017-03-22 14:05:48,Chardan Capital,Buy,,reit
+2017-03-31 17:10:18,Cantor Fitzgerald,Overweight,,init
+2018-01-24 15:25:47,JP Morgan,Overweight,Overweight,main
+2018-02-07 16:55:17,Baird,Neutral,Neutral,main
+2018-02-07 17:42:00,Cantor Fitzgerald,Overweight,Overweight,main
+2018-03-20 11:05:34,KeyBanc,Overweight,Overweight,main
+2018-03-20 11:24:58,Chardan Capital,Buy,Buy,main
+2018-03-20 13:25:23,Baird,Neutral,Neutral,main
+2018-03-20 13:49:10,Oppenheimer,Outperform,Outperform,main
+2018-04-05 10:42:50,KeyBanc,Overweight,Overweight,main
+2018-04-24 11:39:19,JP Morgan,Overweight,Overweight,main
+2018-05-31 10:15:19,Cantor Fitzgerald,Neutral,Overweight,down
+2018-06-05 11:12:07,KeyBanc,Overweight,Overweight,main
+2018-06-05 11:48:46,Cantor Fitzgerald,Neutral,Neutral,main
+2018-06-05 11:55:26,Baird,Neutral,Neutral,main
+2018-09-04 10:11:23,KeyBanc,Overweight,Overweight,main
+2018-09-05 11:21:48,Wells Fargo,Outperform,Outperform,main
+2018-09-05 11:43:10,Cantor Fitzgerald,Neutral,Neutral,main
+2018-09-06 12:14:41,Bank of America,Neutral,Buy,down
+2018-09-10 12:06:04,Raymond James,Outperform,Outperform,main
+2018-12-06 12:38:03,Cantor Fitzgerald,Neutral,Neutral,main
+2018-12-06 12:46:39,SunTrust Robinson Humphrey,Hold,Buy,down
+2018-12-07 13:37:23,Wells Fargo,Outperform,Outperform,main
+2018-12-18 12:22:00,Cantor Fitzgerald,Overweight,Neutral,up
+2019-02-07 12:07:15,SunTrust Robinson Humphrey,Buy,Hold,up
+2019-03-19 12:06:49,KeyBanc,Overweight,Overweight,main
+2019-03-19 12:19:34,Bank of America,Neutral,Neutral,main
+2019-06-10 14:55:54,Raymond James,Outperform,,reit
+2019-07-19 10:27:10,Bank of America,Buy,Neutral,up
+2019-09-04 11:44:50,Wells Fargo,Outperformer,,main
+2019-09-04 11:54:40,Oppenheimer,Outperform,,main
+2019-09-09 10:32:40,Raymond James,Strong Buy,Outperform,up
+2019-09-12 10:58:43,Deutsche Bank,Buy,,init
+2019-09-17 11:23:22,KeyBanc,Overweight,,main
+2019-10-07 10:35:10,Goldman Sachs,Neutral,,init
+2019-12-04 11:06:14,KeyBanc,Overweight,,main
+2020-01-08 15:42:23,Wells Fargo,Overweight,,main
+2020-02-19 10:07:40,KeyBanc,Overweight,,main
+2020-02-19 12:31:02,Wells Fargo,Overweight,,main
+2020-02-20 13:43:31,Deutsche Bank,Buy,,main
+2020-03-17 10:13:33,KeyBanc,Overweight,,main
+2020-03-17 10:41:22,Cantor Fitzgerald,Overweight,,reit
+2020-03-17 13:56:21,Baird,Neutral,,main
+2020-03-17 16:17:35,SunTrust Robinson Humphrey,Buy,,main
+2020-03-18 13:09:19,Deutsche Bank,Buy,,main
+2020-03-26 18:40:43,SunTrust Robinson Humphrey,Buy,,main
+2020-03-27 12:06:02,Raymond James,Strong Buy,,main
+2020-04-08 11:51:43,Raymond James,Strong Buy,,reit
+2020-04-14 11:12:59,Guggenheim,Buy,,init
+2020-06-03 14:47:35,Cantor Fitzgerald,Overweight,,main
+2020-09-09 10:43:23,Wells Fargo,Overweight,,main
+2020-09-09 11:22:25,SVB Leerink,Market Perform,,main
+2020-10-23 09:43:13,RBC Capital,Outperform,,init
+2020-11-23 12:26:09,Guggenheim,Neutral,Buy,down
+2020-12-02 09:01:55,KeyBanc,Sector Weight,Overweight,down
+2020-12-02 11:22:19,SVB Leerink,Market Perform,,main
+2021-01-07 11:51:36,BTIG,Neutral,,init
+2021-02-09 16:14:35,RBC Capital,Outperform,,main
+2021-02-10 12:42:57,Raymond James,Strong Buy,,main
+2021-03-16 10:13:07,SVB Leerink,Market Perform,,main
+2021-03-17 13:55:47,Deutsche Bank,Buy,,main
+2021-03-22 11:14:54,Raymond James,Strong Buy,,main
+2021-06-08 13:11:15,Cantor Fitzgerald,Overweight,,main
+2021-06-10 11:20:45,Raymond James,Strong Buy,,main
+2021-07-02 08:43:22,Stephens & Co.,Overweight,,init
+2021-09-09 10:54:44,SVB Leerink,Outperform,Market Perform,up
+2021-09-21 10:49:40,Deutsche Bank,Buy,,main
+2021-12-02 09:52:30,Jefferies,Buy,,init
+2021-12-07 11:49:45,RBC Capital,Outperform,,main
+2021-12-07 12:11:56,Raymond James,Outperform,Strong Buy,down
+2021-12-08 14:26:39,Deutsche Bank,Buy,,main
+2021-12-21 15:06:07,JP Morgan,Overweight,,main

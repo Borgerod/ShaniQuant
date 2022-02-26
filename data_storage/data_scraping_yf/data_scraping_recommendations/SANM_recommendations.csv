@@ -1,0 +1,47 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-02 07:16:00,Citigroup,Neutral,,main
+2012-07-24 06:32:00,Citigroup,Neutral,,main
+2012-07-24 07:10:00,Deutsche Bank,Hold,,main
+2012-11-01 15:21:00,Deutsche Bank,Hold,,main
+2013-01-29 13:23:43,Bank of America,Neutral,,main
+2013-04-23 08:21:07,Deutsche Bank,Hold,,main
+2013-05-23 06:38:21,Deutsche Bank,Sell,Hold,down
+2013-07-11 08:36:02,Cross Research,Hold,Buy,down
+2013-07-16 07:58:24,Raymond James,Market Perform,Outperform,down
+2013-10-29 12:27:05,Craig-Hallum,Hold,Buy,down
+2013-10-29 12:27:20,Cross Research,Buy,Hold,up
+2014-01-28 16:00:00,Needham,Buy,Hold,up
+2014-04-23 07:16:20,Bank of America,Neutral,,main
+2014-04-23 08:00:00,Craig-Hallum,Buy,Hold,up
+2014-04-23 23:03:51,Citigroup,Hold,,main
+2014-07-22 06:20:01,Deutsche Bank,Hold,Sell,up
+2014-07-22 20:01:35,Citigroup,Neutral,,main
+2014-10-28 09:00:00,Citigroup,Neutral,,main
+2015-03-13 06:05:54,Goldman Sachs,Buy,Neutral,up
+2015-04-14 06:07:49,Longbow Research,Underperform,Neutral,down
+2015-04-21 09:00:00,Citigroup,Neutral,,main
+2015-07-21 05:20:27,Longbow Research,Neutral,Underperform,up
+2015-07-21 11:00:00,Citigroup,Neutral,,main
+2015-08-03 07:52:17,Goldman Sachs,Neutral,Buy,down
+2015-10-22 05:38:43,Goldman Sachs,Sell,Neutral,down
+2015-10-23 07:43:06,Citigroup,Sell,,down
+2015-12-03 17:33:09,Canaccord Genuity,Buy,,init
+2016-01-20 06:08:50,RBC Capital,Sector Perform,Underperform,up
+2016-01-26 07:52:42,Citigroup,Neutral,Sell,up
+2016-07-26 07:58:00,Craig-Hallum,Hold,Buy,down
+2016-10-31 12:35:00,Cross Research,Hold,Buy,down
+2017-11-02 12:10:18,Argus,Hold,Buy,down
+2017-12-19 10:04:27,Craig-Hallum,Buy,Hold,up
+2018-04-13 13:36:20,Citigroup,Buy,Neutral,up
+2018-04-24 12:50:17,Citigroup,Buy,Buy,main
+2018-05-05 14:00:38,B. Riley FBR,Buy,,init
+2018-05-05 14:00:38,B. Riley FBR,Buy,,init
+2018-05-05 14:00:38,B. Riley FBR,Buy,,main
+2018-07-31 11:50:21,Citigroup,Buy,Buy,main
+2018-12-20 14:17:39,Citigroup,Neutral,Buy,down
+2019-10-30 11:59:31,Citigroup,Neutral,,main
+2020-01-28 12:08:13,Citigroup,Neutral,,main
+2020-04-29 16:08:27,Citigroup,Neutral,,main
+2020-07-30 13:03:08,Citigroup,Neutral,,main
+2021-02-05 13:58:22,Argus Research,Buy,Hold,up
+2021-11-09 15:47:57,B of A Securities,Underperform,Neutral,down

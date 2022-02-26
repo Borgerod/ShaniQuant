@@ -1,0 +1,114 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-15 07:04:00,Oppenheimer,Outperform,,main
+2012-03-22 08:08:00,Wedbush,Outperform,,main
+2012-03-23 10:13:00,Wedbush,Outperform,,main
+2012-04-26 08:53:00,Hilliard Lyons,Long-Term Buy,,up
+2012-05-08 13:15:00,Goldman Sachs,Neutral,,main
+2012-05-09 05:57:00,PiperJaffray,Overweight,,main
+2012-05-10 08:11:00,Raymond James,Strong Buy,,up
+2012-06-06 13:17:00,Goldman Sachs,Neutral,,main
+2012-06-07 07:51:00,Stifel Nicolaus,Buy,,main
+2012-06-07 07:54:00,Wedbush,Neutral,,down
+2012-07-25 08:05:00,Stifel Nicolaus,Buy,,main
+2013-01-25 14:58:34,Hilliard Lyons,Long-Term Buy,,main
+2013-01-30 08:23:40,KeyBanc,Buy,Hold,up
+2013-01-30 08:59:47,KeyBanc,Buy,Hold,up
+2013-05-20 12:17:43,Hilliard Lyons,Long-Term Buy,,main
+2013-10-01 11:16:34,Standpoint Research,,Buy,down
+2013-11-07 08:15:36,Stifel Nicolaus,Buy,,main
+2013-11-07 09:10:04,Wedbush,Neutral,,main
+2013-11-07 10:14:05,Longbow Research,Buy,,main
+2014-01-09 07:02:14,Stifel Nicolaus,Buy,,main
+2014-01-24 08:00:00,Bank of America,Buy,,init
+2014-02-18 16:00:00,PiperJaffray,Overweight,Neutral,up
+2014-03-19 07:38:26,Nomura,Neutral,,init
+2014-05-02 16:00:00,Wedbush,Outperform,Neutral,up
+2014-05-12 22:53:01,KeyBanc,Buy,,main
+2014-07-23 22:36:55,Nomura,Neutral,,main
+2014-10-24 05:24:35,Barclays,Equal-weight,,init
+2014-10-31 09:00:00,Barclays,Equal-Weight,,main
+2014-11-03 09:00:00,Barclays,Equal-Weight,,main
+2015-01-30 05:54:19,Nomura,Buy,Neutral,up
+2015-02-06 09:00:00,Barclays,Equal-Weight,,main
+2015-04-01 08:49:55,Tigress Financial,Buy,Strong Buy,down
+2015-04-22 17:53:44,Wedbush,Outperform,,init
+2015-04-29 09:00:00,Stifel Nicolaus,Buy,,main
+2015-04-30 09:35:46,Bank of America,Buy,Neutral,up
+2015-05-11 14:09:43,Raymond James,Market Perform,Strong Buy,down
+2015-05-19 06:12:02,Longbow Research,Buy,Neutral,up
+2015-06-30 09:00:00,KeyBanc,Overweight,,main
+2015-07-02 07:11:55,Stifel Nicolaus,Buy,,main
+2015-07-31 13:12:48,Stifel Nicolaus,Buy,,main
+2015-10-30 09:45:17,Cantor Fitzgerald,Hold,,main
+2016-02-05 05:01:00,Stifel Nicolaus,Buy,,main
+2016-03-15 07:26:23,Longbow Research,Buy,,init
+2016-04-22 07:29:29,Wedbush,Neutral,Outperform,down
+2016-04-29 06:29:38,Raymond James,Outperform,Market Perform,up
+2016-05-24 09:17:57,Topeka,Hold,,init
+2016-07-29 13:00:59,Nomura,Buy,,main
+2016-09-28 07:03:01,Longbow Research,Neutral,Buy,down
+2016-09-28 08:53:26,KeyBanc,Overweight,,main
+2016-09-28 09:30:25,Raymond James,Outperform,,main
+2016-09-29 06:05:08,UBS,Neutral,,init
+2016-10-06 15:02:32,KeyBanc,Overweight,,main
+2017-01-30 13:05:49,Raymond James,Underperform,Outperform,down
+2017-01-30 15:45:26,Nomura,Neutral,Buy,down
+2017-01-30 16:07:04,Stifel Nicolaus,Hold,Buy,down
+2017-01-30 16:08:22,PiperJaffray,Neutral,Overweight,down
+2017-01-30 16:35:19,SunTrust Robinson Humphrey,Sell,Hold,down
+2017-01-31 15:24:52,KeyBanc,Sector Weight,Overweight,down
+2017-02-10 14:16:34,UBS,Sell,Neutral,down
+2017-02-17 13:53:14,Raymond James,Outperform,,up
+2017-03-10 18:47:41,Guggenheim,Neutral,,init
+2017-04-19 10:43:29,Raymond James,Strong Buy,Outperform,up
+2017-05-08 12:28:03,SunTrust Robinson Humphrey,Hold,Sell,up
+2017-05-18 13:45:52,Tigress Financial,Neutral,Buy,down
+2017-08-14 12:08:37,PiperJaffray,Overweight,Neutral,up
+2017-08-22 11:21:20,Stifel Nicolaus,Buy,Hold,up
+2018-02-07 12:22:44,Wedbush,Outperform,Neutral,up
+2018-02-23 15:02:59,UBS,Sell,Sell,main
+2018-03-02 13:35:17,Loop Capital,Hold,,init
+2018-03-15 11:35:50,Stifel Nicolaus,Buy,Buy,main
+2018-04-16 12:58:06,Loop Capital,Sell,Hold,down
+2018-05-04 12:38:20,Stifel Nicolaus,Buy,Buy,main
+2018-07-27 14:46:53,Bank of America,Buy,Buy,main
+2018-08-23 14:05:47,KeyBanc,Overweight,Sector Weight,up
+2018-10-03 11:25:16,UBS,Neutral,Sell,up
+2019-01-07 14:17:18,Guggenheim,Buy,Neutral,up
+2019-01-28 13:26:08,Barclays,Overweight,,init
+2019-02-15 12:10:48,Guggenheim,Neutral,Buy,down
+2019-04-11 14:44:46,Stifel Nicolaus,Buy,Buy,main
+2019-06-24 11:25:27,Loop Capital,Hold,Sell,up
+2019-07-26 10:14:03,KeyBanc,Overweight,,main
+2019-11-01 09:54:33,KeyBanc,Overweight,,main
+2019-11-01 11:26:49,UBS,Neutral,,main
+2019-11-01 12:09:12,Raymond James,Strong Buy,,main
+2019-11-04 14:12:48,SunTrust Robinson Humphrey,Hold,,main
+2020-01-29 10:59:35,KeyBanc,Overweight,,main
+2020-02-14 12:36:43,Wedbush,Outperform,,main
+2020-02-14 12:53:39,Raymond James,Strong Buy,,main
+2020-03-03 09:36:18,KeyBanc,Overweight,,main
+2020-03-24 10:53:28,Loop Capital,Buy,Hold,up
+2020-03-31 10:54:58,KeyBanc,Overweight,,main
+2020-05-01 12:01:56,Wedbush,Outperform,,main
+2020-05-01 12:55:04,Stifel,Buy,,main
+2020-06-01 09:02:05,KeyBanc,Overweight,,main
+2020-06-18 12:40:32,SunTrust Robinson Humphrey,Hold,,main
+2020-06-18 12:56:57,Raymond James,Strong Buy,,reit
+2020-07-31 08:50:05,KeyBanc,Overweight,,main
+2020-07-31 15:10:19,Raymond James,Strong Buy,,main
+2020-07-31 16:09:49,SunTrust Robinson Humphrey,Buy,Hold,up
+2020-09-15 08:43:30,KeyBanc,Overweight,,main
+2020-09-16 11:41:13,Raymond James,Strong Buy,,main
+2020-10-30 08:54:33,KeyBanc,Overweight,,main
+2020-12-15 15:20:10,Raymond James,Strong Buy,,main
+2021-02-09 09:58:24,KeyBanc,Overweight,,main
+2021-02-12 10:17:13,KeyBanc,Overweight,,main
+2021-02-12 12:37:41,Raymond James,Strong Buy,,main
+2021-03-17 10:09:06,KeyBanc,Overweight,,main
+2021-03-30 11:18:23,Jefferies,Hold,,init
+2021-04-30 10:16:19,Keybanc,Overweight,,main
+2021-04-30 12:28:02,Raymond James,Strong Buy,,main
+2021-07-30 08:41:00,Keybanc,Overweight,,main
+2021-07-30 12:45:11,Raymond James,Strong Buy,,main
+2022-01-10 12:45:48,Truist Securities,Buy,,main

@@ -1,0 +1,81 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-03 11:54:00,PiperJaffray,Overweight,,main
+2012-05-04 08:10:00,Wedbush,Outperform,,main
+2012-05-04 09:06:00,DA Davidson,Neutral,,up
+2012-06-21 06:43:00,PiperJaffray,Overweight,,main
+2012-07-19 06:27:00,Goldman Sachs,Sell,Neutral,down
+2012-08-02 12:15:00,DA Davidson,Neutral,,main
+2012-08-03 08:24:00,Stifel Nicolaus,Buy,,main
+2012-08-31 09:01:00,Stifel Nicolaus,Buy,,main
+2012-10-31 14:12:00,DA Davidson,Neutral,,main
+2012-11-01 08:17:00,Stifel Nicolaus,Buy,,main
+2012-12-10 06:00:56,Deutsche Bank,Buy,,init
+2012-12-18 14:22:21,Wedbush,Outperform,,main
+2012-12-19 10:22:31,UBS,Buy,,init
+2012-12-19 11:45:24,UBS,Buy,,init
+2013-04-08 08:25:27,DA Davidson,Buy,Neutral,up
+2013-06-10 08:34:55,Stifel Nicolaus,Buy,,main
+2013-12-20 16:00:00,Stephens & Co.,Equal-Weight,,init
+2014-02-21 06:31:14,DA Davidson,Buy,,main
+2014-06-19 07:43:31,Seaport Global,Buy,,init
+2014-08-01 06:23:19,Baird,Outperform,Neutral,up
+2014-12-01 00:00:00,BB&T Capital,Hold,Buy,down
+2014-12-15 09:00:00,Stifel Nicolaus,Buy,,main
+2015-01-27 09:00:00,Deutsche Bank,Buy,,main
+2015-02-20 09:00:00,Deutsche Bank,Buy,,main
+2015-05-21 08:24:45,Stephens & Co.,Overweight,,init
+2015-06-12 06:51:01,JP Morgan,Overweight,,init
+2015-10-19 06:11:19,Johnson Rice,Accumulate,Buy,up
+2015-10-19 14:19:46,FBR Capital,Market Perform,Outperform,down
+2015-11-12 05:20:10,Baird,Neutral,,down
+2015-11-13 07:28:26,Citigroup,Neutral,,init
+2016-02-08 06:13:38,UBS,Neutral,Buy,down
+2016-08-05 07:21:34,Stifel Nicolaus,Buy,Hold,up
+2016-08-05 09:25:19,Citigroup,Neutral,,main
+2016-10-18 12:41:34,Alembic Global,Overweight,,init
+2016-10-18 12:41:34,Alembic Global,Overweight,,init
+2016-11-15 11:40:55,Baird,Outperform,Neutral,up
+2016-11-18 13:38:25,Avondale Partners,Market Perform,Market Outperform,down
+2016-11-29 20:02:45,KeyBanc,Overweight,,main
+2017-07-13 11:31:16,UBS,Buy,Neutral,up
+2017-07-26 12:31:02,Baird,Neutral,Outperform,down
+2017-08-18 11:58:14,Citigroup,Buy,Neutral,up
+2017-10-27 13:06:46,Citigroup,Buy,,main
+2017-10-30 15:45:42,Citigroup,Buy,,main
+2017-11-03 16:23:21,Baird,Neutral,,main
+2018-02-06 13:57:03,Citigroup,Buy,Buy,main
+2018-02-23 14:03:51,KeyBanc,Overweight,Overweight,main
+2018-02-23 14:25:12,Credit Suisse,Outperform,,main
+2018-05-05 14:00:39,B. Riley FBR,Buy,,main
+2018-08-06 13:55:19,B. Riley FBR,Buy,Buy,main
+2018-11-02 16:02:21,Citigroup,Buy,Buy,main
+2018-11-02 17:56:34,Baird,Neutral,Neutral,main
+2019-08-02 14:50:13,Citi,Buy,,main
+2019-08-23 13:07:30,Vertical Research,Buy,,init
+2019-09-10 12:26:57,Stifel Nicolaus,Buy,,main
+2019-09-23 12:48:43,Citigroup,Buy,,main
+2019-11-01 12:32:23,DA Davidson,Neutral,,main
+2019-12-20 13:29:06,DA Davidson,Buy,Neutral,up
+2020-01-07 13:09:29,Baird,Outperform,Neutral,up
+2020-03-02 17:12:53,Stephens & Co.,Overweight,,main
+2020-03-17 12:08:09,B. Riley FBR,Buy,,main
+2020-03-26 10:35:25,KeyBanc,Overweight,,main
+2020-04-02 09:08:36,Citigroup,Buy,,main
+2020-04-28 13:51:42,KeyBanc,Overweight,,main
+2020-05-28 13:29:39,UBS,Buy,,main
+2020-05-28 14:09:02,Stifel,Buy,,main
+2020-09-18 08:51:52,KeyBanc,Overweight,,main
+2020-09-23 10:02:26,Bernstein,Outperform,,init
+2020-10-22 14:28:28,DA Davidson,Neutral,Buy,down
+2020-11-25 09:37:25,KeyBanc,Overweight,,main
+2020-12-16 15:03:47,B. Riley FBR,Neutral,Buy,down
+2021-01-27 10:08:37,KeyBanc,Overweight,,main
+2021-02-26 14:07:33,Credit Suisse,Outperform,,main
+2021-04-19 10:14:35,Keybanc,Overweight,,main
+2021-06-08 11:25:08,Piper Sandler,Overweight,,init
+2021-07-19 11:35:56,Cowen & Co.,Outperform,,init
+2021-09-03 08:45:29,Keybanc,Overweight,,main
+2021-09-03 12:34:12,Northland Capital Markets,Outperform,,main
+2021-09-17 08:54:11,Goldman Sachs,Buy,,init
+2021-10-15 13:14:41,B. Riley Securities,Neutral,,main
+2021-11-05 12:52:46,Credit Suisse,Outperform,,main

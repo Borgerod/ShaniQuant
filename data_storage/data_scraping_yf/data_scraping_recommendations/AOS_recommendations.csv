@@ -1,0 +1,75 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-23 06:22:00,Jefferies,Buy,,main
+2012-04-23 07:25:00,Sterne Agee,Buy,,main
+2012-04-23 12:46:00,Wedbush,Outperform,,main
+2012-06-21 07:30:00,BMO Capital,Market Perform,,init
+2012-07-19 05:40:00,Sterne Agee,Neutral,Buy,down
+2012-07-19 07:34:00,Wedbush,Neutral,Outperform,down
+2012-10-18 07:33:00,Jefferies,Buy,,main
+2012-10-18 11:03:00,Sidoti & Co.,Neutral,Buy,down
+2013-01-03 12:30:33,Janney Capital,Neutral,Buy,down
+2013-01-25 08:10:53,Jefferies,Buy,,main
+2013-03-20 06:28:25,Jefferies,Buy,,main
+2013-04-24 07:49:57,Janney Capital,Buy,Neutral,up
+2013-04-24 08:07:40,Jefferies,Buy,,main
+2013-05-20 08:40:41,Jefferies,Buy,,main
+2013-07-01 06:38:29,Goldman Sachs,Neutral,,init
+2014-02-19 08:00:00,FBR Capital,Outperform,,init
+2014-04-11 08:00:00,Baird,Outperform,Neutral,up
+2014-04-23 08:00:00,BMO Capital,Outperform,Market Perform,up
+2014-07-08 06:21:57,Northland Securities,Outperform,,init
+2014-12-12 07:27:25,Stifel Nicolaus,Hold,,init
+2015-01-05 00:00:00,Northland,Market Perform,Outperform,down
+2015-01-28 06:23:22,Boenning & Scattergood,Outperform,,init
+2015-01-28 08:00:11,Wedbush,Neutral,Outperform,down
+2015-01-28 09:00:00,Jefferies,Buy,,main
+2015-03-17 09:00:00,KeyBanc,Overweight,,main
+2015-04-02 16:22:33,Oppenheimer,Perform,,init
+2015-04-27 09:00:00,Jefferies,Buy,,main
+2015-05-13 08:05:15,Gabelli & Co.,Hold,,init
+2015-09-22 16:46:44,BB&T Capital,Buy,,init
+2015-11-03 07:12:14,SunTrust Robinson Humphrey,Buy,,init
+2016-01-08 07:54:25,Maxim Group,Hold,Buy,down
+2016-03-08 08:58:01,Northland Securities,Buy,,init
+2016-04-05 06:24:18,BMO Capital,Outperform,,init
+2016-04-08 07:27:17,KeyBanc,Overweight,,main
+2016-06-17 07:57:55,Longbow Research,Neutral,,init
+2016-07-14 12:56:39,SunTrust Robinson Humphrey,Buy,,main
+2016-09-23 10:23:54,Jefferies,Buy,,main
+2017-04-28 12:26:12,KeyBanc,Sector Weight,Overweight,down
+2017-10-25 16:16:12,Boenning & Scattergood,Neutral,Outperform,down
+2018-04-04 12:37:12,Goldman Sachs,Buy,Neutral,up
+2018-04-12 10:49:07,DA Davidson,Buy,,init
+2018-04-26 15:13:38,DA Davidson,Buy,Buy,main
+2018-04-27 11:36:48,Stifel Nicolaus,Hold,Hold,main
+2018-10-10 12:23:12,Baird,Outperform,Outperform,main
+2018-10-31 14:42:56,BMO Capital,Outperform,Outperform,main
+2018-11-20 13:16:44,Stephens & Co.,Equal-Weight,,init
+2018-11-27 11:32:40,KeyBanc,Overweight,Sector Weight,up
+2019-01-30 12:09:55,BMO Capital,Market Perform,Outperform,down
+2019-03-12 13:30:51,KeyBanc,Overweight,Overweight,main
+2019-04-10 15:21:37,Baird,Outperform,Outperform,main
+2019-05-01 11:14:41,Boenning & Scattergood,Neutral,Outperform,down
+2019-12-06 11:22:34,Goldman Sachs,Sell,,init
+2019-12-09 10:50:28,KeyBanc,Sector Weight,Overweight,down
+2020-01-29 14:01:28,Baird,Outperform,,main
+2020-02-26 10:51:59,Baird,Neutral,Outperform,down
+2020-02-26 11:21:06,Stephens & Co.,Equal-Weight,,main
+2020-04-03 10:36:37,Stifel,Buy,,init
+2020-05-06 15:28:15,Baird,Neutral,,main
+2020-05-06 17:17:15,CFRA,Strong Sell,,main
+2020-05-07 12:44:42,Rosenblatt,Neutral,,main
+2020-05-15 11:30:42,Rosenblatt,Neutral,,main
+2020-05-29 13:49:24,UBS,Buy,,init
+2020-06-17 14:45:03,Baird,Neutral,,main
+2020-06-24 10:59:15,Rosenblatt,Neutral,,main
+2020-08-03 11:18:45,Rosenblatt,Neutral,,main
+2020-09-17 11:10:39,Rosenblatt,Buy,Neutral,up
+2020-10-13 12:17:35,UBS,Neutral,Buy,down
+2020-10-30 11:23:52,Rosenblatt,Buy,,main
+2021-02-01 12:07:46,Rosenblatt,Buy,,main
+2021-04-05 11:53:24,Stifel,Hold,Buy,down
+2021-04-30 11:46:28,Goldman Sachs,Sell,,main
+2021-05-03 11:53:57,Rosenblatt,Buy,,main
+2021-07-16 11:18:33,Rosenblatt,Buy,,main
+2021-10-05 14:02:16,Baird,Outperform,Neutral,up

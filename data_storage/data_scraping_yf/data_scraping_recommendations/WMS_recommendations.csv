@@ -1,0 +1,64 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-01 08:40:00,Sterne Agee,Neutral,,main
+2012-08-07 05:46:00,JP Morgan,Underweight,Neutral,down
+2012-08-07 06:04:00,Deutsche Bank,Hold,,main
+2012-08-07 06:24:00,Bank of America,Underperform,Neutral,down
+2012-08-07 07:59:00,Stifel Nicolaus,Buy,,main
+2012-08-08 07:16:00,Goldman Sachs,Sell,,main
+2012-09-18 05:44:00,Deutsche Bank,Sell,Hold,down
+2012-09-18 09:04:00,Sterne Agee,Neutral,,main
+2012-11-02 09:14:00,Stifel Nicolaus,Buy,,main
+2012-11-02 10:21:00,CLSA,Sell,Underperform,down
+2013-01-07 11:53:59,Macquarie,Neutral,Outperform,down
+2013-01-31 16:24:15,Goldman Sachs,Neutral,Sell,up
+2013-02-01 06:44:25,JP Morgan,Neutral,Underperform,up
+2013-02-01 08:33:50,BMO Capital,Market Perform,,main
+2013-02-04 08:15:14,Stifel Nicolaus,Hold,Buy,down
+2014-09-03 05:47:09,Deutsche Bank,Buy,,init
+2014-09-03 06:01:19,Barclays,Overweight,,init
+2014-10-13 09:00:00,Barclays,Overweight,,main
+2015-02-06 09:00:00,Barclays,Overweight,,main
+2015-02-20 08:59:20,Boenning & Scattergood,Outperform,,init
+2015-04-16 08:07:35,Baird,Neutral,,init
+2015-05-13 09:00:00,Barclays,Overweight,,main
+2015-11-24 05:22:50,Deutsche Bank,Hold,Buy,down
+2016-03-31 12:02:53,Deutsche Bank,Hold,,main
+2016-06-08 12:41:02,Deutsche Bank,Hold,,main
+2016-08-11 09:22:46,Boenning & Scattergood,Neutral,Outperform,down
+2017-01-13 15:46:49,Baird,Outperform,Neutral,up
+2017-11-03 16:30:35,Baird,Outperform,,main
+2017-11-29 19:58:25,Citigroup,Neutral,,init
+2017-12-20 13:26:43,Barclays,Equal-Weight,,init
+2018-02-09 14:22:04,Baird,Outperform,Outperform,main
+2018-02-12 16:53:26,Barclays,Equal-Weight,Equal-Weight,main
+2018-05-30 12:52:54,Baird,Outperform,Outperform,main
+2018-05-30 13:00:44,Barclays,Equal-Weight,Equal-Weight,main
+2018-07-23 13:51:42,Citigroup,Neutral,Neutral,main
+2018-08-13 12:35:37,Barclays,Equal-Weight,Equal-Weight,main
+2018-11-12 17:40:44,Citigroup,Neutral,Neutral,main
+2018-11-12 18:08:32,Baird,Outperform,Outperform,main
+2018-12-12 16:31:46,Barclays,Equal-Weight,Equal-Weight,main
+2019-01-04 15:38:43,Citigroup,Neutral,Neutral,main
+2019-08-06 11:44:52,Barclays,Equal-Weight,,main
+2019-12-03 12:07:58,Bank of America,Buy,,init
+2019-12-18 11:56:45,Barclays,Overweight,Equal-Weight,up
+2019-12-20 14:46:25,Morgan Stanley,Equal-Weight,,init
+2020-02-10 13:13:36,Morgan Stanley,Equal-Weight,,main
+2020-04-01 13:40:38,Morgan Stanley,Equal-Weight,,main
+2020-04-17 15:21:37,Baird,Outperform,,main
+2020-05-22 11:13:36,Barclays,Overweight,,main
+2020-05-29 12:41:52,Morgan Stanley,Equal-Weight,,main
+2020-06-01 12:05:55,Morgan Stanley,Equal-Weight,,main
+2020-07-13 13:03:40,Morgan Stanley,Underweight,Equal-Weight,down
+2020-08-07 13:23:35,Morgan Stanley,Underweight,,main
+2020-09-25 11:57:50,Morgan Stanley,Underweight,,main
+2020-11-06 16:04:29,Morgan Stanley,Underweight,,main
+2021-02-05 17:51:28,Barclays,Overweight,,main
+2021-02-05 18:04:10,Loop Capital,Buy,,main
+2021-02-11 11:15:10,Morgan Stanley,Equal-Weight,Underweight,up
+2021-04-12 15:13:28,Morgan Stanley,Equal-Weight,,main
+2021-04-21 14:12:48,Barclays,Overweight,,main
+2021-05-21 11:55:10,Morgan Stanley,Equal-Weight,,main
+2021-05-21 12:33:26,Barclays,Overweight,,main
+2021-11-05 13:59:05,Barclays,Overweight,,main
+2021-12-15 12:30:10,Barclays,Overweight,,main

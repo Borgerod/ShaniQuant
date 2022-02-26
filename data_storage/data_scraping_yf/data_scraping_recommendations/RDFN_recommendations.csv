@@ -1,0 +1,81 @@
+Date,Firm,To Grade,From Grade,Action
+2017-08-22 13:40:20,Stifel Nicolaus,Hold,,init
+2017-08-22 13:43:17,Goldman Sachs,Neutral,,init
+2017-08-22 13:44:37,Oppenheimer,Outperform,,init
+2017-08-22 17:46:39,RBC Capital,Sector Perform,,init
+2017-08-22 17:51:39,Bank of America,Neutral,,init
+2017-09-28 12:52:24,PiperJaffray,Neutral,,init
+2017-11-10 14:09:00,Oppenheimer,Outperform,,main
+2017-11-10 17:00:54,Bank of America,Neutral,,main
+2017-12-01 18:47:52,Stephens & Co.,Underweight,,init
+2017-12-19 10:56:45,Cowen & Co.,Outperform,,init
+2017-12-19 11:34:07,KeyBanc,Sector Weight,,init
+2018-02-05 12:18:01,RBC Capital,Outperform,Sector Perform,up
+2018-02-06 12:32:29,Jefferies,Buy,,init
+2018-04-04 10:52:09,DA Davidson,Buy,,init
+2018-06-18 13:15:45,Goldman Sachs,Sell,Neutral,down
+2018-09-17 11:09:38,Macquarie,Neutral,,init
+2018-11-09 11:48:10,William Blair,Market Perform,Outperform,down
+2018-11-29 15:07:34,Susquehanna,Positive,,init
+2019-01-08 13:41:47,Needham,Hold,,init
+2019-01-09 15:22:24,Jefferies,Hold,Buy,down
+2019-01-22 13:31:25,DA Davidson,Underperform,Neutral,down
+2019-01-24 12:40:32,Compass Point,Buy,,init
+2019-04-01 10:51:37,PiperJaffray,Overweight,Neutral,up
+2019-04-08 11:16:34,Susquehanna,Neutral,Positive,down
+2019-04-12 10:56:06,Wedbush,Outperform,,init
+2019-05-09 12:54:00,Compass Point,Neutral,Buy,down
+2019-05-22 12:03:39,DA Davidson,Neutral,Underperform,up
+2019-06-10 11:34:07,Stephens & Co.,Overweight,Underweight,up
+2019-07-10 10:52:39,SunTrust Robinson Humphrey,Buy,,init
+2019-07-17 12:20:15,Susquehanna,Positive,Neutral,up
+2019-07-19 10:57:19,KeyBanc,Sector Weight,,init
+2019-08-02 12:30:49,Compass Point,Buy,Neutral,up
+2019-08-02 14:16:44,Bank of America,Neutral,,reit
+2019-08-02 16:58:40,Stifel,Hold,,main
+2019-08-21 12:05:35,Craig-Hallum,Buy,Hold,up
+2019-11-07 16:42:14,Piper Jaffray,Overweight,,main
+2019-11-07 17:09:59,Stifel Nicolaus,Hold,,main
+2019-12-10 12:12:30,DA Davidson,Buy,Neutral,up
+2020-01-27 11:29:02,Stephens & Co.,Overweight,,reit
+2020-02-13 11:39:14,Stephens & Co.,Overweight,,main
+2020-02-13 12:44:23,Oppenheimer,Outperform,,main
+2020-02-13 13:19:29,Wedbush,Outperform,,main
+2020-02-13 16:39:27,B of A Securities,Neutral,,main
+2020-02-28 13:29:58,KeyBanc,Sector Weight,,init
+2020-03-24 10:41:43,Needham,Hold,Underperform,up
+2020-05-01 17:02:01,SunTrust Robinson Humphrey,Buy,,main
+2020-05-11 11:31:58,Susquehanna,Neutral,Positive,down
+2020-05-11 17:55:06,SunTrust Robinson Humphrey,Buy,,main
+2020-06-11 09:14:58,BTIG,Buy,,init
+2020-06-25 14:00:12,SunTrust Robinson Humphrey,Buy,,main
+2020-07-10 09:43:21,RBC Capital,Sector Perform,Outperform,down
+2020-07-13 12:25:29,B of A Securities,Underperform,Neutral,down
+2020-07-27 15:45:17,Zelman,Buy,Hold,up
+2020-07-28 10:42:10,Susquehanna,Negative,Neutral,down
+2020-07-29 15:05:17,Stifel,Hold,,main
+2020-09-24 13:42:19,DA Davidson,Buy,,main
+2020-09-25 09:40:54,Piper Sandler,Overweight,,init
+2020-10-16 12:12:39,BTIG,Buy,,reit
+2020-11-06 13:02:34,B of A Securities,Underperform,,main
+2021-01-12 15:49:35,BTIG,Neutral,Buy,down
+2021-01-20 12:48:22,DA Davidson,Neutral,Buy,down
+2021-02-05 11:41:18,Goldman Sachs,Neutral,Sell,up
+2021-02-23 16:42:46,Truist Securities,Buy,,main
+2021-02-25 10:17:32,DA Davidson,Neutral,,main
+2021-02-25 16:05:27,Piper Sandler,Overweight,,main
+2021-04-06 10:17:33,Evercore ISI Group,In-Line,,init
+2021-04-27 10:04:51,Needham,Hold,,init
+2021-05-06 14:26:36,Piper Sandler,Overweight,,main
+2021-06-03 13:02:08,Stephens & Co.,Overweight,Equal-Weight,up
+2021-07-21 11:18:15,Berenberg,Hold,,init
+2021-07-29 15:09:33,RBC Capital,Outperform,,main
+2021-08-06 14:46:11,RBC Capital,Outperform,,main
+2021-08-09 13:07:37,DA Davidson,Neutral,,main
+2021-08-11 14:16:19,Wedbush,Outperform,,main
+2021-08-13 12:13:54,Susquehanna,Neutral,,init
+2021-11-05 13:02:15,RBC Capital,Outperform,,main
+2021-11-08 14:39:59,Truist Securities,Buy,,main
+2021-11-22 10:21:49,DA Davidson,Neutral,,main
+2022-02-18 09:46:53,RBC Capital,Sector Perform,Outperform,down
+2022-02-18 16:11:26,Stifel,Hold,,main

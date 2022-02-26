@@ -1,0 +1,66 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-02 08:21:00,Stifel Nicolaus,Buy,,main
+2012-05-02 08:42:00,Raymond James,Outperform,,main
+2012-05-02 08:48:00,BMO Capital,Market Perform,,main
+2012-05-02 14:34:00,PI Financial,Buy,,main
+2012-05-04 06:23:00,Versant Partners,Neutral,,down
+2012-07-03 07:22:00,Paradigm Capital,Buy,,main
+2012-07-20 07:13:00,Credit Suisse,Neutral,,init
+2012-07-23 06:42:00,Credit Suisse,Neutral,,init
+2012-08-08 08:26:00,Versant Partners,Neutral,,main
+2012-08-10 06:56:00,Raymond James,Outperform,,main
+2012-08-10 08:19:00,Stifel Nicolaus,Buy,,main
+2012-08-10 09:27:00,Versant Partners,Buy,Neutral,up
+2012-08-13 07:53:00,Versant Partners,Buy,Neutral,up
+2012-09-06 06:16:00,Benchmark,Hold,,main
+2012-10-23 09:13:00,Cantor Fitzgerald,Hold,,init
+2012-11-01 08:04:00,BMO Capital,Market Perform,,main
+2012-11-01 08:17:00,Stifel Nicolaus,Buy,,main
+2012-11-01 11:17:00,PI Financial,Neutral,Buy,down
+2013-01-22 08:31:21,Stifel,Hold,Buy,down
+2013-01-25 09:59:16,Credit Suisse,Underperform,Neutral,down
+2013-04-25 08:34:58,Cantor Fitzgerald,Buy,Hold,up
+2013-05-28 15:44:12,Clarus Securities,Buy,,init
+2013-06-24 06:39:27,Paradigm Capital,Hold,Buy,down
+2013-07-31 06:28:59,Benchmark,Buy,Hold,up
+2013-08-01 08:39:04,Cantor Fitzgerald,Hold,Buy,down
+2013-08-19 09:26:59,BMO Capital,Market Perform,,main
+2013-09-09 06:42:34,Paradigm Capital,Buy,Hold,up
+2013-09-23 09:06:31,Credit Suisse,Neutral,Underperform,up
+2013-10-31 11:00:46,BMO Capital,Market Perform,,main
+2013-11-05 14:59:41,PI Financial,Buy,Neutral,up
+2013-11-06 13:33:29,BMO Capital,Market Perform,,main
+2013-12-05 16:00:00,Susquehanna,Neutral,Negative,up
+2013-12-12 16:00:00,PI Financial,Neutral,Buy,down
+2014-06-26 19:41:40,CIBC,,,main
+2014-07-31 12:44:42,Credit Suisse,Outperform,Neutral,up
+2014-11-18 08:59:55,Barclays,Overweight,,init
+2015-01-20 09:32:27,Beacon Securities,Hold,,init
+2015-01-28 03:56:23,Credit Suisse,Neutral,Outperform,down
+2015-01-28 09:00:00,Barclays,Overweight,,main
+2015-02-25 07:51:56,Dundee,Buy,,init
+2015-04-29 09:00:00,Barclays,Overweight,,main
+2015-05-21 09:00:00,Susquehanna,Neutral,,main
+2015-05-22 09:00:00,Barclays,Overweight,,main
+2015-07-28 11:00:00,Barclays,Overweight,,main
+2015-07-30 07:20:08,RBC Capital,Outperform,Sector Perform,up
+2015-10-29 15:36:41,Barclays,Overweight,,main
+2016-02-10 11:32:07,Barclays,Overweight,,main
+2016-04-04 07:20:49,TD Securities,Buy,,init
+2016-09-12 10:50:14,Dundee,Buy,Neutral,up
+2016-09-13 06:20:15,BMO Capital,Outperform,Market Perform,up
+2016-09-27 05:50:27,National Bank Financial,Outperform,,init
+2016-10-21 07:12:22,Mitsubishi UFJ,Overweight,,init
+2017-02-17 18:23:05,Citigroup,Neutral,,init
+2017-08-04 20:17:03,Barclays,Overweight,,main
+2017-11-22 20:51:41,Macquarie,Underperform,Neutral,down
+2018-02-01 13:45:38,Barclays,Overweight,Overweight,main
+2018-08-06 12:20:47,Barclays,Overweight,Overweight,main
+2019-11-12 12:21:46,RBC Capital,Outperform,,main
+2020-01-24 12:57:19,Citigroup,Neutral,,main
+2020-04-29 15:00:21,BMO Capital,Outperform,,main
+2020-07-20 12:04:35,Barclays,Overweight,,main
+2020-08-10 11:33:57,Citigroup,Neutral,,main
+2021-06-30 09:22:41,Barclays,Equal-Weight,Overweight,down
+2021-08-06 12:59:35,Barclays,Equal-Weight,,main
+2021-08-06 14:41:38,RBC Capital,Outperform,,main

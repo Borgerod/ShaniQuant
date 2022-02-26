@@ -1,0 +1,63 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-13 07:27:00,Scotiabank,Sector Perform,,up
+2012-05-09 08:49:00,Scotiabank,Sector Underperform,,down
+2012-05-23 08:24:00,JP Morgan,Neutral,,down
+2012-10-05 09:15:00,HSBC,Overweight,Neutral,up
+2013-02-13 11:10:46,Itau BBA,Underperform,Market Perform,down
+2013-02-15 08:49:30,JP Morgan,Neutral,,main
+2013-02-20 09:46:12,UBS,Neutral,Buy,down
+2013-03-12 08:47:18,Credit Suisse,Neutral,Outperform,down
+2013-03-13 09:20:22,HSBC,Neutral,Overweight,down
+2013-03-19 06:55:35,Morgan Stanley,Equal-Weight,Underweight,up
+2013-03-22 06:22:41,Itau BBA,Market Perform,Underperform,up
+2013-03-26 08:13:30,Bank of America,Buy,Neutral,up
+2013-04-15 07:49:50,Bernstein,Underperform,,init
+2013-08-07 09:51:41,Citigroup,Neutral,,init
+2013-08-14 09:23:41,BBVA,Underperform,Outperform,down
+2013-08-19 09:13:40,Barclays,Equal-Weight,,init
+2014-02-14 06:52:51,Morgan Stanley,Equal-Weight,,main
+2014-02-20 08:00:00,Barclays,Outperform,Market Perform,down
+2014-03-10 08:00:00,Scotiabank,Sector Perform,Sector Underperform,up
+2014-03-12 08:00:00,Itau BBA,Market Perform,Underperform,up
+2014-03-25 08:00:00,Bank of America,Neutral,Buy,down
+2014-03-25 20:23:52,Macquarie,Outperform,,main
+2014-04-23 08:00:00,Itau BBA,Outperform,Market Perform,up
+2014-05-23 22:27:26,JP Morgan,Neutral,,main
+2014-07-18 23:10:16,JP Morgan,Neutral,,main
+2014-07-21 07:29:51,Morgan Stanley,Underweight,Equal-weight,down
+2014-09-03 09:00:00,Macquarie,Outperform,,main
+2014-10-16 11:32:46,Bank of America,Buy,Neutral,up
+2014-10-27 09:00:00,Macquarie,Outperform,,main
+2015-04-27 09:00:00,RBC Capital,Underperform,,main
+2015-04-28 09:00:00,JP Morgan,Neutral,,main
+2015-07-21 11:00:00,Macquarie,Outperform,,main
+2015-07-23 06:15:23,JP Morgan,Underweight,Neutral,down
+2015-10-12 13:30:54,Barclays,Equal-Weight,,main
+2015-11-17 07:07:25,Macquarie,Neutral,Outperform,down
+2015-12-11 05:58:39,Morgan Stanley,Equal-Weight,Underweight,up
+2015-12-17 10:38:36,JP Morgan,Neutral,Underweight,up
+2016-01-11 08:44:52,Itau BBA,Outperform,,up
+2016-01-26 08:04:23,Morgan Stanley,Overweight,Equal-Weight,up
+2016-04-28 04:24:56,JP Morgan,Underweight,Neutral,down
+2016-04-28 07:23:46,Bank of America,Neutral,Buy,down
+2016-04-28 08:22:13,Citigroup,Sell,Neutral,down
+2016-04-29 06:42:14,Morgan Stanley,Equal-Weight,Overweight,down
+2016-06-22 07:28:42,BTIG Research,Neutral,,init
+2016-07-18 11:31:28,Barclays,Equal-Weight,,main
+2016-10-28 12:37:01,Citigroup,Neutral,Sell,up
+2016-11-22 12:34:52,Bank of America,Buy,Neutral,up
+2017-01-12 13:44:34,Deutsche Bank,Sell,,init
+2017-04-10 14:16:59,Barclays,Overweight,Equal-Weight,up
+2017-04-25 13:52:45,Deutsche Bank,Hold,,up
+2017-07-11 10:33:08,Credit Suisse,Neutral,,main
+2017-08-10 13:14:04,Morgan Stanley,Overweight,Equal-Weight,up
+2017-08-21 16:36:18,Barclays,Overweight,,main
+2018-04-03 12:41:50,Goldman Sachs,Buy,,init
+2018-06-25 11:21:16,Deutsche Bank,Hold,,init
+2018-08-07 15:23:17,Bank of America,Buy,Buy,main
+2018-11-26 15:08:26,Bradesco,Neutral,,up
+2019-04-05 10:48:21,JP Morgan,Overweight,Neutral,up
+2020-06-04 11:37:33,Itau BBA,Outperform,Market Perform,up
+2020-08-17 10:34:09,Barclays,Overweight,,main
+2021-10-06 11:40:17,Itau BBA,Market Perform,Outperform,down
+2021-10-14 12:36:49,Barclays,Overweight,,main

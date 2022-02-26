@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-03 06:34:00,Citigroup,Buy,,main
+2012-04-10 06:09:00,JP Morgan,Neutral,,main
+2012-04-27 08:23:00,JP Morgan,Neutral,,main
+2012-07-23 05:43:00,Citigroup,Neutral,Buy,down
+2012-07-27 08:47:00,Stifel Nicolaus,Buy,,main
+2012-11-26 09:24:00,First Analysis,Equal-Weight,Overweight,down
+2012-11-30 14:26:46,Citigroup,Neutral,,main
+2013-02-05 08:58:06,Topeka,Buy,,main
+2013-02-27 06:19:06,Credit Suisse,Neutral,Outperform,down
+2013-03-28 06:34:26,Citigroup,Neutral,,main
+2014-02-07 08:00:00,Citigroup,Sell,Neutral,down
+2014-03-17 08:00:00,Cowen & Co.,Market Perform,,down
+2014-06-27 06:31:04,Wells Fargo,Market Perform,Outperform,down
+2014-07-25 21:21:17,Citigroup,Neutral,,main
+2015-01-22 06:15:13,JP Morgan,Underweight,Neutral,down
+2015-01-26 04:22:38,Credit Suisse,Underperform,Neutral,down
+2015-02-06 09:00:00,Citigroup,Neutral,,main
+2015-10-02 03:43:04,Cowen & Co.,Hold,,main
+2016-01-05 08:18:48,Citigroup,Sell,Neutral,down
+2016-07-29 14:06:51,JP Morgan,Underweight,,main
+2017-04-12 12:37:35,Citigroup,Neutral,Sell,up
+2017-10-27 13:13:31,Citigroup,Neutral,,main
+2018-04-30 12:35:30,Citigroup,Neutral,Neutral,main
+2018-05-05 14:00:38,B. Riley FBR,Buy,Neutral,up
+2018-05-05 14:00:38,B. Riley FBR,Neutral,,init
+2018-07-27 12:32:30,JP Morgan,Underweight,Underweight,main
+2018-11-02 10:57:30,JP Morgan,Neutral,Underweight,up
+2018-11-02 16:07:39,Citigroup,Neutral,Neutral,main
+2018-11-02 16:56:32,JP Morgan,Neutral,Neutral,main
+2018-11-02 18:01:59,Baird,Outperform,Outperform,main
+2019-03-06 13:59:34,Citigroup,Neutral,Neutral,main
+2019-07-26 14:06:45,Baird,Outperform,,main
+2020-04-24 16:38:07,Baird,Outperform,,main
+2020-04-27 12:01:29,Citigroup,Neutral,,main
+2020-04-27 17:25:53,CFRA,Hold,,main
+2020-12-09 13:07:25,JP Morgan,Overweight,Neutral,up

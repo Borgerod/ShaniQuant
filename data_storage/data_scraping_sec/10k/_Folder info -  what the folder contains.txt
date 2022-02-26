@@ -1,0 +1,38 @@
+What this folder (data_scraping_sec) contains: 
+Data-tables scraped from sec.gov/EDGAR based on stock_list 
+
+- 10K forms, divided into different csv files based on the selected tables in that form, tagged with an R-tag:
+
+	R1: Cover page
+	R2: Statement of consolidated Operations
+	R3: Statement of consolidated Comprehensive Income
+	R4: Colsolidated Balance sheet
+	R5: Statement of Consolidated Cash Flows
+	R6: Stateent of Changes in Colsolidated Equity
+		Due to some firms having additional tables in between their financial statements,
+		we need to add a few extra numbers, just to make sure we get the previously mentioned tables:
+	R7: [extra]
+	R8: [extra]
+	R9: [extra]
+		The extra tables not listed above will be filtered out and deleted. 
+	
+	The csv-files are categorised as follows: 
+		symbol	year	form 	R-tag
+		aapl	2021	10-K 	R2
+		=> aapl_2021_10-K_R2.CSV
+
+
+
+		PROBLEM: 
+		Due to this, there wil be a inconsistancy where some tables will be marked with the wrong R-tag.
+		E.g. normally it would look like this: 
+			R2: Statement of consolidated Operations
+			R3: Statement of consolidated Comprehensive Income
+		But if these extra tables should occor, it will end up looking like this:
+			R2: Statement of consolidated Operations
+			R3: Statement of consolidated Operations (Parenthetical)
+			R4: Statement of consolidated Comprehensive Income
+		Now, the whole list gets shifted and R4 which should only contain "Balance sheets", not contain +1 "Comprehensive Income"
+		So the code need to be changed, or we need to make a filter-code that sorts them out properly.	
+
+

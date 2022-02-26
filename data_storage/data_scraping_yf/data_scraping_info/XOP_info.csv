@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,SPDR S&P Oil & Gas Explor & Pro
+longName,SPDR S&P Oil & Gas Exploration & Production ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,XOP
+messageBoardId,finmb_27776185
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,2.82
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1150675200
+annualReportExpenseRatio,
+totalAssets,3480864512
+bookValue,
+fundFamily,SPDR State Street Global Advisors
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0143
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.0088
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,-10845
+maxAge,1
+lastCapGain,
+category,Equity Energy
+fiveYearAverageReturn,-0.0746
+phone,866-787-2257
+longBusinessSummary,"In seeking to track the performance of the S&P Oil & Gas Exploration & Production Select Industry Index, the fund employs a sampling strategy. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the oil and gas exploration and production segment of the S&P Total Market Index (""S&P TMI"")."
+companyOfficers,[]
+previousClose,109.65
+regularMarketOpen,107.96
+twoHundredDayAverage,95.82645
+trailingAnnualDividendYield,0.012676698
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,110.5
+navPrice,104.8
+averageDailyVolume10Day,9407980
+regularMarketPreviousClose,109.65
+fiftyDayAverage,104.0094
+trailingAnnualDividendRate,1.39
+open,107.96
+toCurrency,
+averageVolume10days,9407980
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,107.48
+currency,USD
+trailingPE,2.5009224
+regularMarketVolume,8562671
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,8283819
+dayLow,107.48
+ask,108.98
+askSize,800
+volume,8562671
+fiftyTwoWeekHigh,115.2
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,71.48
+bid,108.47
+tradeable,False
+dividendYield,
+bidSize,800
+dayHigh,110.5
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0.045}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0.0091}, {'industrials': 0}, {'energy': 0.9458}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'CPE', 'holdingName': 'Callon Petroleum Co', 'holdingPercent': 0.0301}, {'symbol': 'SM', 'holdingName': 'SM Energy Co', 'holdingPercent': 0.029000001}, {'symbol': 'OXY', 'holdingName': 'Occidental Petroleum Corp', 'holdingPercent': 0.028199999}, {'symbol': 'FANG', 'holdingName': 'Diamondback Energy Inc', 'holdingPercent': 0.0275}, {'symbol': 'CLR', 'holdingName': 'Continental Resources Inc', 'holdingPercent': 0.0274}, {'symbol': 'AR', 'holdingName': 'Antero Resources Corp', 'holdingPercent': 0.0272}, {'symbol': 'COP', 'holdingName': 'ConocoPhillips', 'holdingPercent': 0.025999999}, {'symbol': 'XEC', 'holdingName': 'Cimarex Energy Co', 'holdingPercent': 0.025899999}, {'symbol': 'XOM', 'holdingName': 'Exxon Mobil Corp', 'holdingPercent': 0.025899999}, {'symbol': 'MRO', 'holdingName': 'Marathon Oil Corp', 'holdingPercent': 0.025899999}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 7.43, 'priceToSales': 1.41, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 1.76, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.997
+regularMarketPrice,108.45
+preMarketPrice,
+logo_url,

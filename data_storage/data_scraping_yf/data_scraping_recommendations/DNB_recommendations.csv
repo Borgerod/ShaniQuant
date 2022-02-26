@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-25 09:37:21,Jefferies,Buy,,init
+2020-11-25 09:37:21,BMO Capital,Outperform,,init
+2020-11-25 09:37:21,RBC Capital,Outperform,,init
+2020-11-25 09:37:21,Credit Suisse,Outperform,,init
+2020-11-25 09:37:21,Deutsche Bank,Buy,,init
+2020-11-25 09:37:21,B of A Securities,Buy,,init
+2020-11-25 09:37:21,JP Morgan,Neutral,,init
+2020-11-25 09:37:21,Wells Fargo,Equal-Weight,,init
+2020-11-25 09:37:21,Goldman Sachs,Neutral,,init
+2020-11-25 09:37:22,SunTrust Robinson Humphrey,Buy,,init
+2020-11-25 09:37:22,Stephens & Co.,Overweight,,init
+2020-11-25 09:37:24,Jefferies,Buy,,main
+2021-03-23 11:14:56,Raymond James,Market Perform,,init
+2021-03-26 11:34:12,Needham,Buy,,init
+2021-06-10 11:19:39,Raymond James,Outperform,Market Perform,up
+2021-08-06 12:02:13,Barclays,Overweight,,main
+2021-11-05 10:46:41,Raymond James,Outperform,,main
+2021-11-05 12:15:46,RBC Capital,Outperform,,main
+2022-01-24 12:47:26,Barclays,Equal-Weight,Overweight,down

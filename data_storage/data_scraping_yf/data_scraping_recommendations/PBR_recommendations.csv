@@ -1,0 +1,79 @@
+Date,Firm,To Grade,From Grade,Action
+2012-09-05 05:58:00,Jefferies,Buy,,init
+2012-09-06 11:34:00,Citigroup,Buy,,main
+2012-10-31 12:24:00,Barclays,Equal-Weight,,main
+2012-11-20 09:42:00,Raymond James,Market Perform,Outperform,down
+2013-02-05 11:56:27,Societe Generale,Buy,,main
+2013-02-06 08:02:06,Jefferies,Hold,Buy,down
+2013-02-26 07:55:40,BTG Pactual,Neutral,Buy,down
+2013-03-07 08:05:50,Credit Suisse,Outperform,Neutral,up
+2013-04-29 07:19:22,Bank of America,Buy,Neutral,up
+2013-06-17 07:42:17,Wells Fargo,Outperform,Market Perform,up
+2013-12-02 16:00:00,Citigroup,Neutral,Buy,down
+2014-03-12 06:50:04,Credit Suisse,Neutral,Underperform,up
+2014-04-03 08:00:00,BMO Capital,Market Perform,,init
+2014-06-25 10:33:18,UBS,Neutral,,down
+2014-07-25 09:27:51,Barclays,Overweight,Neutral,up
+2014-08-11 14:47:58,GBM,,,down
+2014-11-10 08:00:00,Cowen & Co.,Market Perform,Outperform,down
+2014-11-14 07:47:53,Bank of America,Neutral,Buy,down
+2014-11-19 08:49:51,UBS,Neutral,Buy,down
+2014-12-15 03:08:11,Credit Suisse,Neutral,,main
+2015-01-14 09:00:00,Barclays,Overweight,,main
+2015-04-14 08:33:53,Bank of America,Buy,Neutral,up
+2015-04-27 08:14:08,Morgan Stanley,Underweight,Equal-Weight,down
+2015-05-18 04:04:56,Goldman Sachs,Sell,Neutral,down
+2015-06-03 08:33:30,Tudor Pickering,Buy,Accumulate,up
+2015-06-15 07:10:11,JP Morgan,Overweight,Neutral,up
+2015-06-30 05:11:42,HSBC,Hold,,up
+2015-07-07 11:00:00,Barclays,Overweight,,main
+2015-08-11 11:00:00,Barclays,Overweight,,main
+2015-09-11 04:02:08,JP Morgan,Neutral,Overweight,down
+2015-09-11 04:25:06,Credit Suisse,Underperform,,main
+2015-09-30 08:20:17,Macquarie,Underperform,,init
+2015-10-12 04:15:02,Barclays,Equal-Weight,Overweight,down
+2016-01-12 06:30:47,Credit Suisse,Underperform,,init
+2016-02-04 05:57:30,JP Morgan,Underperform,Neutral,down
+2016-03-22 04:06:14,Morgan Stanley,Equal-Weight,Underweight,up
+2016-03-23 03:48:14,Barclays,Equal-Weight,,main
+2016-03-24 06:35:37,Deutsche Bank,Sell,Hold,down
+2016-05-19 07:36:31,Raymond James,Underperform,Market Perform,down
+2016-05-24 07:44:05,JP Morgan,Neutral,Underweight,up
+2016-07-13 06:08:02,Barclays,Underweight,Equal-Weight,down
+2016-08-26 07:33:04,Credit Suisse,Neutral,Underperform,up
+2016-09-13 08:56:23,Tudor Pickering,Hold,Buy,down
+2016-09-15 07:38:45,Macquarie,Neutral,Underperform,up
+2016-09-21 06:29:01,Raymond James,Market Perform,Underperform,up
+2016-09-26 07:31:32,Credit Suisse,Neutral,,main
+2016-10-05 17:01:06,Citigroup,Buy,Neutral,up
+2016-10-06 07:53:58,Morgan Stanley,Overweight,,main
+2016-10-10 16:59:55,Barclays,Underweight,,main
+2016-10-17 13:49:35,HSBC,Hold,Buy,down
+2016-11-17 14:37:04,Tudor Pickering,Hold,Buy,down
+2017-02-13 11:51:21,JP Morgan,Overweight,Neutral,up
+2017-10-10 17:02:23,Barclays,Equal-Weight,,main
+2017-10-18 15:55:37,Societe Generale,Hold,Buy,down
+2018-04-23 16:51:19,Raymond James,Underperform,Market Perform,down
+2018-05-10 12:45:45,Bank of America,Buy,Neutral,up
+2018-05-24 12:06:11,Credit Suisse,Neutral,Outperform,down
+2018-05-24 12:06:53,Bank of America,Neutral,Buy,down
+2018-05-24 14:39:18,Morgan Stanley,Equal-Weight,Overweight,down
+2018-06-04 11:56:12,Societe Generale,Hold,Buy,down
+2018-06-11 10:48:32,Raymond James,Market Perform,Underperform,up
+2018-10-08 12:17:41,Bank of America,Buy,Neutral,up
+2018-10-08 12:19:07,JP Morgan,Overweight,Neutral,up
+2018-10-08 12:19:24,JP Morgan,Overweight,Overweight,main
+2019-01-10 14:11:27,Barclays,Underweight,Overweight,down
+2019-04-08 11:46:17,Credit Suisse,Outperform,Neutral,up
+2019-07-03 11:54:24,Bank of America,Buy,,init
+2019-07-11 12:07:40,Goldman Sachs,Buy,,init
+2020-04-17 14:14:30,B of A Securities,Buy,,reit
+2020-05-14 11:52:56,B of A Securities,Neutral,Buy,down
+2020-05-18 11:18:36,Raymond James,Underperform,Market Perform,down
+2020-07-22 13:44:58,ScotiaBank,Sector Outperform,,main
+2021-03-15 15:58:39,B of A Securities,Neutral,Underperform,up
+2021-04-14 11:02:51,Goldman Sachs,Neutral,Buy,down
+2021-04-22 12:25:23,JP Morgan,Neutral,Underweight,up
+2021-05-28 16:26:07,JP Morgan,Overweight,Neutral,up
+2021-08-05 15:28:21,Scotiabank,Sector Outperform,Sector Perform,up
+2021-12-16 10:11:00,Goldman Sachs,Buy,Neutral,up

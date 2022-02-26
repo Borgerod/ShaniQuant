@@ -1,0 +1,77 @@
+Date,Firm,To Grade,From Grade,Action
+2013-03-05 16:11:04,PiperJaffray,Neutral,,init
+2013-03-11 08:16:30,JP Morgan,Overweight,,main
+2013-05-07 15:47:18,JP Morgan,Overweight,,main
+2013-06-06 06:27:27,PiperJaffray,Overweight,Neutral,up
+2013-06-18 09:09:38,PiperJaffray,Overweight,,main
+2013-06-25 09:14:14,Mizuho,Buy,,init
+2013-09-06 07:32:08,Stifel Nicolaus,Hold,,init
+2013-09-20 07:43:55,Citigroup,Buy,,init
+2013-11-15 07:43:35,H.C. Wainwright,Neutral,,init
+2014-03-24 08:00:00,Goldman Sachs,Neutral,,init
+2014-04-30 16:00:00,Wallachbeth,Buy,,init
+2014-06-03 06:42:00,Citigroup,Neutral,Buy,down
+2014-06-04 20:36:21,Citigroup,Neutral,,main
+2014-06-05 06:15:41,Stifel,Buy,Hold,up
+2014-08-08 16:00:00,JP Morgan,Overweight,,main
+2014-11-07 08:00:00,Stifel Nicolaus,Buy,,main
+2014-11-07 09:00:00,Citigroup,Neutral,,main
+2015-02-23 09:00:00,Citigroup,Neutral,,main
+2015-02-26 09:00:00,Stifel Nicolaus,Buy,,main
+2015-04-13 04:27:02,Goldman Sachs,Buy,Neutral,up
+2015-05-15 06:17:43,PiperJaffray,Neutral,,down
+2015-05-18 09:00:00,Stifel Nicolaus,Buy,,main
+2015-07-20 04:55:50,Goldman Sachs,Buy,,main
+2015-08-07 11:00:00,JP Morgan,Overweight,,main
+2015-11-16 13:15:49,Mizuho,Neutral,Buy,down
+2015-11-17 05:33:21,Goldman Sachs,Neutral,Buy,down
+2015-12-17 05:56:27,Janney Capital,Buy,,init
+2016-01-20 16:45:00,Credit Suisse,Outperform,,init
+2016-04-13 05:11:55,JP Morgan,Neutral,Overweight,down
+2016-08-05 07:02:25,SunTrust Robinson Humphrey,Buy,,init
+2016-08-24 09:21:07,SunTrust Robinson Humphrey,Buy,,main
+2016-09-21 04:26:47,Credit Suisse,Outperform,Neutral,up
+2016-09-21 11:16:56,Janney Capital,Neutral,Buy,down
+2016-10-11 22:31:56,Wallachbeth,Hold,Buy,down
+2016-10-25 09:32:32,Chardan Capital,Sell,,init
+2016-12-20 14:05:17,Chardan Capital,Neutral,Sell,up
+2017-01-13 17:17:15,Morgan Stanley,Overweight,,init
+2017-01-26 13:30:33,PiperJaffray,Overweight,Neutral,up
+2017-01-27 13:00:29,Bank of America,Buy,,init
+2017-02-03 12:06:07,Chardan Capital,Sell,Neutral,down
+2017-05-17 11:53:29,JP Morgan,Overweight,Neutral,up
+2017-06-13 13:25:36,Leerink Swann,Outperform,,init
+2017-06-19 12:08:48,Chardan Capital,Neutral,Sell,up
+2017-06-20 11:03:53,Janney Capital,Buy,Neutral,up
+2017-06-23 13:44:29,Oppenheimer,Market Perform,,init
+2017-07-07 14:59:02,Gabelli & Co.,Buy,,init
+2017-08-17 13:11:15,Evercore ISI Group,In-Line,,init
+2017-09-15 11:52:56,RBC Capital,Sector Perform,,init
+2017-10-23 12:20:47,Barclays,Overweight,,init
+2017-11-02 15:43:48,Morgan Stanley,Overweight,,main
+2018-02-22 11:33:42,RBC Capital,Outperform,Sector Perform,up
+2018-02-22 13:59:29,Evercore ISI Group,Outperform,In-Line,up
+2018-02-27 14:58:00,Stifel Nicolaus,Buy,Buy,main
+2018-02-27 19:37:58,Barclays,Overweight,Overweight,main
+2018-09-25 12:51:04,Leerink Swann,Market Perform,,init
+2018-10-31 10:23:00,JP Morgan,Neutral,Overweight,down
+2018-10-31 14:58:55,Barclays,Overweight,Overweight,main
+2019-02-13 12:29:09,H.C. Wainwright,Buy,,init
+2019-05-29 12:09:21,Goldman Sachs,Sell,Neutral,down
+2019-08-02 11:38:04,Guggenheim,Neutral,Buy,down
+2019-08-13 11:56:39,Bank of America,Neutral,Buy,down
+2019-09-24 10:41:21,SVB Leerink,Market Perform,Outperform,down
+2019-10-08 13:16:46,Goldman Sachs,Sell,,main
+2019-11-19 11:58:13,Evercore ISI Group,In-Line,Outperform,down
+2020-01-23 18:15:59,B of A Securities,Neutral,,main
+2020-04-09 11:57:42,B of A Securities,Underperform,Neutral,down
+2020-04-27 11:24:29,SVB Leerink,Underperform,Market Perform,down
+2020-05-06 11:24:26,H.C. Wainwright,Buy,,reit
+2020-05-18 10:58:09,HC Wainwright & Co.,Buy,,main
+2020-05-20 10:44:53,SVB Leerink,Underperform,,main
+2020-05-22 10:55:24,HC Wainwright & Co.,Buy,,reit
+2020-11-06 11:27:15,HC Wainwright & Co.,Buy,,main
+2020-11-06 15:37:10,SVB Leerink,Underperform,,main
+2021-05-05 16:18:47,HC Wainwright & Co.,Buy,,main
+2021-08-05 10:09:18,HC Wainwright & Co.,Buy,,main
+2021-09-21 10:27:48,HC Wainwright & Co.,Buy,,main

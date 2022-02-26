@@ -1,0 +1,7 @@
+folder info, what this folder contains
+
+Goal of folder:
+	To scrape stock price data for the listed stock symbols, categorised in: 
+
+- Historical : all the historical data scraped from yahoo finance (yfinance), will update once in a while. 
+- Current    : all the current price data from [undecided], will update frequently [frequency undecided]

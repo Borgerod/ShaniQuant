@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action
+2013-03-18 06:06:03,Deutsche Bank,Hold,,init
+2013-03-18 06:06:41,Goldman Sachs,Neutral,,init
+2013-03-18 06:08:00,JP Morgan,Neutral,,init
+2013-03-18 06:16:18,Bank of America,Buy,,init
+2013-03-18 07:37:55,DA Davidson,Underperform,,init
+2013-04-22 16:26:39,DA Davidson,Underperform,,main
+2013-05-22 10:44:37,DA Davidson,Neutral,Underperform,up
+2013-05-23 09:30:07,DA Davidson,Neutral,Sell,up
+2013-08-26 07:41:49,DA Davidson,Buy,Neutral,up
+2013-08-26 07:52:12,Deutsche Bank,Hold,,main
+2014-09-03 17:08:59,BMO Capital,Outperform,,init
+2014-09-04 06:21:07,BMO Capital,Outperform,,init
+2014-11-17 06:29:14,BMO Capital,Market Perform,Outperform,down
+2014-12-09 00:00:00,DA Davidson,Neutral,Buy,down
+2015-02-23 09:34:50,Vertical Research,Buy,,up
+2015-07-24 07:18:03,DA Davidson,Buy,Neutral,up
+2016-02-19 05:36:26,BMO Capital,Outperform,Market Perform,up
+2016-07-01 06:45:58,Bank of America,Neutral,Buy,down
+2016-08-08 06:55:47,BMO Capital,Market Perform,Outperform,down
+2016-09-22 06:34:38,Goldman Sachs,Buy,,init
+2016-10-25 20:29:36,Goldman Sachs,Neutral,Buy,down
+2017-04-04 14:23:42,Bank of America,Buy,Neutral,up
+2017-10-03 11:43:55,DA Davidson,Neutral,Buy,down
+2017-10-04 13:47:46,Vertical Research,Hold,Buy,down
+2018-01-24 14:40:12,Bank of America,Neutral,Neutral,main
+2018-03-15 12:30:01,Seaport Global,Neutral,,init
+2018-08-07 15:54:37,Bank of America,Neutral,Neutral,main
+2019-02-27 12:30:54,DA Davidson,Buy,Neutral,up
+2019-06-24 11:59:23,Goldman Sachs,Buy,Neutral,up
+2019-07-12 11:25:01,Bank of America,Underperform,Neutral,down
+2019-11-08 13:39:22,DA Davidson,Neutral,Buy,down
+2019-11-11 13:38:57,BMO Capital,Market Perform,,main
+2020-02-05 12:01:17,Benchmark,Hold,,init
+2020-02-26 17:33:44,B of A Securities,Underperform,,main
+2020-03-16 16:42:49,B of A Securities,Neutral,Underperform,up
+2020-05-26 11:44:40,B of A Securities,Buy,Neutral,up
+2020-09-11 13:39:30,B of A Securities,Neutral,Buy,down
+2020-11-03 13:21:55,Benchmark,Buy,,main
+2021-03-12 13:11:05,B of A Securities,Underperform,Neutral,down
+2021-04-09 12:16:10,DA Davidson,Neutral,Buy,down
+2021-05-10 11:25:32,BMO Capital,Market Perform,,main
+2021-07-15 10:19:34,Goldman Sachs,Sell,,init
+2022-01-19 12:11:15,B of A Securities,Buy,Underperform,up
+2022-01-21 11:17:59,Goldman Sachs,Neutral,Sell,up

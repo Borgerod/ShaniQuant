@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action
+2018-02-23 14:05:50,Wells Fargo,Outperform,Market Perform,up
+2018-02-26 12:20:18,KeyBanc,Overweight,Overweight,main
+2018-03-01 16:41:19,Barclays,Equal-Weight,Equal-Weight,main
+2018-04-20 12:31:48,Mitsubishi UFJ,Overweight,,init
+2018-08-06 12:25:32,Barclays,Equal-Weight,Equal-Weight,main
+2018-08-10 11:11:12,KeyBanc,Overweight,Overweight,main
+2018-10-04 15:26:30,Evercore ISI Group,Outperform,,init
+2018-10-19 11:56:15,William Blair,Outperform,Market Perform,up
+2019-01-03 15:26:15,Barclays,Equal-Weight,Equal-Weight,main
+2019-03-19 12:42:44,Credit Suisse,Outperform,Outperform,main
+2019-08-08 10:13:04,KeyBanc,Overweight,,main
+2019-08-23 12:19:21,Credit Suisse,Outperform,,main
+2019-08-29 12:42:08,UBS,Neutral,,main
+2019-09-03 10:10:11,KeyBanc,Overweight,,main
+2020-01-07 12:14:14,Citigroup,Buy,,init
+2020-01-16 10:57:08,KeyBanc,Overweight,,main
+2020-01-16 13:59:20,Baird,Outperform,,main
+2020-02-21 12:53:43,Mizuho,Neutral,,main
+2020-02-21 13:24:20,UBS,Neutral,,main
+2020-02-21 13:38:43,Baird,Outperform,,main
+2020-02-21 13:45:52,Credit Suisse,Outperform,,main
+2020-03-17 16:16:43,SunTrust Robinson Humphrey,Buy,,main
+2020-03-23 13:39:14,Jefferies,Buy,,main
+2020-03-26 19:20:17,Barclays,Equal-Weight,,main
+2020-03-30 09:22:32,Goldman Sachs,Neutral,Buy,down
+2020-04-02 19:32:25,Credit Suisse,Outperform,,main
+2020-04-09 13:51:43,Citigroup,Buy,,main
+2020-04-30 18:03:04,CFRA,Buy,,main
+2020-05-01 16:20:17,UBS,Neutral,,main
+2020-05-01 16:58:47,SunTrust Robinson Humphrey,Buy,,main
+2020-08-12 11:40:58,Truist Securities,Buy,,main
+2020-10-01 11:04:58,Goldman Sachs,Buy,Neutral,up
+2020-10-06 11:24:55,Mizuho,Buy,Neutral,up
+2020-12-07 15:09:12,Credit Suisse,Outperform,,main
+2021-03-03 11:42:21,Barclays,Equal-Weight,,init
+2021-03-08 10:09:05,KeyBanc,Overweight,,main
+2021-04-30 14:08:37,Mizuho,Buy,,main
+2021-06-02 13:26:27,Truist Securities,Buy,,main
+2021-07-13 13:02:36,Barclays,Equal-Weight,,main
+2021-08-10 12:53:46,Credit Suisse,Outperform,,main
+2021-11-04 09:37:53,Keybanc,Overweight,,main
+2021-11-05 11:17:49,Barclays,Overweight,Equal-Weight,up
+2021-12-15 11:58:32,Citigroup,Neutral,Buy,down
+2022-01-27 11:44:56,Barclays,Overweight,,main

@@ -1,0 +1,74 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-12 08:20:00,Stifel Nicolaus,Buy,,main
+2012-05-17 08:01:00,SunTrust Robinson Humphrey,Neutral,,init
+2012-06-22 06:33:00,Benchmark,Buy,,init
+2012-10-25 07:04:00,Sterne Agee,Neutral,Buy,down
+2012-10-25 08:04:00,Stifel Nicolaus,Buy,,main
+2012-11-27 07:13:00,Goldman Sachs,Buy,,init
+2012-12-05 16:39:04,Imperial Capital,Outperform,,init
+2013-02-25 08:40:01,Imperial Capital,Outperform,,main
+2013-04-25 08:33:57,Stifel Nicolaus,Buy,,main
+2013-07-22 07:38:41,Wedbush,Neutral,Outperform,down
+2013-07-25 06:24:52,Goldman Sachs,Neutral,Buy,down
+2013-07-25 07:00:00,CL King,Neutral,Buy,down
+2013-07-25 07:52:07,Monness Crespi Hardt,Neutral,Buy,down
+2013-07-26 11:36:21,Imperial Capital,Outperform,,main
+2013-08-08 06:35:48,Sterne Agee,Underperform,Neutral,down
+2013-10-28 06:38:14,PiperJaffray,Neutral,Overweight,down
+2013-10-31 10:32:09,Imperial Capital,In-Line,Outperform,down
+2013-12-30 16:00:00,Sterne Agee,Neutral,Underperform,up
+2013-12-31 06:23:27,Imperial Capital,In-Line,,main
+2014-01-02 16:00:00,"Monness, Crespi, Hardt",Buy,Neutral,up
+2014-01-23 07:11:05,Stifel Nicolaus,Buy,,main
+2014-02-12 16:00:00,PiperJaffray,Overweight,Neutral,up
+2014-04-10 08:45:23,Buckingham Research,Buy,,init
+2014-05-15 09:38:09,CL King,Strong Buy,Neutral,up
+2014-09-11 07:54:59,Buckingham Research,Neutral,Buy,down
+2014-10-01 06:49:30,Wunderlich,Buy,,init
+2014-10-24 08:30:00,Monness Crespi Hardt,Buy,,main
+2014-12-16 00:00:00,Sterne Agee,Buy,Neutral,up
+2015-01-09 00:00:00,PiperJaffray,Neutral,Overweight,down
+2015-05-04 14:34:34,Standpoint Research,Hold,Buy,down
+2015-05-14 06:40:43,PiperJaffray,Outperform,Market Perform,up
+2015-10-01 07:06:51,PiperJaffray,Neutral,Overweight,down
+2015-10-01 14:27:41,Stifel Nicolaus,Buy,,main
+2015-10-27 05:24:31,Sterne Agee CRT,Neutral,Buy,down
+2016-04-27 07:09:38,Stifel Nicolaus,Hold,Buy,down
+2016-05-10 13:02:13,Sterne Agee CRT,Buy,Neutral,up
+2016-08-12 06:28:11,Susquehanna,Neutral,,init
+2016-11-10 14:41:42,Monness Crespi Hardt,Neutral,Buy,down
+2017-10-05 18:09:15,Pivotal Research,Hold,,init
+2017-12-19 10:56:42,Stifel Nicolaus,Buy,Hold,up
+2018-03-01 13:23:25,Buckingham,Underweight,,main
+2018-03-01 13:35:11,PiperJaffray,Overweight,Neutral,up
+2018-04-16 16:18:59,Susquehanna,Negative,Neutral,down
+2018-05-05 14:00:36,B. Riley FBR,Neutral,,main
+2018-05-05 14:00:36,B. Riley FBR,Neutral,,init
+2018-05-09 11:37:19,Stifel Nicolaus,Hold,Buy,down
+2018-07-25 12:09:06,Pivotal Research,Buy,Hold,up
+2018-11-12 12:14:20,Susquehanna,Neutral,Negative,up
+2019-01-02 13:05:05,Susquehanna,Positive,Neutral,up
+2019-04-23 11:52:50,Piper Jaffray,Neutral,Overweight,down
+2019-06-21 10:53:13,Baird,Outperform,Neutral,up
+2019-07-15 10:59:42,Piper Jaffray,Overweight,Neutral,up
+2019-08-02 16:50:57,Stifel,Hold,,main
+2019-10-08 13:19:39,Piper Jaffray,Overweight,,main
+2020-02-28 13:54:27,Baird,Outperform,,main
+2020-04-06 20:01:11,Susquehanna,Positive,,main
+2020-06-30 12:32:50,Loop Capital,Buy,Hold,up
+2020-07-22 09:25:08,UBS,Neutral,,init
+2020-08-25 09:07:25,B. Riley FBR,Buy,Neutral,up
+2020-09-29 13:15:22,Piper Sandler,Overweight,,main
+2020-10-14 13:48:04,Piper Sandler,Overweight,,main
+2020-10-19 14:45:26,UBS,Neutral,,main
+2020-10-27 16:05:45,Piper Sandler,Overweight,,main
+2021-02-24 14:32:05,Pivotal Research,Buy,,main
+2021-04-27 16:25:21,Piper Sandler,Overweight,,main
+2021-06-29 12:31:38,B. Riley Securities,Buy,,main
+2021-07-14 12:51:01,Piper Sandler,Overweight,,main
+2021-07-20 12:39:47,Pivotal Research,Buy,,main
+2021-07-22 16:24:03,Piper Sandler,Overweight,,main
+2021-09-15 13:22:40,B. Riley Securities,Buy,,main
+2022-01-18 12:13:20,Seaport Global,Neutral,,init
+2022-01-26 13:38:18,B. Riley Securities,Buy,,main
+2022-02-01 14:19:47,Loop Capital,Buy,,main

@@ -1,0 +1,114 @@
+,info
+exchange,BTS
+shortName,VanEck Russia ETF
+longName,VanEck Vectors Russia ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,RSX
+messageBoardId,finmb_34118334
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.3
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1177372800
+annualReportExpenseRatio,
+totalAssets,1376282112
+bookValue,
+fundFamily,VanEck
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0275
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.1538
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Miscellaneous Region
+fiveYearAverageReturn,0.090100005
+phone,800-826-2333
+longBusinessSummary,"The fund normally invests at least 80% of its total assets in securities that comprise the fund's benchmark index. The index includes securities, which may include depositary receipts, of Russian companies. A company is generally considered to be a Russian company if it is incorporated in Russia or is incorporated outside of Russia but has at least 50% of its revenues/related assets in Russia. Such companies may include medium-capitalization companies. It is non-diversified."
+companyOfficers,[]
+previousClose,24.18
+regularMarketOpen,23.43
+twoHundredDayAverage,28.506
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,23.555
+navPrice,26.73
+averageDailyVolume10Day,10754920
+regularMarketPreviousClose,24.18
+fiftyDayAverage,25.1846
+trailingAnnualDividendRate,
+open,23.43
+toCurrency,
+averageVolume10days,10754920
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,22.98
+currency,USD
+regularMarketVolume,11095583
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,7798554
+dayLow,22.98
+ask,22.56
+askSize,4000
+volume,11095583
+fiftyTwoWeekHigh,33.39
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,21.05
+bid,22.29
+tradeable,False
+dividendYield,
+bidSize,2200
+dayHigh,23.555
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0.024600001}, {'basic_materials': 0.2628}, {'consumer_defensive': 0.056500003}, {'technology': 0.0172}, {'communication_services': 0.08979999}, {'financial_services': 0.16360001}, {'utilities': 0.0143}, {'industrials': 0}, {'energy': 0.3712}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'OGZD', 'holdingName': 'Gazprom PJSC ADR', 'holdingPercent': 0.080699995}, {'symbol': 'SBER', 'holdingName': 'Sberbank of Russia PJSC ADR', 'holdingPercent': 0.076799996}, {'symbol': 'LKOD', 'holdingName': 'PJSC Lukoil ADR', 'holdingPercent': 0.0722}, {'symbol': 'MNOD', 'holdingName': 'Mining and Metallurgical Company NORILSK NICKEL PJSC ADR', 'holdingPercent': 0.061300002}, {'symbol': 'NVTK', 'holdingName': 'NOVATEK PJSC GDR', 'holdingPercent': 0.059299998}, {'symbol': 'ATAD', 'holdingName': 'Tatneft PJSC ADR', 'holdingPercent': 0.055999998}, {'symbol': 'TCS', 'holdingName': 'TCS Group Holding PLC GDR Repr Class -A- Reg-S', 'holdingPercent': 0.0545}, {'symbol': 'ROSN', 'holdingName': 'Rosneft Oil Co GDR', 'holdingPercent': 0.051999997}, {'symbol': 'YNDX', 'holdingName': 'Yandex NV Shs Class-A-', 'holdingPercent': 0.0468}, {'symbol': 'POLY', 'holdingName': 'Polymetal International PLC', 'holdingPercent': 0.041500002}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 5.56, 'priceToSales': 1.33, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 10.63, 'priceToBook': 1.35, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9995
+regularMarketPrice,23.02
+preMarketPrice,
+logo_url,

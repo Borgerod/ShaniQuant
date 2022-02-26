@@ -1,0 +1,53 @@
+Date,Firm,To Grade,From Grade,Action
+2017-12-12 13:45:54,Canaccord Genuity,Hold,,init
+2017-12-12 13:46:32,Oppenheimer,Outperform,,init
+2017-12-12 16:36:40,Citigroup,Buy,,init
+2017-12-12 16:44:43,Jefferies,Buy,,init
+2017-12-12 16:44:56,Morgan Stanley,Equal-Weight,,init
+2017-12-12 16:45:10,RBC Capital,Outperform,,init
+2017-12-12 20:36:56,KeyBanc,Overweight,,init
+2018-02-07 14:16:08,Needham,Buy,,init
+2018-02-22 12:59:19,KeyBanc,Overweight,Overweight,main
+2018-03-19 12:32:38,KeyBanc,Overweight,Overweight,main
+2018-05-30 12:21:07,BTIG Research,Buy,,init
+2018-05-30 13:25:43,PiperJaffray,Overweight,,init
+2018-08-09 11:02:29,KeyBanc,Overweight,Overweight,main
+2018-08-09 11:39:12,Canaccord Genuity,Hold,Hold,main
+2018-08-09 12:52:40,Citigroup,Buy,Buy,main
+2018-08-09 14:04:07,Oppenheimer,Outperform,Outperform,main
+2018-08-21 15:11:39,Goldman Sachs,Neutral,,init
+2018-09-11 14:29:12,Northland Securities,Market Perform,,init
+2018-11-13 11:16:49,Goldman Sachs,Buy,Neutral,up
+2019-04-17 13:20:33,Summit Insights Group,Buy,,init
+2019-10-03 11:17:51,SunTrust Robinson Humphrey,Buy,,init
+2019-10-17 12:51:52,Canaccord Genuity,Hold,,main
+2019-11-07 17:19:48,Canaccord Genuity,Hold,,main
+2019-11-08 11:40:50,Wedbush,Outperform,,init
+2019-11-08 14:22:45,PiperJaffray,Overweight,,init
+2020-01-14 11:58:51,DA Davidson,Neutral,,init
+2020-02-25 13:47:50,RBC Capital,Outperform,,main
+2020-03-25 09:44:21,Goldman Sachs,Sell,,init
+2020-03-25 18:29:21,Morgan Stanley,Equal-Weight,,main
+2020-03-30 10:43:38,Needham,Buy,,main
+2020-04-09 15:19:25,DA Davidson,Buy,Neutral,up
+2020-04-24 16:35:42,SunTrust Robinson Humphrey,Buy,,main
+2020-05-04 12:06:03,Needham,Hold,Buy,down
+2020-05-20 12:19:12,Morgan Stanley,Equal-Weight,,main
+2020-06-10 12:35:23,RBC Capital,Outperform,,main
+2020-06-24 14:11:54,SunTrust Robinson Humphrey,Buy,,main
+2020-06-25 11:35:38,Berenberg,Buy,,init
+2020-07-01 10:27:00,Goldman Sachs,Buy,Sell,up
+2020-08-07 10:29:00,Canaccord Genuity,Buy,Hold,up
+2020-08-07 11:03:25,Wedbush,Outperform,,main
+2020-09-03 11:37:40,Wedbush,Outperform,,main
+2020-09-09 10:06:47,Loop Capital,Hold,,init
+2020-10-01 11:06:52,Morgan Stanley,Overweight,Equal-Weight,up
+2020-11-06 13:50:32,Wedbush,Outperform,,main
+2021-01-08 16:40:58,Morgan Stanley,Overweight,,main
+2021-02-16 15:02:48,Canaccord Genuity,Buy,,main
+2021-03-01 12:17:56,Needham,Buy,Hold,up
+2021-03-01 14:28:32,Morgan Stanley,Overweight,,main
+2021-04-05 15:49:48,"Monness, Crespi, Hardt",Buy,Neutral,up
+2021-08-06 14:11:45,Wolfe Research,Outperform,,init
+2021-10-05 09:59:22,Wells Fargo,Overweight,,init
+2021-11-10 14:00:00,RBC Capital,Outperform,,main

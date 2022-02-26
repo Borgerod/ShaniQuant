@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-06 13:39:48,Needham,Buy,,main
+2020-11-06 16:11:46,Morgan Stanley,Equal-Weight,,main
+2020-12-16 13:55:23,JMP Securities,Market Perform,Market Outperform,down
+2021-01-15 11:10:29,Morgan Stanley,Overweight,Equal-Weight,up
+2021-02-01 12:58:13,Morgan Stanley,Overweight,,init
+2021-02-12 13:33:09,JP Morgan,Neutral,Overweight,down
+2021-05-19 11:16:32,Raymond James,Strong Buy,Market Perform,up
+2021-06-30 11:24:30,Raymond James,Strong Buy,,main
+2021-08-06 10:42:02,Needham,Buy,,main
+2021-08-06 16:07:01,Raymond James,Strong Buy,,main
+2021-11-16 12:51:15,Craig-Hallum,Buy,Hold,up
+2021-12-15 13:53:06,Morgan Stanley,Overweight,,main

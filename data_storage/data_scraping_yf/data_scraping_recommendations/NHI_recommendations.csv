@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-16 13:57:00,Hilliard Lyons,Underperform,,down
+2012-04-24 07:24:00,BMO Capital,Market Perform,,init
+2013-01-16 08:54:38,Wells Fargo,Market Perform,Outperform,down
+2013-02-19 08:23:01,BMO Capital,Market Perform,,main
+2013-11-22 13:42:39,JMP Securities,Market Outperform,Market Perform,up
+2013-12-05 06:31:31,Bank of America,Neutral,,init
+2014-03-06 07:01:34,Bank of America,Neutral,,main
+2014-05-06 00:48:56,JMP Securities,Market Outperform,,main
+2014-08-05 10:47:16,Hilliard Lyons,Neutral,Underperform,up
+2014-09-04 06:02:42,Mizuho,Neutral,,init
+2014-11-05 09:00:00,JMP Securities,Market Outperform,,main
+2015-01-13 00:00:00,JMP Securities,Market Perform,Market Outperform,down
+2015-02-18 09:00:00,Stifel Nicolaus,Buy,,main
+2015-04-08 06:03:47,BMO Capital,Outperform,,init
+2015-08-07 11:00:00,Stifel Nicolaus,Buy,,main
+2015-08-12 06:48:16,BMO Capital,Market Perform,,down
+2015-09-21 06:30:04,Mizuho,Neutral,,main
+2015-11-09 08:47:47,Stifel Nicolaus,Buy,,main
+2016-03-11 06:33:40,Bank of America,Neutral,Underperform,up
+2016-09-14 07:24:14,Stephens & Co.,Overweight,,init
+2017-10-11 19:16:03,SunTrust Robinson Humphrey,Hold,,init
+2017-10-23 17:45:03,Capital One Financial,Equal-Weight,,init
+2017-12-19 21:28:46,KeyBanc,Underweight,Sector Weight,down
+2018-04-17 11:25:07,KeyBanc,Underweight,Underweight,main
+2018-05-31 12:49:32,Wells Fargo,Market Perform,Market Perform,main
+2018-08-08 12:52:13,Cantor Fitzgerald,Neutral,Neutral,main
+2019-02-20 12:08:02,BMO Capital,Underperform,Market Perform,down
+2020-01-07 13:13:18,BMO Capital,Market Perform,Underperform,up
+2020-02-05 11:17:01,Berenberg,Buy,,init
+2020-03-26 12:54:34,Wells Fargo,Equal-Weight,,main
+2020-04-21 10:16:44,KeyBanc,Underweight,,main
+2020-04-23 15:11:07,SunTrust Robinson Humphrey,Hold,,main
+2020-05-14 10:10:03,KeyBanc,Underweight,,main
+2020-05-22 09:50:27,Mizuho,Neutral,Buy,down
+2020-06-17 12:16:05,Wells Fargo,Equal-Weight,,main
+2020-06-24 14:09:21,SunTrust Robinson Humphrey,Hold,,main
+2020-12-14 09:53:56,KeyBanc,Sector Weight,Underweight,up
+2021-01-08 13:15:52,BMO Capital,Underperform,Market Perform,down
+2021-01-13 12:30:10,Mizuho,Underperform,Neutral,down
+2021-03-30 13:56:24,Capital One Financial,Equal-Weight,Overweight,down
+2021-06-18 11:02:35,BMO Capital,Market Perform,Underperform,up
+2021-07-23 12:12:54,Wells Fargo,Equal-Weight,,main
+2022-01-07 11:40:23,BMO Capital,Outperform,Market Perform,up
+2022-02-01 17:09:48,Credit Suisse,Underperform,,init

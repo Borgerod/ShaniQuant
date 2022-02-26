@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,Direxion Daily S&P Biotech Bear
+longName,Direxion Daily S&P Biotech Bear 3X Shares
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,LABD
+messageBoardId,finmb_295054278
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,-2.62
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1432771200
+annualReportExpenseRatio,
+totalAssets,40383888
+bookValue,
+fundFamily,Direxion Funds
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.62119997
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Trading--Inverse Equity
+fiveYearAverageReturn,-0.5956
+phone,866-476-7523
+longBusinessSummary,"The fund, under normal circumstances, invests in swap agreements, futures contracts, short positions or other financial instruments that, in combination, provide inverse (opposite) or short leveraged exposure to the index equal to at least 80% of the fund's net assets (plus borrowing for investment purposes). The index is designed to measure the performance of the biotechnology sub-industry based on the Global Industry Classification Standards (""GICS""). The fund is non-diversified."
+companyOfficers,[]
+previousClose,40.04
+regularMarketOpen,40.18
+twoHundredDayAverage,24.8595
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,42.76
+navPrice,25.82
+averageDailyVolume10Day,6084350
+regularMarketPreviousClose,40.04
+fiftyDayAverage,33.881
+trailingAnnualDividendRate,
+open,40.18
+toCurrency,
+averageVolume10days,6084350
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,38.6917
+currency,USD
+regularMarketVolume,4474979
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,4040838
+dayLow,38.6917
+ask,41.9
+askSize,1000
+volume,4474979
+fiftyTwoWeekHigh,55.46
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,15.96
+bid,42.05
+tradeable,False
+dividendYield,
+bidSize,900
+dayHigh,42.76
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'FTIXX', 'holdingName': 'Goldman Sachs FS Treasury Intms Instl', 'holdingPercent': 0.6044}, {'symbol': 'DAPXX', 'holdingName': 'Dreyfus Government Secs Cash Mgmt Admin', 'holdingPercent': 0.0625}, {'symbol': '', 'holdingName': 'S&P Biotechnology Select Industry Index Swap', 'holdingPercent': 0.022}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0
+regularMarketPrice,41.66
+preMarketPrice,
+logo_url,

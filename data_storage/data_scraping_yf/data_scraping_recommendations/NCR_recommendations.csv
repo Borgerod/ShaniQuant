@@ -1,0 +1,75 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-10 06:05:00,Goldman Sachs,Neutral,,down
+2012-03-27 07:46:00,Oppenheimer,Outperform,,main
+2012-04-26 06:42:00,JP Morgan,Overweight,,main
+2012-07-18 08:38:00,Compass Point,Buy,Neutral,up
+2012-08-14 06:37:00,Wedbush,Neutral,Outperform,down
+2012-11-27 09:59:00,Susquehanna,Positive,,init
+2012-11-29 09:21:00,Compass Point,Buy,,main
+2013-01-29 06:16:02,Compass Point,Neutral,Buy,down
+2013-04-17 06:36:53,Compass Point,Buy,Neutral,up
+2013-07-31 07:10:35,Compass Point,Buy,,main
+2013-10-11 08:52:55,Compass Point,Buy,,main
+2013-10-25 07:52:52,Compass Point,Neutral,Buy,down
+2013-10-25 10:53:17,Compass Point,Neutral,Buy,down
+2013-12-03 09:59:21,Compass Point,Buy,Neutral,up
+2014-01-23 16:00:00,Northcoast Research,Neutral,Buy,down
+2014-02-07 09:26:34,Compass Point,Buy,,main
+2014-04-30 01:08:35,JP Morgan,Overweight,,main
+2014-07-24 22:15:06,JP Morgan,Overweight,,main
+2015-01-15 09:00:00,JP Morgan,Overweight,,main
+2015-02-11 09:00:00,JP Morgan,Overweight,,main
+2015-04-22 09:00:00,Susquehanna,Positive,,main
+2015-10-28 13:35:42,Oppenheimer,Outperform,,main
+2015-12-03 07:08:04,Oppenheimer,Outperform,Perform,down
+2015-12-18 06:44:30,Jefferies,Overweight,,init
+2016-01-26 12:31:15,Susquehanna,Positive,,main
+2016-02-10 12:33:59,JP Morgan,Overweight,,main
+2016-07-27 14:01:53,JP Morgan,Overweight,,main
+2016-08-15 10:20:33,JP Morgan,Overweight,,main
+2017-03-16 14:51:01,Oppenheimer,Outperform,Perform,up
+2017-04-13 12:21:41,Benchmark,Buy,,init
+2017-07-18 17:06:34,Compass Point,Buy,,init
+2017-10-20 19:18:43,Morgan Stanley,Equal-Weight,,main
+2018-02-07 12:19:50,DA Davidson,Neutral,,init
+2018-02-09 16:09:47,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-05-02 12:52:03,DA Davidson,Neutral,Neutral,main
+2018-05-24 12:16:23,Oppenheimer,Outperform,Outperform,main
+2018-07-27 12:49:07,JP Morgan,Overweight,Overweight,main
+2018-07-27 13:29:30,Oppenheimer,Perform,Outperform,down
+2018-10-31 16:50:42,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-12-18 12:30:10,RBC Capital,Top Pick,Outperform,up
+2019-01-08 23:11:56,DA Davidson,Buy,Neutral,up
+2019-01-09 12:50:11,DA Davidson,Buy,Neutral,up
+2019-03-25 11:51:49,JP Morgan,Neutral,Overweight,down
+2019-07-26 11:59:10,Morgan Stanley,Equal-Weight,,main
+2019-09-18 12:36:26,Wells Fargo,Outperform,,init
+2019-09-24 12:21:35,DA Davidson,Buy,,main
+2019-11-08 16:52:32,Morgan Stanley,Equal-Weight,,main
+2019-12-23 15:31:04,Standpoint Research,Accumulate,,init
+2020-03-04 11:24:21,Stephens & Co.,Equal-Weight,,main
+2020-03-18 14:57:37,Oppenheimer,Outperform,Perform,up
+2020-03-25 19:05:47,Morgan Stanley,Equal-Weight,,main
+2020-03-27 15:38:21,JP Morgan,Neutral,,main
+2020-03-30 13:30:45,Benchmark,Buy,,main
+2020-04-02 08:02:28,Morgan Stanley,Equal-Weight,,main
+2020-04-02 12:49:09,Wells Fargo,Overweight,,main
+2020-04-03 17:51:04,DA Davidson,Buy,,main
+2020-05-01 12:49:54,Oppenheimer,Outperform,,main
+2020-07-28 11:06:05,Benchmark,Buy,,main
+2020-07-29 12:56:47,Morgan Stanley,Equal-Weight,,main
+2020-07-29 18:31:55,JP Morgan,Neutral,,main
+2020-09-29 12:52:27,Stephens & Co.,Overweight,Equal-Weight,up
+2020-10-13 14:11:06,Morgan Stanley,Equal-Weight,,main
+2020-10-27 12:27:09,JP Morgan,Overweight,Neutral,up
+2020-10-28 14:58:54,Wells Fargo,Overweight,,main
+2020-12-01 11:18:47,Morgan Stanley,Overweight,Equal-Weight,up
+2020-12-04 11:25:06,Stephens & Co.,Overweight,,main
+2020-12-04 15:01:18,Morgan Stanley,Overweight,,main
+2021-01-27 13:48:58,Morgan Stanley,Overweight,,main
+2021-04-08 12:17:17,Morgan Stanley,Overweight,,main
+2021-04-28 12:04:53,Oppenheimer,Outperform,,main
+2021-04-28 13:20:23,Morgan Stanley,Overweight,,main
+2021-05-10 14:07:10,Morgan Stanley,Overweight,,main
+2021-08-04 13:20:13,Morgan Stanley,Overweight,,main
+2021-11-19 09:47:57,Stephens & Co.,Overweight,,init

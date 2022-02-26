@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action
+2013-01-08 10:50:38,Raymond James,Market Perform,,init
+2013-04-04 08:24:43,Janney Capital,Buy,,init
+2013-07-24 09:36:28,Boenning & Scattergood,Neutral,Outperform,down
+2013-08-21 08:58:04,FBR Capital,Market Perform,,init
+2013-09-12 08:21:58,Guggenheim,Neutral,,init
+2013-12-03 16:00:00,Sandler O'Neill,Hold,,init
+2014-01-30 08:00:00,Guggenheim,Buy,Neutral,up
+2014-02-27 08:00:00,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2014-02-28 06:34:44,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2014-10-24 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2014-11-10 08:00:00,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2015-02-11 07:12:29,FBR Capital,Outperform,Market Perform,up
+2015-07-23 07:47:22,FBR Capital,Market Perform,Outperform,down
+2015-07-23 11:00:00,Macquarie,Neutral,,main
+2015-08-11 07:20:04,Macquarie,Outperform,Neutral,up
+2016-01-08 08:19:48,Boenning & Scattergood,Outperform,Neutral,up
+2016-04-21 09:02:51,Boenning & Scattergood,Neutral,Outperform,down
+2017-03-06 23:06:52,DA Davidson,Neutral,,init
+2017-06-02 12:16:44,DA Davidson,Buy,Neutral,up
+2017-10-20 16:17:49,Sandler O'Neill,Hold,Buy,down
+2018-06-20 09:53:28,B. Riley FBR,Neutral,Neutral,main
+2019-07-25 10:21:53,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2019-07-25 11:51:48,Sandler O'Neill,Buy,Hold,up
+2020-01-29 11:55:04,"Keefe, Bruyette & Woods",Market Perform,Outperform,down
+2020-01-29 16:49:04,Stephens & Co.,Overweight,,main
+2020-04-13 12:32:38,B. Riley FBR,Neutral,,main
+2020-04-29 17:05:20,B. Riley FBR,Neutral,,main
+2020-06-17 12:33:10,Raymond James,Outperform,Market Perform,up
+2020-07-24 14:42:34,Piper Sandler,Overweight,,main
+2020-10-23 11:38:28,Raymond James,Outperform,,main
+2020-10-26 13:28:53,Piper Sandler,Overweight,,main
+2020-11-19 11:15:24,RBC Capital,Sector Perform,,init
+2020-11-25 14:43:59,Stephens & Co.,Equal-Weight,Overweight,down
+2021-04-29 10:59:17,Piper Sandler,Neutral,Overweight,down
+2021-07-08 12:16:41,Raymond James,Market Perform,Outperform,down
+2021-09-29 11:21:42,RBC Capital,Sector Perform,,main

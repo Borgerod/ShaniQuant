@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,VanEck Oil Services ETF
+longName,VanEck Vectors Oil Services ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,OIH
+messageBoardId,finmb_3589047
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,3.02
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1324339200
+annualReportExpenseRatio,
+totalAssets,2152355328
+bookValue,
+fundFamily,VanEck
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0086
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.1116
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Equity Energy
+fiveYearAverageReturn,-0.198
+phone,800-826-2333
+longBusinessSummary,The fund normally invests at least 80% of its total assets in securities that comprise the fund's benchmark index. The index includes common stocks and depositary receipts of U.S. exchange-listed companies in the oil services segment. Such companies may include small- and medium-capitalization companies and foreign companies that are listed on a U.S. exchange. The fund is non-diversified.
+companyOfficers,[]
+previousClose,245.63
+regularMarketOpen,240.9
+twoHundredDayAverage,206.37566
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,244.7399
+navPrice,205.88
+averageDailyVolume10Day,1046230
+regularMarketPreviousClose,245.63
+fiftyDayAverage,213.6536
+trailingAnnualDividendRate,
+open,240.9
+toCurrency,
+averageVolume10days,1046230
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,236.34
+currency,USD
+regularMarketVolume,1000035
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,977804
+dayLow,236.34
+ask,241.3
+askSize,900
+volume,1000035
+fiftyTwoWeekHigh,252.81
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,164.41
+bid,240
+tradeable,False
+dividendYield,
+bidSize,1800
+dayHigh,244.7399
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 1}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'SLB', 'holdingName': 'Schlumberger Ltd', 'holdingPercent': 0.1928}, {'symbol': 'HAL', 'holdingName': 'Halliburton Co', 'holdingPercent': 0.13239999}, {'symbol': 'BKR', 'holdingName': 'Baker Hughes Co Class A', 'holdingPercent': 0.0677}, {'symbol': 'RIG', 'holdingName': 'Transocean Ltd', 'holdingPercent': 0.052699998}, {'symbol': 'CHX', 'holdingName': 'ChampionX Corp', 'holdingPercent': 0.0515}, {'symbol': 'TS.MI', 'holdingName': 'Tenaris SA ADR', 'holdingPercent': 0.0511}, {'symbol': 'HP', 'holdingName': 'Helmerich & Payne Inc', 'holdingPercent': 0.0481}, {'symbol': 'NOV', 'holdingName': 'NOV Inc', 'holdingPercent': 0.0432}, {'symbol': 'WHD', 'holdingName': 'Cactus Inc Class A', 'holdingPercent': 0.0424}, {'symbol': 'FTI', 'holdingName': 'TechnipFMC PLC', 'holdingPercent': 0.0418}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 9.72, 'priceToSales': 1.61, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 1.36, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,1
+regularMarketPrice,240.01
+preMarketPrice,
+logo_url,

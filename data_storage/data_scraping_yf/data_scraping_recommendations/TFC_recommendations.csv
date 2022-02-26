@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action
+2019-12-16 12:40:18,Credit Suisse,Neutral,,init
+2019-12-16 13:38:10,Citigroup,Neutral,,main
+2020-02-03 11:15:46,Stephens & Co.,Equal-Weight,,main
+2020-03-17 13:54:10,Baird,Outperform,Neutral,up
+2020-03-27 19:10:41,Citigroup,Neutral,,main
+2020-04-02 08:47:56,Wells Fargo,Overweight,,main
+2020-04-02 14:14:54,Deutsche Bank,Buy,,main
+2020-04-06 16:36:35,Wells Fargo,Overweight,,main
+2020-04-06 16:51:59,Credit Suisse,Neutral,,main
+2020-04-06 20:03:28,UBS,Neutral,,main
+2020-04-09 16:14:39,Janney Capital,Neutral,,main
+2020-04-14 10:09:53,Compass Point,Buy,,init
+2020-04-21 10:31:25,CFRA,Buy,,main
+2020-04-21 11:52:17,Piper Sandler,Overweight,Neutral,up
+2020-04-21 12:09:40,Argus Research,Buy,,main
+2020-05-04 14:26:38,UBS,Neutral,,main
+2020-05-13 13:20:19,Compass Point,Buy,,main
+2020-06-17 12:34:58,Raymond James,Outperform,Market Perform,up
+2020-06-25 13:26:40,Morgan Stanley,Equal-Weight,,main
+2020-09-18 11:21:24,Raymond James,Outperform,,main
+2020-10-16 12:40:17,Morgan Stanley,Equal-Weight,,main
+2020-10-16 15:36:05,B of A Securities,Buy,,main
+2020-11-30 14:48:05,Morgan Stanley,Equal-Weight,,main
+2021-01-07 13:03:16,Baird,Neutral,Outperform,down
+2021-01-07 15:13:49,Raymond James,Outperform,,main
+2021-01-22 11:44:09,B of A Securities,Buy,,main
+2021-01-22 13:36:21,Credit Suisse,Neutral,,main
+2021-01-22 14:46:05,Morgan Stanley,Equal-Weight,,main
+2021-03-01 14:33:57,Morgan Stanley,Equal-Weight,,main
+2021-03-24 12:14:39,Morgan Stanley,Equal-Weight,,main
+2021-04-07 12:32:20,Raymond James,Outperform,,main
+2021-05-10 10:55:03,Raymond James,Market Perform,Outperform,down
+2021-10-05 10:54:55,Wolfe Research,Underperform,Outperform,down
+2021-11-29 12:28:46,Stephens & Co.,Overweight,Equal-Weight,up
+2021-12-06 15:39:30,Morgan Stanley,Equal-Weight,,main
+2021-12-10 15:32:55,UBS,Neutral,,init
+2022-01-06 12:43:07,JP Morgan,Neutral,,main
+2022-01-19 11:24:30,Piper Sandler,Neutral,Overweight,down
+2022-01-19 12:46:50,Stephens & Co.,Overweight,,main
+2022-01-19 13:19:18,UBS,Buy,Neutral,up
+2022-01-24 13:34:35,Credit Suisse,Neutral,,main

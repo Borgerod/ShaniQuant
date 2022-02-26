@@ -1,0 +1,82 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-29 06:05:00,Deutsche Bank,Hold,,down
+2012-05-04 15:05:00,Societe Generale,Buy,,main
+2012-08-10 05:48:00,Raymond James,Market Perform,Outperform,down
+2012-11-09 07:43:00,BMO Capital,Market Perform,,main
+2013-01-22 06:31:26,Canaccord Genuity,Hold,Buy,down
+2013-03-08 06:32:30,Citigroup,Buy,,main
+2013-03-08 07:18:31,BMO Capital,Market Perform,,main
+2013-03-08 07:57:02,CIBC,Sector Perform,Sector Outperform,down
+2013-03-14 08:28:07,Stifel Nicolaus,Buy,Hold,up
+2013-05-21 09:12:54,FirstEnergy Capital,Top Pick,Outperform,up
+2013-05-30 09:10:59,GMP Securities,Buy,,init
+2013-06-06 08:56:29,Global Hunter Securities,Accumulate,,init
+2013-07-29 09:13:18,TD Securities,Hold,,main
+2013-07-29 09:13:57,Macquarie,Neutral,Outperform,down
+2013-08-12 08:47:20,FirstEnergy Capital,Outperform,Top Pick,down
+2013-09-26 13:43:14,FirstEnergy Capital,Top Pick,Outperform,up
+2013-10-10 07:41:18,Canaccord Genuity,Buy,Hold,up
+2013-11-25 10:58:52,Barclays,Overweight,,main
+2014-01-06 16:00:00,Cormark Securities,Market Perform,Buy,down
+2014-01-21 09:16:34,Seaport Global,Buy,Accumulate,up
+2014-02-20 08:00:00,Macquarie,Outperform,Market Perform,up
+2014-03-19 07:00:21,Morgan Stanley,Overweight,,init
+2014-03-25 08:00:00,Morgan Stanley,Overweight,,init
+2014-03-27 09:09:24,FirstEnergy Capital,Outperform,Market Perform,up
+2014-04-15 22:31:30,CIBC,Sector Outperform,,main
+2014-05-12 07:29:12,FirstEnergy Capital,Top Pick,Outperform,up
+2014-06-19 19:07:03,Citigroup,Buy,,main
+2014-07-17 20:00:32,CIBC,,,main
+2014-09-16 10:55:23,AltaCorp Capital,Outperform,,init
+2014-09-26 10:31:23,TD Securities,Buy,Hold,up
+2014-12-08 08:41:12,Citigroup,Neutral,Buy,down
+2015-03-06 09:00:00,Citigroup,Neutral,,main
+2015-03-06 10:20:50,Cormark Securities,Buy,Market Perform,up
+2015-03-10 07:57:42,Veritas,Buy,Sell,up
+2015-04-09 09:00:00,Citigroup,Neutral,,main
+2015-04-14 08:43:13,GMP Securities,Buy,,init
+2015-04-22 08:55:41,Nomura,Buy,,init
+2015-04-24 07:09:16,UBS,Buy,,init
+2015-05-08 09:00:00,RBC Capital,Outperform,,main
+2015-05-28 06:46:51,JP Morgan,Overweight,,init
+2015-08-07 08:01:00,Raymond James,,Market Perform,up
+2015-08-07 11:00:00,JP Morgan,Overweight,,main
+2015-08-26 04:08:51,JP Morgan,Neutral,Overweight,down
+2015-09-09 08:18:05,Raymond James,Outperform,,up
+2015-09-14 11:00:00,Citigroup,Neutral,,main
+2015-12-15 11:56:59,JP Morgan,Neutral,,main
+2016-01-05 06:59:44,Citigroup,Buy,Neutral,up
+2016-01-12 08:26:35,Morgan Stanley,Equal-Weight,,down
+2016-01-21 11:46:19,Nomura,Buy,,main
+2016-03-04 06:46:00,JP Morgan,Overweight,Neutral,up
+2016-04-01 08:01:26,TD Securities,Hold,Buy,down
+2016-04-07 11:11:44,Citigroup,Buy,,main
+2016-06-16 07:32:05,RBC Capital,Buy,,main
+2016-06-17 13:48:50,Citigroup,Buy,,main
+2016-08-05 10:54:18,Macquarie,Outperform,Neutral,up
+2016-08-05 11:08:13,JP Morgan,Overweight,,main
+2016-08-19 09:27:25,Bank of America,Buy,,init
+2017-06-27 13:12:00,National Bank Financial,Outperform,,init
+2017-07-19 16:41:23,Morgan Stanley,Overweight,Equal-Weight,up
+2017-07-21 11:26:52,Citigroup,Neutral,Buy,down
+2017-10-13 13:14:28,Morgan Stanley,Overweight,,main
+2018-01-24 13:57:37,Morgan Stanley,Overweight,Overweight,main
+2018-02-07 14:02:32,Wells Fargo,Market Perform,Outperform,down
+2018-03-07 14:23:09,UBS,Buy,,init
+2018-04-16 11:57:35,Morgan Stanley,Overweight,Overweight,main
+2018-05-23 12:51:55,Morgan Stanley,Overweight,Overweight,main
+2018-09-20 12:10:01,RBC Capital,Outperform,Top Pick,down
+2018-10-05 11:10:56,CIBC,Outperformer,,init
+2018-10-12 11:27:29,Morgan Stanley,Overweight,Overweight,main
+2018-11-20 15:34:04,Morgan Stanley,Overweight,Overweight,main
+2018-12-07 14:59:20,Citigroup,Neutral,Neutral,main
+2019-01-28 14:00:54,Credit Suisse,Outperform,,init
+2019-03-12 11:03:25,Mizuho,Buy,,init
+2019-04-03 11:52:11,Evercore ISI Group,Outperform,In-Line,up
+2019-09-06 10:59:48,Wells Fargo,Underperform,Market Perform,down
+2019-10-02 10:24:23,National Bank Financial,Sector Perform,Outperform,down
+2019-10-08 13:06:42,Tudor Pickering,Hold,Buy,down
+2019-12-11 13:30:09,Tudor Pickering,Buy,Hold,up
+2020-05-08 13:00:50,RBC Capital,Outperform,,main
+2020-05-14 13:03:04,Goldman Sachs,Buy,Neutral,up
+2021-06-11 10:40:40,Goldman Sachs,Buy,Neutral,up

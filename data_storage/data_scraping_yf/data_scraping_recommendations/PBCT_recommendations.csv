@@ -1,0 +1,78 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-10 06:51:00,Guggenheim,Neutral,,main
+2012-07-20 06:02:00,Compass Point,Neutral,,main
+2012-07-20 06:39:00,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2012-10-08 06:16:00,JP Morgan,Neutral,,main
+2012-10-09 12:32:00,Barclays,Equal-Weight,,main
+2012-10-22 08:31:00,JP Morgan,Neutral,,main
+2012-12-20 09:52:37,Evercore Partners,Underweight,,init
+2013-03-22 06:32:36,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2013-05-23 09:32:44,Sandler O'Neill,Sell,Hold,down
+2013-06-18 07:44:08,JP Morgan,Overweight,Neutral,up
+2013-06-28 09:07:04,Deutsche Bank,Hold,,main
+2013-07-09 07:56:27,JP Morgan,Overweight,,main
+2013-08-07 10:08:29,Boenning & Scattergood,Underperform,,init
+2014-01-17 16:00:00,FBR Capital,Underperform,Market Perform,down
+2014-04-22 01:28:33,JP Morgan,Neutral,,main
+2014-05-15 07:31:24,SunTrust Robinson Humphrey,Neutral,,init
+2014-07-21 20:08:43,JP Morgan,Neutral,,main
+2014-09-16 07:44:54,Sandler O'Neill,Sell,Hold,down
+2014-10-03 09:28:49,Barclays,Underweight,Equal-Weight,down
+2014-10-20 08:00:00,Raymond James,Market Perform,Outperform,down
+2014-10-20 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-01-20 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-04-17 05:56:10,Sandler O'Neill,Hold,Sell,up
+2015-04-17 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-06-16 09:00:00,Barclays,Underweight,,main
+2015-06-29 09:00:00,SunTrust Robinson Humphrey,Neutral,,main
+2015-07-20 11:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-10-09 13:52:04,Barclays,Underweight,,main
+2016-01-25 05:53:04,PiperJaffray,Overweight,Neutral,up
+2016-01-25 13:12:45,Deutsche Bank,Hold,,main
+2016-04-05 06:05:20,Morgan Stanley,Underweight,Equal-Weight,down
+2016-04-05 08:15:17,JP Morgan,Neutral,,main
+2016-04-22 06:55:29,PiperJaffray,Underweight,Neutral,down
+2016-06-29 06:54:10,PiperJaffray,Neutral,Underweight,up
+2016-10-11 14:40:15,Deutsche Bank,Hold,,main
+2016-11-16 12:59:07,PiperJaffray,Underweight,Neutral,down
+2016-12-02 18:56:36,Sandler O'Neill,Sell,Hold,down
+2016-12-06 18:45:06,Barclays,Underweight,,main
+2016-12-20 13:50:22,FBR Capital,Market Perform,Underperform,up
+2017-06-05 16:00:58,Morgan Stanley,Equal-Weight,Underweight,up
+2018-03-22 13:29:08,UBS,Neutral,,init
+2018-04-20 12:11:27,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-04-20 17:40:07,PiperJaffray,Neutral,Underweight,up
+2018-06-20 11:43:13,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2018-07-24 12:10:34,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-09-18 11:38:09,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2019-01-10 11:55:58,Barclays,Equal-Weight,Underweight,up
+2019-04-22 14:26:28,Fig Partners,Market Perform,Outperform,down
+2019-08-27 10:32:08,DA Davidson,Buy,,init
+2019-09-06 11:04:43,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2019-10-03 13:52:07,Morgan Stanley,Equal-Weight,,main
+2019-11-26 12:03:17,Raymond James,Market Perform,,init
+2020-01-17 14:28:31,DA Davidson,Neutral,Buy,down
+2020-01-17 17:08:27,Stephens & Co.,Equal-Weight,,main
+2020-03-17 14:42:29,Morgan Stanley,Equal-Weight,,main
+2020-04-07 12:28:34,Morgan Stanley,Equal-Weight,,main
+2020-04-24 11:54:44,DA Davidson,Neutral,Buy,down
+2020-04-24 16:26:50,Piper Sandler,Overweight,,main
+2020-05-15 14:49:38,UBS,Neutral,,main
+2020-06-08 12:51:09,Morgan Stanley,Equal-Weight,,main
+2020-06-24 09:44:01,RBC Capital,Sector Perform,,init
+2020-08-04 12:37:48,Morgan Stanley,Equal-Weight,,main
+2020-09-28 13:42:20,Piper Sandler,Overweight,,main
+2020-12-07 14:05:09,Morgan Stanley,Equal-Weight,,main
+2020-12-17 11:38:31,Seaport Global,Buy,,init
+2021-01-07 10:13:26,Jefferies,Buy,Hold,up
+2021-01-07 16:52:46,Morgan Stanley,Equal-Weight,,main
+2021-01-25 12:38:46,Deutsche Bank,Hold,,main
+2021-01-27 13:51:55,Morgan Stanley,Equal-Weight,,main
+2021-02-24 13:29:06,Morgan Stanley,Equal-Weight,,main
+2021-03-18 13:50:15,Morgan Stanley,Equal-Weight,,main
+2021-04-06 13:07:49,Seaport Global,Neutral,Buy,down
+2021-05-03 12:22:53,Morgan Stanley,Equal-Weight,,main
+2021-08-02 14:22:06,Morgan Stanley,Equal-Weight,,main
+2021-10-07 11:35:50,Wells Fargo,Equal-Weight,,main
+2021-12-06 15:32:31,Morgan Stanley,Equal-Weight,,main
+2022-01-04 14:24:05,Wells Fargo,Equal-Weight,,main

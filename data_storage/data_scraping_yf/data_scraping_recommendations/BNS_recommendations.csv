@@ -1,0 +1,54 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-30 05:50:00,Canaccord Genuity,Buy,,up
+2012-05-30 06:45:00,Bank oferica,Buy,,main
+2012-05-30 07:10:00,National Bank Financial,Sector Perform,,main
+2012-08-07 13:32:00,Barclays,Equal-Weight,Underweight,up
+2012-08-28 08:35:00,Stifel Nicolaus,Hold,,init
+2012-08-29 06:10:00,Credit Suisse,Neutral,Outperform,down
+2012-08-29 06:43:00,National Bank Financial,Outperform,Sector Perform,up
+2012-08-29 08:03:00,BMO Capital,Outperform,,main
+2012-09-25 09:30:00,Cormark Securities,Buy,Market Perform,up
+2012-12-04 06:04:12,Citigroup,Neutral,,init
+2012-12-10 09:18:48,Bank of America,Buy,,main
+2013-01-24 07:34:48,BMO Capital,Outperform,,main
+2013-02-11 12:09:54,Barclays,Equal-Weight,,main
+2013-02-20 13:30:54,Barclays,Overweight,Equal-Weight,up
+2013-03-06 08:14:38,BMO Capital,Outperform,,main
+2013-03-06 08:49:20,TD Securities,Buy,,main
+2013-05-29 07:50:23,Credit Suisse,Neutral,,main
+2013-06-18 07:59:21,Barclays,Equal-Weight,Overweight,down
+2013-08-28 07:34:32,BMO Capital,Outperform,,main
+2013-10-17 16:00:00,TD Securities,Buy,,init
+2013-10-28 08:11:23,Credit Suisse,Outperform,Neutral,up
+2013-11-21 13:21:56,Barclays,Equal-Weight,,main
+2013-12-09 06:43:12,National Bank Financial,Sector Perform,Outperform,down
+2014-01-31 08:00:00,Citigroup,Neutral,,main
+2014-05-01 08:00:00,Canaccord Genuity,Buy,,init
+2014-05-15 07:38:21,National Bank Financial,Outperform,Sector Perform,up
+2014-05-30 06:17:07,CIBC,Sector Outperform,Sector Perform,up
+2014-08-19 09:00:00,Barclays,Equal-Weight,,main
+2014-08-27 07:44:16,TD Securities,Buy,,main
+2014-08-27 07:44:38,Credit Suisse,Neutral,Outperform,down
+2014-11-04 12:59:51,CIBC,Sector Perform,Sector Outperform,down
+2015-03-06 09:00:00,Citigroup,Neutral,,main
+2015-05-20 07:14:24,Bank of America,Underperform,Neutral,down
+2015-05-29 14:11:06,RBC Capital,Outperform,,up
+2015-06-01 08:53:00,Cormark Securities,Buy,Market Perform,up
+2015-08-31 07:23:28,RBC Capital,Outperform,,main
+2015-12-17 06:06:17,Credit Suisse,Neutral,,main
+2016-06-09 07:47:07,Macquarie,Neutral,Outperform,down
+2016-09-21 07:56:57,Dundee,Buy,,init
+2016-11-01 11:26:45,Bank of America,Buy,,init
+2017-05-23 11:36:14,Barclays,Overweight,Equal-Weight,up
+2018-06-05 12:46:54,Bank of America,Neutral,Buy,down
+2018-08-29 12:47:56,Canaccord Genuity,Hold,Buy,down
+2019-08-28 11:22:29,BMO Capital,Outperform,,main
+2019-08-28 11:36:44,Credit Suisse,Outperform,,main
+2019-09-24 10:44:29,Bank of America,Buy,Neutral,up
+2019-12-13 12:44:08,Credit Suisse,Neutral,Outperform,down
+2020-03-18 17:40:59,CFRA,Buy,,main
+2020-05-11 15:27:10,Barclays,Overweight,,main
+2020-05-13 12:55:50,B of A Securities,Neutral,,main
+2020-05-27 13:04:28,RBC Capital,Sector Perform,,main
+2021-03-02 13:33:21,CIBC,Outperformer,Neutral,up
+2021-06-02 11:00:26,RBC Capital,Outperform,,main

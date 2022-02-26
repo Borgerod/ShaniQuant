@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action
+2018-08-20 13:11:52,Wells Fargo,Market Perform,Market Perform,main
+2019-02-27 11:36:22,Bank of America,Neutral,,init
+2019-12-04 12:53:22,TD Securities,Buy,,main
+2020-02-07 13:33:11,Morgan Stanley,Overweight,,init
+2020-03-10 13:19:41,Morgan Stanley,Equal-Weight,Overweight,down
+2020-04-15 12:31:11,Morgan Stanley,Equal-Weight,,main
+2020-05-11 14:39:13,Wells Fargo,Equal-Weight,,main
+2020-05-15 11:51:35,Morgan Stanley,Equal-Weight,,main
+2020-06-17 12:50:18,Morgan Stanley,Equal-Weight,,main
+2020-08-14 11:53:41,Morgan Stanley,Equal-Weight,,main
+2020-08-17 11:58:05,Wells Fargo,Equal-Weight,,main
+2020-09-18 11:46:26,Morgan Stanley,Equal-Weight,,main
+2020-10-05 12:10:03,Morgan Stanley,Equal-Weight,,main
+2020-10-20 12:08:33,Morgan Stanley,Equal-Weight,,main
+2020-11-12 12:55:41,Morgan Stanley,Equal-Weight,,main
+2020-11-16 15:07:56,B of A Securities,Underperform,,main
+2021-01-20 13:48:59,Morgan Stanley,Equal-Weight,,main
+2021-01-25 14:09:17,Morgan Stanley,Equal-Weight,,main
+2021-03-19 11:49:39,Morgan Stanley,Equal-Weight,,main
+2021-04-14 10:34:29,Credit Suisse,Neutral,,init
+2021-04-20 12:41:00,Morgan Stanley,Equal-Weight,,main
+2021-05-18 13:00:23,Morgan Stanley,Equal-Weight,,main
+2021-06-21 11:42:01,Morgan Stanley,Equal-Weight,,main
+2021-07-20 12:07:32,Morgan Stanley,Equal-Weight,,main
+2021-08-19 12:09:35,Morgan Stanley,Equal-Weight,,main
+2021-12-15 12:17:48,Wells Fargo,Equal-Weight,,main

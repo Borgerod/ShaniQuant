@@ -1,0 +1,19 @@
+ssh key location:
+/c/Users/Big Daddy B/.ssh'
+
+key file name:
+id_rsa
+
+key's randomart imagine is:
++---[RSA 4096]----+
+|  .oo+           |
+| .. o .          |
+|o+ =  ..  . .  . |
+|B O o =o o o .. .|
+|o* + + +S . o.  .|
+|. + o o ... ..o .|
+|   + .   . o.= . |
+|    .E    ... =  |
+|  .oo       .o o.|
++----[SHA256]-----+
+

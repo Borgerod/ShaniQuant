@@ -1,0 +1,48 @@
+Date,Firm,To Grade,From Grade,Action
+2012-11-06 10:56:00,Bank of America,Buy,Neutral,up
+2012-12-24 08:39:02,Morgan Stanley,Overweight,,main
+2013-03-06 06:31:14,China International Capital,Accumulate,,init
+2013-03-08 13:06:20,Morgan Stanley,Overweight,,main
+2013-03-08 16:47:11,Oppenheimer,Outperform,,main
+2013-03-18 06:13:04,Deutsche Bank,Buy,Hold,up
+2013-07-30 09:16:28,Goldman Sachs,Neutral,Buy,down
+2013-10-10 09:40:54,Goldman Sachs,Buy,Neutral,up
+2013-11-13 11:18:03,JP Morgan,Overweight,,main
+2014-08-12 09:00:00,Brean Capital,Buy,,main
+2015-03-11 08:34:37,Credit Suisse,Underperform,Neutral,down
+2015-04-28 06:51:33,JP Morgan,Neutral,,init
+2015-05-15 11:03:33,Bank of America,Buy,Neutral,up
+2015-08-18 11:25:44,Brean Capital,Buy,,main
+2015-08-19 06:43:48,Credit Suisse,Neutral,,up
+2015-10-08 08:22:19,Goldman Sachs,Buy,Neutral,up
+2015-11-09 11:37:49,TH Capital,Buy,Hold,up
+2015-11-11 11:26:14,Deutsche Bank,Hold,Sell,up
+2015-11-12 15:02:34,Macquarie,Outperform,,main
+2016-04-01 08:42:33,JP Morgan,Overweight,,main
+2016-05-05 06:48:50,Goldman Sachs,Neutral,Buy,down
+2016-08-17 04:04:26,Morgan Stanley,Equal-Weight,Overweight,down
+2016-08-17 06:20:18,Brean Capital,Buy,,main
+2016-12-30 11:02:15,Deutsche Bank,Buy,Hold,up
+2017-04-18 18:40:30,Benchmark,Buy,,init
+2017-08-18 18:56:51,Bank of America,Buy,,main
+2018-05-29 13:41:09,Daiwa Capital,Outperform,,init
+2018-06-01 12:17:26,JP Morgan,Overweight,Overweight,main
+2018-09-10 11:13:07,Deutsche Bank,Hold,Buy,down
+2018-09-24 14:00:35,Goldman Sachs,Buy,Neutral,up
+2018-10-24 13:52:04,JP Morgan,Overweight,Overweight,main
+2019-01-22 12:52:57,Deutsche Bank,Sell,Hold,down
+2019-03-18 10:33:07,Morgan Stanley,Underweight,Equal-Weight,down
+2019-04-30 10:44:27,JP Morgan,Neutral,Overweight,down
+2019-05-06 11:08:26,China Renaissance,Hold,Buy,down
+2019-08-22 12:06:44,Benchmark,Buy,,reit
+2019-08-22 12:40:29,Bank of America,Buy,,reit
+2019-09-13 11:03:02,Goldman Sachs,Neutral,Buy,down
+2019-10-16 14:15:46,Daiwa Capital,Sell,Underperform,down
+2019-11-13 12:36:06,Benchmark,Buy,,reit
+2019-12-06 11:53:20,Morgan Stanley,Equal-Weight,Underweight,up
+2019-12-13 11:36:39,CLSA,Buy,Outperform,up
+2020-02-05 14:47:25,CLSA,Sell,Buy,down
+2020-03-30 09:04:27,Citigroup,Neutral,Buy,down
+2020-08-24 15:48:02,B of A Securities,Buy,Neutral,up
+2020-12-08 11:16:34,Credit Suisse,Neutral,Outperform,down
+2021-09-24 13:09:20,UBS,Buy,,init

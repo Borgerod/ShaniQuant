@@ -1,0 +1,32 @@
+Date,Firm,To Grade,From Grade,Action
+2018-06-21 11:23:35,UBS,Neutral,Neutral,main
+2018-09-17 12:55:57,Wells Fargo,Outperform,Outperform,main
+2018-09-21 11:48:38,UBS,Neutral,Neutral,main
+2018-10-05 11:11:26,Wells Fargo,Outperform,Outperform,main
+2019-01-04 14:01:09,Goldman Sachs,Sell,Neutral,down
+2019-02-12 11:19:50,Bank of America,Buy,Neutral,up
+2019-06-07 12:45:12,UBS,Neutral,,main
+2019-08-09 13:30:13,SunTrust Robinson Humphrey,Buy,,main
+2019-08-15 10:49:13,Wells Fargo,Market Perform,Outperform,down
+2019-08-27 12:41:48,Guggenheim,Buy,,main
+2019-09-20 11:20:45,UBS,Neutral,,main
+2019-10-10 12:01:40,Bank of America,Neutral,Buy,down
+2019-10-18 12:03:04,UBS,Neutral,,main
+2019-11-20 12:12:10,Bank of America,Underperform,Neutral,down
+2019-11-25 11:59:26,Evercore ISI Group,In-Line,Outperform,down
+2020-01-22 17:21:52,B of A Securities,Underperform,,main
+2020-03-03 17:31:23,B of A Securities,Buy,Underperform,up
+2020-05-07 14:07:45,Wells Fargo,Equal-Weight,,main
+2020-05-07 18:11:01,CFRA,Hold,,main
+2020-06-04 08:58:01,Evercore ISI Group,Outperform,In-Line,up
+2020-06-05 12:32:57,UBS,Neutral,,main
+2020-08-03 14:58:00,Wolfe Research,Peer Perform,Outperform,down
+2020-08-06 18:15:42,Wells Fargo,Equal-Weight,,main
+2020-10-15 13:46:27,Wells Fargo,Overweight,Equal-Weight,up
+2021-04-19 10:40:41,Wolfe Research,Outperform,Peer Perform,up
+2021-06-16 10:25:17,Goldman Sachs,Buy,Neutral,up
+2021-06-22 10:37:17,Wells Fargo,Equal-Weight,Overweight,down
+2021-07-07 15:30:22,Seaport Global,Buy,,init
+2021-09-22 11:38:30,Wells Fargo,Equal-Weight,,main
+2022-01-13 10:37:47,Goldman Sachs,Neutral,Buy,down
+2022-01-25 13:24:41,Evercore ISI Group,In-Line,Outperform,down

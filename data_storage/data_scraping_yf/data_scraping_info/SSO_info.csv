@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,ProShares Ultra S&P500
+longName,ProShares Ultra S&P500
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,SSO
+messageBoardId,finmb_27776736
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,2.06
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1150675200
+annualReportExpenseRatio,
+totalAssets,5084879360
+bookValue,
+fundFamily,ProShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0017
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.4385
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,76.88608
+maxAge,1
+lastCapGain,
+category,Trading--Leveraged Equity
+fiveYearAverageReturn,0.29659998
+phone,866-776-5125
+longBusinessSummary,"The fund invests in financial instruments that the advisors believe, in combination, should produce daily returns consistent with the fund's investment objective. The index is a measure of large-cap U.S. stock market performance. It is a float-adjusted, market capitalization-weighted index of 500 U.S. operating companies and real estate investment trusts selected through a process that factors in criteria such as liquidity, price, market capitalization financial viability and public float. The fund is non-diversified."
+companyOfficers,[]
+previousClose,61.57
+regularMarketOpen,61.62
+twoHundredDayAverage,64.2487
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,61.99
+navPrice,148
+averageDailyVolume10Day,4522720
+regularMarketPreviousClose,61.57
+fiftyDayAverage,67.8205
+trailingAnnualDividendRate,
+open,61.62
+toCurrency,
+averageVolume10days,4522720
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,60.072
+currency,USD
+regularMarketVolume,4316620
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,6770988
+dayLow,60.072
+ask,60.63
+askSize,1800
+volume,4316620
+fiftyTwoWeekHigh,74.76
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,44.845
+bid,60.15
+tradeable,False
+dividendYield,
+bidSize,2200
+dayHigh,61.99
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': '', 'holdingName': 'S&P 500 Index Swap Bnp Paribas', 'holdingPercent': 0.2226}, {'symbol': '', 'holdingName': 'Spdr S&P 500 (Spy) Swap Goldman Sachs International', 'holdingPercent': 0.204}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Societe Generale', 'holdingPercent': 0.1518}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Ubs Ag', 'holdingPercent': 0.1346}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Citibank Na', 'holdingPercent': 0.0987}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Jp Morgan Securities', 'holdingPercent': 0.083500005}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Credit Suisse International', 'holdingPercent': 0.0776}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Goldman Sachs International', 'holdingPercent': 0.0624}, {'symbol': 'ESU21', 'holdingName': 'E-mini S&P 500 Future Sept 21', 'holdingPercent': 0.0551}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Bank Of America Na', 'holdingPercent': 0.0547}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 2.95, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9128
+regularMarketPrice,60.74
+preMarketPrice,
+logo_url,

@@ -1,0 +1,52 @@
+Date,Firm,To Grade,From Grade,Action
+2017-11-21 13:26:20,Cowen & Co.,Outperform,,init
+2017-11-27 11:52:28,Stifel Nicolaus,Hold,,init
+2017-11-27 12:53:39,RBC Capital,Outperform,,init
+2017-11-27 12:56:45,Citigroup,Buy,,init
+2017-11-27 13:25:08,Goldman Sachs,Neutral,,init
+2017-11-27 17:39:34,Baird,Neutral,,init
+2017-11-27 17:47:42,Raymond James,Outperform,,init
+2017-12-01 16:08:02,JP Morgan,Neutral,,init
+2018-02-07 14:57:03,Stifel Nicolaus,Hold,Hold,main
+2018-02-07 16:43:43,Baird,Neutral,Neutral,main
+2018-05-09 11:37:47,Stifel Nicolaus,Buy,Hold,up
+2018-10-02 12:11:47,Raymond James,Strong Buy,Outperform,up
+2018-10-31 12:01:18,Cowen & Co.,Market Perform,Outperform,down
+2018-10-31 14:07:53,Citigroup,Buy,Buy,main
+2018-10-31 15:17:25,Raymond James,Strong Buy,Strong Buy,main
+2018-12-07 14:30:27,Northcoast Research,Buy,,init
+2018-12-12 14:22:10,Credit Suisse,Neutral,,init
+2019-02-26 11:13:30,Goldman Sachs,Buy,Neutral,up
+2019-07-08 12:11:11,Citi,Neutral,Buy,down
+2019-08-19 11:45:09,Credit Suisse,Neutral,,main
+2019-10-01 11:30:24,Raymond James,Strong Buy,,main
+2019-10-10 12:41:00,JP Morgan,Neutral,,main
+2019-12-06 11:03:52,Goldman Sachs,Neutral,Buy,down
+2019-12-16 14:51:38,Stifel Nicolaus,Buy,,main
+2020-01-15 11:22:57,Jefferies,Hold,,init
+2020-04-02 08:54:33,Citigroup,Neutral,,main
+2020-04-08 09:38:39,Goldman Sachs,Buy,Neutral,up
+2020-05-07 13:22:57,Credit Suisse,Neutral,,main
+2020-05-07 15:42:40,Baird,Neutral,,main
+2020-05-07 16:32:39,Citigroup,Neutral,,main
+2020-06-18 14:11:47,Baird,Neutral,,main
+2020-07-09 11:41:11,Raymond James,Strong Buy,,main
+2020-08-10 10:53:06,Citigroup,Neutral,,main
+2020-10-08 11:38:42,Raymond James,Strong Buy,,main
+2020-11-18 14:40:15,Credit Suisse,Neutral,,main
+2020-12-17 11:54:05,Baird,Outperform,Neutral,up
+2021-01-08 15:47:01,Raymond James,Strong Buy,,main
+2021-02-25 11:38:47,Credit Suisse,Outperform,Neutral,up
+2021-03-23 10:29:29,Berenberg,Buy,Hold,up
+2021-05-06 14:02:47,Credit Suisse,Outperform,,main
+2021-06-16 11:36:41,RBC Capital,Outperform,,main
+2021-06-23 12:16:49,Credit Suisse,Outperform,,main
+2021-07-07 12:03:41,Raymond James,Outperform,Strong Buy,down
+2021-08-04 10:02:01,Raymond James,Outperform,,main
+2021-08-04 13:54:27,Credit Suisse,Outperform,,main
+2021-10-05 11:22:31,Raymond James,Outperform,,main
+2021-11-03 09:02:04,Oppenheimer,Perform,,init
+2021-11-17 12:13:53,RBC Capital,Outperform,,main
+2021-11-17 12:46:56,Credit Suisse,Outperform,,main
+2022-01-04 10:15:28,Raymond James,Market Perform,Outperform,down
+2022-01-20 11:38:17,Oppenheimer,Outperform,Perform,up

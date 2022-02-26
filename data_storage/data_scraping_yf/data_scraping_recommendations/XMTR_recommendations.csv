@@ -1,0 +1,9 @@
+Date,Firm,To Grade,From Grade,Action
+2021-07-26 09:14:10,Goldman Sachs,Neutral,,init
+2021-07-26 09:58:54,RBC Capital,Sector Perform,,init
+2021-07-26 10:06:03,JP Morgan,Overweight,,init
+2021-07-26 11:17:41,Citigroup,Buy,,init
+2021-07-26 11:54:20,B of A Securities,Buy,,init
+2021-07-26 12:33:02,William Blair,Outperform,,init
+2021-11-11 10:35:37,RBC Capital,Outperform,Sector Perform,up
+2021-12-09 11:56:27,RBC Capital,Outperform,,main

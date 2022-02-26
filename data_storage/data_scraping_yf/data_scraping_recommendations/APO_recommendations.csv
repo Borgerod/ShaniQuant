@@ -1,0 +1,52 @@
+Date,Firm,To Grade,From Grade,Action
+2020-10-30 10:10:32,BMO Capital,Outperform,Market Perform,up
+2020-11-06 10:58:10,Morgan Stanley,Overweight,Equal-Weight,up
+2020-11-25 09:37:09,Wells Fargo,Outperform,,main
+2020-11-25 09:37:09,UBS,Buy,,main
+2020-11-25 09:37:10,Citigroup,Buy,,main
+2020-11-25 09:37:10,BMO Capital,Outperform,,init
+2020-11-25 09:37:10,UBS,Buy,,main
+2020-11-25 09:37:11,Credit Suisse,Outperform,,main
+2020-11-25 09:37:12,JMP Securities,Market Perform,Market Outperform,down
+2020-11-25 09:37:12,Barclays,Overweight,,main
+2020-11-25 09:37:12,Deutsche Bank,Hold,,main
+2020-11-25 09:37:12,UBS,Neutral,Buy,down
+2020-11-25 09:37:12,Wells Fargo,Overweight,,main
+2020-11-25 09:37:13,Wells Fargo,Overweight,,main
+2020-11-25 09:37:13,UBS,Neutral,,main
+2020-11-25 09:37:14,Deutsche Bank,Hold,,main
+2020-11-25 09:37:15,B of A Securities,Neutral,Buy,down
+2020-11-25 09:37:15,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:15,Deutsche Bank,Hold,,main
+2020-11-25 09:37:16,CFRA,Buy,,main
+2020-11-25 09:37:17,Barclays,Overweight,,main
+2020-11-25 09:37:17,Deutsche Bank,Hold,,main
+2020-11-25 09:37:17,Wells Fargo,Overweight,,main
+2020-11-25 09:37:17,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:18,Jefferies,Buy,,main
+2020-11-25 09:37:18,Deutsche Bank,Hold,,main
+2020-11-25 09:37:18,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:18,B of A Securities,Neutral,,reit
+2020-11-25 09:37:19,Wells Fargo,Overweight,,main
+2020-11-25 09:37:19,BMO Capital,Market Perform,Outperform,down
+2020-11-25 09:37:19,CFRA,Buy,,main
+2020-11-25 09:37:21,Deutsche Bank,Hold,,main
+2020-11-25 09:37:21,B of A Securities,Neutral,,main
+2020-11-25 09:37:21,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:22,Credit Suisse,Outperform,,main
+2020-11-25 09:37:22,"Keefe, Bruyette & Woods",Outperform,,main
+2020-11-25 09:37:24,Morgan Stanley,Equal-Weight,,main
+2021-01-26 13:37:06,Morgan Stanley,Overweight,,main
+2021-02-08 13:13:02,Morgan Stanley,Overweight,,main
+2021-04-14 11:20:28,Oppenheimer,Outperform,Perform,up
+2021-05-05 11:51:49,Morgan Stanley,Overweight,,main
+2021-07-20 12:03:44,Morgan Stanley,Overweight,,main
+2021-10-15 12:08:10,Morgan Stanley,Overweight,,main
+2021-10-20 11:25:07,Oppenheimer,Perform,Outperform,down
+2021-10-20 11:56:54,BMO Capital,Outperform,,main
+2021-11-04 13:29:35,Morgan Stanley,Overweight,,main
+2021-11-05 11:10:56,Deutsche Bank,Buy,Hold,up
+2021-12-16 10:25:11,Wells Fargo,Overweight,,init
+2022-01-21 13:22:37,Morgan Stanley,Overweight,,main
+2022-02-14 14:35:29,BMO Capital,Outperform,,main
+2022-02-15 13:24:34,B of A Securities,Underperform,,main

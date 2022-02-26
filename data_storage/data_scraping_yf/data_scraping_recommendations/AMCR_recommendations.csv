@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action
+2019-06-20 10:16:08,Citigroup,Buy,,init
+2019-12-20 11:14:24,Baird,Neutral,,init
+2020-03-13 09:28:10,BMO Capital,Market Perform,,init
+2020-03-19 10:28:40,Deutsche Bank,Buy,,init
+2020-04-02 19:31:16,Deutsche Bank,Buy,,main
+2020-07-08 11:42:38,B of A Securities,Neutral,,init
+2020-08-21 13:41:21,Deutsche Bank,Buy,,main
+2020-10-14 13:55:56,Seaport Global,Neutral,,init
+2020-11-24 12:37:30,B of A Securities,Underperform,Neutral,down
+2021-01-05 11:05:07,Citigroup,Neutral,Buy,down
+2021-01-20 17:37:44,Deutsche Bank,Hold,Buy,down
+2021-02-04 11:43:40,BMO Capital,Outperform,Market Perform,up
+2021-04-09 10:32:35,Goldman Sachs,Neutral,,init
+2021-08-18 11:23:30,Goldman Sachs,Sell,Neutral,down
+2021-12-15 13:57:34,B of A Securities,Buy,Underperform,up

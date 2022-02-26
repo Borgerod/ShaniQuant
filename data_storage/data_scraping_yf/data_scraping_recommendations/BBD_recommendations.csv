@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-09 07:30:00,Goldman Sachs,Neutral,,main
+2012-07-20 05:49:00,JP Morgan,Overweight,Neutral,up
+2012-08-08 12:49:00,Barclays,Equal-Weight,,main
+2012-10-24 12:11:00,Barclays,Equal-Weight,,main
+2013-01-24 06:34:13,JP Morgan,Overweight,,main
+2013-01-29 13:27:33,Morgan Stanley,Equal-Weight,,main
+2013-03-27 06:19:14,Bank of America,Buy,Neutral,up
+2013-07-23 12:10:14,GBM,Market Perform,Market Underperform,up
+2014-04-23 23:49:39,Deutsche Bank,Neutral,,main
+2014-07-25 00:57:29,JP Morgan,Neutral,,main
+2014-07-31 14:16:09,UBS,Buy,Neutral,up
+2014-10-14 09:00:00,JP Morgan,Neutral,,main
+2015-01-28 09:00:00,JP Morgan,Overweight,,main
+2015-04-09 09:32:41,Canaccord Genuity,Neutral,Outperform,down
+2015-04-23 09:00:00,JP Morgan,Overweight,,main
+2015-05-28 09:37:49,Barclays,Equal-Weight,Underweight,up
+2015-07-28 11:00:00,JP Morgan,Overweight,,main
+2015-10-12 09:47:48,Deutsche Bank,Buy,Hold,up
+2016-03-14 09:47:39,Bank of America,Buy,Neutral,up
+2016-03-15 09:33:49,Scotiabank,Underperform,,init
+2016-03-22 09:03:26,Deutsche Bank,Hold,Buy,down
+2016-04-08 10:26:19,Citigroup,Sell,Neutral,down
+2016-05-02 06:48:00,Goldman Sachs,Neutral,,main
+2016-05-05 09:39:08,UBS,Neutral,Buy,down
+2017-09-11 15:58:05,Goldman Sachs,Buy,Neutral,up
+2019-06-10 11:02:07,Goldman Sachs,Sell,,init
+2019-08-07 11:05:18,Morgan Stanley,Overweight,Equal-Weight,up
+2020-03-27 15:12:39,JP Morgan,Overweight,,main
+2021-09-13 16:01:12,Itau BBA,Market Perform,Outperform,down
+2022-01-24 11:16:18,Barclays,Overweight,,init

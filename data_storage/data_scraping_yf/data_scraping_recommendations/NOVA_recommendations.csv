@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action
+2020-10-30 14:08:35,Roth Capital,Buy,,main
+2020-11-25 09:37:08,JP Morgan,Overweight,,init
+2020-11-25 09:37:08,KeyBanc,Overweight,,init
+2020-11-25 09:37:08,Goldman Sachs,Buy,,init
+2020-11-25 09:37:08,Baird,Outperform,,init
+2020-11-25 09:37:08,Bank of America,Buy,,init
+2020-11-25 09:37:08,Credit Suisse,Outperform,,init
+2020-11-25 09:37:10,KeyBanc,Overweight,,main
+2020-11-25 09:37:12,Ladenburg Thalmann,Buy,,init
+2020-11-25 09:37:14,KeyBanc,Overweight,,main
+2020-11-25 09:37:16,JP Morgan,Overweight,,main
+2020-11-25 09:37:16,Raymond James,Outperform,,init
+2020-11-25 09:37:16,Credit Suisse,Outperform,,main
+2020-11-25 09:37:19,Credit Suisse,Neutral,Outperform,down
+2020-11-25 09:37:19,Raymond James,Outperform,,reit
+2020-11-25 09:37:19,B of A Securities,Neutral,Buy,down
+2020-11-25 09:37:20,B of A Securities,Neutral,,main
+2020-11-25 09:37:20,Credit Suisse,Outperform,Neutral,up
+2020-11-25 09:37:21,Raymond James,Outperform,,main
+2020-11-25 09:37:21,B of A Securities,Buy,Neutral,up
+2020-11-25 09:37:22,Raymond James,Outperform,,main
+2020-11-25 09:37:22,KeyBanc,Overweight,,main
+2020-11-25 09:37:23,JMP Securities,Market Outperform,,main
+2020-11-25 09:37:24,Piper Sandler,Overweight,,init
+2020-11-25 09:37:24,B. Riley FBR,Buy,,init
+2020-11-25 09:37:24,JMP Securities,Market Outperform,,main
+2020-11-25 09:37:24,Raymond James,Outperform,,main
+2020-11-25 09:37:25,Credit Suisse,Outperform,,main
+2020-12-02 13:06:07,Credit Suisse,Neutral,Outperform,down
+2020-12-17 15:18:46,Capital One Financial,Overweight,,init
+2020-12-28 11:05:35,KeyBanc,Overweight,,main
+2021-01-08 15:04:06,Raymond James,Outperform,,main
+2021-01-20 14:03:50,Credit Suisse,Neutral,,main
+2021-02-26 11:25:50,Credit Suisse,Outperform,Neutral,up
+2021-04-08 11:26:07,Raymond James,Outperform,,main
+2021-04-20 10:58:17,Evercore ISI Group,Outperform,,init
+2021-05-25 10:07:59,Keybanc,Overweight,,main
+2021-06-03 10:48:38,Guggenheim,Buy,,init
+2021-06-25 12:32:44,Stephens & Co.,Overweight,,init
+2021-07-07 11:47:43,Raymond James,Strong Buy,Outperform,up
+2021-07-20 09:01:05,RBC Capital,Outperform,,init
+2021-07-30 12:59:15,Credit Suisse,Outperform,,main
+2021-09-01 09:09:20,Wolfe Research,Outperform,,init
+2021-10-01 09:09:27,BMO Capital,Outperform,,init
+2021-10-15 09:21:25,Truist Securities,Buy,,init
+2021-11-01 12:44:44,RBC Capital,Outperform,,main
+2021-11-08 13:07:29,Credit Suisse,Outperform,,main
+2021-12-02 12:24:08,RBC Capital,Outperform,,main
+2022-01-13 11:19:01,Keybanc,Overweight,,main
+2022-01-24 15:17:10,Truist Securities,Buy,,main

@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-18 13:13:08,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:08,JP Morgan,Overweight,,init
+2020-11-25 09:37:08,Morgan Stanley,Equal-Weight,,init
+2020-11-25 09:37:08,Bank of America,Buy,,init
+2020-11-25 09:37:09,B. Riley,Neutral,,init
+2020-11-25 09:37:09,Wells Fargo,Outperform,,init
+2020-11-25 09:37:10,Goldman Sachs,Neutral,,init
+2020-11-25 09:37:11,Barrington Research,Outperform,,init
+2020-11-25 09:37:11,Barrington Research,Outperform,,init
+2020-11-25 09:37:11,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:13,B. Riley FBR,Buy,Neutral,up
+2020-11-25 09:37:14,Guggenheim Securities,Buy,,init
+2020-11-25 09:37:15,B. Riley FBR,Buy,,main
+2020-11-25 09:37:16,JP Morgan,Neutral,Overweight,down
+2020-11-25 09:37:16,B. Riley FBR,Buy,,main
+2020-11-25 09:37:17,Guggenheim,Buy,,main
+2020-11-25 09:37:18,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:20,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:20,B of A Securities,Neutral,Buy,down
+2020-11-25 09:37:21,JP Morgan,Underweight,Neutral,down
+2020-12-18 13:44:08,B of A Securities,Underperform,Neutral,down
+2021-02-19 14:39:17,Morgan Stanley,Equal-Weight,,main
+2021-02-22 14:20:12,Morgan Stanley,Equal-Weight,,main
+2021-03-16 10:31:52,JP Morgan,Neutral,Underweight,up
+2021-03-25 12:16:13,Wolfe Research,Outperform,Peer Perform,up
+2021-04-07 12:27:05,Morgan Stanley,Equal-Weight,,main
+2021-04-13 12:02:50,B of A Securities,Buy,Neutral,up
+2021-05-10 10:45:56,JP Morgan,Overweight,Neutral,up
+2021-05-10 13:13:35,Morgan Stanley,Equal-Weight,,main
+2021-07-08 12:50:44,Morgan Stanley,Equal-Weight,,main
+2021-07-16 09:21:26,Goldman Sachs,Buy,,init
+2021-10-05 11:49:49,Morgan Stanley,Equal-Weight,,main

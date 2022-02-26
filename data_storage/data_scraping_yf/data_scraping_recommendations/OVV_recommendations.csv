@@ -1,0 +1,59 @@
+Date,Firm,To Grade,From Grade,Action
+2020-01-30 11:35:21,Cowen & Co.,Market Perform,,init
+2020-02-07 18:07:48,Capital One,Equal-Weight,,init
+2020-02-20 14:59:37,Credit Suisse,Outperform,,main
+2020-02-21 13:17:09,RBC Capital,Outperform,,main
+2020-02-24 12:43:10,MKM Partners,Buy,,main
+2020-02-24 14:23:19,SunTrust Robinson Humphrey,Hold,,main
+2020-03-09 11:28:36,SunTrust Robinson Humphrey,Sell,Hold,down
+2020-03-12 08:53:23,Credit Suisse,Neutral,Outperform,down
+2020-03-16 09:25:39,Goldman Sachs,Neutral,Buy,down
+2020-03-31 16:31:55,RBC Capital,Sector Perform,Outperform,down
+2020-03-31 17:47:40,UBS,Buy,,main
+2020-04-03 14:48:11,Mizuho,Underperform,Neutral,down
+2020-04-09 10:39:11,SunTrust Robinson Humphrey,Hold,Sell,up
+2020-05-11 17:50:21,SunTrust Robinson Humphrey,Hold,,main
+2020-05-21 15:44:23,UBS,Buy,,main
+2020-05-21 17:05:59,MKM Partners,Buy,,main
+2020-06-19 11:32:21,Mizuho,Neutral,Underperform,up
+2020-06-19 13:56:40,SunTrust Robinson Humphrey,Hold,,main
+2020-06-26 10:55:55,RBC Capital,Sector Perform,,main
+2020-06-29 13:30:14,BMO Capital,Outperform,Market Perform,up
+2020-06-29 15:38:47,UBS,Buy,,main
+2020-07-08 12:59:47,Morgan Stanley,Equal-Weight,,main
+2020-07-29 16:00:11,TD Securities,Hold,,main
+2020-08-21 12:47:37,Morgan Stanley,Equal-Weight,,main
+2020-10-20 13:47:51,Morgan Stanley,Equal-Weight,,main
+2020-10-29 16:33:02,TD Securities,Hold,,main
+2020-11-02 16:25:45,MKM Partners,Buy,,main
+2020-11-25 09:37:25,Truist Securities,Hold,,main
+2020-11-25 09:37:25,CIBC,Underperformer,,init
+2020-11-25 16:35:16,B of A Securities,Buy,,main
+2020-12-11 14:53:46,Morgan Stanley,Equal-Weight,,main
+2020-12-16 11:51:23,CIBC,Neutral,Underperformer,up
+2021-02-11 12:14:38,Truist Securities,Buy,Hold,up
+2021-02-19 12:07:04,RBC Capital,Sector Perform,,main
+2021-03-11 14:59:55,Morgan Stanley,Equal-Weight,,main
+2021-03-24 14:41:15,Tudor Pickering,Buy,Accumulate,up
+2021-03-25 17:08:48,Credit Suisse,Neutral,,main
+2021-03-29 10:35:43,Goldman Sachs,Buy,Neutral,up
+2021-04-23 11:31:58,Wolfe Research,Outperform,Peer Perform,up
+2021-04-29 12:59:25,TD Securities,Buy,Hold,up
+2021-04-29 14:36:23,Credit Suisse,Neutral,,main
+2021-05-26 10:54:37,JP Morgan,Overweight,Neutral,up
+2021-06-03 12:57:54,Barclays,Overweight,Underweight,up
+2021-06-18 13:06:07,Morgan Stanley,Overweight,,main
+2021-06-25 09:26:34,Citigroup,Buy,Neutral,up
+2021-07-19 09:28:02,Credit Suisse,Outperform,Neutral,up
+2021-07-19 12:17:48,Morgan Stanley,Overweight,,main
+2021-07-27 11:21:37,Wells Fargo,Overweight,,init
+2021-08-13 11:43:41,Mizuho,Buy,,main
+2021-08-23 13:26:44,Morgan Stanley,Overweight,,main
+2021-08-23 13:29:14,Wells Fargo,Overweight,,main
+2021-08-24 10:00:04,Cowen & Co.,Outperform,Market Perform,up
+2021-08-30 11:57:35,Morgan Stanley,Overweight,,main
+2021-09-23 10:44:29,Seaport Global,Buy,,init
+2021-10-06 12:48:04,Morgan Stanley,Overweight,,main
+2022-01-13 14:16:36,Scotiabank,Sector Outperform,Sector Perform,up
+2022-01-18 11:29:11,JP Morgan,Neutral,Overweight,down
+2022-01-25 15:20:41,Morgan Stanley,Overweight,,main

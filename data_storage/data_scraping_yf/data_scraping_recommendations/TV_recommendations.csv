@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-27 06:25:00,Bank oferica,Buy,,up
+2012-05-23 08:25:00,JP Morgan,Overweight,,up
+2012-07-02 05:58:00,Morgan Stanley,Overweight,,main
+2012-07-25 07:35:00,Itau BBA,Underperform,Market Perform,down
+2013-03-06 08:48:20,Morgan Stanley,Equal-Weight,,main
+2013-04-15 06:18:18,JP Morgan,Neutral,Overweight,down
+2013-05-08 06:17:46,Morgan Stanley,Overweight,Equal-Weight,up
+2014-02-25 06:41:25,Morgan Stanley,Overweight,,main
+2014-06-25 19:29:54,JP Morgan,Neutral,,main
+2014-10-27 08:30:00,Morgan Stanley,Overweight,,main
+2015-03-04 09:00:00,Barclays,Overweight,,main
+2015-04-28 09:00:00,Barclays,Overweight,,main
+2015-05-07 08:20:24,JP Morgan,Overweight,Neutral,up
+2015-06-08 09:36:36,Citigroup,Buy,Neutral,up
+2015-09-30 08:16:59,HSBC,Hold,,down
+2016-01-12 06:10:05,JP Morgan,Overweight,,up
+2016-03-30 05:50:36,JP Morgan,Neutral,Overweight,down
+2016-04-20 07:40:13,Evercore ISI Group,Hold,,init
+2016-05-09 09:55:46,Citigroup,Sell,Buy,down
+2016-05-12 07:16:10,HSBC,Reduce,Hold,down
+2016-09-07 08:34:15,New Street Research,Buy,,up
+2016-09-22 06:38:17,HSBC,Hold,Reduce,up
+2016-09-27 04:19:23,Credit Suisse,Outperform,Neutral,up
+2017-01-24 15:29:24,Bank of America,Buy,Neutral,up
+2017-02-28 13:52:12,HSBC,Reduce,Hold,down
+2017-03-08 12:31:58,Credit Suisse,Neutral,Outperform,down
+2017-08-10 11:19:48,Morgan Stanley,Equal-Weight,Overweight,down
+2017-12-19 10:56:25,JP Morgan,Overweight,Neutral,up
+2018-04-03 12:42:15,Goldman Sachs,Buy,,init
+2018-07-17 15:08:07,Bank of America,Buy,Buy,main
+2019-01-23 12:57:22,Scotiabank,Sector Perform,Sector Underperform,up
+2019-02-01 14:22:36,Citigroup,Buy,Neutral,up
+2019-03-18 13:03:13,JP Morgan,Overweight,Overweight,main
+2019-11-11 11:56:06,Barclays,Underweight,Equal-Weight,down
+2019-11-14 14:04:28,JP Morgan,Overweight,,main
+2020-08-17 10:51:20,Barclays,Underweight,,main
+2021-06-24 11:29:59,Benchmark,Buy,,init

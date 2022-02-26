@@ -1,0 +1,61 @@
+Date,Firm,To Grade,From Grade,Action
+2019-04-30 12:24:23,UBS,Buy,Buy,main
+2019-11-13 12:35:54,Barclays,Equal-Weight,,init
+2020-01-02 11:27:24,Wells Fargo,Overweight,Equal-Weight,up
+2020-01-29 12:41:42,Needham,Hold,Buy,down
+2020-02-04 09:59:33,BMO Capital,Outperform,,init
+2020-02-06 15:03:26,Morgan Stanley,Equal-Weight,,main
+2020-03-13 16:56:53,Deutsche Bank,Hold,Buy,down
+2020-03-16 13:16:21,Wells Fargo,Overweight,,main
+2020-03-20 10:35:52,Morgan Stanley,Equal-Weight,,main
+2020-03-30 11:15:54,Wells Fargo,Equal-Weight,Overweight,down
+2020-04-29 10:11:13,BTIG,Neutral,,init
+2020-04-29 17:31:27,Guggenheim,Buy,,main
+2020-04-30 13:37:38,Citigroup,Buy,,main
+2020-05-12 12:02:57,Morgan Stanley,Equal-Weight,,main
+2020-05-18 11:05:03,Piper Sandler,Neutral,Overweight,down
+2020-06-08 12:02:39,Deutsche Bank,Hold,,main
+2020-07-02 14:04:02,Credit Suisse,Neutral,,main
+2020-09-21 10:29:40,Morgan Stanley,Overweight,Equal-Weight,up
+2020-09-21 13:23:12,Piper Sandler,Neutral,,main
+2020-11-02 15:48:27,UBS,Buy,,main
+2020-11-06 17:19:55,Credit Suisse,Neutral,,main
+2020-11-09 12:59:34,Morgan Stanley,Overweight,,main
+2020-11-17 12:38:43,Wells Fargo,Overweight,Equal-Weight,up
+2020-11-20 11:06:07,HSBC,Hold,Buy,down
+2020-11-20 11:07:16,BTIG,Buy,Neutral,up
+2020-12-04 14:47:26,Morgan Stanley,Overweight,,main
+2020-12-10 12:18:23,Goldman Sachs,Buy,Neutral,up
+2021-01-04 10:28:25,Piper Sandler,Overweight,Neutral,up
+2021-01-21 12:13:14,Deutsche Bank,Buy,Hold,up
+2021-01-29 12:25:27,Baird,Outperform,Neutral,up
+2021-02-02 13:29:41,Morgan Stanley,Overweight,,main
+2021-02-04 12:59:10,Morgan Stanley,Overweight,,main
+2021-02-04 14:51:05,Credit Suisse,Neutral,,main
+2021-05-03 11:04:05,BMO Capital,Outperform,,main
+2021-05-19 10:14:10,Telsey Advisory Group,Market Perform,,main
+2021-05-28 11:21:22,Morgan Stanley,Overweight,,main
+2021-06-30 11:15:13,Credit Suisse,Neutral,,main
+2021-06-30 12:10:43,UBS,Buy,,main
+2021-06-30 12:24:45,BTIG,Buy,,main
+2021-06-30 13:17:01,Citigroup,Buy,,main
+2021-06-30 13:28:37,JP Morgan,Neutral,,main
+2021-07-01 11:40:01,Morgan Stanley,Overweight,,main
+2021-07-14 09:40:17,Goldman Sachs,Neutral,,init
+2021-08-02 09:14:38,Telsey Advisory Group,Market Perform,,main
+2021-08-02 10:31:21,MKM Partners,Buy,Neutral,up
+2021-08-02 10:46:25,Barclays,Overweight,,main
+2021-08-02 12:11:38,BTIG,Buy,,main
+2021-08-02 12:25:33,Credit Suisse,Neutral,,main
+2021-08-02 12:53:43,Morgan Stanley,Overweight,,main
+2021-08-04 12:00:40,Cowen & Co.,Outperform,Market Perform,up
+2021-11-01 14:25:53,BTIG,Buy,,main
+2021-11-04 09:01:33,JP Morgan,Overweight,Neutral,up
+2021-11-04 09:39:09,Telsey Advisory Group,Market Perform,,main
+2021-11-04 11:30:37,Barclays,Overweight,,main
+2021-11-04 13:46:46,Credit Suisse,Neutral,,main
+2021-12-14 10:03:03,Goldman Sachs,Buy,Neutral,up
+2022-02-03 10:11:51,Telsey Advisory Group,Market Perform,,main
+2022-02-03 13:14:15,BTIG,Buy,,main
+2022-02-03 14:35:37,Credit Suisse,Neutral,,main
+2022-02-08 17:01:48,Morgan Stanley,Overweight,,main

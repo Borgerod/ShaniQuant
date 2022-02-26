@@ -1,0 +1,20 @@
+What this folder (data_scraping_sec) contains: 
+Data-tables scraped from yahoo finance based on stock_list, where the different tables are catergorised by: 
+	- Quotes	: Comprehensive dataframe on all the quotes data on all the stock from the stock list. 	
+	- puts, current	: all data on the option chain(puts options), for the next current expiration-date, for one given stock. 
+	- calls, current 	: all data on the option chain(call options), for the next current expiration-date, for one given stock. 
+	- puts, history	: all previous "puts, current" gets stored here after expireation.
+	- calls, history	: all previous "calls, current" gets stored here after expireation.
+
+
+Except for Quotes dataframe which includes all the stocks, 
+the other dataframes includes only one single stock, 
+and are therefore categorised by its stock ticker symbol:
+E.g.
+	symbol	option	[history - y/n]
+	aapl	calls	n
+	=>aapl_calls.csv
+
+	symbol	option	[history - y/n]
+	tsla 	puts	y
+	=>aapl_calls_history.csv

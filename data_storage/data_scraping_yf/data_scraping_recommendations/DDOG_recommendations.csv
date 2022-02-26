@@ -1,0 +1,99 @@
+Date,Firm,To Grade,From Grade,Action
+2019-10-14 10:59:49,Jefferies,Hold,,init
+2019-10-14 11:01:33,Stifel Nicolaus,Buy,,init
+2019-10-14 11:04:39,JP Morgan,Overweight,,init
+2019-10-14 11:06:10,Barclays,Overweight,,init
+2019-10-14 11:16:19,Goldman Sachs,Neutral,,init
+2019-10-14 11:55:30,Morgan Stanley,Equal-Weight,,init
+2019-10-14 12:08:42,William Blair,Outperform,,init
+2019-10-14 12:11:28,Raymond James,Market Perform,,init
+2019-10-14 12:43:04,JMP Securities,Market Perform,,init
+2019-11-06 11:40:48,Credit Suisse,Neutral,,init
+2019-11-13 13:09:02,Barclays,Overweight,,main
+2019-11-13 13:17:26,Credit Suisse,Neutral,,main
+2019-11-13 14:22:13,Stifel,Buy,,main
+2019-11-21 12:55:41,Oppenheimer,Perform,,init
+2019-12-18 12:17:04,Rosenblatt,Buy,,init
+2020-02-11 10:46:14,Needham,Buy,,main
+2020-02-14 12:26:30,Rosenblatt,Buy,,reit
+2020-02-14 13:09:20,Needham,Buy,,main
+2020-02-14 14:07:37,Morgan Stanley,Equal-Weight,,main
+2020-03-26 16:48:26,Morgan Stanley,Equal-Weight,,main
+2020-03-27 09:20:30,Mizuho,Buy,,init
+2020-04-13 09:47:17,Goldman Sachs,Buy,Neutral,up
+2020-04-16 09:08:16,DA Davidson,Neutral,,init
+2020-04-27 11:29:16,Needham,Buy,,main
+2020-05-11 12:08:46,RBC Capital,Sector Perform,,main
+2020-05-12 10:27:44,Needham,Buy,,main
+2020-05-12 11:06:25,Rosenblatt,Buy,,main
+2020-05-12 12:05:22,Credit Suisse,Neutral,,main
+2020-05-12 12:07:44,Morgan Stanley,Equal-Weight,,main
+2020-05-12 13:25:52,Stifel,Buy,,main
+2020-05-12 14:15:45,Jefferies,Hold,,main
+2020-05-12 14:42:08,JP Morgan,Overweight,,main
+2020-05-12 15:11:11,Mizuho,Buy,,main
+2020-07-10 11:58:33,FBN Securities,Outperform,,init
+2020-07-20 11:09:45,Barclays,Overweight,,main
+2020-07-27 09:27:06,Needham,Buy,,main
+2020-07-27 12:47:58,Morgan Stanley,Equal-Weight,,main
+2020-08-07 10:59:49,Needham,Buy,,main
+2020-08-07 14:08:44,Credit Suisse,Neutral,,main
+2020-09-16 09:47:34,Loop Capital,Buy,,init
+2020-09-25 10:25:56,Baird,Neutral,,init
+2020-10-01 16:37:35,Mizuho,Buy,,main
+2020-10-07 13:33:20,Berenberg,Hold,,init
+2020-10-09 11:50:46,Barclays,Overweight,,main
+2020-11-11 11:05:06,JP Morgan,Neutral,Overweight,down
+2020-11-11 11:59:13,Needham,Buy,,main
+2020-11-11 12:54:01,Morgan Stanley,Equal-Weight,,main
+2020-11-23 15:45:55,Monness Crespi Hardt,Neutral,,init
+2020-11-24 08:53:42,KeyBanc,Sector Weight,,init
+2020-12-17 12:14:45,Rosenblatt,Neutral,,init
+2021-01-11 10:24:49,Jefferies,Buy,Hold,up
+2021-01-15 14:00:38,Credit Suisse,Neutral,,main
+2021-01-20 13:11:05,Truist Securities,Buy,,init
+2021-02-08 17:28:37,RBC Capital,Sector Perform,,main
+2021-02-12 11:44:35,Needham,Buy,,main
+2021-02-12 13:13:58,Morgan Stanley,Equal-Weight,,main
+2021-02-12 15:46:56,Barclays,Overweight,,main
+2021-04-01 17:23:08,"Monness, Crespi, Hardt",Buy,Neutral,up
+2021-04-09 14:16:47,Barclays,Overweight,,main
+2021-05-07 10:42:01,Needham,Buy,,main
+2021-05-07 12:24:04,Goldman Sachs,Buy,,main
+2021-05-07 12:50:14,"Monness, Crespi, Hardt",Buy,,main
+2021-05-07 14:36:31,Berenberg,Buy,Hold,up
+2021-05-18 13:27:29,Jefferies,Buy,,main
+2021-05-21 10:53:10,Morgan Stanley,Overweight,Equal-Weight,up
+2021-07-08 12:02:12,Citigroup,Buy,,init
+2021-07-16 11:41:46,Mizuho,Buy,,main
+2021-07-23 13:08:14,Barclays,Overweight,,main
+2021-07-27 12:11:05,Morgan Stanley,Overweight,,main
+2021-08-02 12:06:13,RBC Capital,Sector Perform,,main
+2021-08-05 16:07:22,Needham,Buy,,main
+2021-08-06 11:56:12,Barclays,Overweight,,main
+2021-08-06 12:20:30,Goldman Sachs,Buy,,main
+2021-08-06 13:31:38,Rosenblatt,Neutral,,main
+2021-08-06 14:23:14,RBC Capital,Sector Perform,,main
+2021-09-17 13:02:06,Barclays,Overweight,,main
+2021-10-18 14:51:58,Mizuho,Buy,,main
+2021-10-22 13:36:25,Morgan Stanley,Overweight,,main
+2021-10-28 11:49:34,RBC Capital,Sector Perform,,main
+2021-10-29 11:25:09,Rosenblatt,Neutral,,main
+2021-11-01 12:22:09,RBC Capital,Sector Perform,,main
+2021-11-05 12:14:14,RBC Capital,Sector Perform,,main
+2021-11-05 13:26:28,Mizuho,Buy,,main
+2021-11-08 13:40:14,Needham,Buy,,main
+2021-11-08 13:56:49,Barclays,Overweight,,main
+2021-11-08 15:04:46,Morgan Stanley,Overweight,,main
+2021-11-19 11:50:09,RBC Capital,Outperform,Sector Perform,up
+2021-12-14 10:29:51,JP Morgan,Underweight,Neutral,down
+2022-01-12 14:06:20,Barclays,Overweight,,main
+2022-02-02 12:02:13,Rosenblatt,Buy,Neutral,up
+2022-02-08 11:05:17,Needham,Buy,,main
+2022-02-11 09:39:00,Needham,Buy,,main
+2022-02-11 09:41:25,Keybanc,Overweight,Sector Weight,up
+2022-02-11 10:20:38,Raymond James,Outperform,,main
+2022-02-11 12:14:59,Mizuho,Buy,,main
+2022-02-11 12:28:01,Rosenblatt,Buy,,main
+2022-02-11 12:42:45,Goldman Sachs,Buy,,main
+2022-02-11 13:13:20,Morgan Stanley,Overweight,,main

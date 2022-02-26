@@ -1,0 +1,83 @@
+Date,Firm,To Grade,From Grade,Action
+2016-02-24 11:26:01,Barclays,Equal-Weight,,main
+2016-03-02 12:47:45,JP Morgan,Neutral,,main
+2016-04-07 07:15:16,BMO Capital,Outperform,,init
+2016-05-05 07:38:28,Leerink Swann,Market Perform,,main
+2016-05-26 11:48:32,Cowen & Co.,Market Perform,Outperform,down
+2016-05-27 06:10:43,BMO Capital,Market Perform,Outperform,down
+2016-05-27 11:46:36,Barclays,Equal-Weight,,main
+2016-05-27 11:59:57,JP Morgan,Neutral,,main
+2016-08-02 07:43:25,Morgan Stanley,Equal-Weight,,init
+2016-08-02 09:14:14,Barclays,Equal-Weight,,main
+2016-09-29 06:13:15,Janney Capital,Buy,,init
+2016-10-06 10:51:35,BMO Capital,Outperform,Market Perform,up
+2017-03-10 13:25:42,Goldman Sachs,Sell,Neutral,down
+2017-07-11 10:36:10,Morgan Stanley,Equal-Weight,,main
+2017-07-26 17:44:07,BMO Capital,Outperform,,main
+2017-07-27 11:56:27,Bernstein,Market Perform,,init
+2017-08-14 13:40:24,BMO Capital,Outperform,,main
+2017-08-17 13:12:06,Evercore ISI Group,Outperform,,init
+2017-09-07 18:50:18,Barclays,Equal-Weight,,init
+2017-09-21 15:24:34,Barclays,Equal-Weight,,main
+2017-11-08 13:21:40,Morgan Stanley,Equal-Weight,,main
+2017-11-08 14:07:27,BMO Capital,Outperform,,main
+2018-02-28 16:09:24,Stifel Nicolaus,Hold,Hold,main
+2018-02-28 16:33:37,BMO Capital,Outperform,Outperform,main
+2018-04-23 12:57:37,BMO Capital,Outperform,Outperform,main
+2018-04-25 13:28:34,BMO Capital,Outperform,Outperform,main
+2018-05-07 11:15:06,Stifel Nicolaus,Hold,Hold,main
+2018-05-07 15:58:28,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-05-08 12:56:07,Evercore ISI Group,In-Line,Outperform,down
+2018-06-20 10:17:47,Barclays,Underweight,Equal-Weight,down
+2018-08-08 11:18:22,Stifel Nicolaus,Hold,Hold,main
+2018-08-08 13:59:29,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-08-28 10:39:28,Stifel Nicolaus,Hold,Hold,main
+2018-08-28 13:19:31,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-09-25 11:10:30,Stifel Nicolaus,Hold,Hold,main
+2018-11-28 13:54:16,Leerink Swann,Market Perform,,init
+2019-02-28 14:26:28,BMO Capital,Outperform,Outperform,main
+2019-03-18 12:32:07,JP Morgan,Neutral,Neutral,main
+2019-04-09 11:07:34,Cantor Fitzgerald,Neutral,,init
+2019-07-24 13:21:05,BMO Capital,Outperform,,main
+2019-09-10 10:38:14,Bernstein,Outperform,Market Perform,up
+2019-10-10 13:02:04,Wells Fargo,Outperform,,main
+2019-10-11 13:04:14,Morgan Stanley,Equal-Weight,,main
+2019-11-07 11:39:12,Morgan Stanley,Underweight,Equal-Weight,down
+2019-11-07 12:07:39,Piper Jaffray,Neutral,,main
+2019-11-13 13:25:15,JP Morgan,Neutral,,main
+2019-11-14 13:55:54,William Blair,Market Perform,,init
+2019-12-13 11:47:40,Oppenheimer,Outperform,,init
+2020-02-27 17:58:26,Piper Sandler,Neutral,,main
+2020-03-05 16:44:02,Citigroup,Buy,,init
+2020-03-09 12:17:05,JP Morgan,Neutral,,main
+2020-04-09 12:51:52,Citigroup,Buy,,main
+2020-05-07 12:38:33,Morgan Stanley,Underweight,,main
+2020-05-07 14:24:03,Oppenheimer,Outperform,,main
+2020-05-13 09:01:47,RBC Capital,Outperform,,init
+2020-08-06 13:01:08,Morgan Stanley,Underweight,,main
+2020-08-10 11:19:03,Citigroup,Buy,,main
+2020-09-01 09:13:19,Needham,Buy,,main
+2020-09-01 10:44:16,SVB Leerink,Market Perform,,main
+2020-09-02 11:51:46,Benchmark,Hold,,init
+2020-10-13 13:54:40,Morgan Stanley,Underweight,,main
+2020-11-05 09:09:29,SVB Leerink,Market Perform,,main
+2020-11-05 13:16:50,Morgan Stanley,Underweight,,main
+2021-02-25 14:00:51,Morgan Stanley,Underweight,,main
+2021-03-23 09:40:16,SVB Leerink,Market Perform,,main
+2021-03-23 11:52:22,Morgan Stanley,Underweight,,main
+2021-03-23 12:00:55,Needham,Buy,,main
+2021-03-23 13:29:25,BMO Capital,Outperform,,main
+2021-04-19 14:40:48,Morgan Stanley,Underweight,,main
+2021-05-06 12:36:24,Morgan Stanley,Underweight,,main
+2021-05-07 14:41:50,UBS,Neutral,Sell,up
+2021-05-14 10:26:24,SVB Leerink,Market Perform,,main
+2021-07-16 12:52:46,Morgan Stanley,Underweight,,main
+2021-08-05 09:59:29,SVB Leerink,Market Perform,,main
+2021-08-19 12:03:36,BMO Capital,Outperform,,main
+2021-10-12 12:25:30,Morgan Stanley,Underweight,,main
+2021-11-04 08:49:09,SVB Leerink,Market Perform,,main
+2021-11-04 10:51:34,Needham,Buy,,main
+2021-12-08 13:39:33,SVB Leerink,Market Perform,,main
+2021-12-14 12:35:35,William Blair,Outperform,Market Perform,up
+2021-12-17 09:44:45,SVB Leerink,Market Perform,,main
+2022-02-01 12:39:26,B of A Securities,Underperform,Buy,down

@@ -1,0 +1,89 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-14 15:25:00,FBR Capital,Outperform,,main
+2012-05-16 10:39:00,Pacific Crest,Outperform,,init
+2012-07-09 08:01:00,FBR Capital,Outperform,,main
+2012-07-17 06:29:00,Benchmark,Hold,,init
+2012-08-07 05:50:00,Goldman Sachs,Buy,Neutral,up
+2012-10-22 12:34:00,Wedbush,Outperform,,main
+2012-10-25 07:19:00,Wedbush,Neutral,Outperform,down
+2012-10-25 08:01:00,FBR Capital,Outperform,,main
+2012-11-20 13:28:00,UBS,Neutral,,main
+2012-12-28 07:23:36,Wunderlich,Buy,,init
+2013-01-03 12:17:04,Barclays,Equal-Weight,Overweight,down
+2013-01-22 15:57:25,Wedbush,Neutral,,main
+2013-02-26 07:23:03,FBR Capital,Market Perform,Outperform,down
+2013-05-01 06:25:59,Goldman Sachs,Neutral,Buy,down
+2013-05-06 10:19:39,Topeka,Buy,,init
+2013-06-04 08:15:49,Longbow Research,Buy,,init
+2013-10-30 16:00:00,Morgan Stanley,Overweight,,up
+2013-12-16 16:00:00,Lazard,Neutral,Buy,down
+2013-12-17 16:00:00,Lazard,Neutral,Buy,down
+2013-12-18 06:29:18,Morgan Stanley,Equal-weight,Overweight,down
+2016-09-09 04:41:53,Citigroup,Buy,Neutral,up
+2016-10-26 11:16:41,BMO Capital,Outperform,Market Perform,up
+2017-01-05 13:45:06,Baird,Neutral,Outperform,down
+2017-01-19 22:39:46,SunTrust Robinson Humphrey,Hold,Buy,down
+2017-05-05 12:45:20,Cantor Fitzgerald,Neutral,Overweight,down
+2017-05-09 11:31:36,Bank of America,Neutral,Buy,down
+2017-07-20 13:59:45,Bank of America,Neutral,,main
+2017-08-07 12:06:36,Evercore ISI Group,Underperform,In-Line,down
+2017-08-18 17:31:15,Jefferies,Hold,,main
+2017-09-11 11:02:57,KeyBanc,Sector Weight,Underweight,up
+2017-09-12 15:56:53,BMO Capital,Underperform,,init
+2017-09-13 12:38:38,FBR Capital,Sell,Neutral,down
+2017-09-25 13:32:28,Bank of America,Underperform,Neutral,down
+2017-11-10 12:21:33,Cantor Fitzgerald,Neutral,,main
+2017-11-21 12:20:34,Bank of America,Neutral,Underperform,up
+2017-12-04 14:09:39,Evercore ISI Group,In-Line,Underperform,up
+2017-12-19 11:27:42,Citigroup,Neutral,Buy,down
+2018-01-25 14:21:09,Baird,Underperform,Neutral,down
+2018-03-01 13:36:36,Citigroup,Neutral,Neutral,main
+2018-03-02 12:22:12,BMO Capital,Market Perform,Underperform,up
+2018-05-08 18:58:16,Bank of America,Neutral,Neutral,main
+2018-07-12 13:49:22,Citigroup,Neutral,Neutral,main
+2018-07-16 18:42:42,Bank of America,Neutral,Neutral,main
+2018-10-05 11:56:56,Citigroup,Neutral,Neutral,main
+2019-03-08 12:27:29,Bank of America,Underperform,Neutral,down
+2019-06-11 10:24:24,KeyBanc,Overweight,Sector Weight,up
+2019-07-08 10:28:06,Raymond James,Outperform,Market Perform,up
+2019-08-05 12:15:41,KeyBanc,Overweight,,main
+2019-08-20 10:30:52,Stifel,Hold,,init
+2019-08-21 10:38:34,Baird,Neutral,Underperform,up
+2019-09-17 11:13:32,Raymond James,Outperform,,main
+2019-10-11 10:03:54,KeyBanc,Overweight,,main
+2019-10-11 10:25:58,Jefferies,Buy,Hold,up
+2019-10-31 10:32:46,Stifel Nicolaus,Buy,Hold,up
+2020-01-06 11:30:01,Bank of America,Neutral,Underperform,up
+2020-02-20 14:11:05,Baird,Neutral,,main
+2020-02-25 09:58:47,KeyBanc,Overweight,,main
+2020-03-11 14:04:59,SunTrust Robinson Humphrey,Hold,,main
+2020-03-25 16:15:20,Stifel,Buy,,main
+2020-04-02 13:02:37,Wells Fargo,Equal-Weight,,main
+2020-04-07 13:07:20,Citigroup,Buy,Neutral,up
+2020-04-08 09:05:55,Raymond James,Market Perform,Outperform,down
+2020-04-09 09:44:07,KeyBanc,Overweight,,main
+2020-04-17 08:54:10,KeyBanc,Overweight,,main
+2020-04-17 13:40:51,SunTrust Robinson Humphrey,Equal-Weight,,main
+2020-06-04 12:00:21,Stifel,Buy,,main
+2020-06-22 15:09:20,Wells Fargo,Equal-Weight,,main
+2020-09-01 08:43:46,KeyBanc,Overweight,,main
+2020-10-06 10:06:23,Raymond James,Outperform,Market Perform,up
+2020-10-15 10:26:41,KeyBanc,Overweight,,main
+2021-01-08 12:41:53,BMO Capital,Outperform,Market Perform,up
+2021-01-21 09:50:41,KeyBanc,Overweight,,main
+2021-02-01 11:29:30,Evercore ISI Group,In-Line,Outperform,down
+2021-03-01 12:44:49,Evercore ISI Group,Outperform,In-Line,up
+2021-05-20 10:05:48,Keybanc,Overweight,,main
+2021-06-04 12:59:03,Truist Securities,Hold,,main
+2021-06-18 10:26:44,Keybanc,Overweight,,main
+2021-06-21 13:33:23,Truist Securities,Hold,,main
+2021-07-14 09:00:40,Keybanc,Overweight,,main
+2021-08-10 12:00:00,Raymond James,Outperform,,main
+2021-08-23 08:33:21,Keybanc,Overweight,,main
+2021-09-16 11:52:15,Citigroup,Buy,,main
+2021-10-07 11:16:43,Berenberg,Buy,,init
+2021-11-18 09:34:57,Keybanc,Overweight,,main
+2021-12-02 12:34:01,Raymond James,Outperform,,main
+2021-12-02 14:27:47,Truist Securities,Hold,,main
+2021-12-17 12:14:33,Wolfe Research,Outperform,,init
+2022-01-13 11:17:49,Keybanc,Overweight,,main

@@ -1,0 +1,91 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-27 06:11:00,Pareto Securities,Hold,,up
+2012-05-01 06:12:00,Bank oferica,Neutral,,up
+2012-08-20 08:11:00,JP Morgan,Underweight,Neutral,down
+2012-09-07 05:41:00,Morgan Stanley,Equal-Weight,Underweight,up
+2012-09-10 05:51:00,Bank of America,Underperform,Neutral,down
+2012-10-26 05:41:00,Pareto Securities,Sell,Hold,down
+2012-10-26 05:53:00,Swedbank,Reduce,Neutral,down
+2012-12-14 06:50:13,Societe Generale,Sell,Hold,down
+2013-03-08 06:20:40,Swedbank,Sell,Reduce,down
+2013-03-22 08:32:45,Natixis,Neutral,Reduce,up
+2013-04-02 06:30:37,JP Morgan,Neutral,Underperform,up
+2013-08-02 06:27:35,Swedbank,Reduce,Sell,up
+2013-08-02 07:41:36,Swedbank,,Sell,up
+2013-08-15 08:35:03,Morgan Stanley,Underweight,Equal-Weight,down
+2013-09-16 07:48:42,Nordea,Buy,Sell,up
+2013-10-08 06:56:44,MainFirst,Underperform,,init
+2013-10-11 07:37:50,Jefferies,Underperform,Hold,down
+2013-10-28 06:06:50,Bank of America,Neutral,Underperform,up
+2013-11-04 07:22:12,UBS,Neutral,Buy,down
+2013-11-13 07:28:09,Panmure,Sell,Hold,down
+2013-11-15 07:20:09,Liberum,Buy,,up
+2013-12-20 16:00:00,Bryan Garnier,Neutral,Buy,down
+2014-01-09 08:30:00,UBS,Buy,,init
+2014-01-14 16:00:00,Morgan Stanley,Equal-Weight,Underweight,up
+2014-01-15 16:00:00,Danske Bank,Buy,,up
+2014-03-03 08:00:00,Bank of America,Underperform,Neutral,down
+2014-03-13 12:49:09,JP Morgan,Underweight,,down
+2014-04-01 08:00:00,Panmure,Hold,,up
+2014-04-22 08:00:00,Citigroup,Buy,Neutral,up
+2014-04-28 08:00:00,Societe Generale,Hold,Sell,up
+2014-04-29 08:00:00,Panmure,Buy,Hold,up
+2014-05-05 16:00:00,Danske Bank,Sell,Buy,down
+2014-05-21 19:43:37,Barclays,Equal-Weight,,main
+2014-12-02 00:00:00,Morgan Stanley,Underweight,Equal-Weight,down
+2015-01-16 07:15:38,Barclays,Underweight,Equal-weight,down
+2015-01-22 09:00:00,Leerink Swann,Market Perform,,main
+2015-02-03 04:48:06,SEB Enskilda,Buy,Hold,up
+2015-05-19 09:39:05,LBBW Research,Hold,Sell,up
+2015-07-02 06:08:51,Berenberg,Buy,Hold,up
+2015-09-02 08:23:32,HSBC,Buy,Hold,up
+2015-09-14 07:16:34,Deutsche Bank,Buy,Hold,up
+2015-10-20 07:34:02,Credit Suisse,Underperform,Neutral,down
+2015-11-02 06:42:31,Nordea,Hold,,down
+2015-12-01 12:02:51,Morgan Stanley,Overweight,Underweight,up
+2016-01-19 05:37:58,Barclays,Equal-Weight,Underweight,up
+2016-01-26 08:54:49,Oddo Securities,Top Pick,Neutral,up
+2016-02-08 05:40:36,HBSC,Hold,Buy,down
+2016-02-26 06:18:17,Cantor Fitzgerald,Buy,,init
+2016-02-29 05:52:33,Drexel Hamilton,Buy,,init
+2016-03-15 04:04:12,Jefferies,Hold,Buy,down
+2016-04-11 22:46:58,Goldman Sachs,Sell,Neutral,down
+2016-05-02 07:57:05,Leerink Swann,Market Perform,,main
+2016-09-12 03:43:20,Jefferies,Buy,Hold,up
+2016-09-14 04:54:09,Exane BNP Paribas,Neutral,Outperform,down
+2016-09-23 06:45:40,PiperJaffray,Overweight,,init
+2016-12-09 11:25:30,Leerink Swann,Outperform,Market Perform,up
+2017-05-15 14:50:58,Credit Suisse,Neutral,Underperform,up
+2017-07-27 17:58:31,Leerink Swann,Market Perform,Outperform,down
+2017-07-28 13:15:22,Morgan Stanley,Equal-Weight,Overweight,down
+2017-09-07 12:15:09,BMO Capital,Outperform,,init
+2017-09-14 13:06:48,Liberum,Hold,Buy,down
+2017-09-22 17:34:51,Bernstein,Outperform,Market Perform,up
+2017-10-23 17:25:47,Leerink Swann,Market Perform,,main
+2017-12-29 11:38:26,JP Morgan,Overweight,Neutral,up
+2018-02-06 14:02:13,Leerink Swann,Market Perform,Market Perform,main
+2018-03-19 17:16:00,Jefferies,Buy,Hold,up
+2018-05-05 13:32:14,Argus,Hold,,init
+2018-05-05 13:32:14,Argus,Buy,Hold,up
+2018-08-16 10:22:04,Jefferies,Hold,Buy,down
+2018-11-19 12:54:38,Investec,Hold,Buy,down
+2018-12-14 13:53:56,SunTrust Robinson Humphrey,Buy,,init
+2019-04-01 10:19:00,Cowen & Co.,Outperform,Market Perform,up
+2019-04-02 11:57:21,UBS,Sell,Neutral,down
+2019-11-22 13:59:06,SVB Leerink,Outperform,,init
+2019-12-02 14:17:40,Cowen & Co.,Outperform,,main
+2020-05-06 13:22:10,Argus Research,Buy,,main
+2020-05-29 10:20:33,SVB Leerink,Outperform,,main
+2020-12-07 15:59:01,Morgan Stanley,Overweight,Equal-Weight,up
+2021-01-15 12:42:41,Deutsche Bank,Buy,,init
+2021-02-25 10:51:38,UBS,Buy,Neutral,up
+2021-03-02 15:55:27,SVB Leerink,Outperform,,main
+2021-03-16 10:21:03,Jefferies,Buy,Hold,up
+2021-04-12 13:45:38,Argus Research,Hold,Buy,down
+2021-06-04 10:27:03,SVB Leerink,Outperform,,main
+2021-07-16 11:14:24,SVB Leerink,Outperform,,main
+2021-08-04 10:33:43,SVB Leerink,Outperform,,main
+2021-09-20 11:09:00,SVB Leerink,Outperform,,main
+2021-09-27 10:38:10,SVB Leerink,Outperform,,main
+2021-12-07 10:05:05,Jefferies,Hold,Buy,down
+2022-02-11 12:18:13,DZ Bank,Hold,Sell,up

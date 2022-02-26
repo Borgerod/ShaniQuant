@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action
+2021-02-22 13:10:31,Deutsche Bank,Buy,,init
+2021-02-22 15:59:55,William Blair,Outperform,,init
+2021-02-23 09:43:33,Piper Sandler,Neutral,,init
+2021-02-23 11:16:08,Oppenheimer,Outperform,,init
+2021-02-23 11:39:17,Barclays,Equal-Weight,,init
+2021-02-23 12:21:28,Raymond James,Outperform,,init
+2021-02-23 12:55:26,Morgan Stanley,Equal-Weight,,init
+2021-02-23 13:33:21,BMO Capital,Market Perform,,init
+2021-02-23 13:40:14,JMP Securities,Market Outperform,,init
+2021-02-23 13:45:57,JP Morgan,Overweight,,init
+2021-02-23 13:48:07,Truist Securities,Buy,,init
+2021-02-23 14:42:42,Canaccord Genuity,Buy,,init
+2021-03-17 10:11:26,HSBC,Hold,,init
+2021-04-22 10:13:56,Piper Sandler,Overweight,Neutral,up
+2021-04-22 10:21:47,BMO Capital,Outperform,Market Perform,up
+2021-04-22 11:31:16,Raymond James,Outperform,,main
+2021-04-22 11:52:32,Canaccord Genuity,Buy,,main
+2021-05-19 10:55:59,B of A Securities,Buy,Neutral,up
+2021-07-21 08:32:21,Piper Sandler,Overweight,,main
+2021-10-21 08:39:38,Piper Sandler,Overweight,,main
+2021-10-21 11:22:38,Raymond James,Outperform,,main
+2021-10-21 11:25:49,Oppenheimer,Outperform,,main
+2021-12-13 11:00:01,Goldman Sachs,Buy,,init
+2021-12-16 11:51:14,Morgan Stanley,Overweight,Equal-Weight,up
+2022-01-19 12:23:46,Evercore ISI Group,Outperform,In-Line,up
+2022-01-27 10:16:49,Piper Sandler,Overweight,,main
+2022-01-27 12:15:45,Raymond James,Outperform,,main
+2022-01-27 12:36:23,Barclays,Equal-Weight,,main
+2022-01-27 13:25:36,Oppenheimer,Outperform,,main
+2022-01-27 15:08:20,Canaccord Genuity,Buy,,main

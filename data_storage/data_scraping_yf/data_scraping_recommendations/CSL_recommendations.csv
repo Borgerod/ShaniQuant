@@ -1,0 +1,62 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-09 07:34:00,KeyBanc,Hold,Buy,down
+2012-07-12 05:50:00,Citigroup,Neutral,,main
+2012-09-05 06:50:00,Citigroup,Neutral,,main
+2012-12-10 11:29:41,KeyBanc,Buy,Hold,up
+2013-03-18 06:30:48,Citigroup,Neutral,,main
+2013-04-25 06:38:50,Citigroup,Neutral,,main
+2013-07-24 09:29:35,SunTrust Robinson Humphrey,Buy,Neutral,up
+2013-09-06 07:48:44,Longbow Research,Buy,,init
+2013-12-12 08:26:00,KeyBanc,Buy,,main
+2014-02-07 08:00:00,BMO Capital,Outperform,Market Perform,up
+2014-04-15 08:00:00,FBR Capital,Outperform,Market Perform,up
+2014-04-15 23:42:10,FBR Capital,Market Perform,,main
+2014-08-29 09:00:00,KeyBanc,Buy,,main
+2014-11-25 00:00:00,RBC Capital,Sector Perform,,init
+2015-04-24 09:00:00,BMO Capital,Outperform,,main
+2015-09-29 06:51:26,KeyBanc,Sector Weight,,down
+2015-10-05 11:08:00,Oppenheimer,Outperform,,main
+2015-12-16 06:28:25,Wunderlich,Buy,,init
+2016-03-29 06:59:16,Oppenheimer,Outperform,,main
+2016-05-26 07:59:46,Topeka,Buy,,init
+2016-06-02 09:37:16,Northcoast Research,Neutral,Buy,down
+2016-11-29 12:52:30,Longbow Research,Neutral,Buy,down
+2017-06-14 12:53:31,Oppenheimer,Perform,Outperform,down
+2017-07-11 10:33:20,Baird,Outperform,,main
+2017-09-05 16:17:42,Buckingham,Buy,,init
+2017-10-25 12:49:43,Baird,Outperform,,main
+2018-02-09 14:09:45,Baird,Outperform,Outperform,main
+2018-04-06 13:47:34,BMO Capital,Outperform,Outperform,main
+2018-07-25 12:21:35,B. Riley FBR,Buy,Buy,main
+2018-07-25 12:35:36,Baird,Outperform,Outperform,main
+2018-09-07 11:18:22,BMO Capital,Outperform,Outperform,main
+2018-10-09 10:56:27,BMO Capital,Market Perform,Outperform,down
+2018-10-24 15:43:46,B. Riley FBR,Buy,Buy,main
+2018-10-31 14:44:03,BMO Capital,Market Perform,Market Perform,main
+2018-11-13 10:56:44,Longbow Research,Buy,Neutral,up
+2018-12-17 12:35:35,Oppenheimer,Outperform,Perform,up
+2019-04-05 13:01:53,Oppenheimer,Outperform,Outperform,main
+2019-04-24 12:56:49,BMO Capital,Market Perform,Market Perform,main
+2019-04-24 14:10:34,Baird,Outperform,Outperform,main
+2019-07-08 11:47:16,Buckingham Research,Neutral,Buy,down
+2019-10-24 12:19:29,BMO Capital,Market Perform,,main
+2019-12-05 13:43:42,Baird,Outperform,,main
+2019-12-06 14:09:20,Baird,Outperform,,main
+2020-01-07 13:37:43,Loop Capital,Hold,,init
+2020-01-14 13:31:31,Berenberg,Buy,,init
+2020-04-17 10:53:20,Jefferies,Buy,,init
+2020-05-28 11:05:40,Credit Suisse,Outperform,,init
+2020-06-19 10:08:02,BMO Capital,Outperform,Market Perform,up
+2020-07-22 12:20:36,Credit Suisse,Outperform,,main
+2020-11-13 12:16:09,Loop Capital,Hold,Buy,down
+2020-11-25 09:37:25,Credit Suisse,Outperform,,main
+2021-03-25 12:34:28,Loop Capital,Buy,Hold,up
+2021-04-12 11:34:41,Longbow Research,Neutral,Buy,down
+2021-04-12 12:23:23,Oppenheimer,Outperform,,main
+2021-05-14 13:02:51,Oppenheimer,Outperform,,main
+2021-06-30 12:33:33,Northcoast Research,Buy,Neutral,up
+2021-07-14 14:14:48,Oppenheimer,Outperform,,main
+2021-07-23 11:42:57,Oppenheimer,Outperform,,main
+2021-10-22 14:37:03,Oppenheimer,Outperform,,main
+2021-11-15 13:33:27,Zelman,Buy,,init
+2021-12-08 12:27:47,Oppenheimer,Outperform,,main

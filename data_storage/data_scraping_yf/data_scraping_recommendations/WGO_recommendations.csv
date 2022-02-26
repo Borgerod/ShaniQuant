@@ -1,0 +1,44 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-17 06:18:00,Oxen Group,Hold,,init
+2014-07-09 06:42:27,SunTrust Robinson Humphrey,Neutral,,init
+2014-09-15 05:31:43,BMO Capital,Outperform,,init
+2015-05-15 10:37:00,Northcoast Research,Buy,,init
+2015-09-24 13:35:25,SunTrust Robinson Humphrey,Neutral,,main
+2016-02-09 09:31:40,Northcoast Research,Neutral,Buy,down
+2016-10-03 13:33:46,Baird,Outperform,Neutral,up
+2017-03-10 13:32:38,BMO Capital,Market Perform,Outperform,down
+2017-04-24 15:47:45,CL King,Buy,,init
+2017-07-07 13:05:56,Stifel Nicolaus,Buy,,init
+2017-10-04 10:56:32,Stifel Nicolaus,Hold,Buy,down
+2017-10-20 18:34:52,Baird,Outperform,,main
+2017-11-03 16:29:13,Baird,Outperform,,main
+2018-01-26 14:02:15,Northcoast Research,Neutral,Buy,down
+2018-02-27 12:28:53,BMO Capital,Outperform,Market Perform,up
+2018-03-16 17:11:04,SunTrust Robinson Humphrey,Buy,Hold,up
+2018-05-07 11:17:51,Stifel Nicolaus,Hold,Hold,main
+2019-03-28 13:04:38,Jefferies,Hold,,init
+2019-09-06 14:13:32,Sidoti & Co.,Buy,,main
+2019-10-24 12:47:32,Baird,Outperform,,main
+2019-10-25 12:36:39,BMO Capital,Outperform,,main
+2019-12-23 12:58:18,BMO Capital,Outperform,,main
+2019-12-23 13:11:15,SunTrust Robinson Humphrey,Buy,,main
+2020-01-27 10:47:53,KeyBanc,Overweight,,init
+2020-03-26 18:39:47,SunTrust Robinson Humphrey,Buy,,main
+2020-04-14 10:35:27,KeyBanc,Overweight,,main
+2020-05-12 13:38:29,SunTrust Robinson Humphrey,Buy,,main
+2020-05-14 13:54:44,Sidoti & Co.,Buy,,main
+2020-06-04 12:10:31,SunTrust Robinson Humphrey,Buy,,main
+2020-06-10 08:59:01,KeyBanc,Overweight,,main
+2020-06-19 13:13:27,Sidoti & Co.,Neutral,,main
+2020-06-25 14:01:34,SunTrust Robinson Humphrey,Buy,,main
+2020-07-06 11:29:03,Citigroup,Neutral,,init
+2020-09-23 11:17:42,Wolfe Research,Outperform,Peer Perform,up
+2020-12-02 10:23:50,Wedbush,Outperform,,init
+2021-02-04 18:05:23,Wedbush,Outperform,,main
+2021-03-25 11:23:10,Truist Securities,Buy,,main
+2021-06-17 11:36:24,Northcoast Research,Neutral,Buy,down
+2021-07-02 09:18:27,Raymond James,Market Perform,,init
+2021-10-21 08:36:07,Keybanc,Overweight,,main
+2021-10-25 17:42:43,Keybanc,Sector Weight,Overweight,down
+2021-10-26 08:42:52,Keybanc,Sector Weight,Overweight,down
+2022-01-07 14:01:03,CL King,Strong Buy,Neutral,up

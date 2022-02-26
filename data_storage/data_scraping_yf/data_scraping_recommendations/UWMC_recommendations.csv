@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action
+2021-02-16 12:44:58,Deutsche Bank,Buy,,init
+2021-02-23 11:35:58,Credit Suisse,Outperform,,init
+2021-04-21 12:16:24,Barclays,Overweight,,init
+2021-05-27 11:26:47,Argus Research,Buy,,init
+2021-06-02 10:27:41,Credit Suisse,Neutral,Outperform,down
+2021-06-14 13:48:43,Wedbush,Neutral,Outperform,down
+2021-06-23 09:53:07,Jefferies,Hold,,init
+2021-07-02 13:02:47,"Keefe, Bruyette & Woods",Market Perform,,init
+2021-07-09 11:38:27,Barclays,Overweight,,main
+2021-07-12 11:46:08,Morgan Stanley,Equal-Weight,,init
+2021-08-17 12:31:23,Morgan Stanley,Equal-Weight,,main
+2021-10-15 11:20:52,UBS,Buy,,init
+2021-12-15 10:43:55,Piper Sandler,Neutral,,init
+2021-12-16 13:02:55,Wedbush,Outperform,Neutral,up
+2022-01-10 11:42:23,Barclays,Equal-Weight,Overweight,down

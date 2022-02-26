@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action
+2019-04-03 11:09:54,Goldman Sachs,Neutral,,init
+2021-02-16 12:16:09,Morgan Stanley,Overweight,,init
+2021-02-26 16:43:37,Citigroup,Buy,,main
+2021-03-17 13:38:48,Citigroup,Buy,,main
+2021-04-26 11:42:42,B of A Securities,Buy,,init
+2021-07-14 08:45:34,Goldman Sachs,Neutral,,init
+2021-08-02 15:40:47,BOCOM International,Buy,Neutral,up
+2021-10-18 13:05:14,JP Morgan,Overweight,,init
+2021-10-19 11:50:18,CLSA,Buy,,init
+2021-10-29 12:35:32,Morgan Stanley,Equal-Weight,Overweight,down

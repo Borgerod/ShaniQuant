@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,iShares MSCI EAFE ETF
+longName,iShares MSCI EAFE ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,EFA
+messageBoardId,finmb_8797589
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,0.99
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,997747200
+annualReportExpenseRatio,
+totalAssets,57151119360
+bookValue,
+fundFamily,iShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0223
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.1301
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Foreign Large Blend
+fiveYearAverageReturn,0.090500005
+phone,800-474-2737
+longBusinessSummary,"The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The index is a free float-adjusted, market capitalization-weighted index designed to measure large- and mid-capitalization equity market performance of developed markets outside of the U.S. and Canada."
+companyOfficers,[]
+previousClose,75.62
+regularMarketOpen,75.66
+twoHundredDayAverage,79.26395
+trailingAnnualDividendYield,0.02328749
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,75.85
+navPrice,79.57
+averageDailyVolume10Day,31741820
+regularMarketPreviousClose,75.62
+fiftyDayAverage,77.3314
+trailingAnnualDividendRate,1.761
+open,75.66
+toCurrency,
+averageVolume10days,31741820
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,75.08
+currency,USD
+trailingPE,28.034252
+regularMarketVolume,34752009
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,33687174
+dayLow,75.08
+ask,75.14
+askSize,46000
+volume,34752009
+fiftyTwoWeekHigh,82.29
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,73.53
+bid,74.63
+tradeable,False
+dividendYield,
+bidSize,3000
+dayHigh,75.85
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0.0295}, {'consumer_cyclical': 0.1102}, {'basic_materials': 0.0779}, {'consumer_defensive': 0.1024}, {'technology': 0.1029}, {'communication_services': 0.057800002}, {'financial_services': 0.1668}, {'utilities': 0.033800002}, {'industrials': 0.1532}, {'energy': 0.033099998}, {'healthcare': 0.13239999}]"
+holdings,"[{'symbol': 'NESN', 'holdingName': 'Nestle SA', 'holdingPercent': 0.0208}, {'symbol': 'ASML', 'holdingName': 'ASML Holding NV', 'holdingPercent': 0.0199}, {'symbol': 'ROG', 'holdingName': 'Roche Holding AG', 'holdingPercent': 0.0161}, {'symbol': 'NOVN', 'holdingName': 'Novartis AG', 'holdingPercent': 0.0117999995}, {'symbol': 'MC.PA', 'holdingName': 'LVMH Moet Hennessy Louis Vuitton SE', 'holdingPercent': 0.0117}, {'symbol': '7203', 'holdingName': 'Toyota Motor Corp', 'holdingPercent': 0.0106}, {'symbol': 'AZN.L', 'holdingName': 'AstraZeneca PLC', 'holdingPercent': 0.0104}, {'symbol': 'NOVO B', 'holdingName': 'Novo Nordisk A/S Class B', 'holdingPercent': 0.0097}, {'symbol': 'SAP.DE', 'holdingName': 'SAP SE', 'holdingPercent': 0.009}, {'symbol': 'ULVR.L', 'holdingName': 'Unilever PLC', 'holdingPercent': 0.0083}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 10.34, 'priceToSales': 1.45, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 17.24, 'priceToBook': 1.86, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9913
+regularMarketPrice,75.3
+preMarketPrice,
+logo_url,

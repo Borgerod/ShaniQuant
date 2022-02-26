@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action
+2012-11-02 09:53:00,Raymond James,Market Perform,Underperform,up
+2012-11-06 05:53:00,JP Morgan,Neutral,Underweight,up
+2012-11-08 10:39:00,Raymond James,Outperform,Market Perform,up
+2012-11-12 08:11:00,Citigroup,Buy,Neutral,up
+2012-12-20 09:45:09,Drexel Hamilton,Hold,,init
+2013-10-18 07:26:52,FBR Capital,Underperform,,init
+2014-03-03 08:00:00,JP Morgan,Overweight,Neutral,up
+2014-08-05 06:25:25,Raymond James,Strong Buy,Outperform,up
+2016-01-04 05:58:29,JP Morgan,Neutral,Overweight,down
+2016-12-14 13:06:17,Morgan Stanley,Equal-Weight,Underweight,up
+2017-02-27 14:19:54,Raymond James,Market Perform,,down
+2018-05-02 11:57:12,Raymond James,Outperform,Market Perform,up
+2018-07-11 14:13:32,JP Morgan,Underweight,Neutral,down
+2018-08-08 12:03:53,Citigroup,Buy,Buy,main
+2018-11-06 17:14:26,Raymond James,Outperform,Outperform,main
+2019-05-06 15:31:28,Raymond James,Outperform,,reit
+2019-06-18 14:49:29,Morgan Stanley,Overweight,Equal-Weight,up
+2019-08-05 10:54:40,JP Morgan,Neutral,Underweight,up
+2019-08-06 13:02:50,B. Riley,Neutral,,main
+2019-08-06 13:44:43,Wells Fargo,Market Perform,,main
+2019-11-04 11:18:51,JP Morgan,Overweight,Neutral,up
+2019-11-04 13:47:42,Raymond James,Strong Buy,Outperform,up
+2020-03-02 13:10:04,Citigroup,Buy,,main
+2020-03-27 15:29:11,JP Morgan,Overweight,,main
+2020-04-09 12:36:58,Morgan Stanley,Overweight,,main
+2020-04-22 13:08:02,Raymond James,Strong Buy,,main
+2020-05-14 11:24:22,B. Riley FBR,Neutral,,main
+2020-05-18 11:25:10,Raymond James,Strong Buy,,reit
+2020-07-08 13:15:26,Morgan Stanley,Overweight,,main
+2020-08-10 14:15:26,Raymond James,Strong Buy,,main
+2020-08-27 12:09:00,Morgan Stanley,Overweight,,main
+2020-08-31 12:35:21,Citigroup,Buy,,main
+2021-01-14 14:53:15,Morgan Stanley,Overweight,,main
+2021-02-22 12:51:28,JP Morgan,Neutral,Overweight,down
+2021-07-22 12:36:35,Morgan Stanley,Overweight,,main
+2021-08-02 15:50:15,JP Morgan,Underweight,Neutral,down

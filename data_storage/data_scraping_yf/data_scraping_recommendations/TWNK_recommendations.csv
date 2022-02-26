@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action
+2016-11-07 12:14:10,SunTrust Robinson Humphrey,Buy,,init
+2017-02-14 13:56:32,CL King,Strong Buy,,init
+2017-02-15 13:40:44,Deutsche Bank,Buy,,init
+2017-05-16 12:23:42,Stephens & Co.,Overweight,,init
+2017-07-31 12:52:28,UBS,Neutral,,init
+2017-09-25 13:36:26,Morgan Stanley,Equal-Weight,,init
+2017-10-11 11:58:49,JP Morgan,Neutral,,init
+2017-10-13 11:33:59,UBS,Sell,Neutral,down
+2017-11-09 12:58:26,Morgan Stanley,Equal-Weight,,main
+2018-03-01 13:45:18,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-04-23 13:00:17,UBS,Neutral,Sell,up
+2018-05-14 10:42:52,Deutsche Bank,Hold,Buy,down
+2018-05-21 11:12:01,Berenberg,Buy,,init
+2018-05-22 11:52:24,Vertical Group,Buy,,init
+2018-08-08 11:20:56,RBC Capital,Sector Perform,Outperform,down
+2018-08-08 11:32:27,SunTrust Robinson Humphrey,Hold,Buy,down
+2018-09-26 11:44:29,Citigroup,Neutral,,init
+2018-11-08 14:53:28,RBC Capital,Sector Perform,Sector Perform,main
+2018-12-06 11:44:32,JP Morgan,Overweight,Neutral,up
+2019-04-02 10:47:37,Deutsche Bank,Buy,Hold,up
+2019-06-12 10:38:22,Evercore ISI Group,Outperform,,init
+2019-06-19 21:48:41,DA Davidson,Buy,,init
+2019-06-20 11:04:52,DA Davidson,Buy,,init
+2019-06-24 12:21:10,UBS,Buy,Neutral,up
+2019-07-17 12:03:30,Morgan Stanley,Equal-Weight,,main
+2019-09-20 12:38:14,SunTrust Robinson Humphrey,Hold,,main
+2019-12-03 12:49:43,Morgan Stanley,Equal-Weight,,main
+2020-01-23 11:32:27,Jefferies,Buy,,init
+2020-03-31 17:27:20,Morgan Stanley,Equal-Weight,,main
+2020-04-17 15:12:47,JP Morgan,Overweight,,main
+2020-05-11 13:20:11,Morgan Stanley,Equal-Weight,,main
+2020-08-06 12:52:00,Morgan Stanley,Equal-Weight,,main
+2020-10-14 12:59:28,Morgan Stanley,Equal-Weight,,main
+2021-08-05 14:27:12,Morgan Stanley,Equal-Weight,,main
+2021-09-21 14:12:43,Morgan Stanley,Overweight,Equal-Weight,up
+2021-10-15 10:37:51,Credit Suisse,Outperform,,init
+2021-12-15 11:57:06,Citigroup,Buy,,init

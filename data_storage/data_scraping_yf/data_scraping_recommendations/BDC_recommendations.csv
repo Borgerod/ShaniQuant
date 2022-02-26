@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-11 08:32:00,Stifel Nicolaus,Buy,,main
+2012-05-25 07:37:00,DA Davidson,Neutral,,init
+2012-07-17 08:01:00,Barrington Research,Outperform,,init
+2012-08-10 08:16:00,Stifel Nicolaus,Buy,,main
+2012-08-31 09:01:00,Stifel Nicolaus,Hold,Buy,down
+2012-11-12 14:25:00,Barrington Research,Outperform,,main
+2013-03-27 16:37:12,Canaccord Genuity,Buy,,init
+2014-05-02 06:33:38,DA Davidson,Neutral,,main
+2014-07-31 22:44:40,SunTrust Robinson Humphrey,Buy,,main
+2014-10-21 09:29:55,Stifel Nicolaus,,Hold,up
+2014-10-30 09:00:00,Stifel Nicolaus,Buy,,main
+2015-04-10 09:00:00,Stifel Nicolaus,Buy,,main
+2015-04-14 09:00:00,SunTrust Robinson Humphrey,Buy,,main
+2015-07-23 11:00:00,Canaccord Genuity,Buy,,main
+2016-02-10 12:50:18,SunTrust Robinson Humphrey,Buy,,main
+2016-09-07 06:36:18,SunTrust Robinson Humphrey,Neutral,Buy,down
+2016-12-06 18:03:58,Stifel Nicolaus,Buy,,main
+2016-12-15 10:55:30,Deutsche Bank,Buy,,init
+2017-02-13 15:27:59,JP Morgan,Neutral,,init
+2017-03-02 17:20:33,Seaport Global,Buy,,init
+2017-06-22 16:32:32,CL King,Neutral,,init
+2017-06-23 13:41:15,Goldman Sachs,Buy,,init
+2017-07-12 11:41:49,Guggenheim,Buy,,init
+2017-08-03 17:04:52,Deutsche Bank,Buy,,main
+2017-09-13 14:57:48,Canaccord Genuity,Buy,,main
+2018-03-26 18:45:58,SunTrust Robinson Humphrey,Buy,Hold,up
+2018-11-01 10:54:57,SunTrust Robinson Humphrey,Hold,Buy,down
+2018-11-01 13:39:06,Canaccord Genuity,Buy,Buy,main
+2018-12-03 10:58:31,Goldman Sachs,Neutral,Buy,down
+2019-01-03 12:12:51,Longbow Research,Buy,Neutral,up
+2019-02-21 11:26:05,Longbow Research,Neutral,Buy,down
+2019-08-01 12:29:43,Stifel Nicolaus,Buy,,main
+2020-01-23 13:07:35,Cross Research,Sell,Hold,down
+2020-02-13 13:47:27,Stifel Nicolaus,Buy,,main
+2020-03-03 10:04:34,Longbow Research,Buy,Neutral,up
+2020-03-16 10:41:33,SunTrust Robinson Humphrey,Buy,Hold,up
+2020-04-13 10:08:45,Goldman Sachs,Sell,Neutral,down
+2020-04-21 11:01:33,Stifel,Hold,Buy,down
+2020-04-30 16:05:41,SunTrust Robinson Humphrey,Buy,,main
+2020-04-30 16:36:12,Canaccord Genuity,Buy,,main
+2020-07-07 13:39:35,JP Morgan,Neutral,,main
+2021-02-11 16:28:19,Canaccord Genuity,Hold,,main
+2021-05-07 14:07:50,Stifel,Buy,Hold,up
+2021-08-06 12:17:32,Goldman Sachs,Sell,,main
+2021-09-09 11:30:52,Canaccord Genuity,Buy,Hold,up

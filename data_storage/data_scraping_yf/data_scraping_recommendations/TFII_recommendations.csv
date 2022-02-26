@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action
+2020-03-09 17:16:35,B of A Securities,Buy,,init
+2020-04-23 13:38:07,JP Morgan,Overweight,,main
+2020-06-08 12:36:21,Credit Suisse,Outperform,,init
+2020-06-10 10:19:25,Morgan Stanley,Overweight,,init
+2020-07-06 12:29:16,Morgan Stanley,Overweight,,main
+2020-07-29 14:11:28,Credit Suisse,Outperform,,main
+2020-09-16 13:13:46,B of A Securities,Buy,,main
+2020-10-05 15:06:13,Morgan Stanley,Overweight,,main
+2020-11-02 14:03:13,Morgan Stanley,Overweight,,main
+2020-11-25 09:37:25,Credit Suisse,Outperform,,main
+2021-01-06 16:10:17,Morgan Stanley,Overweight,,main
+2021-01-26 11:48:14,B of A Securities,Buy,Neutral,up
+2021-01-26 14:15:24,Credit Suisse,Outperform,,main
+2021-02-10 14:51:29,Credit Suisse,Outperform,,main
+2021-02-12 16:25:29,UBS,Neutral,Buy,down
+2021-04-06 14:45:11,Morgan Stanley,Overweight,,main
+2021-04-29 12:45:36,Morgan Stanley,Overweight,,main
+2021-04-29 13:29:51,Credit Suisse,Outperform,,main
+2021-06-01 11:31:34,BMO Capital,Market Perform,Outperform,down
+2021-07-08 13:21:02,Morgan Stanley,Overweight,,main
+2021-07-14 13:03:25,RBC Capital,Outperform,,main
+2021-07-27 12:07:59,Stephens & Co.,Overweight,,main
+2021-07-27 12:22:21,BMO Capital,Market Perform,,main
+2021-07-27 12:23:38,Morgan Stanley,Overweight,,main
+2021-07-27 12:51:51,Credit Suisse,Outperform,,main
+2021-07-27 13:54:14,RBC Capital,Outperform,,main
+2021-09-15 12:14:40,Cowen & Co.,Outperform,,main
+2021-11-01 12:12:19,RBC Capital,Outperform,,main
+2021-11-02 13:14:33,Morgan Stanley,Overweight,,main
+2021-12-09 12:25:43,Susquehanna,Positive,,init
+2022-01-06 11:52:49,Wolfe Research,Peer Perform,Outperform,down
+2022-02-09 15:23:11,Morgan Stanley,Overweight,,main

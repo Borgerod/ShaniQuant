@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action
+2018-08-27 10:38:31,Jefferies,Hold,,init
+2018-08-27 11:08:28,Morgan Stanley,Equal-Weight,,init
+2018-08-27 11:09:15,Stifel Nicolaus,Hold,,init
+2018-08-27 11:57:46,Raymond James,Outperform,,init
+2018-08-27 12:28:49,Goldman Sachs,Buy,,init
+2018-08-27 13:11:49,RBC Capital,Outperform,,init
+2019-01-28 13:09:21,Morgan Stanley,Overweight,Equal-Weight,up
+2019-04-02 10:50:53,DA Davidson,Buy,,init
+2019-08-19 10:23:54,Raymond James,Strong Buy,Outperform,up
+2019-11-13 11:40:11,RBC Capital,Outperform,,init
+2020-04-17 11:17:59,Goldman Sachs,Sell,Buy,down
+2020-05-07 15:36:07,B of A Securities,Neutral,,reit
+2020-06-11 12:52:07,Morgan Stanley,Overweight,,main
+2020-07-21 16:18:59,B of A Securities,Neutral,,main
+2020-07-29 11:56:00,Raymond James,Market Perform,Strong Buy,down
+2020-08-06 13:25:08,Morgan Stanley,Overweight,,main
+2020-08-06 14:43:06,Stifel,Hold,,main
+2020-10-15 13:16:03,B of A Securities,Buy,Neutral,up
+2020-11-19 11:48:42,RBC Capital,Outperform,,main
+2020-11-19 13:02:34,Morgan Stanley,Overweight,,main
+2021-02-03 14:26:34,Morgan Stanley,Overweight,,main
+2021-02-11 14:22:49,Morgan Stanley,Overweight,,main
+2021-05-13 15:35:16,Morgan Stanley,Overweight,,main
+2021-08-12 12:07:29,Morgan Stanley,Overweight,,main
+2021-08-16 08:58:34,Jefferies,Buy,Hold,up
+2021-12-09 14:44:24,Morgan Stanley,Overweight,,main
+2022-02-03 13:49:08,Morgan Stanley,Overweight,,main

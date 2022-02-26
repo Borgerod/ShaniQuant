@@ -1,0 +1,34 @@
+Date,Firm,To Grade,From Grade,Action
+2019-10-14 10:56:19,Bank of America,Neutral,,init
+2019-10-14 11:15:29,Goldman Sachs,Buy,,init
+2019-10-14 11:17:38,JP Morgan,Overweight,,init
+2019-10-14 11:21:03,Baird,Outperform,,init
+2019-10-14 11:22:25,Stifel Nicolaus,Buy,,init
+2019-10-14 11:23:52,Jefferies,Buy,,init
+2019-10-14 11:24:53,Credit Suisse,Neutral,,init
+2019-10-14 11:34:27,Morgan Stanley,Equal-Weight,,init
+2019-10-15 09:24:20,William Blair,Outperform,,init
+2020-03-17 15:11:58,JP Morgan,Overweight,,main
+2020-05-13 12:23:23,Credit Suisse,Neutral,,main
+2020-05-13 12:42:23,B of A Securities,Neutral,,reit
+2020-05-13 14:35:47,Baird,Outperform,,main
+2020-05-14 11:49:14,Morgan Stanley,Equal-Weight,,main
+2020-06-01 14:49:14,JP Morgan,Overweight,,main
+2020-06-16 08:50:43,Piper Sandler,Neutral,,init
+2020-07-20 15:01:33,B of A Securities,Neutral,,main
+2020-08-03 13:21:01,Morgan Stanley,Equal-Weight,,main
+2020-09-15 13:18:08,B of A Securities,Neutral,,main
+2020-10-30 13:32:46,Credit Suisse,Neutral,,main
+2020-11-02 13:43:17,Morgan Stanley,Equal-Weight,,main
+2020-11-25 15:34:57,B of A Securities,Neutral,,main
+2020-12-15 16:58:11,Morgan Stanley,Equal-Weight,,main
+2021-01-08 12:37:47,Credit Suisse,Outperform,Neutral,up
+2021-02-11 15:33:27,Credit Suisse,Outperform,,main
+2021-02-12 13:35:06,Morgan Stanley,Equal-Weight,,main
+2021-03-25 17:05:03,Credit Suisse,Outperform,,main
+2021-05-06 13:58:30,Credit Suisse,Outperform,,main
+2021-05-07 12:03:08,Morgan Stanley,Equal-Weight,,main
+2021-10-26 11:54:40,B of A Securities,Buy,Neutral,up
+2022-01-07 15:36:54,Morgan Stanley,Equal-Weight,,main
+2022-01-31 11:28:45,Morgan Stanley,Overweight,Equal-Weight,up
+2022-02-10 13:25:02,Morgan Stanley,Overweight,,main

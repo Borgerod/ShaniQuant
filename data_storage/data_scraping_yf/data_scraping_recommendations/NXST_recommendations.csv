@@ -1,0 +1,53 @@
+Date,Firm,To Grade,From Grade,Action
+2012-12-10 11:45:39,Wells Fargo,Outperform,,init
+2012-12-11 11:48:27,Evercore Partners,Overweight,,init
+2013-01-14 07:54:50,Credit Suisse,Outperform,,init
+2013-01-28 10:17:00,Benchmark,Buy,,main
+2013-03-08 07:28:53,Benchmark,Buy,,main
+2013-03-15 09:23:28,UBS,Buy,,init
+2013-06-18 06:32:19,Credit Suisse,Outperform,,main
+2013-06-19 07:27:28,Gabelli & Co.,Hold,Buy,down
+2013-06-26 08:43:50,Benchmark,Buy,,main
+2013-07-18 07:50:04,Evercore Partners,Equal-Weight,Overweight,down
+2013-08-15 07:41:07,Evercore Partners,Overweight,Equal-Weight,up
+2013-11-19 07:21:30,Benchmark,Buy,,main
+2013-12-23 07:18:22,Credit Suisse,Outperform,,main
+2014-01-03 16:00:00,Wedbush,Neutral,,init
+2014-03-17 08:00:00,Wells Fargo,Market Perform,,down
+2014-04-09 08:00:00,Wells Fargo,Outperform,Market Perform,up
+2014-04-15 08:00:00,Wedbush,Outperform,Neutral,up
+2014-06-06 06:40:36,Evercore Partners,Equal-Weight,Overweight,down
+2014-07-09 17:14:54,Noble Financial,Hold,,init
+2014-09-29 08:24:22,Noble Financial Group,Buy,Hold,up
+2014-12-17 09:00:00,Jefferies,Hold,,main
+2015-05-11 09:00:00,Jefferies,Hold,,main
+2015-09-29 11:05:43,Jefferies,Buy,Hold,up
+2015-11-18 07:10:40,Stephens & Co.,Overweight,,init
+2015-12-22 09:15:21,Barrington Research,Outperform,,init
+2016-01-28 08:51:23,Gabelli & Co.,Buy,Hold,up
+2017-03-14 13:14:14,RBC Capital,Outperform,,init
+2017-10-18 12:43:10,Guggenheim,Buy,,init
+2017-10-20 11:41:22,Deutsche Bank,Buy,,init
+2017-10-31 12:03:24,FBR Capital,Buy,,init
+2017-11-08 14:00:16,Deutsche Bank,Buy,,main
+2018-05-05 14:00:39,B. Riley FBR,Buy,,main
+2018-07-31 11:25:42,Evercore ISI Group,In-Line,,init
+2018-09-06 12:21:08,B. Riley FBR,Buy,Buy,main
+2018-12-11 12:11:53,Evercore ISI Group,Outperform,In-Line,up
+2018-12-18 14:03:28,B. Riley FBR,Buy,Buy,main
+2019-03-06 14:40:18,B. Riley FBR,Buy,Buy,main
+2019-09-23 14:49:16,Benchmark,Buy,,main
+2019-09-24 11:09:00,Wells Fargo,Market Perform,,init
+2020-01-07 11:21:49,Wells Fargo,Overweight,Equal-Weight,up
+2020-03-18 17:18:43,B. Riley FBR,Buy,,main
+2020-04-14 14:00:15,Wells Fargo,Overweight,,main
+2020-05-05 11:58:44,B. Riley FBR,Buy,,main
+2020-05-07 13:57:42,Wells Fargo,Overweight,,main
+2020-05-07 15:09:47,B. Riley FBR,Buy,,main
+2020-06-22 14:05:33,Benchmark,Buy,,main
+2020-08-06 11:34:53,Benchmark,Buy,,main
+2020-08-06 18:35:02,Wells Fargo,Overweight,,main
+2020-10-15 09:56:49,Loop Capital,Buy,,init
+2021-02-24 16:51:35,Wells Fargo,Overweight,,main
+2021-07-02 11:28:52,Deutsche Bank,Buy,,main
+2021-11-03 12:31:15,Wells Fargo,Overweight,,main

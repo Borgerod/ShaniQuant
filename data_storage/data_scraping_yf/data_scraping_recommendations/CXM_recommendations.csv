@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action
+2021-07-19 08:46:29,Keybanc,Overweight,,init
+2021-07-19 09:03:06,JP Morgan,Neutral,,init
+2021-07-19 09:22:57,Barclays,Overweight,,init
+2021-07-19 09:24:22,Oppenheimer,Outperform,,init
+2021-07-19 10:10:14,Citigroup,Neutral,,init
+2021-07-19 10:13:46,Stifel,Buy,,init
+2021-07-19 10:24:38,JMP Securities,Market Outperform,,init
+2021-07-19 11:10:43,Morgan Stanley,Equal-Weight,,init
+2021-07-19 11:20:16,Wells Fargo,Equal-Weight,,init
+2021-07-19 12:29:15,William Blair,Outperform,,init
+2021-09-10 12:19:14,Wells Fargo,Equal-Weight,,main
+2021-12-10 11:26:41,JP Morgan,Overweight,Neutral,up
+2021-12-10 12:20:25,Oppenheimer,Outperform,,main
+2021-12-10 12:45:59,Wells Fargo,Equal-Weight,,main
+2021-12-10 12:47:14,Barclays,Overweight,,main
+2022-01-26 13:16:36,Wells Fargo,Equal-Weight,,main
+2022-02-03 14:46:30,Keybanc,Sector Weight,Overweight,down

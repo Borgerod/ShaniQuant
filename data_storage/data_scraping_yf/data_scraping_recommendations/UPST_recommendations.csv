@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action
+2021-01-11 11:44:14,Goldman Sachs,Neutral,,init
+2021-01-11 11:55:38,JMP Securities,Market Perform,,init
+2021-01-11 11:56:46,Barclays,Equal-Weight,,init
+2021-01-11 11:58:56,Jefferies,Buy,,init
+2021-01-11 12:45:09,B of A Securities,Neutral,,init
+2021-03-18 12:23:46,JMP Securities,Market Outperform,Market Perform,up
+2021-03-22 14:23:47,Barclays,Equal-Weight,,main
+2021-04-27 09:47:31,Piper Sandler,Overweight,,init
+2021-05-12 13:52:59,JMP Securities,Market Outperform,,main
+2021-06-07 10:51:34,JMP Securities,Market Outperform,,main
+2021-07-12 09:04:00,Goldman Sachs,Buy,,init
+2021-08-11 10:14:00,Citigroup,Buy,Neutral,up
+2021-08-11 12:30:33,Piper Sandler,Overweight,,main
+2021-08-13 09:04:52,Barclays,Overweight,Equal-Weight,up
+2021-09-08 08:50:14,Piper Sandler,Overweight,,main
+2021-09-17 11:03:22,JMP Securities,Market Outperform,,main
+2021-09-20 10:43:43,Barclays,Overweight,,main
+2021-10-18 12:01:20,B of A Securities,Underperform,Neutral,down
+2021-10-26 10:11:43,Jefferies,Hold,Buy,down
+2021-11-15 13:16:59,JMP Securities,Market Outperform,,main
+2021-12-09 12:17:24,Morgan Stanley,Equal-Weight,,init
+2021-12-22 12:07:10,Wedbush,Neutral,,init
+2022-01-13 13:57:19,Piper Sandler,Overweight,,main
+2022-02-16 09:56:42,Piper Sandler,Overweight,,main
+2022-02-16 12:28:18,JMP Securities,Market Outperform,,main
+2022-02-17 12:00:23,B of A Securities,Buy,Underperform,up

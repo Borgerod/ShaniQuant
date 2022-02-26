@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action
+2021-06-21 09:00:14,Goldman Sachs,Buy,,init
+2021-06-21 09:20:58,JP Morgan,Overweight,,init
+2021-06-21 09:28:24,RBC Capital,Outperform,,init
+2021-06-21 11:19:52,Wolfe Research,Outperform,,init
+2021-06-21 11:23:05,Guggenheim,Buy,,init
+2021-06-21 11:27:25,Citigroup,Buy,,init
+2021-06-21 11:28:53,William Blair,Outperform,,init
+2021-06-21 11:33:23,Raymond James,Outperform,,init
+2021-06-21 11:41:08,B of A Securities,Buy,,init
+2021-08-11 11:27:57,Raymond James,Outperform,,main
+2021-11-10 13:38:47,RBC Capital,Outperform,,main
+2021-11-10 14:11:22,Raymond James,Outperform,,main
+2021-12-10 11:45:53,Goldman Sachs,Neutral,,init
+2022-01-11 12:42:22,Raymond James,Outperform,,main
+2022-02-01 12:18:16,Raymond James,Strong Buy,Outperform,up

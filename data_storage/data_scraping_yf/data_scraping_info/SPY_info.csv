@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,SPDR S&P 500
+longName,SPDR S&P 500 ETF Trust
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,SPY
+messageBoardId,finmb_6160262
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,727660800
+annualReportExpenseRatio,
+totalAssets,455220789248
+bookValue,
+fundFamily,SPDR State Street Global Advisors
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.012999999
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.2488
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Large Blend
+fiveYearAverageReturn,0.1759
+phone,866-732-8673
+longBusinessSummary,"The Trust seeks to achieve its investment objective by holding a portfolio of the common stocks that are included in the index (the âPortfolioâ), with the weight of each stock in the Portfolio substantially corresponding to the weight of such stock in the index."
+companyOfficers,[]
+previousClose,437.06
+regularMarketOpen,437.33
+twoHundredDayAverage,444.6985
+trailingAnnualDividendYield,0.01272823
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,438.66
+navPrice,477.53
+averageDailyVolume10Day,108248540
+regularMarketPreviousClose,437.06
+fiftyDayAverage,457.4818
+trailingAnnualDividendRate,5.563
+open,437.33
+toCurrency,
+averageVolume10days,108248540
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,431.82
+currency,USD
+trailingPE,3.0132263
+regularMarketVolume,130823882
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,105271393
+dayLow,431.82
+ask,432.5
+askSize,1400
+volume,130823882
+fiftyTwoWeekHigh,479.98
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,371.88
+bid,432.17
+tradeable,False
+dividendYield,
+bidSize,900
+dayHigh,438.66
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0.0257}, {'consumer_cyclical': 0.12}, {'basic_materials': 0.0227}, {'consumer_defensive': 0.063200004}, {'technology': 0.24219999}, {'communication_services': 0.1114}, {'financial_services': 0.1423}, {'utilities': 0.024500001}, {'industrials': 0.088599995}, {'energy': 0.0286}, {'healthcare': 0.1309}]"
+holdings,"[{'symbol': 'AAPL', 'holdingName': 'Apple Inc', 'holdingPercent': 0.059}, {'symbol': 'MSFT', 'holdingName': 'Microsoft Corp', 'holdingPercent': 0.055999998}, {'symbol': 'AMZN', 'holdingName': 'Amazon.com Inc', 'holdingPercent': 0.0405}, {'symbol': 'FB', 'holdingName': 'Facebook Inc A', 'holdingPercent': 0.0229}, {'symbol': 'GOOGL', 'holdingName': 'Alphabet Inc A', 'holdingPercent': 0.0202}, {'symbol': 'GOOG', 'holdingName': 'Alphabet Inc Class C', 'holdingPercent': 0.0196}, {'symbol': 'BRK.B', 'holdingName': 'Berkshire Hathaway Inc Class B', 'holdingPercent': 0.0145000005}, {'symbol': 'TSLA', 'holdingName': 'Tesla Inc', 'holdingPercent': 0.014400001}, {'symbol': 'NVDA', 'holdingName': 'NVIDIA Corp', 'holdingPercent': 0.0137}, {'symbol': 'JPM', 'holdingName': 'JPMorgan Chase & Co', 'holdingPercent': 0.0128999995}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 17.56, 'priceToSales': 2.96, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 26.45, 'priceToBook': 4.42, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9971
+regularMarketPrice,434.23
+preMarketPrice,
+logo_url,

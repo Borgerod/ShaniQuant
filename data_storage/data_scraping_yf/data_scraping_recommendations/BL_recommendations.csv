@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action
+2016-11-22 12:22:20,Pacific Crest,Overweight,,init
+2016-11-22 12:47:55,Baird,Outperform,,init
+2016-11-22 12:48:30,JP Morgan,Neutral,,init
+2016-11-22 12:49:11,Raymond James,Outperform,,init
+2016-11-22 13:40:57,Goldman Sachs,Neutral,,init
+2017-06-26 21:06:54,SunTrust Robinson Humphrey,Buy,,init
+2017-11-16 12:11:50,JMP Securities,Market Outperform,Market Perform,up
+2017-11-17 10:01:43,KeyBanc,Overweight,,main
+2018-01-25 14:13:35,JP Morgan,Underweight,Neutral,down
+2018-03-12 13:47:21,KeyBanc,Overweight,Overweight,main
+2018-03-19 17:27:00,SunTrust Robinson Humphrey,Hold,Buy,down
+2018-09-18 10:32:34,KeyBanc,Overweight,Overweight,main
+2018-10-19 16:15:14,Oppenheimer,Perform,,init
+2018-11-02 17:41:48,Baird,Outperform,Outperform,main
+2018-11-16 13:32:56,KeyBanc,Overweight,Overweight,main
+2019-01-22 12:36:31,Raymond James,Market Perform,Outperform,down
+2019-07-02 10:45:00,Goldman Sachs,Sell,Buy,down
+2019-08-02 10:31:32,KeyBanc,Overweight,,main
+2019-11-26 11:17:18,Piper Jaffray,Neutral,,init
+2019-11-26 11:37:54,PiperJaffray,Neutral,,init
+2020-01-17 12:50:45,Oppenheimer,Outperform,Perform,up
+2020-02-11 11:49:31,JMP Securities,Market Outperform,,main
+2020-02-14 11:30:01,Piper Sandler,Overweight,Neutral,up
+2020-03-17 14:15:17,Oppenheimer,Outperform,,main
+2020-03-31 10:24:13,Piper Sandler,Overweight,,main
+2020-05-14 12:54:25,Oppenheimer,Outperform,,main
+2020-05-28 10:07:05,Piper Sandler,Overweight,,main
+2020-06-18 14:16:09,Baird,Outperform,,main
+2020-07-01 11:05:22,KeyBanc,Overweight,,init
+2020-08-07 09:37:43,Piper Sandler,Overweight,,main
+2020-08-10 16:51:11,Truist Securities,Hold,,main
+2020-10-06 11:08:32,BTIG,Buy,,init
+2020-10-30 08:48:51,KeyBanc,Overweight,,main
+2020-10-30 09:16:51,Piper Sandler,Overweight,,main
+2021-02-02 09:58:27,KeyBanc,Overweight,,main
+2021-02-02 17:06:16,JMP Securities,Market Outperform,,main
+2021-02-12 09:36:57,KeyBanc,Overweight,,main
+2021-02-12 10:24:56,Piper Sandler,Overweight,,main
+2021-02-12 14:04:56,Oppenheimer,Outperform,,main
+2021-03-04 12:48:47,Berenberg,Buy,,init
+2021-04-23 11:29:12,B of A Securities,Neutral,,init
+2021-05-07 14:05:50,BTIG,Buy,,main
+2021-11-05 09:36:54,Piper Sandler,Overweight,,main
+2021-11-05 13:26:00,Oppenheimer,Outperform,,main
+2022-01-12 11:24:19,Piper Sandler,Overweight,,main
+2022-01-25 09:30:37,Keybanc,Sector Weight,Overweight,down
+2022-01-28 11:36:46,BTIG,Buy,,main
+2022-02-01 11:49:43,BMO Capital,Market Perform,,init
+2022-02-11 09:29:58,Piper Sandler,Overweight,,main
+2022-02-11 12:58:19,JMP Securities,Market Outperform,,main

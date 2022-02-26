@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,iShares MSCI Japan Index Fund
+longName,iShares MSCI Japan ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,EWJ
+messageBoardId,finmb_6457117
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,0.75
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,826588800
+annualReportExpenseRatio,
+totalAssets,11867534336
+bookValue,
+fundFamily,iShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0114
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.114300005
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Japan Stock
+fiveYearAverageReturn,0.076799996
+phone,800-474-2737
+longBusinessSummary,The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index is designed to measure the performance of the large- and mid-capitalization segments of the Japanese equity market.
+companyOfficers,[]
+previousClose,62.51
+regularMarketOpen,62.12
+twoHundredDayAverage,68.3995
+trailingAnnualDividendYield,0.011230204
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,62.76
+navPrice,67.8
+averageDailyVolume10Day,9103870
+regularMarketPreviousClose,62.51
+fiftyDayAverage,67.185
+trailingAnnualDividendRate,0.702
+open,62.12
+toCurrency,
+averageVolume10days,9103870
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,61.785
+currency,USD
+trailingPE,4.6491814
+regularMarketVolume,6506000
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,7150219
+dayLow,61.785
+ask,63.34
+askSize,1100
+volume,6506000
+fiftyTwoWeekHigh,74.12
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,61.785
+bid,62.42
+tradeable,False
+dividendYield,
+bidSize,1100
+dayHigh,62.76
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0.0365}, {'consumer_cyclical': 0.1599}, {'basic_materials': 0.051799998}, {'consumer_defensive': 0.0661}, {'technology': 0.17459999}, {'communication_services': 0.0796}, {'financial_services': 0.09020001}, {'utilities': 0.010199999}, {'industrials': 0.21350001}, {'energy': 0.0155}, {'healthcare': 0.1021}]"
+holdings,"[{'symbol': '7203', 'holdingName': 'Toyota Motor Corp', 'holdingPercent': 0.048800003}, {'symbol': '6758', 'holdingName': 'Sony Group Corp', 'holdingPercent': 0.0336}, {'symbol': '6861', 'holdingName': 'Keyence Corp', 'holdingPercent': 0.0277}, {'symbol': '9984', 'holdingName': 'SoftBank Group Corp', 'holdingPercent': 0.0201}, {'symbol': '6098', 'holdingName': 'Recruit Holdings Co Ltd', 'holdingPercent': 0.0179}, {'symbol': '8306', 'holdingName': 'Mitsubishi UFJ Financial Group Inc', 'holdingPercent': 0.0166}, {'symbol': '8035', 'holdingName': 'Tokyo Electron Ltd', 'holdingPercent': 0.015700001}, {'symbol': '7974', 'holdingName': 'Nintendo Co Ltd', 'holdingPercent': 0.0148}, {'symbol': '4063', 'holdingName': 'Shin-Etsu Chemical Co Ltd', 'holdingPercent': 0.0147}, {'symbol': '6501', 'holdingName': 'Hitachi Ltd', 'holdingPercent': 0.014199999}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 9.87, 'priceToSales': 1.15, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 17.37, 'priceToBook': 1.45, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9976
+regularMarketPrice,62.75
+preMarketPrice,
+logo_url,

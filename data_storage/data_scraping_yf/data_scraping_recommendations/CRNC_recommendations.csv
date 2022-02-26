@@ -1,0 +1,54 @@
+Date,Firm,To Grade,From Grade,Action
+2020-01-07 11:44:34,Goldman Sachs,Sell,,init
+2020-05-12 09:57:32,Cowen & Co.,Outperform,,init
+2020-05-26 11:04:17,Raymond James,Outperform,Strong Buy,down
+2020-05-27 11:11:55,Wedbush,Outperform,,main
+2020-06-01 13:57:55,Cowen & Co.,Outperform,,main
+2020-06-08 10:20:34,Jefferies,Buy,,init
+2020-07-01 10:40:45,RBC Capital,Outperform,,init
+2020-08-05 11:20:58,Raymond James,Outperform,,main
+2020-10-16 10:32:46,Needham,Buy,,init
+2020-10-23 11:06:25,Wedbush,Outperform,,main
+2020-11-17 09:31:19,Raymond James,Outperform,,main
+2020-11-17 11:09:14,RBC Capital,Sector Perform,Outperform,down
+2020-11-17 16:09:28,Wedbush,Outperform,,main
+2020-11-17 16:32:11,Needham,Buy,,main
+2020-12-10 17:32:59,Berenberg,Hold,,init
+2021-01-08 12:42:32,Evercore ISI Group,In-Line,Outperform,down
+2021-01-15 11:40:50,Needham,Buy,,main
+2021-02-09 12:19:00,Needham,Buy,,main
+2021-02-09 13:12:53,Wedbush,Outperform,,main
+2021-02-09 16:03:15,RBC Capital,Sector Perform,,main
+2021-02-09 17:09:56,Craig-Hallum,Buy,,main
+2021-02-10 12:36:40,Raymond James,Outperform,,main
+2021-02-19 12:36:12,Needham,Buy,,main
+2021-03-11 12:34:40,Berenberg,Buy,Hold,up
+2021-03-26 10:38:36,Wells Fargo,Equal-Weight,,init
+2021-05-11 13:46:57,Wedbush,Outperform,,main
+2021-05-18 11:14:39,Evercore ISI Group,Outperform,In-Line,up
+2021-06-04 10:51:20,Baird,Outperform,,init
+2021-07-07 09:48:38,Raymond James,Market Perform,Outperform,down
+2021-08-10 10:37:24,Needham,Buy,,main
+2021-08-10 10:44:47,RBC Capital,Sector Perform,,main
+2021-08-10 13:00:38,Craig-Hallum,Buy,,main
+2021-08-10 14:39:27,Wells Fargo,Equal-Weight,,main
+2021-08-10 14:54:23,Baird,Outperform,,main
+2021-08-16 13:02:56,Evercore ISI Group,Outperform,,main
+2021-09-10 11:54:35,Wells Fargo,Equal-Weight,,main
+2021-10-05 12:26:17,Wells Fargo,Equal-Weight,,main
+2021-10-06 09:36:44,RBC Capital,Outperform,Sector Perform,up
+2021-11-23 11:43:22,RBC Capital,Outperform,,main
+2021-11-23 12:34:17,Wells Fargo,Equal-Weight,,main
+2021-11-23 13:21:02,Goldman Sachs,Buy,,main
+2021-11-23 14:15:48,Wedbush,Outperform,,main
+2021-12-07 10:38:00,Raymond James,Outperform,Market Perform,up
+2021-12-16 10:07:58,Wells Fargo,Overweight,Equal-Weight,up
+2022-01-10 15:23:45,Goldman Sachs,Buy,,main
+2022-01-14 10:26:03,RBC Capital,Sector Perform,Outperform,down
+2022-02-08 09:35:45,Raymond James,Outperform,,main
+2022-02-08 09:52:05,RBC Capital,Underperform,Sector Perform,down
+2022-02-08 11:22:48,Baird,Neutral,Outperform,down
+2022-02-08 12:22:19,Jefferies,Hold,Buy,down
+2022-02-08 13:06:20,Wedbush,Neutral,Outperform,down
+2022-02-09 09:44:27,Needham,Buy,,main
+2022-02-14 11:19:34,Evercore ISI Group,In-Line,Outperform,down

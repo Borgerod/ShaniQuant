@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action
+2021-06-21 08:39:03,Keybanc,Overweight,,init
+2021-06-21 09:13:05,Piper Sandler,Overweight,,init
+2021-06-21 09:16:38,Barclays,Overweight,,init
+2021-06-21 09:26:50,Telsey Advisory Group,Outperform,,init
+2021-06-21 10:07:17,Morgan Stanley,Equal-Weight,,init
+2021-06-21 10:10:25,Oppenheimer,Outperform,,init
+2021-06-21 10:12:06,Goldman Sachs,Neutral,,init
+2021-06-21 10:41:03,B of A Securities,Buy,,init
+2021-06-21 11:35:27,Cowen & Co.,Outperform,,init
+2021-08-13 09:25:17,Telsey Advisory Group,Outperform,,main
+2021-08-13 12:57:12,Morgan Stanley,Equal-Weight,,main
+2021-11-11 12:57:05,Credit Suisse,Outperform,,main
+2022-01-11 13:04:52,Credit Suisse,Outperform,,main
+2022-01-20 10:57:52,Keybanc,Overweight,,main
+2022-02-07 12:16:03,Cowen & Co.,Market Perform,Outperform,down

@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,VanEck Gold Miners ETF
+longName,VanEck Vectors Gold Miners ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,GDX
+messageBoardId,finmb_27307407
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,0.72
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1147737600
+annualReportExpenseRatio,
+totalAssets,13273080832
+bookValue,
+fundFamily,VanEck
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0056
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.1358
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Equity Precious Metals
+fiveYearAverageReturn,0.0696
+phone,800-826-2333
+longBusinessSummary,The fund normally invests at least 80% of its total assets in common stocks and depositary receipts of companies involved in the gold mining industry. The index is a modified market-capitalization weighted index primarily comprised of publicly traded companies involved in the mining for gold and silver. The fund is non-diversified.
+companyOfficers,[]
+previousClose,34.78
+regularMarketOpen,34.83
+twoHundredDayAverage,33.08375
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,34.84
+navPrice,31.42
+averageDailyVolume10Day,28233590
+regularMarketPreviousClose,34.78
+fiftyDayAverage,31.2426
+trailingAnnualDividendRate,
+open,34.83
+toCurrency,
+averageVolume10days,28233590
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,34.21
+currency,USD
+regularMarketVolume,23469278
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,22849464
+dayLow,34.21
+ask,34.7
+askSize,29200
+volume,23469278
+fiftyTwoWeekHigh,40.13
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,28.83
+bid,34.64
+tradeable,False
+dividendYield,
+bidSize,28000
+dayHigh,34.84
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 1}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'NEM', 'holdingName': 'Newmont Corp', 'holdingPercent': 0.155}, {'symbol': 'ABX.TO', 'holdingName': 'Barrick Gold Corp', 'holdingPercent': 0.11229999}, {'symbol': 'FNV.TO', 'holdingName': 'Franco-Nevada Corp', 'holdingPercent': 0.0846}, {'symbol': 'WPM.TO', 'holdingName': 'Wheaton Precious Metals Corp', 'holdingPercent': 0.060500003}, {'symbol': 'NCM.AX', 'holdingName': 'Newcrest Mining Ltd', 'holdingPercent': 0.049200002}, {'symbol': 'AEM.TO', 'holdingName': 'Agnico Eagle Mines Ltd', 'holdingPercent': 0.0431}, {'symbol': 'KL.TO', 'holdingName': 'Kirkland Lake Gold Ltd', 'holdingPercent': 0.0355}, {'symbol': 'NST.AX', 'holdingName': 'Northern Star Resources Ltd', 'holdingPercent': 0.0295}, {'symbol': 'K.TO', 'holdingName': 'Kinross Gold Corp', 'holdingPercent': 0.0276}, {'symbol': 'GFI.JO', 'holdingName': 'Gold Fields Ltd ADR', 'holdingPercent': 0.0272}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 8.39, 'priceToSales': 2.89, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 16.85, 'priceToBook': 1.95, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9989
+regularMarketPrice,34.5
+preMarketPrice,
+logo_url,

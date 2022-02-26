@@ -1,0 +1,127 @@
+Date,Firm,To Grade,From Grade,Action
+2012-08-08 08:13:00,Canaccord Genuity,Buy,,main
+2012-08-08 08:30:00,Canaccord Genuity,Buy,,main
+2015-08-25 10:06:53,Stephens & Co.,Overweight,,main
+2016-01-21 08:25:12,SunTrust Robinson Humphrey,Buy,,main
+2016-02-12 07:16:29,SunTrust Robinson Humphrey,Buy,,main
+2016-03-22 04:17:07,RBC Capital,Outperform,Sector Perform,up
+2016-04-01 07:18:40,Goldman Sachs,Buy,,main
+2016-05-04 07:11:28,JMP Securities,Market Perform,,main
+2016-05-05 09:05:55,SunTrust Robinson Humphrey,Buy,,main
+2016-05-31 06:35:16,Mizuho,Neutral,,init
+2016-06-07 04:11:57,Barclays,Overweight,Underweight,up
+2016-08-05 09:05:08,Barclays,Equal-Weight,,main
+2016-08-10 09:31:23,Deutsche Bank,Hold,,main
+2016-10-31 12:43:08,Bank of America,Buy,,init
+2017-01-13 11:10:22,Morgan Stanley,Equal-Weight,Overweight,down
+2017-02-14 12:43:17,Stifel Nicolaus,Buy,Hold,up
+2017-07-18 10:22:14,KeyBanc,Sector Weight,,init
+2017-08-07 17:19:18,Deutsche Bank,Hold,,main
+2017-08-09 14:43:31,Canaccord Genuity,Buy,,main
+2017-08-09 15:01:42,Deutsche Bank,Hold,,main
+2017-11-08 13:34:37,JMP Securities,Market Perform,,main
+2017-11-08 16:37:32,Barclays,Equal-Weight,,main
+2017-11-08 16:44:03,Canaccord Genuity,Buy,,main
+2018-01-11 18:55:03,Morgan Stanley,Overweight,Equal-Weight,up
+2018-01-26 12:09:22,KeyBanc,Overweight,Sector Weight,up
+2018-02-06 12:32:51,Jefferies,Hold,,init
+2018-02-09 14:48:56,Canaccord Genuity,Buy,Buy,main
+2018-02-09 14:55:22,Bank of America,Buy,Buy,main
+2018-03-06 14:08:09,Deutsche Bank,Hold,Hold,main
+2018-04-04 10:52:36,DA Davidson,Neutral,,init
+2018-04-13 11:30:47,Craig-Hallum,Hold,Buy,down
+2018-04-13 18:50:39,Barclays,Equal-Weight,Equal-Weight,main
+2018-04-18 11:14:31,Morgan Stanley,Equal-Weight,Overweight,down
+2018-04-23 12:45:54,Macquarie,Outperform,Neutral,up
+2018-05-08 11:27:52,Stifel Nicolaus,Hold,Hold,main
+2018-05-08 12:21:07,Deutsche Bank,Hold,Hold,main
+2018-05-08 13:52:06,Canaccord Genuity,Buy,Buy,main
+2018-05-08 15:40:13,RBC Capital,Sector Perform,Outperform,down
+2018-05-08 18:58:54,Bank of America,Buy,Buy,main
+2018-06-11 13:51:03,Bank of America,Buy,Buy,main
+2018-06-18 13:15:53,Goldman Sachs,Neutral,Buy,down
+2018-07-31 14:17:46,Jefferies,Hold,Hold,main
+2018-08-07 11:59:50,Bank of America,Neutral,Buy,down
+2018-08-07 12:27:11,Jefferies,Hold,Hold,main
+2018-08-07 14:37:55,Canaccord Genuity,Buy,Buy,main
+2018-09-07 14:16:30,Canaccord Genuity,Buy,Buy,main
+2018-09-14 11:24:56,Wedbush,Neutral,,init
+2018-11-05 16:33:14,Deutsche Bank,Hold,Hold,main
+2019-03-15 11:27:36,Barclays,Underweight,Equal-Weight,down
+2019-04-08 12:01:28,Cowen & Co.,Outperform,Market Perform,up
+2019-05-10 15:21:19,Bank of America,Underperform,,reit
+2019-05-15 10:50:16,Guggenheim,Buy,Neutral,up
+2019-06-13 10:30:17,Piper Jaffray,Neutral,,init
+2019-07-10 10:50:43,SunTrust Robinson Humphrey,Buy,,init
+2019-08-08 12:39:01,Deutsche Bank,Hold,,main
+2019-08-08 16:36:57,Canaccord Genuity,Buy,,main
+2019-11-08 14:42:42,PiperJaffray,Neutral,,main
+2019-11-08 15:07:45,Barclays,Underweight,,main
+2019-11-08 15:48:19,Craig-Hallum,Buy,,main
+2019-11-08 15:51:09,RBC Capital,Sector Perform,,main
+2019-12-09 12:18:32,Citigroup,Neutral,,init
+2020-02-20 11:27:10,Stephens & Co.,Overweight,,main
+2020-02-20 12:57:47,JMP Securities,Market Outperform,,reit
+2020-02-20 13:29:49,SunTrust Robinson Humphrey,Buy,,main
+2020-02-20 13:44:22,Deutsche Bank,Hold,,main
+2020-02-20 14:04:53,Wedbush,Neutral,,main
+2020-02-20 14:52:21,Craig-Hallum,Buy,,main
+2020-02-20 14:57:05,Canaccord Genuity,Buy,,main
+2020-02-20 16:54:47,Barclays,Underweight,,main
+2020-02-21 12:33:12,Guggenheim,Neutral,Buy,down
+2020-02-21 12:45:09,Citigroup,Neutral,,main
+2020-03-24 11:03:11,Benchmark,Buy,,main
+2020-03-30 13:16:12,Wedbush,Neutral,,main
+2020-04-02 09:11:30,Citigroup,Neutral,,main
+2020-05-08 12:20:18,Benchmark,Buy,,main
+2020-05-12 12:47:39,Wedbush,Neutral,,main
+2020-05-14 11:47:54,Citigroup,Neutral,,main
+2020-06-04 12:11:46,SunTrust Robinson Humphrey,Buy,,main
+2020-06-11 09:36:29,BTIG,Buy,,init
+2020-08-04 10:28:00,Susquehanna,Neutral,Negative,up
+2020-08-05 12:57:39,Deutsche Bank,Hold,,main
+2020-08-07 13:05:40,DA Davidson,Buy,,main
+2020-08-07 14:48:42,Canaccord Genuity,Buy,,main
+2020-08-13 12:08:41,Citigroup,Neutral,,main
+2020-09-02 09:55:09,Deutsche Bank,Buy,Hold,up
+2020-09-17 14:56:48,Craig-Hallum,Buy,,main
+2020-09-24 11:05:09,Benchmark,Buy,,main
+2020-09-25 09:42:09,Piper Sandler,Overweight,,init
+2020-10-01 16:45:29,Truist Securities,Buy,,main
+2020-11-06 09:23:41,DA Davidson,Buy,,main
+2020-11-06 12:16:16,RBC Capital,Outperform,Sector Perform,up
+2020-11-06 13:06:27,B of A Securities,Underperform,,main
+2020-11-06 15:43:02,Canaccord Genuity,Buy,,main
+2021-01-06 16:10:15,Wedbush,Outperform,Neutral,up
+2021-01-11 10:36:06,Jefferies,Buy,Hold,up
+2021-02-05 11:16:22,Goldman Sachs,Buy,Neutral,up
+2021-02-08 17:25:21,Deutsche Bank,Buy,,main
+2021-02-11 12:55:02,DA Davidson,Buy,,main
+2021-02-11 14:41:02,Piper Sandler,Overweight,,main
+2021-02-11 15:49:02,JMP Securities,Market Outperform,,main
+2021-02-11 16:00:25,BTIG,Buy,,main
+2021-02-11 16:17:50,Canaccord Genuity,Buy,,main
+2021-02-11 16:25:09,Truist Securities,Buy,,main
+2021-04-06 10:55:16,Evercore ISI Group,Outperform,,init
+2021-04-21 15:45:45,BTIG,Buy,,main
+2021-05-05 13:14:19,DA Davidson,Buy,,main
+2021-05-05 14:01:38,Susquehanna,Neutral,,main
+2021-07-08 12:43:49,BTIG,Buy,,main
+2021-07-21 11:17:00,Berenberg,Buy,,init
+2021-08-06 13:30:06,Barclays,Underweight,,main
+2021-08-09 14:02:35,Zelman,Buy,Hold,up
+2021-09-16 12:51:55,BTIG,Buy,,main
+2021-10-04 11:09:44,RBC Capital,Outperform,,main
+2021-10-19 12:14:44,Wedbush,Neutral,Outperform,down
+2021-11-03 09:15:45,Piper Sandler,Neutral,Overweight,down
+2021-11-03 10:16:04,Evercore ISI Group,In-Line,Outperform,down
+2021-11-03 10:19:41,Truist Securities,Hold,Buy,down
+2021-11-03 10:23:59,JMP Securities,Market Perform,Outperform,down
+2021-11-03 13:00:59,BTIG,Neutral,Buy,down
+2021-11-03 13:46:53,RBC Capital,Outperform,,main
+2021-11-03 13:51:43,DA Davidson,Buy,,main
+2021-11-03 14:03:25,Craig-Hallum,Buy,,main
+2022-01-04 12:07:08,Wolfe Research,Peer Perform,,init
+2022-01-31 18:33:51,Truist Securities,Hold,,main
+2022-02-11 12:25:31,DA Davidson,Buy,,main
+2022-02-11 12:48:18,Piper Sandler,Neutral,,main

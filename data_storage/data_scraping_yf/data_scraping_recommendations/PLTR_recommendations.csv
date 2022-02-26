@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action
+2020-10-26 10:28:10,RBC Capital,Sector Perform,,init
+2020-10-26 10:29:39,Jefferies,Buy,,init
+2020-10-26 10:31:07,Credit Suisse,Neutral,,init
+2020-10-26 10:32:12,Goldman Sachs,Neutral,,init
+2020-10-26 12:45:00,Morgan Stanley,Overweight,,init
+2020-11-13 11:37:43,Morgan Stanley,Equal-Weight,Overweight,down
+2020-12-02 10:58:10,Morgan Stanley,Underweight,Equal-Weight,down
+2020-12-18 12:44:04,Credit Suisse,Underperform,Neutral,down
+2021-01-13 12:06:33,Citigroup,Sell,Neutral,down
+2021-01-20 13:33:34,William Blair,Market Perform,,init
+2021-02-17 10:25:26,Goldman Sachs,Buy,Neutral,up
+2021-02-17 12:23:10,William Blair,Underperform,Market Perform,down
+2021-02-17 12:54:42,Morgan Stanley,Underweight,,main
+2021-02-17 13:22:59,Credit Suisse,Underperform,,main
+2021-04-23 10:44:10,Wolfe Research,Peer Perform,,init
+2021-08-13 13:10:33,Morgan Stanley,Underweight,,main
+2021-08-13 14:11:46,RBC Capital,Sector Perform,,main
+2021-11-02 09:47:18,Deutsche Bank,Hold,,init
+2021-11-10 10:19:09,RBC Capital,Underperform,Sector Perform,down
+2021-11-10 17:42:54,Morgan Stanley,Underweight,,main
+2021-11-16 10:01:39,Credit Suisse,Neutral,,init
+2022-02-18 15:20:48,Deutsche Bank,Hold,,main

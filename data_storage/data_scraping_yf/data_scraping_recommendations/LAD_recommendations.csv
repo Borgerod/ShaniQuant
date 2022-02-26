@@ -1,0 +1,83 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-09 08:02:00,Stifel Nicolaus,Buy,,init
+2012-09-12 05:43:00,Morgan Stanley,Overweight,,init
+2012-10-24 16:33:00,Bank of America,Buy,,main
+2013-01-23 07:40:26,KeyBanc,Buy,Hold,up
+2013-02-21 08:24:40,Stifel Nicolaus,Buy,,main
+2013-08-12 06:36:21,Bank of America,Neutral,Buy,down
+2013-09-25 08:39:51,Stifel Nicolaus,Buy,,main
+2013-10-23 13:39:34,Bank of America,Buy,Neutral,up
+2014-01-27 16:00:00,Furey Research,Buy,,init
+2014-05-22 21:53:15,KeyBanc,Buy,,main
+2014-07-16 22:03:41,KeyBanc,Buy,,main
+2014-10-15 16:00:00,Morgan Stanley,Overweight,Underweight,up
+2015-03-25 09:00:00,KeyBanc,Overweight,,main
+2015-04-15 09:00:00,KeyBanc,Overweight,,main
+2015-06-23 09:00:00,KeyBanc,Overweight,,main
+2015-07-16 11:00:00,KeyBanc,Overweight,,main
+2015-07-23 07:15:09,Bank of America,Neutral,Buy,down
+2015-07-24 11:00:00,Stifel Nicolaus,Buy,,main
+2016-04-11 09:57:09,Jefferies,Buy,,init
+2016-08-31 08:54:43,Wolfe Research,Outperform,,init
+2017-02-02 13:01:50,Susquehanna,Neutral,,init
+2017-06-14 19:00:23,Seaport Global,Neutral,,init
+2017-10-04 11:55:21,KeyBanc,Overweight,,main
+2017-10-04 18:40:27,Berenberg,Hold,,init
+2018-02-15 14:55:31,Buckingham,Buy,,main
+2018-03-14 14:02:03,Morgan Stanley,Overweight,Overweight,main
+2018-04-17 13:31:09,Guggenheim,Neutral,,init
+2018-07-25 12:36:04,Stephens & Co.,Equal-Weight,Overweight,down
+2018-07-26 12:00:51,Buckingham,Buy,Buy,main
+2018-08-15 11:38:49,Morgan Stanley,Overweight,Overweight,main
+2018-09-21 11:05:02,Guggenheim,Buy,Neutral,up
+2018-10-24 12:28:55,Bank of America,Buy,Neutral,up
+2018-10-25 16:05:41,Buckingham,Buy,Buy,main
+2018-11-14 13:16:08,Morgan Stanley,Overweight,Overweight,main
+2019-02-13 12:06:53,Seaport Global,Buy,,init
+2019-02-19 12:01:42,JP Morgan,Overweight,,init
+2019-04-16 13:50:48,Morgan Stanley,Overweight,Overweight,main
+2019-04-25 11:19:13,Stephens & Co.,Overweight,Equal-Weight,up
+2019-04-25 15:56:01,Buckingham,Buy,Buy,main
+2019-04-26 11:27:42,Bank of America,Neutral,Buy,down
+2019-05-06 14:41:16,Morgan Stanley,Overweight,,main
+2019-05-31 11:37:03,Longbow Research,Buy,,init
+2019-07-08 11:45:24,Buckingham Research,Neutral,Buy,down
+2019-07-09 11:38:35,JP Morgan,Overweight,,main
+2019-07-09 13:12:40,Morgan Stanley,Overweight,,main
+2019-08-02 15:32:21,Morgan Stanley,Overweight,,main
+2019-09-13 10:54:15,Bank of America,Underperform,Neutral,down
+2019-10-15 11:55:33,Morgan Stanley,Overweight,,main
+2019-10-24 12:36:51,Guggenheim,Buy,,main
+2019-11-14 13:38:45,Morgan Stanley,Overweight,,main
+2019-12-18 13:58:43,JP Morgan,Overweight,,main
+2020-01-09 13:00:40,Benchmark,Buy,,init
+2020-02-24 13:20:11,Buckingham,Buy,Neutral,up
+2020-03-03 18:03:58,B of A Securities,Underperform,,main
+2020-03-11 12:30:04,Morgan Stanley,Overweight,,main
+2020-03-11 14:50:55,JP Morgan,Overweight,,main
+2020-03-23 13:46:07,Benchmark,Buy,,main
+2020-03-31 08:15:25,Morgan Stanley,Overweight,,main
+2020-04-13 13:53:14,Morgan Stanley,Overweight,,main
+2020-04-23 13:16:12,JP Morgan,Overweight,,main
+2020-04-23 15:44:14,Morgan Stanley,Overweight,,main
+2020-04-23 15:48:45,Guggenheim,Buy,,main
+2020-05-18 12:22:42,Morgan Stanley,Overweight,,main
+2020-07-10 12:33:38,Morgan Stanley,Overweight,,main
+2020-07-27 12:53:20,Morgan Stanley,Overweight,,main
+2020-10-01 16:46:41,Craig-Hallum,Buy,,main
+2020-10-19 11:04:37,Seaport Global,Buy,,init
+2020-11-17 15:28:01,B of A Securities,Neutral,,main
+2020-12-07 11:14:43,Morgan Stanley,Equal-Weight,Overweight,down
+2020-12-09 14:27:25,Citigroup,Neutral,,init
+2020-12-21 13:14:48,Goldman Sachs,Neutral,,init
+2021-01-13 13:06:14,Morgan Stanley,Equal-Weight,,main
+2021-02-04 16:39:32,Craig-Hallum,Buy,,main
+2021-02-10 11:37:44,Morgan Stanley,Underweight,Equal-Weight,down
+2021-02-24 14:49:27,Citigroup,Neutral,,main
+2021-03-11 15:24:24,Craig-Hallum,Buy,,main
+2021-04-23 12:03:46,Morgan Stanley,Underweight,,main
+2021-05-21 16:20:53,B of A Securities,Buy,Neutral,up
+2021-07-16 14:42:23,B of A Securities,Buy,,main
+2021-07-26 14:12:52,Morgan Stanley,Underweight,,main
+2021-11-17 13:46:36,Morgan Stanley,Underweight,,main
+2022-01-18 15:11:15,Wells Fargo,Overweight,,init

@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action
+2021-08-23 08:38:31,Piper Sandler,Overweight,,init
+2021-08-23 08:52:18,Keybanc,Sector Weight,,init
+2021-08-23 09:18:20,Goldman Sachs,Neutral,,init
+2021-08-23 09:27:42,Evercore ISI Group,In-Line,,init
+2021-08-23 10:22:42,Barclays,Equal-Weight,,init
+2021-08-23 10:54:27,JMP Securities,Market Outperform,,init
+2021-08-23 11:12:22,Raymond James,Market Perform,,init
+2021-08-23 11:57:00,William Blair,Outperform,,init
+2021-08-30 11:41:19,B of A Securities,Buy,,init
+2021-11-03 11:51:43,JMP Securities,Market Outperform,,main
+2021-11-11 09:56:49,Piper Sandler,Overweight,,main
+2021-11-11 12:09:53,Barclays,Equal-Weight,,main
+2021-11-11 13:09:08,Evercore ISI Group,Outperform,In-Line,up
+2022-01-13 13:26:36,Piper Sandler,Overweight,,main

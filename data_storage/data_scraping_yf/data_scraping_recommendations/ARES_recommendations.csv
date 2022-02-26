@@ -1,0 +1,78 @@
+Date,Firm,To Grade,From Grade,Action
+2020-10-29 13:47:24,Wells Fargo,Overweight,,main
+2020-10-29 14:45:16,BMO Capital,Outperform,,main
+2020-11-25 09:35:49,Keefe Bruyette & Woods,Outperform,,main
+2020-11-25 09:35:52,JP Morgan,Overweight,,init
+2020-11-25 09:35:52,Bank of America,Neutral,Buy,down
+2020-11-25 09:35:52,Keefe Bruyette & Woods,Outperform,,main
+2020-11-25 09:35:52,Credit Suisse,Neutral,,main
+2020-11-25 09:35:52,Keefe Bruyette & Woods,Outperform,,main
+2020-11-25 09:35:52,Bank of America,Buy,Neutral,up
+2020-11-25 09:35:52,Keefe Bruyette & Woods,Outperform,,main
+2020-11-25 09:35:52,Goldman Sachs,Neutral,,init
+2020-11-25 09:35:52,Credit Suisse,Neutral,,init
+2020-11-25 09:35:52,RBC Capital,Outperform,,main
+2020-11-25 09:35:52,Keefe Bruyette & Woods,Outperform,,main
+2020-11-25 09:35:52,SunTrust Robinson Humphrey,Buy,,main
+2020-11-25 09:35:52,Bank of America,Neutral,Buy,down
+2020-11-25 09:35:52,JP Morgan,Overweight,,main
+2020-11-25 09:35:52,JP Morgan,Overweight,,main
+2020-11-25 09:35:52,Wells Fargo,Outperform,,init
+2020-11-25 09:35:52,Keefe Bruyette & Woods,Outperform,,init
+2020-11-25 09:35:52,Goldman Sachs,Neutral,,init
+2020-11-25 09:36:45,Wells Fargo,Outperform,,init
+2020-11-25 09:36:46,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2020-11-25 09:36:47,Credit Suisse,Outperform,Neutral,up
+2020-11-25 09:36:48,RBC Capital,Outperform,,init
+2020-11-25 09:36:50,Oppenheimer,Outperform,,init
+2020-11-25 09:36:55,Credit Suisse,Outperform,Outperform,main
+2020-11-25 09:36:55,Wells Fargo,Market Perform,Outperform,down
+2020-11-25 09:36:55,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2020-11-25 09:36:57,Oppenheimer,Outperform,,init
+2020-11-25 09:36:59,JP Morgan,Neutral,Overweight,down
+2020-11-25 09:37:00,Wells Fargo,Outperform,Market Perform,up
+2020-11-25 09:37:01,Bank of America,Buy,Buy,main
+2020-11-25 09:37:01,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2020-11-25 09:37:02,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2020-11-25 09:37:03,Goldman Sachs,Buy,Neutral,up
+2020-11-25 09:37:08,UBS,Buy,,main
+2020-11-25 09:37:08,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:08,Barclays,Overweight,,init
+2020-11-25 09:37:09,Wells Fargo,Outperform,,main
+2020-11-25 09:37:10,BMO Capital,Market Perform,,init
+2020-11-25 09:37:10,UBS,Buy,,main
+2020-11-25 09:37:10,BMO Capital,Market Perform,,main
+2020-11-25 09:37:11,JP Morgan,Overweight,,main
+2020-11-25 09:37:12,Wells Fargo,Overweight,,main
+2020-11-25 09:37:13,Wells Fargo,Overweight,,main
+2020-11-25 09:37:13,UBS,Buy,,main
+2020-11-25 09:37:15,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:15,B of A Securities,Buy,,main
+2020-11-25 09:37:17,Wells Fargo,Overweight,,main
+2020-11-25 09:37:17,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:18,Keefe Bruyette & Woods,Outperform,,main
+2020-11-25 09:37:18,Credit Suisse,Outperform,,main
+2020-11-25 09:37:18,Barclays,Overweight,,main
+2020-11-25 09:37:18,B of A Securities,Buy,,reit
+2020-11-25 09:37:19,BMO Capital,Market Perform,,main
+2020-11-25 09:37:19,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:19,Wells Fargo,Overweight,,main
+2020-11-25 09:37:20,BMO Capital,Outperform,Market Perform,up
+2020-11-25 09:37:21,B of A Securities,Buy,,main
+2020-11-25 09:37:21,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:22,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:24,Morgan Stanley,Equal-Weight,,main
+2021-03-29 10:36:22,BMO Capital,Market Perform,Outperform,down
+2021-06-08 11:24:38,BMO Capital,Outperform,Market Perform,up
+2021-08-03 10:43:38,RBC Capital,Outperform,,main
+2021-08-13 11:59:32,BMO Capital,Outperform,,main
+2021-09-30 13:50:19,Jefferies,Buy,,main
+2021-10-15 12:14:10,Morgan Stanley,Equal-Weight,,main
+2021-10-28 13:45:03,Morgan Stanley,Equal-Weight,,main
+2021-10-29 13:19:13,RBC Capital,Outperform,,main
+2021-12-16 10:24:08,Wells Fargo,Overweight,,init
+2022-01-21 13:25:01,Morgan Stanley,Equal-Weight,,main
+2022-01-25 12:47:47,Piper Sandler,Overweight,,init
+2022-02-14 13:54:31,BMO Capital,Outperform,,main
+2022-02-14 14:50:47,UBS,Buy,,main
+2022-02-16 13:14:13,Morgan Stanley,Equal-Weight,,main

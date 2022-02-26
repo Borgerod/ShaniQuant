@@ -1,0 +1,128 @@
+Date,Firm,To Grade,From Grade,Action
+2014-04-29 08:00:00,Barclays,Overweight,,init
+2014-08-05 06:25:26,Pacific Crest,Sector Perform,Outperform,down
+2014-08-05 21:10:39,Barclays,Overweight,,main
+2014-11-07 05:29:55,Bank of America,Buy,,main
+2015-04-09 09:15:59,Bank of America,Neutral,Buy,down
+2015-05-13 09:00:00,Canaccord Genuity,Buy,,main
+2016-01-04 09:10:25,Northland Securities,Outperform,,init
+2016-01-06 05:35:59,Barclays,Overweight,,main
+2016-02-10 11:32:06,Barclays,Overweight,,main
+2016-04-14 08:49:11,Roth Capital,Buy,,init
+2016-06-09 08:54:00,Craig-Hallum,Buy,,init
+2016-07-15 22:27:57,Barclays,Overweight,,main
+2016-08-04 12:22:57,Barclays,Overweight,,main
+2016-09-20 07:00:57,Bank of America,Underperform,Neutral,down
+2017-03-17 15:21:52,Pacific Crest,Overweight,Sector Weight,up
+2017-04-11 16:51:43,Morgan Stanley,Equal-Weight,,init
+2017-07-20 14:37:14,Morgan Stanley,Equal-Weight,,main
+2017-08-04 19:33:31,Canaccord Genuity,Buy,,main
+2017-09-27 16:49:46,Canaccord Genuity,Buy,,main
+2017-11-09 10:08:12,KeyBanc,Overweight,,main
+2017-11-09 15:49:34,Morgan Stanley,Equal-Weight,,main
+2018-01-08 18:15:57,Barclays,Equal-Weight,Overweight,down
+2018-02-01 15:50:49,SunTrust Robinson Humphrey,Buy,,init
+2018-02-22 13:00:51,KeyBanc,Overweight,Overweight,main
+2018-02-22 13:56:10,Bank of America,Underperform,Underperform,main
+2018-02-22 20:55:21,Barclays,Equal-Weight,Equal-Weight,main
+2018-03-13 10:41:11,KeyBanc,Sector Weight,Overweight,down
+2018-04-27 14:21:30,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-05-02 12:26:06,Barclays,Equal-Weight,Equal-Weight,main
+2018-07-12 16:07:02,Stifel Nicolaus,Hold,,init
+2018-08-07 11:28:46,Stifel Nicolaus,Hold,Hold,main
+2018-08-07 15:24:37,Bank of America,Underperform,Underperform,main
+2018-09-07 11:16:51,Barclays,Equal-Weight,Equal-Weight,main
+2018-12-13 11:55:10,JP Morgan,Neutral,Overweight,down
+2019-01-04 13:05:14,Stephens & Co.,Equal-Weight,,init
+2019-01-07 12:36:18,Morgan Stanley,Overweight,Equal-Weight,up
+2019-08-01 10:33:28,JP Morgan,Overweight,Neutral,up
+2019-08-01 13:23:17,Dougherty,Buy,Neutral,up
+2019-08-01 14:57:28,Canaccord Genuity,Buy,,main
+2019-09-04 10:21:16,Rosenblatt,Neutral,,init
+2019-09-19 10:44:07,Morgan Stanley,Equal-Weight,Overweight,down
+2019-09-26 11:44:21,Guggenheim,Buy,,init
+2019-11-13 12:17:10,Rosenblatt,Buy,Neutral,up
+2019-12-09 12:55:48,Guggenheim,Buy,,main
+2020-01-08 14:50:44,Baird,Outperform,,init
+2020-01-13 14:06:37,Morgan Stanley,Equal-Weight,,main
+2020-02-04 10:50:43,Needham,Buy,,main
+2020-02-12 12:05:25,Rosenblatt,Buy,,main
+2020-02-20 13:07:17,Morgan Stanley,Equal-Weight,,main
+2020-02-20 13:15:01,B of A Securities,Underperform,,main
+2020-02-20 14:16:16,Baird,Outperform,,reit
+2020-02-20 14:27:20,JP Morgan,Overweight,,main
+2020-02-20 14:45:05,Craig-Hallum,Buy,,main
+2020-02-20 15:54:40,Canaccord Genuity,Buy,,main
+2020-02-20 16:51:34,Barclays,Equal-Weight,,main
+2020-03-25 19:08:38,Morgan Stanley,Equal-Weight,,main
+2020-04-16 11:59:17,BTIG,Buy,,init
+2020-04-23 13:48:17,Morgan Stanley,Equal-Weight,,main
+2020-04-28 11:12:39,Rosenblatt,Buy,,main
+2020-05-05 10:20:52,Roth Capital,Neutral,Buy,down
+2020-05-05 10:45:23,Needham,Buy,,main
+2020-05-05 13:35:15,JP Morgan,Overweight,,main
+2020-05-05 15:31:22,SunTrust Robinson Humphrey,Buy,,main
+2020-06-09 11:59:11,Morgan Stanley,Equal-Weight,,main
+2020-06-23 11:34:30,Wells Fargo,Overweight,,init
+2020-07-20 11:17:12,Barclays,Equal-Weight,,main
+2020-07-22 12:15:08,Morgan Stanley,Equal-Weight,,main
+2020-07-27 10:46:59,Needham,Buy,,main
+2020-08-04 11:14:28,Rosenblatt,Buy,,main
+2020-08-04 11:25:06,Needham,Buy,,main
+2020-08-04 12:10:02,Morgan Stanley,Equal-Weight,,main
+2020-08-04 14:14:15,Canaccord Genuity,Buy,,main
+2020-08-20 10:28:41,Evercore ISI Group,In-Line,,init
+2020-09-09 10:23:10,Piper Sandler,Overweight,,init
+2020-10-09 11:53:39,Barclays,Equal-Weight,,main
+2020-10-21 11:54:06,Morgan Stanley,Equal-Weight,,main
+2020-10-22 11:10:29,Rosenblatt,Buy,,main
+2020-10-30 11:26:22,Rosenblatt,Buy,,main
+2020-10-30 11:28:32,Needham,Buy,,main
+2020-10-30 12:52:39,Morgan Stanley,Equal-Weight,,main
+2020-10-30 15:17:04,Canaccord Genuity,Buy,,main
+2020-12-17 13:09:41,Morgan Stanley,Overweight,Equal-Weight,up
+2021-01-14 15:14:05,Needham,Buy,,main
+2021-02-23 12:22:22,Rosenblatt,Buy,,main
+2021-02-23 13:01:06,Morgan Stanley,Overweight,,main
+2021-02-23 14:53:46,Piper Sandler,Overweight,,main
+2021-02-23 16:12:48,Barclays,Equal-Weight,,main
+2021-02-23 16:34:01,Canaccord Genuity,Buy,,main
+2021-02-23 16:51:23,Roth Capital,Neutral,,main
+2021-02-23 16:58:16,Craig-Hallum,Buy,,main
+2021-02-23 16:59:44,JP Morgan,Overweight,,main
+2021-02-23 17:05:13,Northland Capital Markets,Outperform,,main
+2021-02-23 17:10:13,Truist Securities,Buy,,main
+2021-02-23 17:15:57,Wells Fargo,Overweight,,main
+2021-03-01 11:09:11,Jefferies,Buy,,init
+2021-04-30 13:09:43,Northland Capital Markets,Outperform,,main
+2021-04-30 13:24:51,Canaccord Genuity,Buy,,main
+2021-04-30 13:42:41,Roth Capital,Neutral,,main
+2021-05-27 12:54:08,UBS,Buy,,init
+2021-07-19 12:13:33,Needham,Hold,Buy,down
+2021-07-20 08:47:46,Morgan Stanley,Equal-Weight,Overweight,down
+2021-07-20 11:53:01,Canaccord Genuity,Hold,Buy,down
+2021-07-20 12:59:51,Craig-Hallum,Hold,Buy,down
+2021-07-20 15:41:02,Northland Capital Markets,Market Perform,Outperform,down
+2021-07-28 08:53:12,Jefferies,Hold,Buy,down
+2021-07-28 10:27:17,Piper Sandler,Neutral,Overweight,down
+2021-07-28 15:51:39,JP Morgan,Neutral,Overweight,down
+2021-08-09 12:11:29,Truist Securities,Hold,Buy,down
+2021-08-18 11:25:08,UBS,Neutral,Buy,down
+2021-09-07 11:17:34,Needham,Buy,Hold,up
+2021-09-17 14:32:30,Piper Sandler,Overweight,Neutral,up
+2021-09-20 11:50:48,Truist Securities,Hold,,main
+2021-10-01 10:17:14,Canaccord Genuity,Buy,Hold,up
+2021-10-01 10:19:26,Wells Fargo,Overweight,Equal-Weight,up
+2021-10-01 10:25:03,Barclays,Overweight,Equal-Weight,up
+2021-10-01 10:58:59,Evercore ISI Group,Outperform,In-Line,up
+2021-10-01 12:36:50,Colliers Securities,Buy,Neutral,up
+2021-10-01 12:41:35,Northland Capital Markets,Outperform,Market Perform,up
+2021-10-18 10:21:28,Morgan Stanley,Overweight,Equal-Weight,up
+2021-10-21 13:37:47,Barclays,Overweight,,main
+2021-10-25 08:30:59,Keybanc,Overweight,Sector Weight,up
+2021-11-02 11:08:23,Evercore ISI Group,In-Line,Outperform,down
+2021-11-09 08:33:16,Keybanc,Overweight,,main
+2021-11-09 12:03:46,Truist Securities,Buy,Hold,up
+2021-11-09 12:47:32,Wells Fargo,Overweight,,main
+2022-01-06 14:16:14,Jefferies,Buy,Hold,up
+2022-02-01 17:02:48,William Blair,Outperform,,init

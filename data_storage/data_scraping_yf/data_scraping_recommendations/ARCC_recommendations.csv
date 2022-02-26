@@ -1,0 +1,67 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-01 08:20:00,Ladenburg Thalmann,Buy,,main
+2012-05-08 14:51:00,Ladenburg Thalmann,Buy,,main
+2012-08-08 08:55:00,Citigroup,Buy,,main
+2012-11-06 08:43:00,Stifel Nicolaus,Buy,,main
+2012-12-11 12:35:20,Barclays,Equal-Weight,,main
+2013-01-15 09:59:49,JP Morgan,Neutral,Overweight,down
+2013-03-04 06:12:32,Bank of America,Neutral,Buy,down
+2013-04-24 06:23:30,JP Morgan,Overweight,Neutral,up
+2013-06-13 08:55:26,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2013-08-07 09:41:25,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2013-08-08 06:27:43,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2013-08-20 09:30:15,Sterne Agee,Buy,,init
+2014-08-07 16:00:00,JMP Securities,Market Outperform,,main
+2014-12-18 00:00:00,Barclays,Overweight,Equal-Weight,up
+2015-02-27 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-05-04 15:58:21,BB&T Capital,Hold,Buy,down
+2015-06-18 07:12:57,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2015-06-19 04:30:08,"Keefe, Bruyette & Woods",Outperform,Market Perform,up
+2015-06-30 16:58:33,Jefferies,Buy,,init
+2015-07-01 09:20:31,Cantor Fitzgerald,Hold,,init
+2015-07-01 09:21:21,Jefferies,Buy,,init
+2015-08-21 15:35:51,Citigroup,Buy,,main
+2015-08-28 06:56:04,Raymond James,Outperform,Market Perform,up
+2015-09-03 04:39:28,Cantor Fitzgerald,Hold,,main
+2015-09-29 16:48:04,DA Davidson,Buy,,init
+2015-10-01 06:37:24,Macquarie,Outperform,Neutral,up
+2016-02-25 04:50:02,Barclays,Overweight,,main
+2016-02-25 06:07:26,Jefferies,Buy,,main
+2016-06-28 08:42:37,National Securities,Neutral,,init
+2016-08-04 13:21:35,Keefe Bruyette & Woods,Outperform,,main
+2016-08-09 22:26:07,JMP Securities,Market Outperform,,main
+2016-08-18 09:51:56,UBS,Buy,,main
+2016-10-31 11:28:05,Janney Capital,Neutral,,init
+2017-11-28 12:20:15,Wedbush,Outperform,,init
+2017-12-06 12:52:01,Compass Point,Buy,,init
+2018-04-11 12:04:33,JP Morgan,Overweight,Overweight,main
+2018-06-04 12:45:29,JMP Securities,Market Outperform,Market Outperform,main
+2018-08-23 14:14:57,Citigroup,Buy,,init
+2019-02-13 13:32:52,JMP Securities,Market Outperform,Market Outperform,main
+2019-07-31 11:35:00,Raymond James,Outperform,,main
+2019-08-19 10:47:54,BMO Capital,Outperform,Market Perform,up
+2019-08-23 13:46:53,Compass Point,Neutral,Buy,down
+2019-10-22 10:50:43,Raymond James,Market Perform,Outperform,down
+2019-11-12 12:57:45,RBC Capital,Outperform,,init
+2020-03-25 13:53:55,Wells Fargo,Overweight,,main
+2020-04-02 11:26:50,Compass Point,Buy,Neutral,up
+2020-04-07 20:30:47,Citigroup,Buy,,main
+2020-04-13 11:48:52,B of A Securities,Buy,Neutral,up
+2020-04-13 13:05:21,Oppenheimer,Outperform,,main
+2020-04-16 10:54:11,Raymond James,Outperform,Market Perform,up
+2020-05-04 13:37:34,JP Morgan,Overweight,,main
+2020-06-17 10:51:28,JMP Securities,Market Outperform,,main
+2020-06-24 11:19:15,Raymond James,Outperform,,main
+2020-08-05 11:13:35,Raymond James,Outperform,,main
+2020-10-27 15:44:01,Janney Capital,Buy,Neutral,up
+2020-12-10 11:31:05,Barclays,Equal-Weight,Overweight,down
+2021-01-08 16:17:20,Raymond James,Outperform,,main
+2021-02-11 12:25:16,Raymond James,Outperform,,main
+2021-04-29 11:18:03,Raymond James,Outperform,,main
+2021-04-29 11:36:10,Wedbush,Outperform,,main
+2021-07-30 13:37:56,RBC Capital,Outperform,,main
+2021-08-02 11:34:20,Raymond James,Outperform,,main
+2021-10-25 12:21:07,Wells Fargo,Overweight,,main
+2021-10-27 11:29:46,Raymond James,Outperform,,main
+2021-12-03 11:57:11,Janney Montgomery Scott,Buy,,init
+2022-02-10 09:45:38,Raymond James,Outperform,,main

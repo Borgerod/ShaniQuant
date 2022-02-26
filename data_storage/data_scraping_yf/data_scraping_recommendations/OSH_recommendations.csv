@@ -1,0 +1,32 @@
+Date,Firm,To Grade,From Grade,Action
+2020-08-31 09:28:17,Piper Sandler,Overweight,,init
+2020-08-31 09:54:33,JP Morgan,Overweight,,init
+2020-08-31 09:56:21,Morgan Stanley,Equal-Weight,,init
+2020-08-31 09:57:52,Baird,Outperform,,init
+2020-08-31 11:37:39,Goldman Sachs,Buy,,init
+2020-08-31 15:39:37,Truist Securities,Buy,,init
+2020-08-31 15:46:22,William Blair,Outperform,,init
+2020-09-24 11:08:16,SVB Leerink,Outperform,,init
+2020-11-11 09:16:11,SVB Leerink,Outperform,,main
+2020-12-10 12:18:19,Raymond James,Outperform,,init
+2020-12-18 13:23:31,Morgan Stanley,Overweight,Equal-Weight,up
+2021-01-07 12:28:40,BTIG,Neutral,,init
+2021-02-12 13:36:31,Morgan Stanley,Overweight,,main
+2021-02-24 15:22:16,Canaccord Genuity,Buy,,init
+2021-03-12 14:44:10,Morgan Stanley,Overweight,,main
+2021-03-15 11:18:14,Evercore ISI Group,Outperform,,init
+2021-04-20 11:47:34,Cantor Fitzgerald,Overweight,,init
+2021-05-21 11:27:25,Bernstein,Outperform,,init
+2021-08-12 09:12:57,Barclays,Overweight,,init
+2021-08-12 11:40:32,Raymond James,Outperform,,main
+2021-08-31 11:46:05,Morgan Stanley,Overweight,,main
+2021-09-07 10:06:36,Baird,Outperform,,init
+2021-09-08 09:38:10,Goldman Sachs,Buy,,init
+2021-09-10 09:25:37,Cowen & Co.,Outperform,,init
+2021-09-27 10:12:34,SVB Leerink,Market Perform,,init
+2021-10-20 09:19:23,Jefferies,Buy,,init
+2021-11-10 09:45:06,SVB Leerink,Market Perform,,main
+2021-11-12 13:01:10,Morgan Stanley,Overweight,,main
+2021-12-16 13:53:21,Morgan Stanley,Equal-Weight,Overweight,down
+2021-12-17 14:41:37,Morgan Stanley,Equal-Weight,Overweight,down
+2022-01-18 14:25:12,Raymond James,Outperform,,main

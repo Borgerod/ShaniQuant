@@ -1,0 +1,75 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-24 06:48:00,Benchmark,Buy,,main
+2012-04-19 06:40:00,Canaccord Genuity,Buy,,main
+2012-05-04 06:53:00,Jefferies,Hold,,main
+2012-07-06 12:25:00,CL King,Neutral,Buy,down
+2012-08-02 14:08:00,JP Morgan,Neutral,,main
+2012-08-03 07:35:00,Baird,Outperform,Neutral,up
+2012-09-14 05:51:00,Wedbush,Neutral,,init
+2012-11-02 06:58:00,Jefferies,Hold,,main
+2013-02-28 14:25:16,JP Morgan,Neutral,,main
+2013-03-01 07:19:11,Jefferies,Hold,,main
+2013-03-15 09:11:10,Canaccord Genuity,Buy,,main
+2013-04-01 11:38:07,Hilliard Lyons,Neutral,,init
+2013-05-02 12:43:02,Canaccord Genuity,Hold,Buy,down
+2014-03-27 08:00:00,Wedbush,Outperform,Neutral,up
+2014-04-23 08:00:00,William Blair,Outperform,,init
+2014-05-02 03:10:56,JP Morgan,Neutral,,main
+2014-09-04 06:04:35,Barclays,Equal-Weight,,init
+2014-09-16 06:45:27,RBC Capital,Sector Perform,,init
+2014-11-06 08:00:00,Benchmark,Hold,Buy,down
+2015-02-27 06:08:50,Benchmark,Hold,Buy,down
+2015-04-09 06:04:23,Berenberg,Hold,,init
+2015-10-08 07:26:10,KeyBanc,Sector Weight,,init
+2016-02-09 07:37:56,Mitsubishi UFJ,Overweight,,init
+2016-05-06 07:18:21,Wedbush,Neutral,Outperform,down
+2016-05-26 06:21:46,Goldman Sachs,Neutral,,init
+2016-08-05 09:05:04,Barclays,Equal-Weight,,main
+2016-09-14 16:10:36,Evercore ISI Group,Hold,,init
+2016-09-15 04:21:16,Evercore ISI Group,Hold,,init
+2016-11-03 18:50:45,JP Morgan,Underweight,Neutral,down
+2016-11-22 14:05:28,Needham,Hold,,init
+2017-01-06 12:52:50,Barclays,Underweight,Equal-Weight,down
+2017-07-17 15:55:44,Goldman Sachs,Neutral,Neutral,init
+2017-08-23 15:29:49,Berenberg,Hold,,init
+2017-09-15 16:16:03,Barclays,Underweight,,main
+2017-09-22 12:15:10,Citigroup,Neutral,,init
+2017-11-03 16:04:06,Baird,Outperform,,main
+2017-11-03 18:32:08,Citigroup,Neutral,,main
+2018-01-30 13:09:11,Berenberg,Buy,Hold,up
+2018-06-20 12:41:37,Goldman Sachs,Buy,Neutral,up
+2018-06-25 13:45:50,Baird,Outperform,Outperform,main
+2018-08-08 11:52:47,Guggenheim,Buy,,init
+2018-08-08 12:55:46,Barclays,Underweight,Underweight,main
+2018-10-29 12:48:58,Needham,Buy,Hold,up
+2018-11-02 12:50:29,Wedbush,Outperform,Neutral,up
+2018-11-05 12:09:53,Benchmark,Buy,Hold,up
+2018-12-19 12:06:26,Stifel Nicolaus,Hold,,init
+2019-03-01 14:17:39,Wedbush,Outperform,Outperform,main
+2019-07-11 14:11:48,Wedbush,Outperform,,main
+2019-07-22 11:33:02,Citigroup,Buy,,init
+2019-08-06 12:03:25,JP Morgan,Underweight,,main
+2019-09-11 10:33:44,JP Morgan,Neutral,Underweight,up
+2019-09-11 11:32:43,Benchmark,Buy,,main
+2019-09-13 12:07:14,Wedbush,Outperform,,main
+2019-09-16 12:30:23,Needham,Buy,,main
+2019-11-08 12:44:18,Benchmark,Buy,,reit
+2019-11-19 12:51:01,Benchmark,Buy,,reit
+2019-12-12 12:05:02,JP Morgan,Underweight,Neutral,down
+2020-01-02 13:22:03,Needham,Hold,Buy,down
+2020-02-28 13:52:50,Baird,Outperform,,main
+2020-03-13 12:49:18,Wedbush,Outperform,,main
+2020-04-24 15:55:58,Wedbush,Outperform,,main
+2020-05-08 12:56:29,RBC Capital,Sector Perform,,main
+2020-07-20 10:57:15,Barclays,Underweight,,main
+2021-02-26 14:09:40,Credit Suisse,Outperform,,main
+2021-02-26 16:44:55,RBC Capital,Sector Perform,,main
+2021-04-12 11:16:33,B of A Securities,Buy,,init
+2021-06-08 11:28:07,Rosenblatt,Neutral,,init
+2021-08-06 13:28:57,Rosenblatt,Neutral,,main
+2021-08-06 13:46:02,RBC Capital,Sector Perform,,main
+2021-08-06 14:31:02,Credit Suisse,Outperform,,main
+2021-11-05 11:56:12,RBC Capital,Sector Perform,,main
+2021-11-05 14:00:35,Barclays,Underweight,,main
+2021-11-08 13:18:36,Credit Suisse,Outperform,,main
+2022-01-06 13:05:51,Baird,Neutral,Outperform,down

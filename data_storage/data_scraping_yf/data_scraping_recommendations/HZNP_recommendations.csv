@@ -1,0 +1,77 @@
+Date,Firm,To Grade,From Grade,Action
+2012-10-16 07:45:00,Stifel Nicolaus,Buy,,main
+2013-10-21 06:19:14,PiperJaffray,Overweight,Neutral,up
+2013-11-19 08:00:00,Cowen & Co.,Outperform,,main
+2014-03-05 08:00:00,PiperJaffray,Overweight,,main
+2014-05-30 06:17:01,Guggenheim,Buy,,init
+2014-07-29 06:17:58,PiperJaffray,Neutral,Overweight,down
+2015-01-13 09:00:00,JMP Securities,Market Outperform,,main
+2015-02-10 09:00:00,JMP Securities,Market Outperform,,main
+2015-03-02 09:00:00,Stifel Nicolaus,Buy,,main
+2015-03-31 05:53:32,PiperJaffray,Overweight,Neutral,up
+2015-03-31 09:00:00,JMP Securities,Market Outperform,,main
+2015-04-17 09:00:00,Stifel Nicolaus,Buy,,main
+2015-05-15 06:18:00,Jefferies,Buy,,init
+2015-05-22 07:08:59,Leerink Swann,Outperform,,init
+2015-06-10 06:49:10,Morgan Stanley,Overweight,,init
+2015-07-21 11:00:00,PiperJaffray,Overweight,,main
+2015-09-22 06:01:30,Brean Capital,Hold,Buy,down
+2015-10-09 07:21:02,Mizuho,Buy,,init
+2015-12-17 08:39:37,Goldman Sachs,Buy,,init
+2016-01-19 07:23:52,Jefferies,Buy,,init
+2016-04-25 17:09:10,Citigroup,Neutral,,main
+2016-06-06 07:21:37,Goldman Sachs,Buy,,init
+2016-06-29 06:25:48,BMO Capital,Outperform,,init
+2016-07-11 05:52:25,Morgan Stanley,Equal-Weight,Underweight,up
+2016-08-09 21:57:36,Citigroup,Neutral,,main
+2016-09-16 06:18:15,Cowen & Co.,Market Perform,Outperform,down
+2016-12-09 11:37:23,Mizuho,Neutral,Buy,down
+2016-12-16 11:19:27,Mizuho,Buy,Neutral,up
+2017-05-09 12:14:16,Mizuho,Neutral,Buy,down
+2017-06-16 10:24:45,Cantor Fitzgerald,Overweight,,init
+2017-09-28 13:01:23,Goldman Sachs,Buy,,init
+2017-11-07 12:28:34,Jefferies,Buy,,main
+2018-01-12 11:49:58,Mizuho,Buy,Neutral,up
+2018-03-02 13:47:47,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-06-18 17:06:29,Stifel Nicolaus,Buy,Buy,main
+2018-06-27 12:10:36,Citigroup,Neutral,Buy,down
+2018-08-06 11:49:23,BMO Capital,Market Perform,Outperform,down
+2018-08-09 12:10:12,BMO Capital,Market Perform,Market Perform,main
+2018-08-09 13:30:41,Jefferies,Buy,Buy,main
+2018-08-17 11:28:04,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-11-15 11:10:09,Mizuho,Neutral,Buy,down
+2019-03-08 11:47:01,Morgan Stanley,Overweight,Equal-Weight,up
+2019-04-03 13:41:34,Cantor Fitzgerald,Overweight,Overweight,main
+2019-05-01 10:52:11,Citigroup,Buy,Neutral,up
+2019-05-01 11:45:15,Citigroup,Buy,Neutral,up
+2019-08-14 11:26:33,BMO Capital,Outperform,Market Perform,up
+2019-09-12 10:57:53,Guggenheim,Buy,,init
+2019-09-26 11:36:07,Bank of America,Buy,,init
+2019-12-16 12:59:20,Stifel,Buy,,main
+2019-12-16 13:34:11,Morgan Stanley,Overweight,,main
+2019-12-16 14:39:11,BMO Capital,Outperform,,main
+2019-12-16 14:52:30,Stifel Nicolaus,Buy,,main
+2020-01-08 11:41:24,Goldman Sachs,Neutral,,init
+2020-01-22 15:21:11,BMO Capital,Outperform,,main
+2020-03-23 12:47:44,B of A Securities,Buy,,main
+2020-04-02 18:24:21,Morgan Stanley,Overweight,,main
+2020-04-14 12:42:54,Piper Sandler,Overweight,,main
+2020-04-28 12:43:35,Jefferies,Buy,,main
+2020-05-08 11:30:08,Morgan Stanley,Overweight,,main
+2020-05-26 12:21:37,B of A Securities,Buy,,reit
+2020-07-31 12:28:17,Morgan Stanley,Overweight,,main
+2020-08-06 15:25:50,BMO Capital,Outperform,,main
+2020-08-10 13:14:23,Morgan Stanley,Overweight,,main
+2020-08-17 15:34:20,B of A Securities,Buy,,main
+2020-08-27 10:42:14,Citigroup,Buy,,init
+2020-09-09 10:18:05,JP Morgan,Overweight,,init
+2021-02-17 17:08:59,Jefferies,Buy,,main
+2021-03-12 13:56:15,Wolfe Research,Outperform,,init
+2021-03-17 14:07:39,Stifel,Buy,,main
+2021-03-18 12:50:32,Citigroup,Buy,,main
+2021-08-05 12:09:43,BMO Capital,Outperform,,main
+2021-08-05 13:13:50,Citigroup,Buy,,main
+2021-08-24 11:55:17,Goldman Sachs,Neutral,,main
+2021-08-26 14:19:03,Morgan Stanley,Overweight,,main
+2021-11-19 10:25:34,Goldman Sachs,Buy,Neutral,up
+2021-12-08 12:26:17,Wells Fargo,Overweight,,init

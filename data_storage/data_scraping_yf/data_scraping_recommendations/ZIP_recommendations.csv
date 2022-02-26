@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action
+2021-06-21 09:01:52,Goldman Sachs,Buy,,init
+2021-06-21 09:22:18,JP Morgan,Neutral,,init
+2021-06-21 11:15:48,William Blair,Outperform,,init
+2021-06-21 11:25:56,Evercore ISI Group,Outperform,,init
+2021-06-21 11:32:07,Raymond James,Strong Buy,,init
+2021-07-01 10:34:20,Barclays,Overweight,,init
+2021-08-13 12:59:52,Raymond James,Strong Buy,,main
+2021-08-13 14:26:54,Barclays,Overweight,,main
+2021-11-11 12:24:43,Barclays,Overweight,,main
+2021-11-11 14:34:28,Raymond James,Strong Buy,,main

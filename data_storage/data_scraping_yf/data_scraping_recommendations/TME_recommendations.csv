@@ -1,0 +1,35 @@
+Date,Firm,To Grade,From Grade,Action
+2019-01-07 14:39:24,KeyBanc,Overweight,,init
+2019-01-07 14:43:20,Bank of America,Buy,,init
+2019-01-17 12:49:55,JP Morgan,Overweight,,init
+2019-01-18 12:28:00,HSBC,Buy,,init
+2019-02-12 12:43:23,Macquarie,Outperform,,init
+2019-03-05 16:56:00,Bank of America,Buy,Buy,reit
+2019-03-20 13:42:10,Credit Suisse,Neutral,Outperform,down
+2019-05-13 13:37:09,China Renaissance,Hold,,init
+2019-06-04 11:30:35,Loop Capital,Buy,,init
+2019-07-30 10:46:43,Oppenheimer,Outperform,,init
+2019-08-05 12:54:07,Jefferies,Buy,,init
+2019-08-13 11:50:22,Bank of America,Buy,,reit
+2019-10-02 10:07:15,KeyBanc,Overweight,,main
+2019-10-08 12:36:39,China Renaissance,Buy,Hold,up
+2019-10-18 13:00:55,New Street,Buy,,init
+2020-02-18 09:52:45,KeyBanc,Sector Weight,Overweight,down
+2020-02-18 11:05:15,CCB International,Neutral,Outperform,down
+2020-02-18 11:39:56,BOCOM International,Sell,Neutral,down
+2020-02-19 11:46:54,Oppenheimer,Perform,Outperform,down
+2020-03-12 10:43:14,Morgan Stanley,Overweight,Equal-Weight,up
+2020-03-18 14:34:32,UBS,Neutral,,main
+2020-07-27 14:40:44,B of A Securities,Buy,,main
+2020-09-24 10:51:09,Needham,Buy,,init
+2020-12-23 12:24:08,Needham,Buy,,main
+2021-03-23 13:20:57,China Renaissance,Hold,Buy,down
+2021-07-16 08:59:03,Morgan Stanley,Equal-Weight,Overweight,down
+2021-08-18 14:02:20,Deutsche Bank,Hold,Buy,down
+2021-08-19 10:54:38,Needham,Buy,,main
+2021-08-19 15:46:05,Deutsche Bank,Hold,Buy,down
+2021-09-13 12:00:00,Loop Capital,Hold,Buy,down
+2021-11-15 15:50:27,UBS,Neutral,Buy,down
+2021-12-28 11:35:40,Benchmark,Hold,,init
+2022-01-20 14:25:58,China Renaissance,Hold,Buy,down
+2022-02-18 09:54:05,Goldman Sachs,Sell,Neutral,down

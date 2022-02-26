@@ -1,0 +1,60 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-12 07:43:00,Stifel Nicolaus,Buy,,init
+2012-10-09 09:39:00,Raymond James,Strong Buy,Market Perform,up
+2012-10-15 12:54:00,UBS,Buy,,init
+2012-10-15 13:41:00,Stephens & Co.,Equal-Weight,,init
+2012-12-14 08:06:12,Stifel Nicolaus,Buy,,main
+2013-01-25 09:36:47,Stifel Nicolaus,Hold,Buy,down
+2013-02-08 10:32:12,UBS,Neutral,Buy,down
+2013-02-08 11:04:50,UBS,Neutral,Buy,down
+2013-02-20 09:28:36,Raymond James,Outperform,Strong Buy,down
+2013-11-21 08:45:55,Raymond James,Underperform,Outperform,down
+2014-01-16 06:46:43,Stifel Nicolaus,Buy,Hold,up
+2014-02-10 16:00:00,Stephens & Co.,Overweight,Equal-Weight,up
+2014-05-02 08:06:15,Stifel Nicolaus,Buy,,main
+2014-06-16 21:01:20,KeyBanc,Buy,,main
+2014-06-16 21:26:13,Stifel Nicolaus,Buy,,main
+2014-08-19 09:00:00,KeyBanc,Buy,,main
+2014-10-28 06:16:01,Susquehanna,Positive,Neutral,up
+2014-10-30 09:00:00,Stifel Nicolaus,Buy,,main
+2014-11-21 00:00:00,Longbow Research,Buy,Neutral,up
+2015-02-20 09:00:00,Stifel Nicolaus,Buy,,main
+2015-03-10 07:27:16,Stephens & Co.,Equal-Weight,Overweight,down
+2015-04-27 09:00:00,Stifel Nicolaus,Buy,,main
+2015-09-04 05:57:25,Macquarie,Neutral,Underperform,up
+2015-09-21 09:09:36,Wells Fargo,Market Perform,Outperform,down
+2015-12-14 06:21:42,Cowen & Co.,Outperform,,init
+2016-02-18 03:43:59,Axiom Capital,Sell,,init
+2016-02-19 07:15:18,BB&T Capital,Underweight,Buy,down
+2016-02-22 08:13:04,Stifel Nicolaus,Buy,,main
+2016-04-19 07:21:32,Stifel Nicolaus,Hold,Buy,down
+2016-07-25 06:54:25,Susquehanna,Neutral,Positive,down
+2016-09-30 07:28:46,CLSA,Underperform,,init
+2016-09-30 11:16:33,Stifel Nicolaus,Hold,,main
+2017-07-27 11:24:39,Stifel Nicolaus,Buy,Hold,up
+2017-09-29 11:47:07,Citigroup,Buy,Neutral,up
+2017-10-02 12:21:08,Citigroup,Buy,,main
+2017-10-02 15:34:26,Buckingham,Buy,,main
+2017-10-27 12:32:06,Stifel Nicolaus,Buy,,main
+2017-11-06 17:51:04,Susquehanna,Positive,Neutral,up
+2018-01-04 12:22:08,Seaport Global,Neutral,,init
+2018-02-16 11:58:24,Wells Fargo,Outperform,Market Perform,up
+2018-02-23 15:27:38,Stifel Nicolaus,Buy,Buy,main
+2018-03-06 12:56:31,Vertical Research,Sell,,init
+2018-04-30 11:53:56,Stifel Nicolaus,Buy,Buy,main
+2018-06-29 10:11:45,Mizuho,Buy,,init
+2018-07-27 13:24:04,Stifel Nicolaus,Buy,Buy,main
+2018-07-27 13:37:15,Buckingham,Buy,Buy,main
+2018-09-20 17:17:55,Vertical Group,Hold,Sell,up
+2018-10-05 12:52:34,Buckingham,Buy,Buy,main
+2018-11-01 15:57:02,Wells Fargo,Outperform,Outperform,main
+2019-03-11 10:19:07,KeyBanc,Sector Weight,Overweight,down
+2019-03-22 11:55:53,Buckingham,Neutral,Buy,down
+2019-10-18 13:04:07,Buckingham,Neutral,,main
+2019-11-08 15:02:06,Susquehanna,Neutral,Positive,down
+2020-01-14 14:11:38,Wells Fargo,Underweight,Overweight,down
+2020-04-03 21:47:54,Wells Fargo,Underweight,,main
+2020-04-15 13:09:39,Cowen & Co.,Outperform,,main
+2021-01-05 14:43:15,GLJ Research,Buy,Sell,up
+2021-07-23 12:34:12,Wells Fargo,Overweight,,main
+2021-07-26 10:28:54,Susquehanna,Positive,Neutral,up

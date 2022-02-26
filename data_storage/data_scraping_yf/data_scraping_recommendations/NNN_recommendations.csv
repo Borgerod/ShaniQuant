@@ -1,0 +1,73 @@
+Date,Firm,To Grade,From Grade,Action
+2012-08-08 11:57:00,UBS,Neutral,,main
+2013-06-27 09:13:42,Ladenburg Thalmann,Buy,Neutral,up
+2013-08-02 10:14:44,FBR Capital,Market Perform,,main
+2013-08-23 09:12:30,Baird,Outperform,Neutral,up
+2013-09-10 07:00:00,Janney Capital,Neutral,,init
+2013-10-11 07:58:39,Stifel Nicolaus,Buy,Hold,up
+2013-12-05 16:00:00,Capital One Financial,Neutral,,init
+2014-03-10 08:00:00,FBR Capital,Market Perform,Outperform,down
+2014-04-03 08:00:00,UBS,Sell,Neutral,down
+2014-04-08 06:51:02,Morgan Stanley,Overweight,,init
+2014-05-05 18:01:24,Oppenheimer,Outperform,,init
+2014-06-09 19:59:16,Stifel Nicolaus,Buy,,main
+2014-06-24 08:08:05,Bank of America,Neutral,Buy,down
+2014-07-11 19:30:18,Citigroup,Neutral,,main
+2014-07-16 10:30:00,Morgan Stanley,Equal-Weight,,down
+2014-07-25 14:35:52,Ladenburg Thalmann,Neutral,Buy,down
+2014-11-05 09:00:00,FBR Capital,Market Perform,,main
+2014-11-14 09:00:00,Citigroup,Neutral,,main
+2015-02-17 09:00:00,Citigroup,Neutral,,main
+2015-03-24 07:12:06,Baird,Neutral,,init
+2015-05-06 09:00:00,RBC Capital,Outperform,,main
+2015-05-13 09:00:00,Baird,Neutral,,main
+2015-06-16 17:28:32,Cowen & Co.,Market Perform,,init
+2015-07-23 07:32:42,DA Davidson,Neutral,,init
+2015-07-23 07:45:31,Morgan Stanley,Overweight,Equal-Weight,up
+2016-02-12 12:22:54,FBR Capital,Market Perform,,main
+2016-05-16 07:57:34,Morgan Stanley,Equal-Weight,Overweight,down
+2016-07-07 12:43:04,Citigroup,Neutral,,main
+2016-07-11 22:36:56,Stifel Nicolaus,Buy,,main
+2016-08-03 13:39:26,Oppenheimer,Outperform,,main
+2016-08-25 04:13:15,BTIG Research,Neutral,,init
+2016-09-26 06:48:19,UBS,Sell,,init
+2016-10-12 12:38:02,FBR Capital,Outperform,,init
+2016-11-21 11:44:12,Baird,Outperform,Neutral,up
+2016-12-05 14:57:36,Bank of America,Neutral,Buy,down
+2017-01-31 15:50:42,Bank of America,Buy,Neutral,up
+2017-09-11 15:59:10,Ladenburg Thalmann,Buy,Neutral,up
+2017-11-09 15:56:24,UBS,Neutral,Sell,up
+2018-05-05 14:00:39,B. Riley FBR,Buy,Buy,main
+2018-08-02 13:26:45,B. Riley FBR,Buy,Buy,main
+2018-08-02 14:37:11,Citigroup,Neutral,Neutral,main
+2018-08-07 11:29:45,Janney Capital,Neutral,Buy,down
+2018-09-21 10:48:43,Stifel Nicolaus,Buy,Buy,main
+2018-11-05 17:01:23,B. Riley FBR,Buy,Buy,main
+2018-12-14 15:06:06,RBC Capital,Sector Perform,Outperform,down
+2019-01-08 15:10:24,Raymond James,Outperform,Market Perform,up
+2019-02-13 11:42:42,B. Riley FBR,Neutral,Buy,down
+2019-07-11 13:00:53,Morgan Stanley,Equal-Weight,,main
+2019-08-20 13:02:27,Stifel Nicolaus,Buy,,main
+2019-09-17 12:17:35,Morgan Stanley,Equal-Weight,,main
+2019-10-10 10:50:57,Jefferies,Buy,,init
+2020-03-27 11:29:20,B. Riley FBR,Buy,Neutral,up
+2020-04-02 12:53:29,Wells Fargo,Overweight,,main
+2020-04-07 20:18:13,Citigroup,Neutral,,main
+2020-04-17 17:51:29,Raymond James,Outperform,,main
+2020-05-04 12:10:55,Morgan Stanley,Equal-Weight,,main
+2020-05-05 11:57:16,B. Riley FBR,Buy,,main
+2020-06-11 12:24:29,Wells Fargo,Overweight,,main
+2020-08-21 12:43:38,Morgan Stanley,Equal-Weight,,main
+2020-12-10 13:39:30,Wells Fargo,Equal-Weight,Overweight,down
+2020-12-15 17:30:08,Morgan Stanley,Equal-Weight,,main
+2020-12-17 11:54:46,Raymond James,Strong Buy,Market Perform,up
+2021-04-07 11:21:41,B of A Securities,Buy,Underperform,up
+2021-04-15 11:16:33,Morgan Stanley,Overweight,Equal-Weight,up
+2021-05-05 11:50:18,Raymond James,Strong Buy,,main
+2021-06-03 14:03:07,Morgan Stanley,Overweight,,main
+2021-09-07 12:17:45,Morgan Stanley,Overweight,,main
+2021-09-17 09:36:05,RBC Capital,Sector Perform,,init
+2021-12-03 13:32:48,Morgan Stanley,Overweight,,main
+2022-01-10 10:21:02,Jefferies,Hold,Buy,down
+2022-01-20 12:22:45,B of A Securities,Underperform,Buy,down
+2022-02-10 09:43:59,Raymond James,Strong Buy,,main

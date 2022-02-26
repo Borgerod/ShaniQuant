@@ -1,0 +1,85 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-16 10:10:00,BB&T Capital,Hold,,down
+2012-04-20 11:54:00,UBS,Neutral,,main
+2012-04-30 13:15:00,Oppenheimer,Outperform,,main
+2012-07-06 06:49:00,Goldman Sachs,Neutral,,init
+2012-07-06 13:30:00,Goldman Sachs,Neutral,,init
+2012-07-09 09:35:00,MKM Partners,Neutral,Buy,down
+2012-07-26 15:01:00,Barclays,Underweight,,main
+2012-07-27 13:34:00,UBS,Neutral,,main
+2012-09-10 07:07:00,JP Morgan,Overweight,,main
+2013-01-11 06:42:34,JP Morgan,Underweight,Overweight,down
+2013-01-15 10:17:55,Baird,Neutral,Outperform,down
+2013-02-15 12:28:41,Barclays,Underweight,,main
+2013-03-05 10:00:43,UBS,Neutral,,main
+2013-03-18 10:36:17,SunTrust Robinson Humphrey,Buy,Neutral,up
+2013-05-30 09:18:21,Longbow Research,Neutral,,init
+2013-07-19 16:09:16,Global Hunter Securities,Buy,Accumulate,up
+2013-09-26 08:54:04,Baird,Outperform,Neutral,up
+2014-05-13 06:08:04,Morgan Stanley,Equal-Weight,,init
+2014-07-18 20:33:29,Barclays,Underweight,,main
+2014-07-22 20:44:26,JP Morgan,Underweight,,main
+2014-09-05 06:25:13,Buckingham Research,Neutral,,init
+2014-09-23 08:52:58,Seaport Global,Accumulate,Buy,down
+2014-10-06 09:00:00,Barclays,Underweight,,main
+2014-11-12 09:00:00,UBS,Neutral,,main
+2015-01-15 09:00:00,JP Morgan,Underweight,,main
+2015-01-20 08:20:00,Goldman Sachs,Neutral,Sell,up
+2015-02-13 08:55:19,Stephens & Co.,Overweight,Equal-Weight,up
+2015-02-13 09:00:00,Barclays,Underweight,,main
+2015-02-17 06:14:30,JP Morgan,Neutral,Underweight,up
+2015-04-16 09:00:00,Barclays,Underweight,,main
+2015-07-13 11:00:00,Barclays,Underweight,,main
+2015-10-05 11:00:00,Barclays,Underweight,,main
+2015-10-28 15:03:51,Stephens & Co.,Overweight,,main
+2015-11-25 07:12:31,Stifel Nicolaus,Buy,,init
+2016-01-19 13:01:05,Barclays,Underweight,,main
+2016-02-12 13:01:57,Stifel Nicolaus,Buy,,main
+2016-03-24 10:54:55,Stifel Nicolaus,Buy,,main
+2016-04-18 04:01:47,Barclays,Underweight,,main
+2016-04-20 16:56:19,Goldman Sachs,Neutral,,main
+2016-04-21 08:23:56,Baird,Outperform,,main
+2016-04-21 08:52:18,Seaport Global,Accumulate,,main
+2016-04-25 07:26:09,Stifel Nicolaus,Neutral,Buy,down
+2016-06-01 07:58:03,Susquehanna,Positive,,init
+2016-06-06 09:10:35,SunTrust Robinson Humphrey,Buy,,init
+2016-07-25 10:29:25,Seaport Global,Neutral,Accumulate,down
+2016-07-25 12:23:09,Barclays,Underweight,,main
+2016-07-25 12:47:11,Stifel Nicolaus,Buy,,main
+2016-07-27 14:18:57,JP Morgan,Neutral,,main
+2016-10-14 11:43:33,Longbow Research,Buy,Neutral,up
+2016-12-20 10:58:17,Morgan Stanley,Underweight,Equal-Weight,down
+2017-07-11 13:06:58,Wolfe Research,Peer Perform,,init
+2017-07-26 18:19:49,Morgan Stanley,Underweight,,main
+2017-09-25 16:16:29,Morgan Stanley,Underweight,,main
+2017-10-26 12:05:19,Morgan Stanley,Underweight,,main
+2018-02-12 13:12:26,JP Morgan,Neutral,Neutral,main
+2018-04-25 11:59:48,Stifel Nicolaus,Buy,Buy,main
+2018-04-25 12:43:47,Baird,Outperform,Outperform,main
+2018-07-03 12:30:14,Baird,Neutral,Outperform,down
+2018-07-30 12:08:37,Longbow Research,Neutral,Buy,down
+2018-09-21 11:30:45,JP Morgan,Underweight,Neutral,down
+2018-10-09 11:49:30,Buckingham,Neutral,,init
+2018-10-12 13:32:01,Jefferies,Hold,,init
+2018-10-26 16:05:13,Buckingham,Neutral,Neutral,main
+2019-10-08 12:14:38,Buckingham,Neutral,,main
+2019-10-10 13:58:33,JP Morgan,Underweight,,main
+2019-10-18 13:05:23,Buckingham,Neutral,,main
+2019-10-18 13:29:50,Baird,Neutral,,main
+2019-10-21 12:24:57,Morgan Stanley,Equal-Weight,,main
+2020-02-14 12:55:33,Buckingham,Neutral,,main
+2020-02-18 11:54:02,Stephens & Co.,Overweight,,main
+2020-03-17 12:56:56,Morgan Stanley,Equal-Weight,,main
+2020-03-24 14:55:51,Morgan Stanley,Equal-Weight,,main
+2020-04-24 16:40:48,Baird,Neutral,,main
+2020-06-23 15:18:15,JP Morgan,Underweight,,main
+2020-07-24 13:25:01,Morgan Stanley,Equal-Weight,,main
+2020-10-13 14:28:31,Morgan Stanley,Equal-Weight,,main
+2020-10-23 12:31:30,Morgan Stanley,Equal-Weight,,main
+2021-02-12 13:58:01,Morgan Stanley,Equal-Weight,,main
+2021-04-12 15:16:08,Morgan Stanley,Equal-Weight,,main
+2021-04-23 13:30:12,Morgan Stanley,Equal-Weight,,main
+2021-05-19 10:30:20,Wolfe Research,Peer Perform,,init
+2021-07-12 12:51:56,Wolfe Research,Underperform,Peer Perform,down
+2021-07-23 11:36:19,Stephens & Co.,Overweight,Equal-Weight,up
+2021-08-03 11:54:28,Loop Capital,Hold,,init

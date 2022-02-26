@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-18 06:35:00,Sterne Agee,Neutral,Underperform,up
+2012-09-27 08:52:00,Raymond James,Outperform,Strong Buy,down
+2012-10-08 05:59:00,Wunderlich,Hold,Buy,down
+2012-12-12 08:18:28,BGB Securities,Buy,,init
+2013-02-08 06:51:30,Wunderlich,Buy,Hold,up
+2013-02-11 06:21:16,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2013-07-17 14:05:21,Wunderlich,Buy,,main
+2013-07-18 06:31:42,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2013-09-10 07:00:00,FIG Partners,Market Perform,,init
+2013-09-20 07:44:13,MLV & Co.,Buy,,init
+2014-01-22 08:00:00,Raymond James,Market Perform,Outperform,down
+2014-04-07 08:00:00,Raymond James,Outperform,Market Perform,up
+2014-05-22 06:15:57,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2014-06-24 09:32:43,Sandler O'Neill,Hold,,init
+2014-08-12 06:16:56,Jefferies,Buy,,init
+2014-10-15 16:00:00,Hilliard Lyons,Long-Term Buy,,init
+2014-12-16 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-01-07 00:00:00,Raymond James,Strong Buy,Outperform,up
+2015-01-22 09:00:00,Jefferies,Buy,,main
+2015-10-22 09:29:02,Stephens & Co.,Equal-Weight,Overweight,down
+2015-10-22 15:11:58,Keefe Bruyette & Woods,Outperform,,main
+2016-04-28 09:14:40,Hilliard Lyons,Buy,Long-Term Buy,up
+2016-09-12 07:09:29,Raymond James,Outperform,Strong Buy,down
+2016-11-28 10:46:14,Jefferies,Hold,Buy,down
+2016-11-29 10:37:05,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2018-02-09 14:14:44,Hilliard Lyons,Buy,Neutral,up
+2018-07-10 12:21:04,Raymond James,Market Perform,Outperform,down
+2019-06-26 11:03:36,SunTrust Robinson Humphrey,Hold,,init
+2019-08-21 11:05:54,DA Davidson,Neutral,,init
+2019-08-27 12:11:59,SunTrust Robinson Humphrey,Hold,,main
+2019-10-23 12:17:30,Sandler O'Neill,Hold,Buy,down
+2019-12-09 12:50:38,Stephens & Co.,Equal-Weight,,main
+2020-07-30 15:14:31,SunTrust Robinson Humphrey,Hold,,main
+2020-09-15 12:47:15,DA Davidson,Neutral,Buy,down
+2020-09-30 13:16:34,Piper Sandler,Neutral,,main
+2020-10-29 14:03:15,Piper Sandler,Neutral,,main

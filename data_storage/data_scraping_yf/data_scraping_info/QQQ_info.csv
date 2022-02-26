@@ -1,0 +1,115 @@
+,info
+exchange,NGM
+shortName,"Invesco QQQ Trust, Series 1"
+longName,Invesco QQQ Trust
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,QQQ
+messageBoardId,finmb_8108558
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.02
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,921024000
+annualReportExpenseRatio,
+totalAssets,215238066176
+bookValue,
+fundFamily,Invesco
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0046
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.2911
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Large Growth
+fiveYearAverageReturn,0.23879999
+phone,800-983-0903
+longBusinessSummary,"To maintain the correspondence between the composition and weights of the securities in the trust (the ""securities"") and the stocks in the NASDAQ-100 IndexÂ®, the adviser adjusts the securities from time to time to conform to periodic changes in the identity and/or relative weights of index securities. The composition and weighting of the securities portion of a portfolio deposit are also adjusted to conform to changes in the index."
+companyOfficers,[]
+previousClose,345.45
+regularMarketOpen,346.41
+twoHundredDayAverage,367.2189
+trailingAnnualDividendYield,0.0051237512
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,346.81
+navPrice,352.05
+averageDailyVolume10Day,72884760
+regularMarketPreviousClose,345.45
+fiftyDayAverage,373.8382
+trailingAnnualDividendRate,1.77
+open,346.41
+toCurrency,
+averageVolume10days,72884760
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,339.14
+currency,USD
+trailingPE,4.527089
+regularMarketVolume,80001513
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,72733835
+dayLow,339.14
+ask,339.35
+askSize,1100
+volume,80001513
+fiftyTwoWeekHigh,408.71
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,297.45
+bid,339.25
+tradeable,False
+dividendYield,
+bidSize,800
+dayHigh,346.81
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0.16430001}, {'basic_materials': 0}, {'consumer_defensive': 0.045500003}, {'technology': 0.4571}, {'communication_services': 0.1965}, {'financial_services': 0.023}, {'utilities': 0.0088}, {'industrials': 0.036199998}, {'energy': 0}, {'healthcare': 0.0688}]"
+holdings,"[{'symbol': 'AAPL', 'holdingName': 'Apple Inc', 'holdingPercent': 0.11270001}, {'symbol': 'MSFT', 'holdingName': 'Microsoft Corp', 'holdingPercent': 0.1011}, {'symbol': 'AMZN', 'holdingName': 'Amazon.com Inc', 'holdingPercent': 0.0779}, {'symbol': 'GOOG', 'holdingName': 'Alphabet Inc Class C', 'holdingPercent': 0.0419}, {'symbol': 'FB', 'holdingName': 'Facebook Inc Class A', 'holdingPercent': 0.0404}, {'symbol': 'TSLA', 'holdingName': 'Tesla Inc', 'holdingPercent': 0.039}, {'symbol': 'GOOGL', 'holdingName': 'Alphabet Inc Class A', 'holdingPercent': 0.0387}, {'symbol': 'NVDA', 'holdingName': 'NVIDIA Corp', 'holdingPercent': 0.0378}, {'symbol': 'PYPL', 'holdingName': 'PayPal Holdings Inc', 'holdingPercent': 0.023}, {'symbol': 'ADBE', 'holdingName': 'Adobe Inc', 'holdingPercent': 0.0215}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 22.87, 'priceToSales': 4.61, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 33.89, 'priceToBook': 8.93, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,1
+regularMarketPrice,341.51
+preMarketPrice,
+logo_url,

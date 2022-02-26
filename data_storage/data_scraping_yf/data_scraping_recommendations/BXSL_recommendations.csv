@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action
+2021-11-22 09:50:57,JP Morgan,Neutral,,init
+2021-11-22 10:02:19,RBC Capital,Outperform,,init
+2021-11-22 11:50:12,Wells Fargo,Equal-Weight,,init
+2021-11-22 12:20:46,Raymond James,Market Perform,,init
+2021-11-22 13:49:26,Compass Point,Neutral,,init
+2021-11-22 16:01:03,"Keefe, Bruyette & Woods",Market Perform,,init
+2021-11-23 12:05:12,Citigroup,Neutral,,init
+2021-12-03 11:54:22,Janney Montgomery Scott,Neutral,,init
+2021-12-28 11:54:49,Raymond James,Underperform,Market Perform,down

@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,Direxion Daily S&P Biotech Bull
+longName,Direxion Daily S&P Biotech Bull 3X Shares
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,LABU
+messageBoardId,finmb_295054277
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,3.69
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1432771200
+annualReportExpenseRatio,
+totalAssets,945502848
+bookValue,
+fundFamily,Direxion Funds
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.1451
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Trading--Leveraged Equity
+fiveYearAverageReturn,-0.0633
+phone,866-476-7523
+longBusinessSummary,"The fund invests at least 80% of its net assets (plus borrowing for investment purposes) in financial instruments and securities of the index, exchange-traded funds (""ETFs"") that track the index and other financial instruments that provide daily leveraged exposure to the index or ETFs that track the index. The index is designed to measure the performance of the biotechnology sub-industry based on the Global Industry Classification Standards (""GICS""). The fund is non-diversified."
+companyOfficers,[]
+previousClose,17.26
+regularMarketOpen,17.16
+twoHundredDayAverage,51.3378
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,17.81
+navPrice,35.04
+averageDailyVolume10Day,18944900
+regularMarketPreviousClose,17.26
+fiftyDayAverage,26.895
+trailingAnnualDividendRate,
+open,17.16
+toCurrency,
+averageVolume10days,18944900
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,16.07
+currency,USD
+regularMarketVolume,18303189
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,13556911
+dayLow,16.07
+ask,16.3
+askSize,1300
+volume,18303189
+fiftyTwoWeekHigh,139.45
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,14.27
+bid,16.14
+tradeable,False
+dividendYield,
+bidSize,3200
+dayHigh,17.81
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 1}]"
+holdings,"[{'symbol': 'DAPXX', 'holdingName': 'Dreyfus Government Secs Cash Mgmt Admin', 'holdingPercent': 0.3796}, {'symbol': 'FTIXX', 'holdingName': 'Goldman Sachs FS Treasury Intms Instl', 'holdingPercent': 0.1205}, {'symbol': '', 'holdingName': 'S&P Biotechnology Select Industry Index Swap', 'holdingPercent': 0.065799996}, {'symbol': 'NTLA', 'holdingName': 'Intellia Therapeutics Inc', 'holdingPercent': 0.0064}, {'symbol': 'EDIT', 'holdingName': 'Editas Medicine Inc', 'holdingPercent': 0.0050999997}, {'symbol': 'AVXL', 'holdingName': 'Anavex Life Sciences Corp', 'holdingPercent': 0.005}, {'symbol': 'BEAM', 'holdingName': 'Beam Therapeutics Inc', 'holdingPercent': 0.0049}, {'symbol': 'MNKD', 'holdingName': 'MannKind Corp', 'holdingPercent': 0.0045}, {'symbol': 'OCGN', 'holdingName': 'Ocugen Inc', 'holdingPercent': 0.0043}, {'symbol': 'TBIO', 'holdingName': 'Translate Bio Inc', 'holdingPercent': 0.0043}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 2.64, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 4.73, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.5479
+regularMarketPrice,16.52
+preMarketPrice,
+logo_url,

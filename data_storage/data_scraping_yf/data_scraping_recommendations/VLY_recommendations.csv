@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-27 05:58:00,JP Morgan,Underweight,Neutral,down
+2012-07-27 06:03:00,Sterne Agee,Neutral,Underperform,up
+2012-08-07 05:42:00,Morgan Stanley,Equal-Weight,Underweight,up
+2013-04-25 06:17:31,Keefe Bruyette & Woods,Underperform,Market Perform,down
+2013-04-25 09:46:10,Raymond James,Underperform,Market Perform,down
+2013-07-09 07:59:25,JP Morgan,Underweight,,main
+2014-03-05 07:03:50,Keefe Bruyette & Woods,Market Perform,Underperform,up
+2014-04-25 02:15:55,JP Morgan,Underweight,,main
+2014-08-01 02:31:05,Keefe Bruyette & Woods,Market Perform,,main
+2014-10-30 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2014-11-04 06:35:59,Guggenheim,Neutral,Buy,down
+2015-05-28 06:18:26,American Capital Partners,Buy,Neutral,up
+2015-07-01 06:59:50,JP Morgan,Neutral,Underweight,up
+2015-07-13 07:20:46,Guggenheim,Sell,Neutral,down
+2016-01-29 09:37:11,Sandler O'Neill,Buy,Hold,up
+2016-02-03 06:15:06,PiperJaffray,Overweight,Neutral,up
+2016-08-01 05:13:26,Morgan Stanley,Equal-Weight,,main
+2016-08-08 06:54:23,PiperJaffray,Neutral,Overweight,down
+2016-11-14 14:30:42,Sandler O'Neill,Hold,Buy,down
+2017-04-05 14:18:04,Stephens & Co.,Equal-Weight,,init
+2017-06-28 11:27:32,Wedbush,Neutral,,init
+2017-07-27 11:23:10,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2017-07-31 16:41:10,Hovde Group,Outperform,Market Perform,up
+2017-12-21 17:17:43,RBC Capital,Outperform,,init
+2018-01-05 12:56:05,PiperJaffray,Overweight,Neutral,up
+2018-01-31 14:10:32,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-04-30 13:44:37,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-06-18 11:55:03,Citigroup,Neutral,,init
+2018-07-31 13:55:02,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-09-18 11:46:08,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2019-10-03 13:48:18,Morgan Stanley,Equal-Weight,,main
+2019-10-11 11:49:05,RBC Capital,Outperform,,init
+2020-02-04 11:14:44,Stephens & Co.,Overweight,Equal-Weight,up
+2020-03-17 14:56:13,Morgan Stanley,Equal-Weight,,main
+2020-03-24 12:14:46,Citigroup,Neutral,,main
+2020-04-07 12:35:08,Morgan Stanley,Equal-Weight,,main
+2020-05-05 12:14:22,RBC Capital,Outperform,,main
+2020-05-06 13:23:51,Morgan Stanley,Equal-Weight,,main
+2020-06-08 13:03:51,Morgan Stanley,Equal-Weight,,main
+2020-08-04 13:28:14,Morgan Stanley,Equal-Weight,,main
+2020-09-28 13:58:26,Piper Sandler,Overweight,,main
+2020-10-26 13:40:18,Wedbush,Neutral,,main
+2020-11-03 14:12:17,Morgan Stanley,Equal-Weight,,main
+2020-12-07 14:15:55,Morgan Stanley,Equal-Weight,,main
+2021-01-07 17:01:55,Morgan Stanley,Equal-Weight,,main
+2021-02-24 13:54:16,Morgan Stanley,Equal-Weight,,main
+2021-03-18 14:04:24,Morgan Stanley,Equal-Weight,,main
+2021-05-04 12:13:49,Morgan Stanley,Equal-Weight,,main
+2021-09-24 11:24:03,Citigroup,Neutral,Sell,up
+2021-10-04 11:01:22,Stephens & Co.,Overweight,,main

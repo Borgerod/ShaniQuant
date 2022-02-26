@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-10 06:45:00,Guggenheim,Neutral,,main
+2012-10-09 12:29:00,Barclays,Equal-Weight,,main
+2013-01-09 09:09:55,Barclays,Underweight,Equal-Weight,down
+2013-06-20 16:00:00,Guggenheim,Neutral,,init
+2013-07-30 07:26:43,Jefferies,Hold,,main
+2013-12-23 09:21:49,Deutsche Bank,Outperform,,main
+2014-05-01 02:51:30,Raymond James,Outperform,,main
+2014-07-09 19:34:50,Barclays,Underweight,,main
+2015-02-02 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-05-04 09:00:00,Barclays,Underweight,,main
+2015-06-16 09:00:00,Barclays,Underweight,,main
+2015-07-02 09:11:13,Stephens & Co.,Equal-Weight,,init
+2015-08-03 13:58:43,Jefferies,Hold,,main
+2015-08-03 15:52:52,Stifel Nicolaus,Market Perform,,main
+2015-10-26 15:30:51,Barclays,Underweight,,main
+2016-01-25 03:46:48,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2016-01-26 08:49:42,Sandler O'Neill,Buy,Hold,up
+2016-03-10 08:44:40,Sandler O'Neill,Hold,Buy,down
+2016-07-25 09:41:39,Hilliard Lyons,Neutral,Buy,down
+2016-07-25 12:23:07,Barclays,Underweight,,main
+2016-07-25 13:03:25,Keefe Bruyette & Woods,Market Perform,,main
+2016-10-06 10:52:48,PiperJaffray,Neutral,,init
+2016-10-11 14:40:56,Barclays,Underweight,,main
+2016-12-06 18:41:28,Barclays,Underweight,,main
+2017-03-24 14:19:24,DA Davidson,Buy,,init
+2017-07-27 13:31:39,Stephens & Co.,Overweight,Equal-Weight,up
+2017-07-27 16:54:30,Barclays,Underweight,,main
+2017-10-23 17:31:42,Barclays,Underweight,,main
+2018-04-23 16:28:39,Barclays,Underweight,Underweight,main
+2018-04-23 16:55:51,Hilliard Lyons,Neutral,Buy,down
+2018-05-18 13:00:23,DA Davidson,Neutral,Buy,down
+2018-07-23 11:53:09,Barclays,Underweight,Underweight,main
+2018-07-26 12:14:03,DA Davidson,Buy,Neutral,up
+2018-10-22 11:19:13,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2018-10-22 15:28:27,Barclays,Underweight,Underweight,main
+2018-11-29 14:38:08,Sandler O'Neill,Hold,Buy,down
+2019-02-25 11:42:11,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2019-03-06 13:35:03,Stephens & Co.,Equal-Weight,Overweight,down
+2019-06-20 10:40:56,Piper Jaffray,Overweight,Neutral,up
+2020-09-29 13:19:34,Piper Sandler,Neutral,,main
+2020-10-26 13:26:31,Piper Sandler,Neutral,,main
+2021-02-01 11:00:11,Piper Sandler,Overweight,Neutral,up
+2021-03-03 12:02:50,Piper Sandler,Neutral,Overweight,down
+2021-07-26 14:51:16,RBC Capital,Sector Perform,,main
+2021-10-25 12:37:53,RBC Capital,Sector Perform,,main

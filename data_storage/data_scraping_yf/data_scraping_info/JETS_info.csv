@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,U.S. Global Jets ETF
+longName,U.S. Global Jets ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,JETS
+messageBoardId,finmb_281809878
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.82
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1430352000
+annualReportExpenseRatio,
+totalAssets,3231214336
+bookValue,
+fundFamily,U.S. Global Investors
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.0752
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Miscellaneous Sector
+fiveYearAverageReturn,-0.0414
+phone,800-617-0004
+longBusinessSummary,"The fund uses a ""passive management"" (or indexing) approach to track the performance, before fees and expenses, of the index. The index is composed of the exchange-listed common stock (or depository receipts) of U.S. and international passenger airlines, aircraft manufacturers, airports, and terminal services companies (as determined by independent industry listings) across the globe (collectively, ""Airline Companies""). The index may include small-, mid-, and large-capitalization companies. The fund is non-diversified."
+companyOfficers,[]
+previousClose,22.83
+regularMarketOpen,22.8
+twoHundredDayAverage,23.1579
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,23.0601
+navPrice,22.04
+averageDailyVolume10Day,12349740
+regularMarketPreviousClose,22.83
+fiftyDayAverage,21.504
+trailingAnnualDividendRate,
+open,22.8
+toCurrency,
+averageVolume10days,12349740
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,22.495
+currency,USD
+regularMarketVolume,7357226
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,12483698
+dayLow,22.495
+ask,22.45
+askSize,3200
+volume,7357226
+fiftyTwoWeekHigh,28.98
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,19.28
+bid,22.38
+tradeable,False
+dividendYield,
+bidSize,1000
+dayHigh,23.0601
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0.074}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0.010199999}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0.91580003}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'DAL', 'holdingName': 'Delta Air Lines Inc', 'holdingPercent': 0.1001}, {'symbol': 'UAL', 'holdingName': 'United Airlines Holdings Inc', 'holdingPercent': 0.0987}, {'symbol': 'LUV', 'holdingName': 'Southwest Airlines Co', 'holdingPercent': 0.09810001}, {'symbol': 'AAL', 'holdingName': 'American Airlines Group Inc', 'holdingPercent': 0.0953}, {'symbol': 'ALK', 'holdingName': 'Alaska Air Group Inc', 'holdingPercent': 0.0298}, {'symbol': 'SNCY', 'holdingName': 'Sun Country Airlines Holdings Inc', 'holdingPercent': 0.0297}, {'symbol': 'ALGT', 'holdingName': 'Allegiant Travel Co', 'holdingPercent': 0.0294}, {'symbol': 'JBLU', 'holdingName': 'JetBlue Airways Corp', 'holdingPercent': 0.0286}, {'symbol': 'SKYW', 'holdingName': 'SkyWest Inc', 'holdingPercent': 0.028499998}, {'symbol': 'AC.TO', 'holdingName': 'Air Canada Class B', 'holdingPercent': 0.028399998}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 2.8, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 2.78, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9951
+regularMarketPrice,22.56
+preMarketPrice,
+logo_url,

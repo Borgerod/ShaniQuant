@@ -1,0 +1,58 @@
+Date,Firm,To Grade,From Grade,Action
+2017-12-04 12:00:53,JP Morgan,Overweight,,init
+2017-12-04 18:38:07,Citigroup,Buy,,init
+2018-03-23 11:50:10,JP Morgan,Overweight,Overweight,main
+2018-05-05 14:00:39,B. Riley FBR,Neutral,Buy,down
+2018-05-05 14:00:39,B. Riley FBR,Buy,,init
+2018-05-24 10:23:50,Cantor Fitzgerald,Overweight,,init
+2018-07-10 11:26:40,Cowen & Co.,Outperform,,init
+2018-07-30 11:56:23,B. Riley FBR,Buy,Neutral,up
+2018-08-08 12:53:54,Cantor Fitzgerald,Overweight,Overweight,main
+2018-09-13 12:33:34,B. Riley FBR,Buy,Buy,main
+2018-11-14 14:03:13,JP Morgan,Overweight,Overweight,main
+2019-01-23 12:20:16,JP Morgan,Neutral,Overweight,down
+2019-03-29 11:05:12,Baird,Outperform,,init
+2019-07-09 10:39:04,Oppenheimer,Outperform,,init
+2019-07-12 10:13:20,JP Morgan,Overweight,Neutral,up
+2019-11-05 13:23:22,Credit Suisse,Neutral,,init
+2019-11-22 12:20:14,Wedbush,Underperform,,init
+2019-11-25 12:11:54,Cantor Fitzgerald,Overweight,,reit
+2019-12-19 15:23:02,Bank of America,Buy,,init
+2020-01-07 14:26:23,Baird,Overweight,,main
+2020-01-08 16:05:37,Oppenheimer,Outperform,,main
+2020-03-02 12:42:37,Credit Suisse,Neutral,,main
+2020-03-11 11:27:26,Wedbush,Neutral,Underperform,up
+2020-03-31 10:13:40,BMO Capital,Outperform,,init
+2020-04-01 10:48:12,Raymond James,Strong Buy,,init
+2020-04-28 10:40:34,Cantor Fitzgerald,Overweight,,main
+2020-06-08 13:49:30,JP Morgan,Overweight,,main
+2020-06-17 10:31:55,BTIG,Neutral,,init
+2020-06-30 11:43:31,Citigroup,Buy,,main
+2020-07-20 13:16:33,Roth Capital,Buy,,init
+2020-09-01 09:06:31,Stifel,Buy,,init
+2020-11-19 10:38:02,Needham,Buy,,init
+2020-11-23 12:02:32,Citigroup,Buy,,main
+2020-12-15 15:06:36,Roth Capital,Buy,,main
+2021-01-08 15:58:47,Raymond James,Strong Buy,,main
+2021-01-29 15:43:05,Credit Suisse,Neutral,,main
+2021-02-26 13:50:07,Credit Suisse,Neutral,,main
+2021-04-16 10:14:15,Goldman Sachs,Buy,,init
+2021-04-29 15:41:56,Credit Suisse,Neutral,,main
+2021-05-21 10:36:01,UBS,Buy,,init
+2021-06-28 10:05:12,Needham,Buy,,main
+2021-07-02 10:31:21,JP Morgan,Overweight,,main
+2021-07-08 11:41:48,BMO Capital,Outperform,,main
+2021-08-10 12:03:34,Raymond James,Strong Buy,,main
+2021-08-10 12:50:26,Credit Suisse,Neutral,,main
+2021-08-19 09:01:05,Jefferies,Buy,,init
+2021-08-19 11:40:23,Wedbush,Outperform,Neutral,up
+2021-09-10 10:19:35,Needham,Buy,,main
+2021-09-10 11:20:08,BMO Capital,Outperform,,main
+2021-09-10 11:44:56,Wedbush,Neutral,Outperform,down
+2021-09-10 12:33:23,Credit Suisse,Neutral,,main
+2021-09-10 12:56:50,Roth Capital,Buy,,main
+2021-11-09 12:37:02,Raymond James,Strong Buy,,main
+2021-11-24 15:11:01,Citigroup,Buy,,main
+2021-11-29 14:38:15,Roth Capital,Neutral,Buy,down
+2021-12-08 12:27:24,Wells Fargo,Overweight,,init
+2022-01-11 12:10:08,Raymond James,Strong Buy,,main

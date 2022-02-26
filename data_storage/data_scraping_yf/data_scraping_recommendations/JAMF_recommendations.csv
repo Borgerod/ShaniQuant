@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-25 09:37:23,Barclays,Equal-Weight,,main
+2020-11-25 09:37:23,B of A Securities,Neutral,,init
+2020-11-25 09:37:23,Canaccord Genuity,Buy,,init
+2020-11-25 09:37:23,William Blair,Outperform,,init
+2020-11-25 09:37:23,Mizuho,Buy,,init
+2020-11-25 09:37:23,RBC Capital,Outperform,,init
+2020-11-25 09:37:23,JMP Securities,Market Outperform,,init
+2020-11-25 09:37:23,Barclays,Equal-Weight,,init
+2020-11-25 09:37:23,Goldman Sachs,Buy,,init
+2020-11-25 09:37:23,Piper Sandler,Overweight,,init
+2021-04-22 10:11:54,Needham,Buy,,init
+2021-05-12 13:20:52,Goldman Sachs,Neutral,Buy,down
+2021-05-24 13:24:37,Craig-Hallum,Buy,,init
+2021-10-19 10:59:10,Needham,Buy,,main
+2021-10-22 11:09:13,JMP Securities,Market Outperform,,main
+2021-10-22 13:20:45,RBC Capital,Outperform,,main

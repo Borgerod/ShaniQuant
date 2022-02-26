@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action
+2012-06-22 05:59:00,JP Morgan,Neutral,,init
+2012-08-17 08:29:00,Credit Agricole,Underperform,Buy,down
+2012-10-22 05:49:00,Morgan Stanley,Overweight,Equal-Weight,up
+2012-11-02 15:44:00,Citigroup,Neutral,,main
+2013-03-22 07:32:29,Stifel Nicolaus,Hold,,init
+2013-03-22 07:38:07,Stifel Nicolaus,Hold,,init
+2013-05-03 07:54:47,Citigroup,Buy,Neutral,up
+2013-05-16 08:07:11,Stifel Nicolaus,Buy,Hold,up
+2013-11-08 07:55:42,ISI Group,Neutral,,init
+2013-11-25 16:47:18,RBC Capital,Sector Perform,,init
+2014-01-15 16:00:00,SunTrust Robinson Humphrey,Neutral,,down
+2014-04-01 08:00:00,Stifel Nicolaus,Hold,,down
+2018-05-05 13:32:14,Argus,Hold,Buy,down
+2018-05-05 13:32:14,Argus,Sell,Hold,down
+2020-03-02 11:27:20,Jefferies,Buy,,init
+2020-03-02 11:52:27,Barclays,Overweight,,init
+2020-03-02 14:54:15,Wedbush,Outperform,,init
+2020-08-05 15:42:29,William Blair,Outperform,,init
+2021-01-06 11:14:56,Stifel,Hold,,init
+2021-01-29 13:29:10,JP Morgan,Neutral,Overweight,down
+2021-02-16 12:07:32,Wells Fargo,Overweight,,init
+2021-03-01 12:56:47,Barclays,Equal-Weight,Overweight,down
+2021-05-04 10:31:12,RBC Capital,Sector Perform,,init
+2021-05-11 11:50:11,Redburn Partners,Buy,,init
+2021-06-29 11:49:21,Wedbush,Outperform,,main
+2021-09-10 16:06:03,B of A Securities,Buy,,init
+2021-10-19 10:31:14,SVB Leerink,Outperform,,init
+2021-11-09 09:01:43,SVB Leerink,Outperform,,main
+2022-01-05 12:29:57,Guggenheim,Buy,,init
+2022-01-10 12:56:41,SVB Leerink,Outperform,,main

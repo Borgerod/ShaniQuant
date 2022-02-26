@@ -1,0 +1,122 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-02 08:53:00,Feltl & Co.,Hold,,up
+2012-07-13 06:23:00,KeyBanc,Buy,,init
+2013-08-01 09:37:03,KeyBanc,Hold,Buy,down
+2013-10-23 09:19:45,Janney Capital,Buy,Neutral,up
+2013-12-10 06:24:43,Jefferies,Hold,,init
+2014-01-02 16:00:00,KeyBanc,Buy,Hold,up
+2014-03-14 07:44:25,Longbow Research,Buy,,init
+2014-05-07 09:51:10,Feltl & Co.,Buy,Hold,up
+2014-11-06 09:00:00,Jefferies,Hold,,main
+2015-01-06 09:00:00,Jefferies,Hold,,main
+2015-02-26 09:00:00,Jefferies,Hold,,main
+2015-05-07 09:00:00,Jefferies,Hold,,main
+2015-07-15 16:30:20,BTIG Research,Buy,,init
+2015-08-10 11:34:52,Tigress Financial,Buy,Strong Buy,down
+2015-10-01 16:13:54,Nomura,Buy,,init
+2015-10-02 05:50:08,Nomura,Buy,,init
+2015-10-30 07:19:26,KeyBanc,Sector Weight,Overweight,down
+2015-11-09 07:02:35,KeyBanc,Overweight,Sector Weight,up
+2016-02-24 07:16:12,Nomura,Buy,,main
+2016-02-25 07:21:55,Jefferies,Hold,,main
+2016-03-04 06:05:56,KeyBanc,Sector Weight,Overweight,down
+2016-06-22 06:44:15,Nomura,Neutral,Buy,down
+2016-07-20 07:29:58,KeyBanc,Overweight,Sector Weight,up
+2016-11-18 12:02:29,KeyBanc,Sector Weight,Overweight,down
+2017-08-02 18:31:30,Stephens & Co.,Overweight,,main
+2017-09-18 12:21:52,Citigroup,Buy,,init
+2017-10-03 17:41:23,Stifel Nicolaus,Hold,,init
+2017-10-11 15:07:44,Stephens & Co.,Overweight,,main
+2017-10-27 16:20:11,Nomura,Neutral,,main
+2017-11-02 11:54:09,BTIG Research,Neutral,Buy,down
+2017-12-19 09:39:29,Deutsche Bank,Hold,,init
+2018-05-03 11:51:38,Stifel Nicolaus,Hold,Hold,main
+2018-05-09 12:08:08,Longbow Research,Neutral,Buy,down
+2018-06-19 11:09:43,Citigroup,Buy,Buy,main
+2018-07-23 11:04:28,Stifel Nicolaus,Sell,Hold,down
+2018-08-01 10:22:06,Jefferies,Buy,Hold,up
+2018-08-08 11:21:07,Stifel Nicolaus,Sell,Sell,main
+2018-08-13 11:12:05,Longbow Research,Buy,Neutral,up
+2018-08-15 10:54:07,Stifel Nicolaus,Hold,Sell,up
+2018-10-11 10:51:33,Stifel Nicolaus,Hold,Hold,main
+2018-11-12 17:36:30,Citigroup,Buy,Buy,main
+2019-02-19 11:31:16,Stifel Nicolaus,Sell,Hold,down
+2019-03-08 14:20:40,Citigroup,Buy,Buy,main
+2019-03-27 10:29:11,Stifel Nicolaus,Hold,Sell,up
+2019-05-08 14:56:08,Stephens & Co.,Overweight,,main
+2019-06-25 11:10:52,Credit Suisse,Neutral,,init
+2019-08-13 11:12:34,MKM Partners,Buy,,init
+2019-08-15 13:16:42,Citigroup,Buy,,main
+2019-08-27 12:35:52,Stephens & Co.,Overweight,,main
+2019-08-27 14:24:50,Kalinowski,Buy,Neutral,up
+2019-08-27 15:37:05,BTIG,Buy,Neutral,up
+2019-08-28 10:16:27,Stifel,Buy,Hold,up
+2019-09-04 11:48:04,Northcoast Research,Buy,,init
+2019-09-05 10:51:49,Credit Suisse,Outperform,Neutral,up
+2019-09-18 10:40:22,Oppenheimer,Perform,,init
+2019-10-23 11:13:50,CL King,Buy,,init
+2019-11-04 12:00:28,Jefferies,Hold,Buy,down
+2019-11-07 11:25:57,Stephens & Co.,Overweight,,main
+2019-11-07 11:42:40,MKM Partners,Neutral,Buy,down
+2019-11-07 13:54:21,Credit Suisse,Outperform,,main
+2019-11-07 16:32:57,Stifel Nicolaus,Buy,,main
+2019-12-13 11:44:10,Deutsche Bank,Hold,,init
+2020-01-03 12:44:56,BTIG,Buy,,main
+2020-01-10 13:06:14,UBS,Neutral,,init
+2020-02-27 17:00:07,Credit Suisse,Outperform,,main
+2020-04-01 11:00:05,MKM Partners,Buy,Neutral,up
+2020-04-22 14:11:37,Jefferies,Hold,,main
+2020-04-24 15:32:39,Stifel,Buy,,main
+2020-04-27 11:13:49,MKM Partners,Neutral,Buy,down
+2020-05-07 11:58:37,Deutsche Bank,Hold,,main
+2020-05-07 12:58:16,MKM Partners,Neutral,,main
+2020-05-07 13:43:37,Credit Suisse,Outperform,,main
+2020-05-07 16:05:17,UBS,Neutral,,main
+2020-05-07 17:22:38,Jefferies,Hold,,main
+2020-05-07 17:45:26,Stephens & Co.,Overweight,,reit
+2020-06-01 12:41:41,Credit Suisse,Outperform,,main
+2020-07-01 10:27:59,Wedbush,Outperform,,init
+2020-07-29 10:31:51,Wedbush,Outperform,,main
+2020-08-07 10:43:43,Wedbush,Outperform,,main
+2020-08-07 13:01:31,Stephens & Co.,Overweight,,main
+2020-08-07 13:18:19,Credit Suisse,Outperform,,main
+2020-10-01 11:34:02,KeyBanc,Overweight,,init
+2020-10-02 09:47:00,Loop Capital,Buy,,init
+2020-10-28 15:22:01,Wedbush,Outperform,,main
+2020-10-30 10:41:58,Oppenheimer,Outperform,Perform,up
+2020-11-06 17:48:26,Stephens & Co.,Overweight,,main
+2020-11-10 12:44:31,Deutsche Bank,Buy,Hold,up
+2021-01-07 12:11:00,Stephens & Co.,Overweight,,main
+2021-02-09 12:14:57,Wedbush,Outperform,,main
+2021-02-22 09:56:38,KeyBanc,Overweight,,main
+2021-02-22 12:00:08,Stephens & Co.,Overweight,,main
+2021-02-22 16:44:09,Oppenheimer,Outperform,,main
+2021-02-23 12:35:29,Credit Suisse,Outperform,,main
+2021-02-23 16:03:54,Deutsche Bank,Buy,,main
+2021-02-26 09:36:28,KeyBanc,Overweight,,main
+2021-02-26 11:17:46,Wedbush,Outperform,,main
+2021-03-30 10:25:18,BMO Capital,Outperform,,init
+2021-04-26 10:59:15,Wedbush,Outperform,,main
+2021-05-06 16:46:30,Stephens & Co.,Overweight,,main
+2021-05-07 10:45:50,Wedbush,Outperform,,main
+2021-07-12 08:49:37,Keybanc,Overweight,,main
+2021-07-12 14:20:23,Stifel,Buy,,main
+2021-07-19 10:03:25,Stephens & Co.,Overweight,,main
+2021-08-03 10:47:15,BTIG,Buy,,main
+2021-08-04 12:28:28,UBS,Neutral,,main
+2021-08-06 08:56:59,Keybanc,Overweight,,main
+2021-08-06 10:02:04,Stephens & Co.,Overweight,,main
+2021-08-06 13:22:32,Oppenheimer,Outperform,,main
+2021-09-29 12:20:50,Wedbush,Outperform,,main
+2021-10-12 08:44:01,Keybanc,Overweight,,main
+2021-11-04 16:57:01,Stephens & Co.,Overweight,,main
+2021-11-05 08:47:25,Keybanc,Overweight,,main
+2021-11-05 09:04:58,Deutsche Bank,Hold,Buy,down
+2021-11-05 11:35:12,Credit Suisse,Outperform,,main
+2021-11-05 13:51:28,Oppenheimer,Outperform,,main
+2021-11-05 14:17:56,MKM Partners,Neutral,,main
+2021-11-05 15:29:09,Wedbush,Outperform,,main
+2021-11-05 16:08:40,Northcoast Research,Neutral,Buy,down
+2021-11-12 11:56:53,Benchmark,Buy,,init
+2022-02-02 13:26:45,Northcoast Research,Buy,Neutral,up
+2022-02-11 11:33:17,Wedbush,Outperform,,main

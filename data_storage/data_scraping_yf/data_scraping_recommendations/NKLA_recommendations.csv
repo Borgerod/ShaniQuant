@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action
+2020-08-25 20:22:50,Wedbush,Neutral,,init
+2020-08-26 10:14:35,Wedbush,Neutral,,init
+2020-09-09 11:02:23,RBC Capital,Sector Perform,,main
+2020-09-22 11:58:53,Deutsche Bank,Hold,,main
+2020-09-24 10:01:10,Wedbush,Underperform,Neutral,down
+2020-11-20 11:38:43,Loop Capital,Buy,,init
+2020-12-16 16:03:23,Evercore ISI Group,In-Line,,init
+2021-02-01 10:41:18,Wedbush,Neutral,Underperform,up
+2021-03-05 11:03:23,JP Morgan,Neutral,Overweight,down
+2021-03-26 12:01:08,Vertical Research,Buy,,init
+2021-05-10 16:40:58,Deutsche Bank,Hold,,main
+2021-05-28 10:46:20,BTIG,Buy,,init
+2021-08-11 08:45:34,DA Davidson,Neutral,,init
+2021-11-05 09:28:36,BTIG,Neutral,Buy,down
+2021-11-05 12:53:33,RBC Capital,Sector Perform,,main
+2021-11-08 08:39:47,DA Davidson,Neutral,,main

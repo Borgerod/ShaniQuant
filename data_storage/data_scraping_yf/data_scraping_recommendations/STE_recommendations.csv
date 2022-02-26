@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-25 09:36:33,JMP Securities,Outperform,Market Perform,up
+2020-11-25 09:36:33,KeyBanc,,,down
+2020-11-25 09:36:33,JMP Securities,Market Outperform,,main
+2020-11-25 09:36:33,Raymond James,Strong Buy,Market Perform,up
+2020-11-25 09:36:33,Raymond James,Outperform,Strong Buy,down
+2020-11-25 09:36:33,Griffin Securities,Hold,Buy,down
+2020-11-25 09:36:33,Bank of America,Buy,,main
+2020-11-25 09:36:33,Raymond James,Market Perform,,init
+2020-11-25 09:36:33,Stephens & Co.,Overweight,Equal-Weight,up
+2020-11-25 09:36:33,Bank of America,Buy,,init
+2020-11-25 09:36:44,Goldman Sachs,Neutral,,init
+2020-11-25 09:36:47,KeyBanc,Overweight,Sector Weight,up
+2020-11-25 09:36:49,Raymond James,Outperform,,main
+2020-11-25 09:36:50,Raymond James,Outperform,,main
+2020-11-25 09:36:51,KeyBanc,Overweight,,main
+2020-11-25 09:36:53,Raymond James,Market Perform,Outperform,down
+2020-11-25 09:37:00,JMP Securities,Market Outperform,Market Outperform,main
+2020-11-25 09:37:00,KeyBanc,Overweight,Overweight,main
+2020-11-25 09:37:02,KeyBanc,Overweight,Overweight,main
+2020-11-25 09:37:03,Sidoti & Co.,Buy,Buy,main
+2020-11-25 09:37:06,KeyBanc,Overweight,,main
+2020-11-25 09:37:06,JMP Securities,Market Outperform,,main
+2020-11-25 09:37:07,KeyBanc,Sector Weight,Overweight,down
+2020-11-25 09:37:13,Stephens & Co.,Overweight,,main
+2020-11-25 09:37:15,Stephens & Co.,Overweight,,main
+2020-11-25 09:37:20,Needham,Hold,,init
+2020-11-25 09:37:23,Baird,Outperform,,init
+2021-02-04 10:01:39,KeyBanc,Overweight,Sector Weight,up
+2021-03-11 10:14:15,KeyBanc,Overweight,,main
+2021-05-11 14:46:22,JMP Securities,Market Outperform,,main
+2021-05-26 10:05:07,Needham,Buy,Hold,up
+2021-08-11 08:41:02,Keybanc,Overweight,,main
+2021-08-11 12:33:04,Stephens & Co.,Overweight,,main
+2021-08-11 12:37:04,Baird,Outperform,,main
+2021-11-04 08:40:03,Keybanc,Overweight,,main
+2021-11-04 13:19:00,Stephens & Co.,Overweight,,main
+2022-02-10 09:41:41,Needham,Buy,,main

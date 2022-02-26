@@ -1,0 +1,95 @@
+Date,Firm,To Grade,From Grade,Action
+2012-10-26 05:59:00,Deutsche Bank,Hold,Buy,down
+2012-11-14 15:14:00,PiperJaffray,Overweight,,main
+2013-02-06 15:45:46,Deutsche Bank,Buy,Hold,up
+2013-02-25 07:59:42,Deutsche Bank,Buy,,main
+2013-03-25 06:13:25,JP Morgan,Overweight,,init
+2013-03-25 08:25:42,PiperJaffray,Overweight,,main
+2013-09-18 07:04:11,Deutsche Bank,Buy,Hold,up
+2013-09-26 06:37:53,Credit Suisse,Neutral,,init
+2013-10-08 16:27:10,JP Morgan,Overweight,,main
+2013-10-17 16:00:00,Macquarie,Outperform,,init
+2013-10-24 10:57:13,CLSA,Outperform,,init
+2013-11-12 13:20:56,PiperJaffray,Overweight,,main
+2013-11-12 14:40:20,PiperJaffray,Overweight,,main
+2013-11-19 08:00:00,HSBC,Overweight,,init
+2014-01-30 08:00:00,UBS,Neutral,Buy,down
+2014-03-04 08:00:00,PiperJaffray,Overweight,,main
+2014-03-11 08:00:00,Goldman Sachs,Neutral,Buy,down
+2014-03-31 07:28:05,Goldman Sachs,Buy,Neutral,up
+2014-04-08 08:00:00,Credit Suisse,Outperform,Neutral,up
+2014-04-30 16:00:00,CLSA,Buy,,init
+2014-05-16 08:14:19,BOC Int'l,Buy,Hold,up
+2014-05-19 20:50:55,JP Morgan,Overweight,,main
+2014-07-02 06:15:22,Jefferies,Buy,,init
+2014-07-25 06:34:55,Citigroup,Buy,,init
+2014-08-15 09:00:00,Macquarie,Outperform,,main
+2014-10-29 09:22:28,Morgan Stanley,Overweight,,init
+2014-11-20 09:00:00,JP Morgan,Overweight,,main
+2014-11-20 19:24:29,Morgan Stanley,Overweight,,main
+2015-04-20 06:58:58,Summit Research Partners,Buy,,init
+2015-04-24 08:21:58,HSBC,Buy,Neutral,up
+2015-04-24 09:00:00,Jefferies,Buy,,main
+2015-05-27 09:21:38,Stifel Nicolaus,Buy,,init
+2015-11-16 09:31:44,CLSA,Underperform,Outperform,down
+2015-11-16 09:32:03,Morgan Stanley,Equal-Weight,Overweight,down
+2015-11-16 10:02:50,Bank of America,Neutral,Buy,down
+2015-11-19 05:28:24,Brean Capital,Buy,,main
+2015-12-17 10:33:56,Morgan Stanley,Underweight,Equal-Weight,down
+2016-01-07 10:39:54,CLSA,Buy,Outperform,up
+2016-02-25 17:54:43,Credit Suisse,Neutral,Overweight,down
+2016-02-29 05:44:25,Morgan Stanley,Equal-Weight,Underweight,up
+2016-05-18 06:37:10,JP Morgan,Neutral,Overweight,down
+2016-08-16 08:58:09,Bank of America,Buy,Neutral,up
+2016-08-17 07:01:12,Nomura,Buy,,main
+2016-08-17 08:24:24,Deutsche Bank,Hold,Buy,down
+2016-11-10 14:46:43,Deutsche Bank,Buy,Hold,up
+2017-01-11 13:26:39,Bernstein,Underperform,,init
+2017-04-18 12:50:07,Benchmark,Buy,,init
+2017-06-30 10:33:14,Deutsche Bank,Hold,Buy,down
+2017-08-18 18:26:11,Benchmark,Buy,,main
+2017-08-18 18:32:04,Macquarie,Outperform,,main
+2017-10-30 19:26:07,UBS,Neutral,,init
+2017-12-19 09:35:34,Daiwa Capital,Buy,Hold,up
+2018-01-16 12:47:48,Bernstein,Outperform,Market Perform,up
+2018-02-14 11:55:38,HSBC,Buy,Hold,up
+2018-02-14 13:26:43,JP Morgan,Neutral,Neutral,main
+2018-05-16 10:13:15,KeyBanc,Sector Weight,Overweight,down
+2018-05-16 10:18:01,Daiwa Capital,Hold,Buy,down
+2018-07-11 12:23:46,Goldman Sachs,Neutral,Buy,down
+2018-08-14 13:19:17,Daiwa Capital,Underperform,Hold,down
+2018-08-15 11:56:12,Macquarie,Outperform,Outperform,main
+2018-10-10 11:08:29,JP Morgan,Neutral,Overweight,down
+2018-10-12 11:04:38,UBS,Neutral,Neutral,main
+2019-01-23 11:07:55,KeyBanc,Overweight,Sector Weight,up
+2019-02-19 13:07:58,Bank of America,Neutral,Buy,down
+2019-02-22 11:52:19,Macquarie,Neutral,Outperform,down
+2019-04-05 13:57:26,KeyBanc,Overweight,Overweight,main
+2019-04-22 14:24:42,UBS,Sell,Neutral,down
+2019-04-30 10:31:13,JP Morgan,Overweight,Neutral,up
+2019-08-05 12:51:21,Jefferies,Hold,,init
+2019-11-14 10:57:08,KeyBanc,Overweight,,main
+2019-11-14 14:05:24,JP Morgan,Overweight,,main
+2019-11-22 12:54:10,Macquarie,Outperform,,init
+2019-11-25 16:10:22,CLSA,Outperform,Buy,down
+2019-12-16 10:26:47,KeyBanc,Overweight,,main
+2020-01-21 11:06:42,KeyBanc,Overweight,,main
+2020-01-28 15:42:31,B of A Securities,Neutral,,reit
+2020-02-05 10:01:38,Morgan Stanley,Equal-Weight,,init
+2020-03-06 09:39:08,KeyBanc,Overweight,,main
+2020-03-06 10:49:13,Citigroup,Buy,Neutral,up
+2020-03-06 12:34:23,Nomura,Buy,Neutral,up
+2020-03-09 16:04:49,UBS,Sell,,main
+2020-05-28 09:44:35,KeyBanc,Overweight,,main
+2020-08-20 12:40:20,JP Morgan,Neutral,Overweight,down
+2020-09-28 13:37:20,Morgan Stanley,Underweight,Equal-Weight,down
+2020-11-02 09:09:22,KeyBanc,Overweight,,main
+2020-11-16 08:44:16,KeyBanc,Overweight,,main
+2020-11-16 17:33:39,UBS,Buy,,main
+2021-01-26 10:19:58,KeyBanc,Sector Weight,Overweight,down
+2021-04-15 13:21:20,JP Morgan,Overweight,Neutral,up
+2021-08-19 13:18:53,Credit Suisse,Neutral,Outperform,down
+2021-09-03 10:15:36,UBS,Neutral,Buy,down
+2021-09-23 09:07:40,JP Morgan,Neutral,Overweight,down
+2021-09-29 11:33:23,New Street Research,Neutral,Buy,down
+2021-11-19 11:59:54,Benchmark,Hold,Buy,down

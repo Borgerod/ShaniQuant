@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action
+2020-02-25 10:22:34,Goldman Sachs,Buy,,init
+2020-02-25 10:26:18,Stifel Nicolaus,Buy,,init
+2020-02-25 10:28:36,Barclays,Equal-Weight,,init
+2020-02-25 12:31:42,RBC Capital,Sector Perform,,init
+2020-02-25 13:28:57,JP Morgan,Overweight,,init
+2020-02-25 14:01:06,Credit Suisse,Outperform,,init
+2020-04-29 14:42:21,Stifel,Buy,,main
+2020-05-15 13:42:25,Citigroup,Buy,,main
+2021-01-04 10:25:13,RBC Capital,Outperform,Sector Perform,up
+2021-06-24 09:08:47,UBS,Neutral,,init
+2021-08-03 11:22:09,Credit Suisse,Outperform,,main
+2021-08-03 13:02:36,RBC Capital,Outperform,,main
+2021-10-15 12:01:30,Credit Suisse,Outperform,,main
+2022-01-11 11:43:23,Citigroup,Neutral,Buy,down
+2022-01-11 12:57:43,Goldman Sachs,Buy,,main

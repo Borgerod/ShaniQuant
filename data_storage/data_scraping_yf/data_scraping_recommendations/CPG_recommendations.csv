@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action
+2015-01-09 00:00:00,Barclays,Overweight,Equal-Weight,up
+2015-03-12 07:42:35,Raymond James,Outperform,Market Perform,up
+2015-04-24 07:12:15,UBS,Buy,,init
+2015-05-18 03:58:15,Goldman Sachs,Neutral,Buy,down
+2015-07-22 07:33:35,Barclays,Equal-Weight,Overweight,down
+2015-08-14 07:45:22,UBS,Neutral,Buy,down
+2015-10-29 05:52:57,Barclays,Overweight,Equal-Weight,up
+2016-07-22 03:27:46,Barclays,Overweight,Equal-Weight,up
+2016-09-09 09:50:04,Dundee,Neutral,Buy,down
+2016-11-11 12:41:09,National Bank Financial,Outperform,,init
+2016-11-11 14:39:02,Dundee,Buy,Neutral,up
+2019-04-11 11:52:11,Macquarie,Outperform,Neutral,up
+2021-02-19 11:51:48,RBC Capital,Sector Perform,,main

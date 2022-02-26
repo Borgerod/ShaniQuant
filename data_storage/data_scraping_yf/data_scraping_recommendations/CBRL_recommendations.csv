@@ -1,0 +1,78 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-13 06:21:00,KeyBanc,Hold,,init
+2012-09-14 10:12:00,KeyBanc,Hold,Buy,down
+2012-09-18 09:31:00,Northcoast Research,Neutral,Buy,down
+2012-09-20 06:51:00,Bank of America,Underperform,,main
+2013-02-27 07:53:40,Miller Tabak,Buy,,main
+2013-03-19 06:16:17,Miller Tabak,Hold,Buy,down
+2013-05-30 06:37:02,Bank of America,Neutral,Underperform,up
+2013-06-04 08:42:04,Bank of America,Neutral,,main
+2013-06-04 08:44:26,Miller Tabak,Hold,,main
+2013-06-28 10:19:28,Miller Tabak,Hold,,main
+2013-07-22 09:40:43,CL King,Neutral,Buy,down
+2014-01-31 08:00:00,Miller Tabak,Buy,Hold,up
+2014-03-14 07:43:55,Longbow Research,Neutral,,init
+2014-05-05 16:00:00,Raymond James,Market Perform,Underperform,up
+2014-12-05 04:06:13,Wunderlich,Hold,,main
+2015-03-02 07:09:55,Miller Tabak,Hold,Buy,down
+2015-10-08 06:34:53,SunTrust Robinson Humphrey,Neutral,,init
+2016-01-26 07:23:24,SunTrust Robinson Humphrey,Buy,Neutral,up
+2016-02-22 07:41:34,Telsey Advisory Group,Outperform,Market Perform,up
+2016-02-24 06:53:33,SunTrust Robinson Humphrey,Neutral,Buy,down
+2016-04-07 06:54:28,Longbow Research,Buy,Neutral,up
+2016-06-02 12:27:11,SunTrust Robinson Humphrey,Neutral,,main
+2016-07-11 08:09:02,Bank of America,Underperform,Neutral,down
+2016-11-28 12:58:58,Maxim Group,Hold,Buy,down
+2017-03-21 12:57:25,Argus,Hold,,down
+2017-07-12 12:27:49,Instinet,Neutral,,init
+2017-09-11 13:59:31,Bank of America,Underperform,,main
+2017-09-14 14:15:18,Nomura,Neutral,,main
+2017-11-22 11:11:13,Longbow Research,Neutral,Buy,down
+2018-02-21 15:40:15,Bank of America,Underperform,Underperform,main
+2018-04-10 15:45:05,Bank of America,Underperform,Underperform,main
+2018-05-05 13:32:14,Argus,Hold,Buy,down
+2018-05-05 13:32:14,Argus,Hold,Buy,down
+2018-05-05 13:32:14,Argus,Buy,Hold,up
+2018-05-05 13:32:16,Argus,Buy,Hold,up
+2018-07-26 12:15:04,Maxim Group,Buy,Hold,up
+2018-09-19 11:01:55,Wells Fargo,Market Perform,Market Perform,main
+2018-09-19 11:46:12,Maxim Group,Buy,Buy,main
+2018-10-19 17:35:54,Gordon Haskett,Hold,,init
+2018-11-20 14:58:45,Maxim Group,Hold,Buy,down
+2018-11-29 13:13:32,Argus,Buy,Hold,up
+2019-02-27 13:03:34,Wells Fargo,Market Perform,Market Perform,main
+2019-04-11 12:13:52,Maxim Group,Buy,Hold,up
+2019-06-05 11:39:42,Telsey Advisory Group,Market Perform,Outperform,down
+2019-06-05 11:52:32,Telsey Advisory Group,Market Perform,Outperform,down
+2019-09-11 12:03:19,Wells Fargo,Market Perform,,main
+2019-09-18 12:49:17,SunTrust Robinson Humphrey,Hold,,main
+2019-09-18 12:53:44,Wells Fargo,Market Perform,,main
+2019-09-27 10:23:18,MKM Partners,Neutral,,init
+2019-11-08 15:40:09,Wells Fargo,Market Perform,,main
+2019-12-03 13:34:10,Argus Research,Hold,Buy,down
+2019-12-23 11:45:51,CL King,Neutral,,init
+2020-01-23 13:40:41,Wells Fargo,Equal-Weight,,main
+2020-04-02 07:14:56,SunTrust Robinson Humphrey,Hold,,main
+2020-04-20 12:18:24,MKM Partners,Neutral,,main
+2020-06-03 13:27:59,SunTrust Robinson Humphrey,Buy,Hold,up
+2020-06-03 15:47:05,B of A Securities,Buy,,main
+2020-09-11 12:33:55,MKM Partners,Neutral,,main
+2020-09-16 11:17:38,Wells Fargo,Equal-Weight,,main
+2020-09-16 12:23:40,Truist Securities,Buy,,main
+2020-12-04 11:20:53,Telsey Advisory Group,Outperform,Market Perform,up
+2020-12-17 12:47:37,Wells Fargo,Underweight,Equal-Weight,down
+2021-02-08 12:38:17,Truist Securities,Hold,Buy,down
+2021-03-16 13:57:07,Sidoti & Co.,Neutral,Buy,down
+2021-03-29 14:58:22,Deutsche Bank,Buy,,init
+2021-04-15 11:24:04,CL King,Neutral,Buy,down
+2021-09-08 11:53:23,Wells Fargo,Underweight,,main
+2021-09-15 12:22:50,MKM Partners,Neutral,,main
+2021-09-15 12:25:10,Truist Securities,Hold,,main
+2021-09-22 11:34:11,Wells Fargo,Underweight,,main
+2021-09-22 12:45:16,Deutsche Bank,Buy,,main
+2021-09-22 13:48:29,Truist Securities,Hold,,main
+2021-10-06 09:29:00,Loop Capital,Hold,,init
+2021-10-26 11:59:44,B of A Securities,Neutral,,init
+2021-11-24 13:45:24,Truist Securities,Hold,,main
+2021-11-24 13:49:06,MKM Partners,Neutral,,main
+2021-12-02 11:55:06,Benchmark,Hold,,init

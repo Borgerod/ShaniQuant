@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action
+2021-02-17 13:46:59,Wells Fargo,Overweight,,init
+2021-04-06 11:34:08,RBC Capital,Outperform,,init
+2021-05-13 11:30:26,RBC Capital,Outperform,,main
+2021-05-19 13:00:10,Wells Fargo,Overweight,,main
+2021-08-12 13:23:56,MKM Partners,Buy,,main
+2021-08-23 12:00:39,Wells Fargo,Equal-Weight,Overweight,down
+2021-08-31 11:15:42,RBC Capital,Outperform,,main
+2021-11-03 12:36:49,RBC Capital,Outperform,,main
+2021-12-27 13:58:40,Siebert Williams Shank,Buy,,init
+2022-01-05 11:22:42,Wells Fargo,Overweight,Equal-Weight,up
+2022-01-10 15:35:13,B of A Securities,Buy,,init
+2022-02-11 11:54:29,JP Morgan,Overweight,,init

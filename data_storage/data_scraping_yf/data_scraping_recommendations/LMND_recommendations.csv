@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-02 09:19:56,Piper Sandler,Overweight,,init
+2020-11-12 09:59:17,Piper Sandler,Overweight,,main
+2020-12-16 10:32:49,Piper Sandler,Overweight,,main
+2021-01-12 14:30:15,Morgan Stanley,Equal-Weight,,main
+2021-01-21 10:00:08,Piper Sandler,Overweight,,main
+2021-03-03 14:12:33,JMP Securities,Outperform,,main
+2021-03-08 13:49:47,Oppenheimer,Outperform,Perform,up
+2021-03-09 12:47:43,B of A Securities,Underperform,,init
+2021-05-13 11:45:49,Barclays,Equal-Weight,,main
+2021-08-06 09:42:41,Piper Sandler,Overweight,,main
+2021-08-06 13:10:06,Oppenheimer,Outperform,,main
+2021-08-17 09:00:38,Wolfe Research,Underperform,,init
+2021-10-15 13:18:01,Morgan Stanley,Equal-Weight,,main
+2021-10-19 12:15:27,Barclays,Equal-Weight,,main
+2021-11-10 12:19:14,Barclays,Equal-Weight,,main
+2021-11-10 12:42:14,Oppenheimer,Outperform,,main
+2021-11-10 12:47:00,JMP Securities,Market Outperform,,main
+2021-11-19 10:18:32,Jefferies,Underperform,,init
+2022-01-06 13:17:48,Barclays,Equal-Weight,,main
+2022-01-13 13:46:42,Piper Sandler,Overweight,,main

@@ -1,0 +1,70 @@
+Date,Firm,To Grade,From Grade,Action
+2013-02-25 06:14:27,Deutsche Bank,Buy,,init
+2013-02-25 08:57:36,FBR Capital,Outperform,,init
+2013-02-25 08:58:08,JMP Securities,Market Outperform,,init
+2013-02-26 08:42:27,Citigroup,Buy,,init
+2013-12-23 08:51:49,Buckingham Research,Neutral,,init
+2014-01-10 08:30:00,FBR Capital,Market Perform,Outperform,down
+2014-01-13 08:30:00,Sidoti & Co.,Neutral,,down
+2014-02-11 16:00:00,JMP Securities,Market Perform,Market Outperform,down
+2014-07-14 11:31:39,Buckingham Research,Buy,Neutral,up
+2014-08-11 09:00:00,Citigroup,Buy,,main
+2014-08-20 09:00:00,FBR Capital,Market Perform,,main
+2014-11-05 00:00:00,Deutsche Bank,Buy,,init
+2014-11-10 09:00:00,Citigroup,Buy,,main
+2015-05-11 09:00:00,Citigroup,Buy,,main
+2015-06-01 06:07:55,FBR Capital,Outperform,Market Perform,up
+2015-06-29 07:14:46,Gabelli & Co.,Buy,,init
+2015-08-11 11:00:00,Citigroup,Buy,,main
+2016-02-29 05:21:02,JMP Securities,Market Outperform,Market Perform,up
+2016-02-29 07:18:33,FBR Capital,Outperform,,main
+2016-03-18 11:47:59,Deutsche Bank,Buy,,main
+2016-03-30 07:00:08,Susquehanna,Positive,,init
+2016-07-29 11:23:25,Citigroup,Buy,,main
+2016-09-20 02:27:00,Wedbush,Outperform,,init
+2016-09-29 06:04:27,Wells Fargo,Market Perform,,init
+2016-11-15 12:23:32,Evercore ISI Group,Buy,,init
+2017-01-06 11:06:33,Barclays,Overweight,,init
+2017-02-08 12:34:26,BTIG Research,Sell,,init
+2017-02-27 13:49:14,Deutsche Bank,Hold,Buy,down
+2017-07-11 13:19:23,Barclays,Equal-Weight,Overweight,down
+2017-10-26 12:24:32,JMP Securities,Market Outperform,,main
+2017-10-26 15:34:56,Barclays,Equal-Weight,,main
+2017-10-26 19:19:36,BTIG Research,Neutral,Sell,up
+2018-01-05 13:30:14,Barclays,Overweight,Equal-Weight,up
+2018-02-23 13:29:07,Evercore ISI Group,In-Line,Outperform,down
+2018-04-27 12:36:23,JMP Securities,Market Outperform,Market Outperform,main
+2018-07-30 11:29:36,JMP Securities,Market Outperform,Market Outperform,main
+2018-07-30 12:21:21,Citigroup,Neutral,Neutral,main
+2018-07-30 13:03:14,Buckingham,Buy,Buy,main
+2018-07-30 13:04:31,Wells Fargo,Market Perform,Market Perform,main
+2018-07-30 13:22:24,B. Riley FBR,Buy,Buy,main
+2018-07-31 12:12:58,Deutsche Bank,Hold,Hold,main
+2018-09-20 17:05:07,Wedbush,Neutral,Outperform,down
+2018-10-01 13:45:53,Evercore ISI Group,Underperform,In-Line,down
+2018-10-11 11:27:31,JMP Securities,Market Outperform,Market Outperform,main
+2018-10-25 11:09:18,Evercore ISI Group,In-Line,Underperform,up
+2018-10-25 15:09:49,Wedbush,Neutral,Neutral,main
+2018-10-25 16:13:47,B. Riley FBR,Buy,Buy,main
+2019-02-27 14:36:09,JMP Securities,Market Outperform,Market Outperform,main
+2019-02-28 11:56:37,Evercore ISI Group,Underperform,In-Line,down
+2019-04-17 11:39:06,Susquehanna,Neutral,Positive,down
+2019-10-15 10:23:06,RBC Capital,Outperform,Sector Perform,up
+2019-11-01 10:53:29,JMP Securities,Market Perform,Market Outperform,down
+2020-02-19 13:28:13,Wedbush,Neutral,,main
+2020-02-21 12:52:03,B. Riley FBR,Buy,,main
+2020-04-01 13:25:30,B. Riley FBR,Neutral,Buy,down
+2020-04-02 10:23:58,Evercore ISI Group,In-Line,Underperform,up
+2020-04-24 15:48:11,Wedbush,Neutral,,main
+2020-06-02 12:29:55,Wedbush,Neutral,,main
+2020-07-27 16:18:25,Susquehanna,Positive,Neutral,up
+2020-09-09 11:41:05,Wedbush,Outperform,Neutral,up
+2020-10-23 10:25:41,B. Riley FBR,Buy,Neutral,up
+2020-10-26 11:14:36,JMP Securities,Market Outperform,,main
+2021-01-08 10:55:38,RBC Capital,Sector Perform,Outperform,down
+2021-01-22 11:14:14,Janney Capital,Buy,,init
+2021-03-16 11:17:21,Wolfe Research,Peer Perform,,init
+2021-04-16 10:30:50,Wells Fargo,Equal-Weight,,init
+2021-07-08 10:21:56,RBC Capital,Underperform,Sector Perform,down
+2021-07-23 12:50:59,Zelman,Hold,Sell,up
+2021-10-22 09:43:18,RBC Capital,Sector Perform,Underperform,up

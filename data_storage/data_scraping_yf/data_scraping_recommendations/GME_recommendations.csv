@@ -1,0 +1,85 @@
+Date,Firm,To Grade,From Grade,Action
+2012-08-17 10:52:00,Ascendiant Capital,Buy,,main
+2012-09-04 05:41:00,Goldman Sachs,Buy,Neutral,up
+2012-09-05 10:10:00,National Alliance,Market Perform,,main
+2012-09-13 15:46:00,PiperJaffray,Neutral,,main
+2012-10-09 16:19:00,PiperJaffray,Neutral,,main
+2012-11-16 05:59:00,Ascendiant Capital,Buy,,main
+2013-01-08 15:17:10,PiperJaffray,Neutral,,main
+2013-02-01 06:30:56,PiperJaffray,Overweight,Neutral,up
+2013-03-26 08:55:25,Oppenheimer,Perform,,main
+2013-05-17 09:41:45,Ascendiant Capital,Buy,,main
+2013-05-20 09:45:57,Wedbush,Outperform,,main
+2013-05-24 10:09:45,National Alliance,Sell,Market Perform,down
+2013-05-24 11:11:02,National Alliance,Sell,Market Perform,down
+2013-06-14 07:45:40,Oppenheimer,Outperform,Market Perform,up
+2013-06-28 06:35:44,Bank of America,Buy,,init
+2013-08-02 07:40:09,Credit Suisse,Neutral,Outperform,down
+2013-08-05 09:10:18,Hilliard Lyons,Underperform,Neutral,down
+2013-08-07 10:07:43,CL King,Neutral,Strong Buy,down
+2013-08-20 09:14:32,Oppenheimer,Outperform,,main
+2013-08-22 09:53:29,Monness Crespi Hardt,Neutral,Sell,up
+2013-10-29 08:13:53,Stifel Nicolaus,Buy,,init
+2013-11-18 10:43:00,Wedbush,Outperform,,main
+2013-11-22 07:16:24,Needham,Buy,Hold,up
+2013-12-19 16:00:00,Benchmark,Hold,,init
+2014-01-07 16:00:00,Stifel Nicolaus,Hold,Buy,down
+2014-01-14 16:00:00,Bank of America,Neutral,Buy,down
+2014-02-27 08:00:00,Longbow Research,Underperform,Neutral,down
+2014-04-04 06:25:08,Bank of America,Buy,Neutral,up
+2014-10-15 16:00:00,Hilliard Lyons,Neutral,Underperform,up
+2014-11-21 00:00:00,Telsey Advisory Group,Market Perform,Outperform,down
+2014-11-21 04:21:23,Credit Suisse,Neutral,,main
+2014-11-21 09:00:00,Credit Suisse,Neutral,,main
+2014-11-24 09:00:00,Bank of America,Buy,,main
+2015-01-07 09:00:00,Credit Suisse,Neutral,,main
+2015-01-14 00:00:00,Pacific Crest,Outperform,Underperform,up
+2015-07-08 11:00:00,Oppenheimer,Outperform,,main
+2015-08-28 06:42:51,Wedbush,Outperform,,main
+2015-11-13 05:31:05,Pacific Crest,Sector Weight,Overweight,down
+2015-11-23 17:35:46,Bank of America,Neutral,Buy,down
+2015-11-24 05:16:05,Oppenheimer,Perform,Outperform,down
+2016-01-04 08:16:07,Sterne Agee CRT,Neutral,Buy,down
+2016-03-27 10:08:01,Ascendiant Capital,Buy,,main
+2016-03-28 08:17:45,Benchmark,Sell,,main
+2016-03-28 10:52:54,Credit Suisse,Neutral,,main
+2016-07-11 08:08:29,Bank of America,Buy,Neutral,up
+2016-08-26 08:49:23,Baird,Outperform,,main
+2016-09-09 08:55:56,Hilliard Lyons,Buy,Neutral,up
+2016-11-02 15:01:18,PiperJaffray,Neutral,Overweight,down
+2016-11-02 20:38:17,Wedbush,Outperform,,main
+2016-12-07 13:41:02,Loop Capital,Buy,,init
+2016-12-23 20:52:53,Mizuho,Buy,,init
+2016-12-29 15:08:01,Standpoint Research,Buy,Hold,up
+2017-01-12 23:10:25,Macquarie,Neutral,Outperform,down
+2017-03-13 14:29:30,Telsey Advisory Group,Market Perform,Outperform,down
+2017-03-24 14:14:31,Wedbush,Outperform,,main
+2018-03-29 11:41:28,Bank of America,Underperform,Neutral,down
+2018-04-03 10:55:55,Loop Capital,Hold,Buy,down
+2018-05-05 14:00:37,B. Riley FBR,Neutral,Buy,down
+2018-05-22 12:48:16,Credit Suisse,Neutral,Neutral,main
+2018-07-09 14:34:22,Jefferies,Buy,,init
+2018-11-26 14:30:38,Bank of America,Neutral,Underperform,up
+2019-01-29 15:13:38,Baird,Neutral,Outperform,down
+2019-03-08 12:29:15,Bank of America,Underperform,Neutral,down
+2019-04-03 13:23:47,Wedbush,Outperform,Outperform,main
+2019-04-03 14:02:16,Credit Suisse,Underperform,Underperform,main
+2019-04-03 15:16:56,Wedbush,Outperform,Outperform,reit
+2019-05-20 18:10:34,Credit Suisse,Underperform,,main
+2019-09-11 11:23:08,Wedbush,Outperform,,main
+2019-09-11 11:34:30,Benchmark,Sell,,main
+2019-12-11 13:01:31,Credit Suisse,Underperform,,main
+2019-12-11 14:34:43,Baird,Neutral,,main
+2020-03-20 11:33:42,Wedbush,Neutral,Outperform,down
+2020-06-05 12:19:13,Credit Suisse,Underperform,,main
+2020-09-08 16:17:15,Wedbush,Neutral,,main
+2020-09-14 09:07:41,Jefferies,Buy,Hold,up
+2020-09-14 10:29:57,Telsey Advisory Group,Outperform,Market Perform,up
+2020-10-12 09:31:18,Jefferies,Hold,Buy,down
+2021-01-25 12:59:56,Telsey Advisory Group,Underperform,Outperform,down
+2021-01-27 13:56:33,B of A Securities,Underperform,,main
+2021-03-24 10:49:55,Telsey Advisory Group,Underperform,,main
+2021-03-24 13:21:24,Wedbush,Underperform,Neutral,down
+2021-04-12 11:31:19,Ascendiant Capital,Sell,Hold,down
+2021-06-10 12:35:31,Wedbush,Underperform,,main
+2021-12-27 11:35:05,Ascendiant Capital,Sell,,main

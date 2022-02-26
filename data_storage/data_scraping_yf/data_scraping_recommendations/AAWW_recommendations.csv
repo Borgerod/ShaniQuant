@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-16 06:12:00,Dahlman Rose,Hold,,down
+2012-02-16 10:09:00,Maxim Group,Hold,,down
+2012-10-09 09:54:00,Imperial Capital,In-Line,,init
+2012-11-02 10:28:00,Imperial Capital,In-Line,,main
+2012-11-02 10:53:00,Stephens & Co.,Equal-Weight,Overweight,down
+2013-02-15 08:42:59,Imperial Capital,In-Line,,main
+2013-03-07 09:25:26,CJS Securities,Market Perform,Market Outperform,down
+2013-05-03 09:22:41,Imperial Capital,In-Line,,main
+2013-07-01 08:24:56,FBR Capital,Market Perform,Outperform,down
+2013-09-27 09:01:47,Imperial Capital,In-Line,,main
+2013-10-15 08:41:41,CJS Securities,Market Outperform,Market Perform,up
+2014-01-17 16:00:00,Cowen & Co.,Market Perform,Outperform,down
+2014-01-21 16:00:00,Wolfe Research,Underperform,Peer Perform,down
+2014-02-11 06:41:46,Morgan Stanley,Underweight,Equal-weight,down
+2014-02-13 06:35:36,Imperial Capital,In-Line,,main
+2014-05-06 02:22:23,FBR Capital,Market Perform,,main
+2014-05-06 06:27:23,Imperial Capital,In-Line,,main
+2014-09-11 09:08:59,FBR Capital,Outperform,Market Perform,up
+2014-11-21 00:00:00,Wolfe Research,Peer Perform,Underperform,down
+2015-07-13 09:35:13,Wolfe Research,Underperform,Peer Perform,down
+2015-07-14 12:45:13,Wolfe Research,Underperform,,down
+2015-09-25 05:58:10,Imperial Capital,In-Line,Outperform,down
+2016-08-25 21:04:59,Stifel Nicolaus,Hold,,init
+2016-11-17 09:03:29,Imperial Capital,Outperform,,init
+2017-04-28 12:27:02,Stifel Nicolaus,Hold,Buy,down
+2017-11-08 12:25:22,Stifel Nicolaus,Buy,Hold,up
+2018-01-10 19:21:46,Cowen & Co.,Outperform,Market Perform,up
+2018-02-23 15:19:05,Stifel Nicolaus,Buy,Buy,main
+2018-09-04 13:14:42,Deutsche Bank,Buy,,init
+2019-09-17 11:27:35,Susquehanna,Neutral,Positive,down
+2019-09-24 12:14:02,Stifel Nicolaus,Buy,,main
+2020-02-27 14:52:14,Stifel Nicolaus,Buy,,main
+2020-04-21 11:05:10,Susquehanna,Positive,Neutral,up
+2020-06-08 09:56:34,Cowen & Co.,Market Perform,Outperform,down
+2020-06-30 13:25:18,Stifel,Buy,,main
+2020-10-22 10:42:18,Loop Capital,Buy,,init
+2021-02-17 12:04:09,Susquehanna,Positive,,main
+2021-04-16 12:24:06,Truist Securities,Buy,,init

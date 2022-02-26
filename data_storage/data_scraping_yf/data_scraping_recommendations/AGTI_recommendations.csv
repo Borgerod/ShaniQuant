@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action
+2021-05-18 09:53:24,Keybanc,Overweight,,init
+2021-05-18 10:38:33,Jefferies,Buy,,init
+2021-05-18 10:40:58,B of A Securities,Buy,,init
+2021-05-18 10:45:59,Morgan Stanley,Overweight,,init
+2021-05-18 10:47:17,BMO Capital,Outperform,,init
+2021-05-18 10:56:27,Goldman Sachs,Buy,,init
+2021-05-18 11:11:45,Raymond James,Outperform,,init
+2021-05-18 11:55:44,UBS,Neutral,,init
+2021-05-18 12:15:37,Citigroup,Buy,,init
+2021-08-16 09:25:04,Keybanc,Overweight,,main
+2021-08-16 11:55:19,Morgan Stanley,Overweight,,main
+2021-09-17 08:48:30,Raymond James,Outperform,,main
+2021-11-10 08:29:55,Keybanc,Overweight,,main
+2021-11-12 10:17:31,Raymond James,Outperform,,main
+2022-01-18 12:01:48,Goldman Sachs,Buy,,main

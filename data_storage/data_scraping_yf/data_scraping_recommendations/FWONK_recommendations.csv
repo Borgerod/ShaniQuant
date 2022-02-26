@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action
+2017-05-23 11:57:04,Barclays,Equal-Weight,,init
+2017-10-20 19:18:16,Morgan Stanley,Equal-Weight,,main
+2017-11-10 17:26:55,Barclays,Equal-Weight,,main
+2018-01-30 12:31:24,Morgan Stanley,Overweight,Equal-Weight,up
+2018-04-16 16:07:08,Barclays,Equal-Weight,Equal-Weight,main
+2018-05-24 12:52:45,Morgan Stanley,Overweight,Overweight,main
+2018-10-09 14:32:18,Goldman Sachs,Neutral,,init
+2019-05-16 13:07:13,B. Riley FBR,Buy,Neutral,up
+2019-08-15 10:32:10,JP Morgan,Overweight,Neutral,up
+2019-12-13 13:41:15,Morgan Stanley,Overweight,,main
+2020-03-03 13:28:51,B. Riley FBR,Buy,,reit
+2020-03-18 11:13:28,B. Riley FBR,Buy,,main
+2020-05-08 12:27:16,Morgan Stanley,Equal-Weight,,main
+2020-09-03 12:04:38,Morgan Stanley,Equal-Weight,,main
+2020-11-06 16:40:03,Morgan Stanley,Equal-Weight,,main
+2021-05-06 12:39:18,Morgan Stanley,Equal-Weight,,main
+2021-07-16 09:22:31,Goldman Sachs,Neutral,,init
+2021-07-28 12:14:08,Morgan Stanley,Equal-Weight,,main
+2022-01-26 14:57:50,Morgan Stanley,Equal-Weight,,main

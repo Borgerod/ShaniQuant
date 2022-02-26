@@ -1,0 +1,67 @@
+Date,Firm,To Grade,From Grade,Action
+2012-08-09 08:35:00,Stifel Nicolaus,Sell,Hold,down
+2013-02-28 08:28:27,Stifel Nicolaus,Hold,Sell,up
+2013-03-07 08:07:33,Stifel,Sell,Hold,down
+2013-03-07 08:33:49,Stifel Nicolaus,Sell,Hold,down
+2013-03-12 06:59:12,Citigroup,Sell,,main
+2013-04-01 09:52:06,Stifel Nicolaus,Hold,Sell,up
+2013-08-12 07:49:24,Stifel Nicolaus,Sell,Hold,down
+2013-08-12 08:43:41,Stifel Nicolaus,Sell,Hold,down
+2013-12-17 07:09:15,Stifel Nicolaus,Hold,Sell,up
+2014-03-19 14:27:16,RBC Capital,Underperform,Sector Perform,down
+2014-04-22 07:11:50,Stifel Nicolaus,Sell,Hold,down
+2014-06-13 07:42:41,Stifel Nicolaus,Hold,Sell,up
+2014-07-10 07:14:50,Stifel Nicolaus,Buy,Hold,up
+2016-11-01 13:59:35,Bank of America,Buy,,init
+2016-11-02 13:38:57,Stephens & Co.,Overweight,,init
+2017-03-02 15:53:15,KeyBanc,Sector Weight,Overweight,down
+2017-06-09 15:03:46,Goldman Sachs,Buy,Neutral,up
+2017-06-21 11:20:06,BMO Capital,Outperform,,init
+2017-07-13 19:48:59,JP Morgan,Overweight,Neutral,up
+2017-08-07 11:45:13,Monness Crespi Hardt,Buy,,init
+2017-08-11 15:48:53,Baird,Outperform,,main
+2017-08-11 16:45:54,Credit Suisse,Outperform,,main
+2017-08-14 13:39:32,BMO Capital,Outperform,,main
+2017-09-27 12:07:10,Credit Suisse,Outperform,,main
+2017-10-30 17:01:22,BMO Capital,Outperform,,main
+2017-10-31 17:13:26,Bank of America,Buy,,main
+2017-11-14 13:43:28,Bank of America,Buy,,main
+2018-01-26 14:02:33,Northcoast Research,Buy,,init
+2018-02-23 14:20:41,Credit Suisse,Outperform,Outperform,main
+2018-02-28 15:20:45,Credit Suisse,Outperform,Outperform,main
+2018-03-01 14:56:59,BMO Capital,Outperform,Outperform,main
+2018-04-10 15:32:12,Wells Fargo,Outperform,Outperform,main
+2018-05-09 11:17:09,KeyBanc,Overweight,Overweight,main
+2018-05-09 12:25:16,Credit Suisse,Outperform,Outperform,main
+2018-05-09 14:09:52,BMO Capital,Outperform,Outperform,main
+2018-08-21 14:44:18,BMO Capital,Outperform,Outperform,main
+2019-03-01 13:16:05,Credit Suisse,Neutral,Outperform,down
+2019-03-08 13:08:34,Wells Fargo,Market Perform,Outperform,down
+2019-03-08 13:25:46,Credit Suisse,Neutral,Neutral,main
+2019-03-15 13:55:18,BMO Capital,Outperform,Outperform,main
+2019-03-19 10:40:33,Goldman Sachs,Neutral,Buy,down
+2019-03-28 13:07:25,Jefferies,Hold,,init
+2019-05-09 11:55:37,Bank of America,Underperform,Neutral,down
+2019-05-17 10:21:36,KeyBanc,Sector Weight,Overweight,down
+2019-06-07 10:55:39,BMO Capital,Market Perform,Outperform,down
+2019-07-26 11:35:57,Baird,Neutral,Outperform,down
+2019-08-08 10:32:16,JP Morgan,Neutral,Overweight,down
+2019-08-09 13:32:42,BMO Capital,Market Perform,,main
+2019-08-15 12:11:46,Northcoast Research,Neutral,Buy,down
+2019-09-04 11:34:09,Bank of America,Underperform,,main
+2019-11-25 15:39:31,Citi,Buy,,main
+2020-01-14 13:14:49,Northcoast Research,Buy,Neutral,up
+2020-03-02 12:44:45,Wells Fargo,Equal-Weight,,main
+2020-03-23 13:10:47,Baird,Neutral,,main
+2020-05-12 14:52:29,BMO Capital,Market Perform,,main
+2020-07-29 17:37:15,JP Morgan,Neutral,,main
+2020-08-06 15:22:52,BMO Capital,Market Perform,,main
+2020-09-03 14:52:52,Truist Securities,Buy,,init
+2020-09-08 09:34:35,JP Morgan,Overweight,Neutral,up
+2020-11-03 14:27:12,Credit Suisse,Neutral,,main
+2021-03-11 12:28:36,BMO Capital,Outperform,Market Perform,up
+2021-06-17 11:35:22,Northcoast Research,Neutral,Buy,down
+2021-07-02 09:20:00,Raymond James,Outperform,,init
+2021-08-04 11:25:28,Raymond James,Outperform,,main
+2021-08-04 11:56:55,Baird,Outperform,Neutral,up
+2021-11-04 11:24:29,Raymond James,Outperform,,main

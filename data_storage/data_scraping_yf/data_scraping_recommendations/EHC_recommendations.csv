@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action
+2018-01-17 20:41:01,Credit Suisse,Outperform,,init
+2018-02-27 13:24:40,Credit Suisse,Outperform,Outperform,main
+2018-03-16 13:05:39,Credit Suisse,Outperform,Outperform,main
+2018-04-27 12:52:50,Credit Suisse,Outperform,Outperform,main
+2018-07-26 13:06:29,Credit Suisse,Outperform,Outperform,main
+2018-11-16 14:14:13,UBS,Buy,,init
+2018-12-14 11:43:49,Barclays,Equal-Weight,,init
+2018-12-20 14:22:35,Jefferies,Buy,,init
+2019-05-30 10:39:28,Barclays,Overweight,Equal-Weight,up
+2019-06-27 11:35:04,BMO Capital,Outperform,,init
+2019-07-31 11:49:20,Raymond James,Outperform,,main
+2019-09-06 11:00:55,Bank of America,Buy,Neutral,up
+2019-09-17 11:07:42,Deutsche Bank,Hold,,init
+2019-12-11 12:36:18,Wells Fargo,Underweight,Equal-Weight,down
+2020-01-10 15:33:25,UBS,Buy,,main
+2020-01-14 13:51:53,BMO Capital,Outperform,,main
+2020-01-15 13:06:46,Credit Suisse,Outperform,,main
+2020-02-10 12:21:37,SunTrust Robinson Humphrey,Buy,,main
+2020-02-10 13:02:01,Mizuho,Buy,,main
+2020-03-05 11:40:06,Stephens & Co.,Overweight,,main
+2020-03-05 14:35:53,Mizuho,Buy,,main
+2020-03-05 15:05:49,Baird,Outperform,,main
+2020-03-06 14:16:52,Deutsche Bank,Hold,,main
+2020-03-06 16:37:12,UBS,Buy,,main
+2020-04-30 12:02:31,Raymond James,Outperform,,main
+2020-05-01 16:27:01,UBS,Buy,,main
+2020-07-27 12:32:19,Jefferies,Buy,,main
+2020-11-02 13:15:23,Raymond James,Outperform,,main
+2020-11-02 15:50:05,Credit Suisse,Outperform,,main
+2020-11-23 12:12:57,Barclays,Overweight,Equal-Weight,up
+2020-11-30 13:45:25,Raymond James,Outperform,,main
+2021-01-28 15:05:19,Credit Suisse,Outperform,,main
+2021-04-29 11:23:59,Raymond James,Outperform,,main
+2021-07-02 11:22:42,Deutsche Bank,Buy,Hold,up
+2021-07-29 11:16:26,Credit Suisse,Outperform,,main
+2021-07-29 14:58:39,RBC Capital,Outperform,,main
+2021-08-02 11:31:10,Raymond James,Strong Buy,Outperform,up
+2021-09-24 09:13:27,UBS,Buy,,init
+2021-10-13 14:17:30,Truist Securities,Buy,,main
+2021-11-02 08:53:02,Raymond James,Strong Buy,,main
+2021-11-03 14:32:03,Mizuho,Buy,,main

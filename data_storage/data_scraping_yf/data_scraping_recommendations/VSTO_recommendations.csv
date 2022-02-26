@@ -1,0 +1,41 @@
+Date,Firm,To Grade,From Grade,Action
+2015-02-12 09:40:31,Imperial Capital,Outperform,,init
+2015-02-17 05:40:15,Cowen & Co.,Market Perform,,init
+2015-03-03 07:05:17,CRT Capital,Buy,,init
+2015-03-23 06:18:59,KeyBanc,Sector Weight,,init
+2015-03-23 09:00:00,CRT Capital,Buy,,main
+2015-04-15 06:16:45,Jefferies,Buy,,init
+2015-04-20 06:03:41,RBC Capital,Outperform,,init
+2015-05-11 09:02:40,Monness Crespi Hardt,Buy,,init
+2015-05-27 06:15:01,Wunderlich,Buy,,init
+2015-05-29 04:03:58,Morgan Stanley,Equal-Weight,,init
+2015-07-24 08:12:52,BB&T Capital,Buy,,init
+2016-02-18 08:06:31,DA Davidson,Buy,,init
+2016-03-28 07:35:37,Cowen & Co.,Market Perform,,main
+2016-06-15 08:11:52,Roth Capital,Buy,,init
+2016-08-12 08:07:34,Monness Crespi Hardt,Neutral,Buy,down
+2016-08-30 06:29:07,KeyBanc,Overweight,Sector Weight,up
+2016-09-19 07:22:40,CL King,Buy,,init
+2017-02-06 12:46:39,DA Davidson,Neutral,Buy,down
+2017-06-08 12:00:23,DA Davidson,Buy,Neutral,up
+2017-08-21 12:47:14,Aegis Capital,Hold,,init
+2017-11-09 18:52:37,DA Davidson,Neutral,Buy,down
+2019-02-28 12:03:05,B. Riley FBR,Buy,,init
+2019-05-10 13:03:36,Monness Crespi Hardt,Buy,Neutral,up
+2019-10-11 11:45:56,DA Davidson,Neutral,,init
+2020-04-28 14:14:42,B. Riley FBR,Buy,,main
+2020-07-08 10:07:14,B. Riley FBR,Neutral,Buy,down
+2020-09-04 11:19:24,William Blair,Outperform,,init
+2020-09-11 16:00:45,B. Riley FBR,Buy,Neutral,up
+2020-09-24 13:02:34,Aegis Capital,Buy,,init
+2020-11-09 08:47:40,KeyBanc,Overweight,Sector Weight,up
+2020-12-22 11:45:20,Cowen & Co.,Outperform,Market Perform,up
+2021-01-22 11:16:04,Wedbush,Outperform,,init
+2021-02-04 15:35:23,Aegis Capital,Buy,,main
+2021-02-05 11:09:21,KeyBanc,Overweight,,main
+2021-05-26 14:33:22,Argus Research,Buy,,main
+2021-05-27 10:08:59,Keybanc,Overweight,,main
+2021-07-29 15:23:30,Aegis Capital,Buy,,main
+2021-08-02 08:41:27,Keybanc,Overweight,,main
+2021-09-14 13:08:16,Roth Capital,Buy,,main
+2021-11-04 16:04:48,Aegis Capital,Buy,,main

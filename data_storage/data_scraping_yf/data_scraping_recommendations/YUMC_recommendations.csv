@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action
+2016-11-01 12:50:00,Evercore ISI Group,Hold,,init
+2016-11-04 13:50:50,Bernstein,Market Perform,,init
+2016-11-10 12:52:41,Oppenheimer,Outperform,,init
+2016-11-23 12:55:04,Goldman Sachs,Neutral,,init
+2017-01-17 11:40:21,Goldman Sachs,Buy,Neutral,up
+2017-02-24 17:34:36,Deutsche Bank,Buy,,init
+2017-05-05 19:43:23,Goldman Sachs,Neutral,Buy,down
+2017-06-02 16:12:28,JP Morgan,Overweight,,init
+2017-10-09 17:17:13,Morgan Stanley,Overweight,,main
+2017-10-09 18:00:29,Nomura,Buy,,init
+2018-03-20 11:40:27,Morgan Stanley,Overweight,Overweight,main
+2018-07-20 12:14:30,Bank of America,Underperform,Neutral,down
+2018-08-17 18:06:38,Oppenheimer,Perform,Outperform,down
+2018-10-31 11:33:07,Bank of America,Neutral,Underperform,up
+2019-03-18 12:35:53,JP Morgan,Overweight,Overweight,main
+2019-04-30 10:42:54,Bank of America,Buy,Neutral,up
+2019-05-01 15:09:28,UBS,Buy,,main
+2019-08-06 13:27:39,DBS Bank,Buy,,init
+2019-10-28 10:40:25,Jefferies,Buy,,init
+2020-04-29 16:35:40,B of A Securities,Buy,,main
+2020-07-30 14:43:05,Jefferies,Buy,,main
+2020-10-29 10:18:15,Credit Suisse,Outperform,,init
+2021-04-06 11:19:02,Atlantic Equities,Overweight,,init
+2021-09-15 15:53:19,Macquarie,Underperform,Neutral,down
+2022-01-24 15:23:04,OTR Global,Mixed,Positive,down

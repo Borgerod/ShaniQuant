@@ -1,0 +1,114 @@
+,info
+exchange,BTS
+shortName,Ishares MSCI India ETF
+longName,iShares MSCI India ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,INDA
+messageBoardId,finmb_146036916
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,0.95
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1328140800
+annualReportExpenseRatio,
+totalAssets,5922271744
+bookValue,
+fundFamily,iShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0016
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.1551
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,India Equity
+fiveYearAverageReturn,0.1369
+phone,800-474-2737
+longBusinessSummary,"The fund generally will collectively invest at least 80% of the fund's assets in the component securities of the underlying index and in investments that have economic characteristics that are substantially identical to the component securities of the underlying index. The index measures the performance of equity securities of companies whose market capitalization, as calculated by the index provider, represents the large- and mid-capitalization segments of the Indian securities market. The fund is non-diversified."
+companyOfficers,[]
+previousClose,44.17
+regularMarketOpen,43.69
+twoHundredDayAverage,46.5015
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,43.69
+navPrice,46.75
+averageDailyVolume10Day,3374590
+regularMarketPreviousClose,44.17
+fiftyDayAverage,45.9716
+trailingAnnualDividendRate,
+open,43.69
+toCurrency,
+averageVolume10days,3374590
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,43.27
+currency,USD
+regularMarketVolume,4275579
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,3727053
+dayLow,43.27
+ask,44.78
+askSize,3100
+volume,4275579
+fiftyTwoWeekHigh,50.85
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,39.13
+bid,43.31
+tradeable,False
+dividendYield,
+bidSize,3200
+dayHigh,43.69
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0.0033000002}, {'consumer_cyclical': 0.08}, {'basic_materials': 0.1069}, {'consumer_defensive': 0.0926}, {'technology': 0.1776}, {'communication_services': 0.030199999}, {'financial_services': 0.2551}, {'utilities': 0.0364}, {'industrials': 0.0373}, {'energy': 0.1193}, {'healthcare': 0.061300002}]"
+holdings,"[{'symbol': 'RELIANCE.B', 'holdingName': 'Reliance Industries Ltd Shs Dematerialised', 'holdingPercent': 0.0907}, {'symbol': 'INFY.BO', 'holdingName': 'Infosys Ltd', 'holdingPercent': 0.0858}, {'symbol': 'HDFC.BO', 'holdingName': 'Housing Development Finance Corp Ltd', 'holdingPercent': 0.0654}, {'symbol': 'ICICIBANK.', 'holdingName': 'ICICI Bank Ltd', 'holdingPercent': 0.0546}, {'symbol': 'TCS.BO', 'holdingName': 'Tata Consultancy Services Ltd', 'holdingPercent': 0.0458}, {'symbol': '500696.BO', 'holdingName': 'Hindustan Unilever Ltd', 'holdingPercent': 0.03}, {'symbol': '500034.BO', 'holdingName': 'Bajaj Finance Ltd', 'holdingPercent': 0.026300002}, {'symbol': '532215.BO', 'holdingName': 'Axis Bank Ltd', 'holdingPercent': 0.025}, {'symbol': 'BHARTIARTL', 'holdingName': 'Bharti Airtel Ltd', 'holdingPercent': 0.0215}, {'symbol': 'XTSLA', 'holdingName': 'BlackRock Cash Funds Treasury SL Agency', 'holdingPercent': 0.0212}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 13.9, 'priceToSales': 2.7, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 27.29, 'priceToBook': 3.56, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9779
+regularMarketPrice,43.4
+preMarketPrice,44.75
+logo_url,

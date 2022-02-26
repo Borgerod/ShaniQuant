@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-22 06:43:00,Brean Capital,Buy,,main
+2012-02-22 07:17:00,Sterne Agee,Neutral,,down
+2012-02-22 07:26:00,Wedbush,Neutral,,main
+2012-04-24 06:44:00,Brean Capital,Buy,,main
+2012-05-07 10:20:00,JP Morgan,Neutral,,main
+2012-08-01 10:19:00,S&P Capital IQ,Hold,Sell,up
+2012-09-10 07:07:00,JP Morgan,Neutral,,main
+2012-11-05 13:19:00,JP Morgan,Neutral,,main
+2013-02-19 10:27:15,Janney Capital,Neutral,Buy,down
+2013-11-19 08:00:00,Cowen & Co.,Market Perform,,init
+2014-03-04 08:00:00,Cowen & Co.,Underperform,Market Perform,down
+2014-03-17 08:00:00,BB&T Capital,Buy,,up
+2014-04-21 06:48:23,Oppenheimer,Outperform,Market Perform,up
+2014-05-05 08:44:00,Sterne Agee,Buy,Neutral,up
+2014-06-06 06:11:52,KeyBanc,Buy,Hold,up
+2014-09-22 05:57:46,Janney Capital,Neutral,Buy,down
+2014-10-31 06:41:06,BB&T Capital,Hold,Buy,down
+2014-12-03 00:00:00,Sterne Agee,Buy,,main
+2015-01-28 06:52:48,Boenning & Scattergood,Neutral,,init
+2015-06-16 06:48:44,Boenning & Scattergood,Outperform,Neutral,up
+2015-07-09 08:07:02,Seaport Global,,,init
+2015-08-17 09:09:59,Cowen & Co.,Market Perform,Underperform,up
+2016-01-04 07:12:37,Oppenheimer,Perform,Outperform,down
+2016-02-17 13:41:46,KeyBanc,Sector Weight,Overweight,down
+2016-05-06 07:47:41,BB&T Capital,Buy,Hold,up
+2016-06-10 07:37:52,Seaport Global,Neutral,Accumulate,down
+2016-09-16 06:40:09,Janney Capital,Neutral,,init
+2017-03-08 14:03:22,Goldman Sachs,Neutral,,init
+2017-09-19 12:11:26,Stifel Nicolaus,Buy,,init
+2017-11-03 16:30:32,Baird,Neutral,,main
+2018-02-14 15:22:20,Janney Capital,Buy,Neutral,up
+2018-05-07 12:31:23,Baird,Neutral,Neutral,main
+2018-08-03 12:05:30,Stifel Nicolaus,Buy,Buy,main
+2019-02-11 13:39:17,Janney Capital,Neutral,Buy,down
+2019-04-16 13:07:39,Stifel Nicolaus,Buy,Buy,main
+2019-05-06 13:30:12,Janney Capital,Buy,Neutral,up
+2019-07-02 11:39:33,Janney Capital,Neutral,Buy,down
+2019-08-02 17:00:18,Stifel,Buy,,main
+2020-02-07 11:26:01,Seaport Global,Neutral,Buy,down
+2020-02-11 13:21:59,Boenning & Scattergood,Outperform,Neutral,up
+2020-04-21 16:27:32,Stifel,Buy,,main
+2020-12-15 13:30:08,Stifel,Hold,Buy,down
+2021-08-06 12:54:46,Goldman Sachs,Neutral,,main
+2021-11-05 13:17:39,Goldman Sachs,Neutral,,main

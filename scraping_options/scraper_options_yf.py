@@ -243,16 +243,16 @@ for i in stock:
 
 
 
-# #VISUALISERING AV: 		QUOTE
-# def print_quotes():
-# 	file_name=r'C:\Users\Big Daddy B\Documents\GitHub\Quant-algo-Part-1-_-The-Screener\Prosjekt\data_storage\data_scraping_options\data_quotes.csv'
-# 	df_quote_old = pd.read_csv (file_name)
-# 	df_quote_old.set_index('symbol', inplace=True)
-# 	# pd.set_option('display.max_columns', None)
-# 	# pd.set_option('display.width', 200)
-# 	# print(df_quote_old.columns)
-# 	print(df_quote_old)
-# 	return df_quote_old
+#VISUALISERING AV: 		QUOTE
+def print_quotes():
+	file_name=r'C:\Users\Big Daddy B\Documents\GitHub\Quant-algo-Part-1-_-The-Screener\Prosjekt\data_storage\data_scraping_options\data_quotes.csv'
+	df_quote_old = pd.read_csv (file_name)
+	df_quote_old.set_index('symbol', inplace=True)
+	# pd.set_option('display.max_columns', None)
+	# pd.set_option('display.width', 200)
+	# print(df_quote_old.columns)
+	print(df_quote_old)
+	return df_quote_old
 
 
-# print_quotes()
+print_quotes()

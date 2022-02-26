@@ -1,0 +1,41 @@
+Date,Firm,To Grade,From Grade,Action
+2015-03-09 05:32:26,Cowen & Co.,Outperform,,init
+2015-03-09 06:56:35,JP Morgan,Overweight,,init
+2015-03-09 07:15:04,Leerink Swann,Market Perform,,init
+2015-05-14 05:45:08,Leerink Swann,Outperform,Market Perform,up
+2015-08-07 11:00:00,JP Morgan,Overweight,,main
+2015-08-14 07:40:12,William Blair,Market Perform,,init
+2016-01-28 08:26:50,Leerink Swann,Sector Perform,Outperform,down
+2016-02-10 12:33:59,JP Morgan,Overweight,,main
+2016-06-30 09:35:00,Benchmark,Hold,,init
+2016-08-09 22:26:09,JP Morgan,Overweight,,main
+2017-02-14 13:17:17,Benchmark,Buy,Hold,up
+2017-11-07 13:03:51,Leerink Swann,Outperform,,main
+2018-02-13 14:05:47,JP Morgan,Overweight,Overweight,main
+2019-03-04 11:54:36,Chardan Capital,Buy,,init
+2020-04-08 11:13:15,Benchmark,Buy,,main
+2020-05-06 10:43:29,SVB Leerink,Outperform,,main
+2020-07-01 11:55:44,Benchmark,Hold,Buy,down
+2020-08-05 10:14:58,SVB Leerink,Outperform,,main
+2020-09-09 10:11:05,Morgan Stanley,Equal-Weight,,init
+2020-10-14 11:06:26,JP Morgan,Neutral,Overweight,down
+2020-11-03 09:03:37,SVB Leerink,Outperform,,main
+2020-11-06 15:39:50,SVB Leerink,Outperform,,main
+2020-11-06 16:31:38,Morgan Stanley,Equal-Weight,,main
+2021-01-20 11:46:32,SVB Leerink,Outperform,,main
+2021-02-01 13:22:18,Oppenheimer,Perform,Outperform,down
+2021-02-18 10:06:04,SVB Leerink,Outperform,,main
+2021-02-18 12:37:57,Ladenburg Thalmann,Buy,Neutral,up
+2021-02-19 14:40:37,Morgan Stanley,Equal-Weight,,main
+2021-02-22 14:33:16,Morgan Stanley,Equal-Weight,,main
+2021-04-05 11:31:58,Oppenheimer,Outperform,Perform,up
+2021-05-05 10:41:11,SVB Leerink,Outperform,,main
+2021-05-06 12:34:48,Morgan Stanley,Equal-Weight,,main
+2021-05-25 11:18:26,Wells Fargo,Equal-Weight,,init
+2021-06-03 10:33:40,Goldman Sachs,Neutral,,init
+2021-06-15 11:28:36,Raymond James,Outperform,,init
+2021-06-21 11:07:50,Wells Fargo,Equal-Weight,,main
+2021-08-04 12:06:24,Benchmark,Buy,Hold,up
+2021-08-05 13:14:39,Morgan Stanley,Equal-Weight,,main
+2021-11-09 12:41:25,Raymond James,Outperform,,main
+2022-02-15 15:14:29,Morgan Stanley,Equal-Weight,,main

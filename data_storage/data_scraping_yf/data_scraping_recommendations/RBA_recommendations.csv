@@ -1,0 +1,62 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-16 10:14:00,Bank oferica,Buy,,up
+2012-02-29 07:00:00,Jefferies,Hold,,main
+2012-10-31 08:31:00,BMO Capital,Market Perform,,main
+2012-12-21 13:44:12,Canaccord Genuity,Buy,,main
+2012-12-27 07:59:33,Jefferies,Hold,,main
+2013-02-05 11:04:56,BMO Capital,Underperform,Market Perform,down
+2013-02-12 06:42:50,Bank of America,Neutral,Buy,down
+2013-04-10 07:35:31,BMO Capital,Underperform,,main
+2013-05-02 06:15:08,Bank of America,Underperform,Neutral,down
+2013-06-10 08:10:02,Baird,Neutral,Outperform,down
+2013-07-09 08:02:20,Canaccord Genuity,Hold,Buy,down
+2013-07-10 06:22:21,Raymond James,Market Perform,Outperform,down
+2013-10-09 06:36:33,Credit Suisse,Neutral,,main
+2013-10-24 06:34:49,BMO Capital,Outperform,Market Perform,up
+2013-11-06 13:07:27,BMO Capital,Outperform,,main
+2013-11-07 07:00:00,Credit Suisse,Underperform,Neutral,down
+2014-01-15 16:00:00,Cantor Fitzgerald,Sell,,down
+2014-02-04 16:00:00,Cantor Fitzgerald,Hold,Sell,up
+2014-05-06 02:22:23,Raymond James,Market Perform,,main
+2014-11-05 09:00:00,Bank of America,Underperform,,main
+2015-01-13 05:27:34,Raymond James,Outperform,Market Perform,up
+2015-02-12 09:39:58,RBC Capital,Outperform,,init
+2015-05-04 05:15:37,Jefferies,Buy,Hold,up
+2015-05-11 09:00:00,Raymond James,Outperform,,main
+2015-06-01 09:14:54,OTR Global,,Negative,up
+2015-06-11 10:48:38,Northcoast Research,Neutral,Buy,down
+2015-08-10 07:50:29,Canaccord Genuity,Buy,Hold,up
+2015-10-01 08:14:14,Macquarie,Neutral,,init
+2015-10-12 09:48:11,OTR Global,Negative,Mixed,down
+2016-05-27 07:05:22,KeyBanc,Sector Weight,,init
+2016-07-15 06:59:34,Jefferies,Hold,Buy,down
+2016-07-22 10:00:59,OTR Global,Negative,Mixed,down
+2016-08-10 09:31:26,Jefferies,Hold,,main
+2016-08-15 07:01:09,KeyBanc,Overweight,Sector Weight,up
+2016-08-25 21:02:56,Macquarie,Outperform,,init
+2016-08-31 07:28:35,Jefferies,Hold,,main
+2016-08-31 08:33:10,Bank of America,Neutral,Underperform,up
+2016-12-27 11:06:26,Raymond James,Market Perform,Outperform,down
+2017-04-10 14:21:31,KeyBanc,Sector Weight,Overweight,down
+2017-04-13 10:24:51,CIBC,Outperformer,,init
+2017-07-10 13:36:12,CIBC,Sector Perform,Outperformer,down
+2017-11-16 14:33:32,Bank of America,Underperform,,main
+2017-11-20 14:41:11,National Bank Financial,Outperform,Sector Perform,up
+2018-02-01 15:20:33,Bank of America,Underperform,Underperform,main
+2018-04-06 15:47:49,RBC Capital,Sector Perform,,init
+2018-06-28 13:09:00,Scotiabank,Sector Perform,Outperform,down
+2018-09-11 11:03:29,Macquarie,Outperform,Outperform,main
+2019-08-09 16:45:40,Bank of America,Underperform,,reit
+2019-08-12 14:18:04,Baird,Outperform,,main
+2020-02-03 14:49:42,OTR GLobal,Mixed,Positive,down
+2020-04-17 14:16:11,B of A Securities,Buy,,reit
+2020-05-11 14:14:12,TD Securities,Hold,,main
+2020-10-16 13:13:06,TD Securities,Hold,,main
+2020-11-09 16:42:52,ScotiaBank,Sector Outperform,,main
+2021-01-12 11:51:32,ScotiaBank,Sector Perform,Sector Outperform,down
+2021-02-04 16:08:34,B of A Securities,Underperform,Neutral,down
+2021-04-21 16:00:51,OTR Global,Mixed,Positive,down
+2021-05-12 15:28:14,TD Securities,Hold,,main
+2021-09-20 10:05:30,RBC Capital,Sector Perform,,init
+2021-11-02 14:11:49,OTR Global,Negative,Mixed,down
+2021-11-08 14:23:04,RBC Capital,Sector Perform,,main

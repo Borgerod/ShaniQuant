@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action
+2021-04-19 11:54:04,Berenberg,Buy,,init
+2021-04-26 10:17:19,Goldman Sachs,Neutral,,init
+2021-04-26 10:31:34,Needham,Buy,,init
+2021-04-26 10:33:36,Keybanc,Overweight,,init
+2021-04-26 11:03:35,Telsey Advisory Group,Outperform,,init
+2021-04-26 11:09:47,UBS,Buy,,init
+2021-04-26 11:20:03,Citigroup,Buy,,init
+2021-04-26 11:27:06,Truist Securities,Buy,,init
+2021-04-26 11:36:17,William Blair,Outperform,,init
+2021-04-26 11:44:49,Raymond James,Market Perform,,init
+2021-04-26 12:12:59,Morgan Stanley,Overweight,,init
+2021-04-26 12:54:13,DA Davidson,Buy,,init
+2021-04-26 13:00:46,Loop Capital,Buy,,init
+2021-04-26 13:03:48,Stifel,Buy,,init
+2021-05-05 10:16:07,Keybanc,Overweight,,main
+2021-05-05 10:37:29,Telsey Advisory Group,Outperform,,main
+2021-05-05 12:04:54,Morgan Stanley,Overweight,,main
+2021-06-11 10:52:41,RBC Capital,Outperform,,init
+2021-08-04 09:14:46,Raymond James,Outperform,Market Perform,up
+2021-11-03 08:33:31,Keybanc,Overweight,,main
+2021-11-03 11:04:50,Needham,Buy,,main
+2021-12-09 13:44:54,Morgan Stanley,Overweight,,main
+2022-01-27 12:53:49,Morgan Stanley,Overweight,,main
+2022-02-03 09:34:46,Keybanc,Overweight,,main
+2022-02-07 10:23:09,Telsey Advisory Group,Outperform,,main
+2022-02-11 12:23:33,Raymond James,Outperform,,main

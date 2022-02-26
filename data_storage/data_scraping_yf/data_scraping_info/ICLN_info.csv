@@ -1,0 +1,114 @@
+,info
+exchange,NGM
+shortName,iShares S&P Global Clean Energy
+longName,iShares Global Clean Energy ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,ICLN
+messageBoardId,finmb_61565163
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.16
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1214265600
+annualReportExpenseRatio,
+totalAssets,5605456896
+bookValue,
+fundFamily,iShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0074
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.3411
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Miscellaneous Sector
+fiveYearAverageReturn,0.2146
+phone,800-474-2737
+longBusinessSummary,"The index is designed to track the performance of approximately 100 clean energy-related companies. The fund generally invests at least 80% of its assets in the component securities of the index and in investments that have economic characteristics that are substantially identical to the component securities of the index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents, as well as in securities not included in the index. It is non-diversified."
+companyOfficers,[]
+previousClose,18.48
+regularMarketOpen,18.42
+twoHundredDayAverage,22.12005
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,18.495
+navPrice,20.99
+averageDailyVolume10Day,4964550
+regularMarketPreviousClose,18.48
+fiftyDayAverage,19.6438
+trailingAnnualDividendRate,
+open,18.42
+toCurrency,
+averageVolume10days,4964550
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,18.04
+currency,USD
+regularMarketVolume,4887654
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,6280888
+dayLow,18.04
+ask,18.14
+askSize,1000
+volume,4887654
+fiftyTwoWeekHigh,27.78
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,17.21
+bid,18.02
+tradeable,False
+dividendYield,
+bidSize,1300
+dayHigh,18.495
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0.0098}, {'consumer_defensive': 0}, {'technology': 0.2215}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0.5691}, {'industrials': 0.1915}, {'energy': 0.0081}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'VWS', 'holdingName': 'Vestas Wind Systems A/S', 'holdingPercent': 0.0761}, {'symbol': 'ORSTED', 'holdingName': 'Orsted A/S', 'holdingPercent': 0.0743}, {'symbol': 'ENPH', 'holdingName': 'Enphase Energy Inc', 'holdingPercent': 0.0712}, {'symbol': 'NEE', 'holdingName': 'NextEra Energy Inc', 'holdingPercent': 0.0429}, {'symbol': 'XEL', 'holdingName': 'Xcel Energy Inc', 'holdingPercent': 0.0418}, {'symbol': 'ENEL.MI', 'holdingName': 'Enel SpA', 'holdingPercent': 0.0402}, {'symbol': 'IBE.BC', 'holdingName': 'Iberdrola SA', 'holdingPercent': 0.0396}, {'symbol': 'PLUG', 'holdingName': 'Plug Power Inc', 'holdingPercent': 0.038599998}, {'symbol': 'SEDG', 'holdingName': 'SolarEdge Technologies Inc', 'holdingPercent': 0.0373}, {'symbol': 'SSE.L', 'holdingName': 'SSE PLC', 'holdingPercent': 0.0292}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 13.44, 'priceToSales': 2.99, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 25.62, 'priceToBook': 2.92, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9922
+regularMarketPrice,18.14
+preMarketPrice,
+logo_url,

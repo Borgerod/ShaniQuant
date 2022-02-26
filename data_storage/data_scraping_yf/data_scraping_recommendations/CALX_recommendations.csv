@@ -1,0 +1,40 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-08 08:45:00,Morgan Stanley,Underweight,,main
+2012-04-10 06:20:00,Morgan Stanley,Equal-Weight,,up
+2012-04-25 10:38:00,UBS,Buy,,up
+2012-07-12 07:02:00,Goldman Sachs,Neutral,,main
+2012-07-12 07:08:00,Jefferies,Buy,,main
+2012-07-12 10:07:00,UBS,Buy,,main
+2012-08-01 07:34:00,Goldman Sachs,Neutral,,main
+2012-08-01 11:06:00,UBS,Buy,,main
+2012-09-17 11:24:00,UBS,Buy,,main
+2012-11-06 07:40:00,Jefferies,Buy,,main
+2013-02-06 06:32:35,Jefferies,Buy,,main
+2013-05-07 09:26:34,Cowen & Co.,Outperform,,init
+2013-05-24 07:55:30,Evercore Partners,Overweight,,init
+2013-06-03 09:39:27,Jefferies,Buy,,main
+2013-09-10 07:50:22,Goldman Sachs,Sell,Neutral,down
+2013-10-30 07:07:17,Raymond James,Market Perform,Outperform,down
+2014-03-12 08:00:00,Goldman Sachs,Neutral,Sell,up
+2014-04-07 08:00:00,Craig-Hallum,Buy,,init
+2015-02-04 04:44:34,UBS,Neutral,Buy,down
+2015-02-04 05:53:01,Goldman Sachs,Neutral,Buy,down
+2015-04-29 09:00:00,Jefferies,Buy,,main
+2015-05-20 04:19:48,Morgan Stanley,Equal-Weight,,init
+2015-09-30 16:41:08,Northland Securities,Outperform,,init
+2015-10-30 08:10:27,Jefferies,Hold,Buy,down
+2016-01-08 07:34:05,Stifel Nicolaus,Buy,Hold,up
+2016-02-10 08:24:05,Cowen & Co.,Market Perform,Outperform,down
+2016-11-02 12:31:07,Craig-Hallum,Buy,Hold,up
+2018-02-14 15:33:40,Northland Securities,Outperform,Market Perform,up
+2018-11-06 15:56:18,Cowen & Co.,Outperform,Market Perform,up
+2020-04-24 10:40:15,Jefferies,Buy,Hold,up
+2020-10-14 09:34:55,Needham,Buy,,init
+2020-10-22 12:34:56,Jefferies,Buy,,main
+2021-01-29 13:43:32,Northland Capital Markets,Market Perform,Outperform,down
+2021-03-29 13:00:07,BWS Financial,Sell,,init
+2021-06-22 09:17:35,Needham,Buy,,init
+2021-07-23 12:46:34,Barrington Research,Outperform,,init
+2021-07-27 18:10:39,Needham,Buy,,main
+2021-10-27 09:57:01,Needham,Buy,,main
+2022-01-28 14:22:49,Craig-Hallum,Buy,Hold,up

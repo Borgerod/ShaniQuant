@@ -1,0 +1,93 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-01 08:12:00,Citigroup,Buy,,main
+2012-04-05 11:58:00,Citigroup,Buy,,main
+2012-04-09 06:41:00,Citigroup,Buy,,main
+2012-05-09 06:23:00,JP Morgan,Neutral,,main
+2012-08-08 06:01:00,Deutsche Bank,Buy,,main
+2012-09-18 06:35:00,Citigroup,Buy,,main
+2012-11-07 07:12:00,Deutsche Bank,Buy,,main
+2013-01-15 10:04:30,JP Morgan,Neutral,,main
+2013-01-22 06:34:39,Citigroup,Neutral,Buy,down
+2013-02-25 08:09:35,JP Morgan,Neutral,,main
+2015-02-17 05:40:55,Morgan Stanley,Equal-Weight,,init
+2015-02-17 06:14:31,Pacific Crest,Sector Perform,,init
+2015-02-17 06:35:39,Canaccord Genuity,Hold,,init
+2015-02-17 06:35:40,Raymond James,Market Perform,,init
+2015-02-17 08:03:51,Credit Suisse,Outperform,,init
+2015-06-10 09:09:43,Canaccord Genuity,Hold,,main
+2015-06-11 09:00:00,Canaccord Genuity,Hold,,main
+2015-07-10 08:02:25,Bank of America,Neutral,,init
+2015-07-27 07:50:47,Pacific Crest,Overweight,Sector Perform,up
+2015-08-07 07:35:13,Oppenheimer,Outperform,Perform,up
+2015-09-10 06:12:47,Morgan Stanley,Equal-Weight,,main
+2015-09-25 08:15:25,Canaccord Genuity,Buy,Hold,up
+2015-10-16 06:13:35,JP Morgan,Overweight,Neutral,up
+2015-11-24 07:06:52,Bank of America,Buy,Neutral,up
+2015-12-22 07:10:41,JMP Securities,Outperform,,init
+2016-01-19 11:33:44,Credit Suisse,Outperform,,main
+2016-03-10 09:43:39,Morgan Stanley,Equal-Weight,,main
+2016-03-31 17:10:11,Drexel Hamilton,Buy,,init
+2016-06-02 04:00:13,JP Morgan,Neutral,Overweight,down
+2016-09-16 06:39:29,Mitsubishi UFJ,Neutral,,init
+2017-01-11 14:49:59,Wells Fargo,Outperform,,init
+2017-06-01 11:29:59,Mitsubishi UFJ,Overweight,Neutral,up
+2017-08-31 12:35:12,Mitsubishi UFJ,Overweight,,up
+2017-09-25 10:54:43,Raymond James,Outperform,Market Perform,up
+2017-10-13 12:40:07,Canaccord Genuity,Buy,,main
+2018-02-15 12:14:01,DA Davidson,Buy,,init
+2018-04-11 13:10:57,Monness Crespi Hardt,Neutral,,init
+2018-05-31 11:47:08,Canaccord Genuity,Buy,Buy,main
+2018-05-31 11:58:28,JP Morgan,Neutral,Neutral,main
+2018-05-31 12:10:57,JMP Securities,Market Outperform,Market Outperform,main
+2018-05-31 13:32:17,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-05-31 15:53:21,Rosenblatt,Neutral,Buy,down
+2018-06-01 13:42:08,DA Davidson,Buy,Buy,main
+2018-08-29 11:31:51,JMP Securities,Market Outperform,Market Outperform,main
+2018-08-29 12:19:09,DA Davidson,Buy,Buy,main
+2018-10-09 11:23:39,Deutsche Bank,Hold,,init
+2018-10-15 12:17:17,Raymond James,Outperform,Outperform,main
+2018-11-20 15:32:44,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-12-11 14:20:43,William Blair,Outperform,,init
+2019-01-15 13:01:14,Rosenblatt,Buy,Neutral,up
+2019-01-24 14:58:13,Craig-Hallum,Buy,,init
+2019-02-05 12:23:38,Goldman Sachs,Buy,,init
+2019-02-28 11:26:20,KeyBanc,Sector Weight,Overweight,down
+2019-02-28 12:40:36,Rosenblatt,Neutral,Buy,down
+2019-02-28 13:26:17,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2019-02-28 13:55:02,DA Davidson,Buy,Buy,main
+2019-06-04 10:35:31,Canaccord Genuity,Hold,Buy,down
+2019-06-04 12:07:22,JMP Securities,Market Outperform,,main
+2019-06-04 12:27:23,Raymond James,Outperform,,main
+2019-06-04 12:42:58,Wells Fargo,Outperform,,main
+2019-08-29 10:17:20,First Analysis,Neutral,Outperform,down
+2019-08-29 11:42:22,Raymond James,Outperform,,main
+2019-08-29 12:39:15,Oppenheimer,Outperform,,main
+2019-08-29 12:48:15,DA Davidson,Buy,,main
+2019-08-29 12:51:52,Craig-Hallum,Hold,Buy,down
+2019-08-29 15:25:07,Wells Fargo,Outperform,,reit
+2019-09-27 10:22:06,JP Morgan,Underweight,Neutral,down
+2019-10-10 11:50:39,Berenberg,Hold,,init
+2019-11-12 11:16:00,JMP Securities,Market Perform,Market Outperform,down
+2019-11-27 15:07:14,Canaccord Genuity,Hold,,main
+2020-03-25 13:19:17,Morgan Stanley,Overweight,Equal-Weight,up
+2020-04-17 16:51:42,Morgan Stanley,Overweight,,main
+2020-05-22 11:42:29,Morgan Stanley,Overweight,,main
+2020-05-28 11:19:51,Raymond James,Outperform,,reit
+2020-05-28 12:07:38,Morgan Stanley,Overweight,,main
+2020-05-28 15:20:42,Craig-Hallum,Buy,Hold,up
+2020-08-27 11:48:37,Morgan Stanley,Overweight,,main
+2020-12-02 14:20:57,Morgan Stanley,Overweight,,main
+2021-01-15 11:27:07,KeyBanc,Overweight,,init
+2021-01-25 15:01:20,DA Davidson,Neutral,Buy,down
+2021-03-23 10:06:38,KeyBanc,Overweight,,main
+2021-04-14 12:06:11,Morgan Stanley,Overweight,,main
+2021-05-28 11:21:09,Raymond James,Outperform,,main
+2021-07-21 12:20:15,RBC Capital,Underperform,,init
+2021-08-26 13:58:35,Raymond James,Outperform,,main
+2021-09-27 10:11:28,JMP Securities,Market Outperform,Market Perform,up
+2021-12-01 09:33:55,Keybanc,Overweight,,main
+2021-12-01 12:21:47,Raymond James,Outperform,,main
+2021-12-01 12:55:18,Morgan Stanley,Equal-Weight,,main
+2021-12-01 14:20:31,Craig-Hallum,Buy,,main
+2021-12-02 14:46:00,Berenberg,Buy,,main
+2022-01-07 12:51:13,RBC Capital,Sector Perform,Underperform,up

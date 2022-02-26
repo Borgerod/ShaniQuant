@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-04 12:11:08,Citigroup,Neutral,,init
+2020-11-16 12:21:08,Citigroup,Buy,Neutral,up
+2021-01-06 15:50:46,B of A Securities,Buy,,init
+2021-01-19 12:09:06,Jefferies,Buy,,init
+2021-02-01 13:00:31,Deutsche Bank,Hold,,init
+2021-03-11 12:29:00,Needham,Buy,,init
+2021-10-14 13:36:07,Nomura Instinet,Buy,,init
+2021-10-28 11:45:53,Bernstein,Outperform,,init
+2021-12-07 14:00:50,Needham,Buy,,main
+2022-01-12 13:51:49,Macquarie,Outperform,,init
+2022-02-08 11:10:50,Barclays,Overweight,,init

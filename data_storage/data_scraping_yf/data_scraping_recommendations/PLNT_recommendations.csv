@@ -1,0 +1,67 @@
+Date,Firm,To Grade,From Grade,Action
+2015-08-31 05:39:29,Cowen & Co.,Outperform,,init
+2015-08-31 06:33:09,PiperJaffray,Overweight,,init
+2015-09-03 06:07:12,Bank of America,Buy,,main
+2015-09-21 16:09:55,Wedbush,Outperform,,init
+2015-12-03 07:50:16,Stephens & Co.,Equal-Weight,,init
+2016-01-04 08:18:58,Roth Capital,Buy,,init
+2016-04-14 03:58:34,Imperial Capital,Outperform,,init
+2016-05-12 04:47:47,Imperial Capital,Outperform,,main
+2016-08-12 08:36:22,Jefferies,Buy,,main
+2016-08-15 03:31:50,Imperial Capital,Outperform,,main
+2017-01-05 13:39:59,Macquarie,Outperform,,init
+2017-11-08 14:51:31,Bank of America,Buy,,main
+2017-11-09 11:13:49,Imperial Capital,Outperform,,main
+2017-11-22 10:56:16,DA Davidson,Buy,,init
+2018-01-02 12:52:27,Jefferies,Hold,Buy,down
+2018-02-01 15:18:23,Bank of America,Buy,Buy,main
+2018-05-03 13:34:24,Bank of America,Buy,Buy,main
+2018-05-18 10:09:34,Imperial Capital,In-Line,Outperform,down
+2018-06-20 11:28:16,Berenberg,Buy,,init
+2018-06-25 13:50:41,Baird,Outperform,Outperform,main
+2018-07-12 13:01:34,Bank of America,Buy,Buy,main
+2018-08-10 12:46:30,Wedbush,Neutral,Neutral,main
+2018-08-13 13:07:33,JP Morgan,Neutral,Overweight,down
+2018-09-24 12:27:21,Guggenheim,Buy,Buy,main
+2018-11-12 12:17:24,Macquarie,Neutral,Outperform,down
+2019-02-22 13:44:13,Jefferies,Buy,Hold,up
+2019-05-07 10:33:34,Macquarie,Outperform,Neutral,up
+2019-06-27 11:14:56,Raymond James,Outperform,,init
+2019-09-03 10:31:04,Berenberg,Hold,Buy,down
+2019-10-14 11:45:50,Imperial Capital,Outperform,In-Line,up
+2019-11-12 10:38:52,Imperial Capital,Outperform,,main
+2020-01-14 14:21:39,Baird,Outperform,,main
+2020-02-04 10:07:10,BMO Capital,Outperform,,init
+2020-02-26 12:22:12,Raymond James,Outperform,,main
+2020-02-26 14:20:57,Baird,Outperform,,main
+2020-04-06 11:27:14,JP Morgan,Overweight,Neutral,up
+2020-04-08 10:23:50,DA Davidson,Buy,,init
+2020-04-24 16:26:53,Piper Sandler,Overweight,,main
+2020-05-01 12:18:04,B of A Securities,Buy,,reit
+2020-05-06 10:28:18,DA Davidson,Buy,,reit
+2020-05-06 11:34:01,Raymond James,Outperform,,main
+2020-05-06 12:55:06,Wedbush,Neutral,,main
+2020-05-06 14:48:05,Guggenheim,Buy,,main
+2020-06-04 09:01:35,Raymond James,Market Perform,Outperform,down
+2020-06-04 13:01:14,Cowen & Co.,Outperform,,main
+2020-09-02 15:51:55,Piper Sandler,Overweight,,main
+2020-11-06 09:24:53,DA Davidson,Buy,,main
+2020-11-13 11:36:37,Exane BNP Paribas,Underperform,,init
+2021-01-25 13:15:51,JP Morgan,Neutral,Overweight,down
+2021-02-19 14:50:22,Roth Capital,Neutral,,main
+2021-02-19 15:39:13,DA Davidson,Buy,,main
+2021-03-04 12:26:54,Cowen & Co.,Market Perform,Outperform,down
+2021-03-04 14:23:35,Baird,Outperform,,main
+2021-04-12 12:51:24,JP Morgan,Neutral,,main
+2021-04-22 10:26:02,Piper Sandler,Neutral,Overweight,down
+2021-06-29 08:55:24,Stifel,Hold,,init
+2021-08-03 10:14:20,Stifel,Buy,Hold,up
+2021-08-10 13:38:04,DA Davidson,Buy,,main
+2021-08-16 13:22:41,Roth Capital,Buy,Neutral,up
+2021-08-24 11:13:30,Morgan Stanley,Overweight,,init
+2021-11-05 09:39:01,DA Davidson,Buy,,main
+2021-11-05 13:45:07,Jefferies,Buy,,main
+2021-11-05 14:34:58,Morgan Stanley,Overweight,,main
+2021-12-17 11:49:12,JP Morgan,Neutral,,main
+2022-01-12 12:54:52,Morgan Stanley,Overweight,,main
+2022-01-12 13:30:20,DA Davidson,Buy,,main

@@ -1,0 +1,92 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-16 07:04:00,Barclays,Overweight,,main
+2012-03-22 07:14:00,Oppenheimer,Outperform,,main
+2012-03-29 08:59:00,Deutsche Bank,Hold,,down
+2012-04-17 06:48:00,Mirae Asset,Buy,,main
+2012-05-17 05:48:00,Barclays,Overweight,,main
+2012-05-17 07:04:00,PiperJaffray,Overweight,,main
+2012-05-17 08:25:00,Credit Suisse,Outperform,,main
+2012-05-17 08:50:00,JP Morgan,Overweight,,main
+2012-05-18 07:27:00,Mirae Asset,Buy,,main
+2012-07-10 08:47:00,Mirae Asset,Buy,,main
+2012-08-14 05:46:00,Citigroup,Neutral,,init
+2012-08-14 07:38:00,Credit Suisse,Outperform,,main
+2012-08-16 06:50:00,PiperJaffray,Overweight,,main
+2012-08-16 07:25:00,Barclays,Overweight,,main
+2012-08-16 07:38:00,Oppenheimer,Outperform,,main
+2012-08-16 12:13:00,Deutsche Bank,Hold,,main
+2012-09-19 08:37:00,Nomura,Neutral,Reduce,up
+2012-11-15 08:45:00,Deutsche Bank,Hold,,main
+2012-11-15 16:08:00,Credit Suisse,Outperform,,main
+2013-02-08 06:44:38,Deutsche Bank,Buy,Hold,up
+2013-03-18 09:13:32,Deutsche Bank,Buy,,main
+2013-04-09 08:04:47,Bank of America,Buy,,main
+2013-05-20 09:27:51,HSBC,Overweight,Neutral,up
+2013-08-30 08:59:37,JP Morgan,Neutral,Overweight,down
+2013-09-26 06:34:04,Credit Suisse,Neutral,,init
+2013-09-30 07:29:29,Exane BNP Paribas,Buy,,init
+2013-11-14 06:34:27,Deutsche Bank,Hold,Buy,down
+2013-11-15 07:19:42,Deutsche Bank,Hold,Buy,down
+2014-02-10 16:00:00,TH Capital,Hold,Buy,down
+2014-02-13 06:55:41,Morgan Stanley,Overweight,,main
+2014-04-16 10:04:56,Standpoint Research,Buy,,init
+2014-07-25 06:34:54,Citigroup,Neutral,,init
+2014-08-12 06:40:42,China International Capital,Hold,Buy,down
+2014-10-21 09:26:50,Credit Suisse,Outperform,Neutral,up
+2014-10-30 14:34:53,Standpoint Research,Hold,,down
+2015-04-08 06:08:26,CICC,Buy,Hold,up
+2015-05-19 07:16:00,Citigroup,Buy,Neutral,up
+2015-08-26 10:05:00,Standpoint Research,Buy,Hold,up
+2015-10-16 14:52:46,Standpoint Research,Hold,Buy,down
+2016-01-22 07:27:58,Nomura,Neutral,,init
+2016-01-27 12:50:01,Macquarie,Outperform,,main
+2016-02-25 08:08:29,JP Morgan,Overweight,,main
+2016-05-12 10:21:09,Nomura,Buy,Neutral,up
+2016-07-18 05:04:51,Brean Capital,Buy,,init
+2016-09-21 08:43:40,Daiwa Capital,Buy,Outperform,up
+2016-09-28 09:30:25,Macquarie,Outperform,,main
+2016-09-29 07:59:14,Jefferies,Hold,,init
+2016-10-03 10:34:23,CLSA,Outperform,Underperform,up
+2016-11-10 12:44:17,Morgan Stanley,Overweight,,main
+2016-11-28 10:53:55,Jefferies,Buy,Hold,up
+2017-01-09 16:38:03,Standpoint Research,Buy,Hold,up
+2017-01-11 13:26:01,Bernstein,Underperform,,init
+2017-04-18 12:53:00,Benchmark,Buy,,init
+2017-06-07 14:56:34,Standpoint Research,Reduce,Buy,down
+2017-10-04 15:31:57,Barclays,Equal-Weight,,init
+2017-11-17 14:13:26,Bank of America,Buy,,main
+2017-11-18 08:08:32,Nomura,Buy,Neutral,up
+2018-05-17 16:06:42,Daiwa Capital,Buy,Outperform,up
+2018-07-03 12:08:25,JP Morgan,Overweight,Underweight,up
+2018-07-30 12:57:45,Barclays,Equal-Weight,Equal-Weight,main
+2018-08-10 12:27:35,JP Morgan,Overweight,Overweight,main
+2018-08-10 13:26:28,Nomura,Buy,Buy,main
+2018-08-30 11:40:21,Barclays,Equal-Weight,Equal-Weight,main
+2018-09-21 10:25:23,Jefferies,Buy,Hold,up
+2018-11-16 15:27:04,Barclays,Equal-Weight,Equal-Weight,main
+2018-11-16 15:52:13,Nomura,Buy,Buy,main
+2018-12-06 11:25:51,Morgan Stanley,Overweight,Equal-Weight,up
+2018-12-19 17:16:04,UBS,Buy,Neutral,up
+2019-01-14 11:24:50,Barclays,Overweight,Equal-Weight,up
+2019-05-14 11:50:29,Barclays,Overweight,,main
+2019-05-20 11:50:02,Barclays,Overweight,,main
+2019-08-05 12:47:17,Jefferies,Buy,,init
+2019-08-12 10:47:09,Goldman Sachs,Neutral,Buy,down
+2019-09-06 12:08:46,Citi,Buy,,main
+2019-09-09 11:48:36,Nomura,Buy,,main
+2019-10-31 13:48:25,Barclays,Overweight,,main
+2019-11-22 14:00:09,Macquarie,Outperform,,init
+2019-11-22 14:43:52,Nomura,Buy,,main
+2019-12-04 11:15:20,Goldman Sachs,Buy,Neutral,up
+2020-02-24 17:00:14,Barclays,Overweight,,main
+2020-02-27 14:07:53,B of A Securities,Buy,,reit
+2020-05-07 14:59:44,Barclays,Overweight,,main
+2020-05-20 14:56:12,CFRA,Buy,,main
+2020-05-21 12:36:53,Nomura Instinet,Buy,,main
+2020-05-22 11:26:33,Barclays,Overweight,,main
+2020-08-14 12:11:21,Daiwa Capital,Buy,,init
+2020-08-14 14:41:10,Benchmark,Buy,,main
+2021-02-16 14:37:17,Barclays,Overweight,,main
+2021-05-19 13:51:06,CLSA,Buy,,main
+2021-05-19 13:55:45,Macquarie,Neutral,,main
+2021-05-19 13:57:30,UBS,Buy,,main

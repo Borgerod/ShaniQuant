@@ -1,0 +1,34 @@
+Date,Firm,To Grade,From Grade,Action
+2019-01-15 13:26:22,Bank of America,Buy,,init
+2019-03-19 12:17:38,Bank of America,Buy,Buy,main
+2019-05-08 10:30:41,HSBC,Reduce,,init
+2019-05-31 11:35:03,Susquehanna,Neutral,,init
+2019-06-10 10:57:14,Goldman Sachs,Buy,,init
+2019-06-28 11:34:51,Cantor Fitzgerald,Overweight,,init
+2019-08-29 11:52:38,JP Morgan,Neutral,,main
+2019-09-04 10:23:11,Guggenheim,Buy,,init
+2019-10-18 11:37:25,UBS,Buy,,init
+2019-10-30 14:37:49,Citigroup,Buy,Neutral,up
+2019-11-14 12:25:48,Evercore ISI Group,In-Line,,init
+2019-11-22 12:13:18,Cantor Fitzgerald,Overweight,,main
+2020-01-09 16:35:35,Guggenheim,Buy,,main
+2020-02-27 11:38:08,JP Morgan,Overweight,Neutral,up
+2020-03-03 11:37:52,Cantor Fitzgerald,Overweight,,main
+2020-03-03 18:07:11,B of A Securities,Buy,,main
+2020-03-27 09:13:38,HSBC,Hold,Reduce,up
+2020-05-28 13:21:40,Guggenheim,Buy,,main
+2020-06-04 13:49:20,Guggenheim,Buy,,main
+2020-08-13 11:41:46,Evercore ISI Group,Outperform,In-Line,up
+2020-10-23 12:12:24,Susquehanna,Positive,Neutral,up
+2020-11-18 12:39:43,B of A Securities,Neutral,,reit
+2021-02-05 11:38:24,Credit Suisse,Outperform,Neutral,up
+2021-03-12 11:23:52,HSBC,Buy,Hold,up
+2021-04-13 13:03:15,Citigroup,Neutral,Buy,down
+2021-06-23 15:11:12,New Street Research,Neutral,,init
+2021-11-22 13:24:44,Bradesco Corretora,Underperform,Neutral,down
+2021-12-01 15:18:26,Scotiabank,Sector Perform,,init
+2021-12-16 15:28:26,Itau BBA,Market Perform,Outperform,down
+2021-12-23 09:34:35,Credit Suisse,Neutral,Outperform,down
+2022-01-04 11:49:38,UBS,Neutral,Buy,down
+2022-01-27 09:57:19,Goldman Sachs,Neutral,Buy,down
+2022-01-31 11:14:53,HSBC,Hold,Buy,down

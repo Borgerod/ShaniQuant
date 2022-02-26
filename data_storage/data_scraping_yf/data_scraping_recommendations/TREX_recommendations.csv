@@ -1,0 +1,91 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-04 08:27:00,Stifel Nicolaus,Buy,,main
+2012-09-14 08:36:00,Imperial Capital,In-Line,,init
+2012-09-27 07:56:00,Stifel Nicolaus,Hold,Buy,down
+2012-10-08 10:28:00,Sidoti & Co.,Neutral,Buy,down
+2012-11-02 10:46:00,Imperial Capital,In-Line,,main
+2013-02-20 08:46:43,Imperial Capital,In-Line,,main
+2013-05-08 08:09:44,BB&T Capital,Buy,Hold,up
+2013-07-26 07:00:00,Davenport,Neutral,,init
+2013-08-07 10:07:23,Davenport,Buy,Neutral,up
+2013-09-27 08:09:55,FBR Capital,Outperform,,init
+2013-10-28 10:26:10,Davenport,Neutral,Buy,down
+2014-02-24 08:00:00,Griffin Securities,Neutral,Buy,down
+2014-02-25 08:00:00,Stephens & Co.,Equal-Weight,,down
+2014-05-06 02:29:47,FBR Capital,Outperform,,main
+2014-05-06 08:20:14,SunTrust Robinson Humphrey,Buy,Neutral,up
+2014-07-22 06:20:02,Stifel Nicolaus,Buy,Hold,up
+2014-11-07 08:00:00,Stifel Nicolaus,Buy,,main
+2014-12-11 00:00:00,CL King,Neutral,,init
+2015-02-25 05:43:10,Stifel Nicolaus,Hold,Buy,down
+2015-04-10 06:12:38,SunTrust Robinson Humphrey,Neutral,Buy,down
+2015-04-15 05:55:59,Wedbush,Neutral,,init
+2015-09-24 06:49:03,Wedbush,Outperform,Neutral,up
+2015-10-01 09:42:30,CLSA,Strong Buy,Neutral,up
+2016-02-01 07:22:23,BB&T Capital,Hold,Buy,down
+2016-08-03 07:25:17,Wedbush,Neutral,Outperform,down
+2016-11-22 12:32:25,FBR Capital,Market Perform,Outperform,down
+2016-11-22 13:50:36,Seaport Global,Neutral,,init
+2018-02-22 14:55:45,Stifel Nicolaus,Hold,Hold,main
+2018-05-05 14:00:39,B. Riley FBR,Buy,Neutral,up
+2018-05-05 14:00:39,B. Riley FBR,Buy,Buy,main
+2018-05-08 13:12:36,B. Riley FBR,Buy,Buy,main
+2018-05-08 15:53:07,Sidoti & Co.,Buy,Neutral,up
+2018-07-31 11:24:09,Stifel Nicolaus,Hold,Hold,main
+2018-07-31 13:20:23,B. Riley FBR,Buy,Buy,main
+2019-01-09 13:49:04,Jefferies,Hold,,init
+2019-02-20 14:01:27,Sidoti & Co.,Neutral,Buy,down
+2019-03-28 11:01:54,Stifel Nicolaus,Buy,Hold,up
+2019-03-29 13:07:03,Sidoti & Co.,Buy,Neutral,up
+2019-04-05 12:09:05,DA Davidson,Buy,,init
+2019-04-30 10:51:58,B. Riley,Neutral,Buy,down
+2019-08-06 12:59:05,Sidoti & Co.,Neutral,Buy,down
+2019-08-22 12:19:43,William Blair,Outperform,,init
+2019-10-03 12:56:23,SunTrust Robinson Humphrey,Hold,,main
+2019-10-29 12:31:25,B. Riley,Neutral,,main
+2019-11-21 12:10:53,Deutsche Bank,Hold,,init
+2019-12-23 12:12:34,Stifel,Buy,,main
+2020-02-25 13:17:27,B. Riley FBR,Neutral,,main
+2020-02-25 13:56:31,Stifel Nicolaus,Buy,,main
+2020-02-25 14:03:34,Deutsche Bank,Hold,,main
+2020-02-25 14:56:10,DA Davidson,Neutral,Buy,down
+2020-02-27 11:33:24,Stephens & Co.,Equal-Weight,,reit
+2020-03-05 15:35:17,Benchmark,Buy,,init
+2020-03-25 12:55:07,Deutsche Bank,Hold,,main
+2020-03-31 14:36:06,DA Davidson,Neutral,,main
+2020-04-01 13:25:32,B. Riley FBR,Neutral,,main
+2020-04-01 14:00:20,Stifel,Buy,,main
+2020-04-16 19:13:38,SunTrust Robinson Humphrey,Hold,,main
+2020-04-30 10:05:13,Baird,Neutral,,init
+2020-05-05 12:08:44,B. Riley FBR,Neutral,,main
+2020-05-05 12:38:52,Deutsche Bank,Hold,,main
+2020-05-05 16:00:27,SunTrust Robinson Humphrey,Hold,,main
+2020-05-15 11:25:12,B. Riley FBR,Neutral,,main
+2020-06-18 12:11:43,Benchmark,Buy,,main
+2020-06-30 13:33:45,Stifel,Buy,,main
+2020-07-07 09:36:58,Barclays,Equal-Weight,,init
+2020-07-07 09:55:08,Baird,Outperform,Neutral,up
+2020-07-21 12:10:14,Benchmark,Hold,Buy,down
+2020-08-04 13:45:33,Deutsche Bank,Hold,,main
+2020-09-22 11:52:07,Deutsche Bank,Hold,,main
+2020-12-09 11:28:54,UBS,Buy,,init
+2021-01-14 12:34:13,BMO Capital,Market Perform,,init
+2021-02-23 16:24:38,Barclays,Equal-Weight,,main
+2021-02-23 16:53:31,Baird,Outperform,,main
+2021-02-23 17:14:38,DA Davidson,Neutral,,main
+2021-04-08 09:58:28,Loop Capital,Buy,,init
+2021-04-08 12:33:54,Barclays,Equal-Weight,,main
+2021-04-12 11:10:32,Truist Securities,Buy,Hold,up
+2021-05-05 13:33:53,JP Morgan,Neutral,,init
+2021-05-11 13:43:48,BMO Capital,Market Perform,,main
+2021-05-11 14:27:59,Baird,Outperform,,main
+2021-05-11 14:29:13,Barclays,Equal-Weight,,main
+2021-08-03 14:05:41,DA Davidson,Neutral,,main
+2021-10-12 10:48:40,Baird,Neutral,Outperform,down
+2021-10-27 11:24:52,Stephens & Co.,Overweight,Equal-Weight,up
+2021-11-09 12:33:24,Barclays,Equal-Weight,,main
+2021-11-09 13:04:06,Stephens & Co.,Overweight,,main
+2021-12-15 10:22:24,JP Morgan,Underweight,Neutral,down
+2021-12-15 13:52:24,Barclays,Equal-Weight,,main
+2022-01-20 10:06:17,UBS,Neutral,,init
+2022-02-14 12:05:05,Benchmark,Buy,Hold,up

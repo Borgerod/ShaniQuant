@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action
+2020-08-24 11:07:45,Citigroup,Neutral,,init
+2020-08-24 11:20:51,Goldman Sachs,Neutral,,init
+2020-08-24 11:22:52,B of A Securities,Neutral,,init
+2020-08-24 11:24:03,Stifel,Buy,,init
+2020-08-24 11:25:02,Morgan Stanley,Equal-Weight,,init
+2020-08-24 11:26:27,William Blair,Outperform,,init
+2020-08-24 13:04:50,Jefferies,Buy,,init
+2020-11-12 13:10:57,Morgan Stanley,Equal-Weight,,main
+2020-11-17 09:30:10,Needham,Buy,,init
+2021-04-07 11:52:56,Morgan Stanley,Underweight,Equal-Weight,down
+2021-05-14 11:54:52,Morgan Stanley,Underweight,,main
+2021-06-03 10:38:21,Goldman Sachs,Sell,Neutral,down
+2021-08-24 11:20:02,Berenberg,Buy,,init
+2021-08-25 10:04:17,Berenberg,Buy,,init
+2021-10-04 13:10:54,B of A Securities,Underperform,Neutral,down
+2022-02-01 11:55:24,BMO Capital,Market Perform,,init

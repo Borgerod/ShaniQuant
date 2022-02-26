@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action
+2012-06-01 06:02:00,Keefe Bruyette & Woods,Market Perform,,main
+2012-08-21 09:26:00,Rochdale Securities,Buy,Neutral,up
+2012-09-20 12:54:00,Goldman Sachs,Neutral,,main
+2012-11-13 09:41:00,Macquarie,Market Perform,Market Outperform,down
+2018-08-21 15:17:12,Keefe Bruyette & Woods,Outperform,,init
+2020-06-30 12:55:18,Oppenheimer,Outperform,,main
+2020-09-16 11:40:09,"Keefe, Bruyette & Woods",Outperform,Market Perform,up
+2021-09-21 10:16:33,Goldman Sachs,Buy,,init
+2021-10-01 12:22:45,Oppenheimer,Outperform,,main
+2021-11-16 15:37:47,"Keefe, Bruyette & Woods",Market Perform,Outperform,down
+2021-12-16 11:46:49,Morgan Stanley,Equal-Weight,,init

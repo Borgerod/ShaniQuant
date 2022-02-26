@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action
+2021-01-05 15:13:56,Jefferies,Buy,,init
+2021-03-02 18:27:50,HSBC,Buy,,init
+2021-03-11 13:46:32,Goldman Sachs,Buy,Neutral,up
+2021-03-18 12:20:37,B of A Securities,Buy,Neutral,up
+2021-04-23 15:59:39,China Renaissance,Buy,Hold,up
+2021-05-20 15:52:50,86 Research,Hold,Sell,up
+2021-08-13 09:35:31,HSBC,Hold,Buy,down
+2021-08-16 15:56:27,Goldman Sachs,Neutral,Buy,down
+2021-11-03 09:07:08,Barclays,Overweight,,init
+2022-01-31 12:28:54,HSBC,Hold,Reduce,up
+2022-02-18 10:17:07,Goldman Sachs,Buy,Neutral,up

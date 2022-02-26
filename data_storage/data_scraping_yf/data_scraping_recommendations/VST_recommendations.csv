@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action
+2017-06-08 12:10:56,Barclays,Equal-Weight,,init
+2017-09-20 17:54:19,Credit Suisse,Outperform,,init
+2017-09-28 12:58:47,Citigroup,Buy,,init
+2017-10-10 12:29:18,SunTrust Robinson Humphrey,Hold,,init
+2017-10-20 16:18:04,Evercore ISI Group,Outperform,,init
+2017-12-20 13:27:03,RBC Capital,Outperform,,init
+2018-02-23 13:59:55,UBS,Neutral,,init
+2018-03-06 12:24:30,UBS,Buy,Neutral,up
+2018-04-17 16:16:53,Bank of America,Buy,Buy,main
+2018-05-01 14:09:38,Citigroup,Buy,Buy,main
+2018-05-07 13:02:24,Credit Suisse,Neutral,Neutral,main
+2018-05-08 19:03:54,Bank of America,Buy,Buy,main
+2018-10-22 15:56:29,Citigroup,Buy,Buy,main
+2018-10-25 11:55:28,SunTrust Robinson Humphrey,Buy,Hold,up
+2018-11-05 16:28:02,Deutsche Bank,Buy,Buy,main
+2019-03-25 11:39:33,Morgan Stanley,Overweight,,init
+2019-04-11 13:32:24,Citigroup,Buy,Buy,main
+2019-05-06 12:20:24,Credit Suisse,Outperform,Neutral,up
+2019-08-14 12:12:38,Credit Suisse,Outperform,,main
+2019-08-29 12:03:50,Citigroup,Buy,,main
+2019-09-09 11:56:55,Citigroup,Buy,,main
+2019-09-17 11:22:08,SunTrust Robinson Humphrey,Buy,,main
+2019-11-07 12:15:57,Bank of America,Buy,Neutral,up
+2020-02-20 10:24:47,BMO Capital,Outperform,,init
+2020-02-25 10:45:32,Vertical Research,Buy,,init
+2020-04-15 14:24:18,Morgan Stanley,Overweight,,main
+2020-04-30 12:57:38,Morgan Stanley,Overweight,,main
+2020-05-06 13:39:13,UBS,Buy,,main
+2020-05-20 11:27:00,Seaport Global,Neutral,,init
+2020-06-09 11:19:39,Seaport Global,Buy,Neutral,up
+2020-06-17 14:23:02,Morgan Stanley,Overweight,,main
+2020-10-20 14:15:45,Morgan Stanley,Overweight,,main
+2020-11-04 13:42:20,Morgan Stanley,Overweight,,main
+2020-11-17 15:00:53,Morgan Stanley,Overweight,,main
+2020-12-15 18:16:24,Morgan Stanley,Overweight,,main
+2021-02-18 14:19:14,Morgan Stanley,Overweight,,main
+2021-03-01 13:19:15,Credit Suisse,Outperform,,reit
+2021-03-08 16:28:09,Morgan Stanley,Overweight,,main
+2021-03-15 11:22:35,RBC Capital,Outperform,,main
+2021-03-17 11:47:45,Wolfe Research,Peer Perform,Outperform,down
+2021-03-17 15:33:19,Guggenheim,Neutral,Buy,down
+2021-03-19 14:12:34,Morgan Stanley,Overweight,,main
+2021-04-20 14:17:46,Morgan Stanley,Overweight,,main
+2021-04-27 13:08:10,Morgan Stanley,Overweight,,main
+2021-06-03 11:15:07,Credit Suisse,Outperform,,main
+2021-07-07 10:48:40,Wolfe Research,Outperform,Peer Perform,up
+2021-07-09 08:42:27,B of A Securities,Buy,Neutral,up
+2021-08-19 13:55:11,Morgan Stanley,Overweight,,main
+2022-01-03 20:37:23,Guggenheim,Buy,Neutral,up

@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,Direxion Small Cap Bear 3X Shar
+longName,Direxion Daily Small Cap Bear 3X Shares
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,TZA
+messageBoardId,finmb_51234797
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,-3.16
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1225843200
+annualReportExpenseRatio,
+totalAssets,351692256
+bookValue,
+fundFamily,Direxion Funds
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.6177
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Trading--Inverse Equity
+fiveYearAverageReturn,-0.47869998
+phone,866-476-7523
+longBusinessSummary,"The fund invests in swap agreements, futures contracts, short positions or other financial instruments that, in combination, provide inverse (opposite) or short leveraged exposure to the index equal to at least 80% of the fund's net assets (plus borrowing for investment purposes). The index measures the performance of approximately 2,000 small-capitalization companies in the Russell 3000Â® Index, based on a combination of their market capitalization and current index membership. It is non-diversified."
+companyOfficers,[]
+previousClose,34.56
+regularMarketOpen,34.62
+twoHundredDayAverage,30.1074
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,35.77
+navPrice,26.15
+averageDailyVolume10Day,21296990
+regularMarketPreviousClose,34.56
+fiftyDayAverage,31.8756
+trailingAnnualDividendRate,
+open,34.62
+toCurrency,
+averageVolume10days,21296990
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,33.75
+currency,USD
+regularMarketVolume,21463128
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,21167141
+dayLow,33.75
+ask,35.95
+askSize,1000
+volume,21463128
+fiftyTwoWeekHigh,43.34
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,21.61
+bid,35.85
+tradeable,False
+dividendYield,
+bidSize,1000
+dayHigh,35.77
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'DAPXX', 'holdingName': 'Dreyfus Government Secs Cash Mgmt Admin', 'holdingPercent': 0.82519996}, {'symbol': 'FTIXX', 'holdingName': 'Goldman Sachs FS Treasury Intms Instl', 'holdingPercent': 0.36200002}, {'symbol': '', 'holdingName': 'Russ 2000 Indx Small Swap', 'holdingPercent': 0.1907}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0
+regularMarketPrice,35.43
+preMarketPrice,
+logo_url,

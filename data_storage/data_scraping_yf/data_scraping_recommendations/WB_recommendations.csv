@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action
+2014-05-12 07:29:12,PiperJaffray,Overweight,,init
+2014-06-09 06:15:13,Morgan Stanley,Equal-weight,,init
+2014-06-10 06:39:02,Credit Suisse,Outperform,,init
+2014-07-22 10:34:13,Tigress Financial,Buy,,init
+2014-07-25 06:34:55,Citigroup,Buy,,init
+2014-09-09 08:16:06,TH Capital,Buy,,init
+2014-11-24 00:00:00,HSBC,Overweight,,init
+2015-04-20 07:00:20,Summit Research Partners,Buy,,init
+2015-05-18 10:14:15,Summit Research Partners,Hold,Buy,down
+2015-08-27 06:10:20,Summit Research Partners,Buy,Hold,up
+2015-10-29 09:06:02,Citigroup,Neutral,,down
+2016-02-24 09:24:02,JP Morgan,Overweight,,init
+2016-04-19 00:01:00,Morgan Stanley,Overweight,,main
+2016-05-11 15:04:46,Tigress Financial,Neutral,,down
+2016-05-16 07:26:29,Goldman Sachs,Neutral,Buy,down
+2016-08-05 08:03:26,Citigroup,Buy,,init
+2016-08-11 04:25:39,Goldman Sachs,Neutral,,main
+2016-09-30 10:37:47,Jefferies,Buy,,main
+2017-03-28 21:28:15,Barclays,Overweight,,init
+2017-04-18 12:49:31,Benchmark,Buy,,init
+2017-08-11 12:52:15,Barclays,Overweight,,main
+2017-11-15 17:12:09,Barclays,Overweight,,main
+2018-02-15 15:15:06,JP Morgan,Overweight,Overweight,main
+2018-07-30 13:00:47,Barclays,Overweight,Overweight,main
+2018-08-09 13:32:31,Jefferies,Buy,Buy,main
+2018-08-29 12:09:32,JP Morgan,Overweight,Overweight,main
+2019-01-08 15:17:05,Morgan Stanley,Equal-Weight,Overweight,down
+2019-01-22 13:50:17,Nomura,Neutral,Buy,down
+2019-01-24 11:36:32,Jefferies,Hold,Buy,down
+2019-03-06 13:04:51,China Renaissance,Hold,Buy,down
+2019-05-24 12:08:35,HSBC,Reduce,Hold,down
+2019-05-28 10:43:25,JP Morgan,Neutral,Overweight,down
+2019-07-17 10:51:51,Credit Suisse,Neutral,Outperform,down
+2019-08-05 12:48:25,Jefferies,Hold,,init
+2019-10-04 12:03:48,Credit Suisse,Outperform,Neutral,up
+2019-10-18 12:21:15,Jefferies,Buy,Hold,up
+2019-11-15 16:59:17,CLSA,Outperform,Buy,down
+2020-02-24 17:04:14,Barclays,Overweight,,main
+2020-02-27 13:58:15,UBS,Neutral,,main
+2020-02-27 14:29:24,Benchmark,Buy,,main
+2020-04-22 14:50:54,Barclays,Equal-Weight,Overweight,down
+2020-05-21 12:39:51,Nomura Instinet,Neutral,,main
+2020-06-26 14:51:59,B of A Securities,Buy,,init
+2021-08-19 11:43:47,Credit Suisse,Outperform,Neutral,up
+2021-08-20 15:49:06,HSBC,Hold,Reduce,up

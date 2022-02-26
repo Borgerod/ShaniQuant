@@ -1,0 +1,29 @@
+Date,Firm,To Grade,From Grade,Action
+2012-10-22 08:16:00,BB&T Capital,Hold,,init
+2013-10-08 16:00:00,Stifel Nicolaus,Buy,,init
+2013-10-09 08:57:56,Stifel Nicolaus,Buy,,init
+2013-10-10 07:38:22,FBR Capital,Market Perform,,init
+2014-05-19 20:00:30,FBR Capital,Outperform,Market Perform,up
+2014-07-09 06:42:27,BB&T Capital,Buy,Hold,up
+2014-11-03 18:27:13,FBR Capital,Market Perform,Outperform,down
+2014-11-07 09:00:00,Oppenheimer,Outperform,,main
+2014-11-12 06:52:59,Stifel Nicolaus,Buy,,main
+2015-02-25 09:00:00,Stifel Nicolaus,Buy,,main
+2016-02-24 08:19:22,Stifel Nicolaus,Buy,,main
+2016-11-08 11:56:44,Stifel Nicolaus,Hold,Buy,down
+2017-08-18 13:18:37,Stephens & Co.,Equal-Weight,Overweight,down
+2017-08-18 17:21:09,Wells Fargo,Underperform,Market Perform,down
+2017-08-18 17:22:35,Stifel Nicolaus,Buy,Hold,up
+2018-01-30 11:36:15,Seaport Global,Buy,Neutral,up
+2018-08-01 11:45:23,Stifel Nicolaus,Buy,Buy,main
+2018-11-20 13:01:34,Stifel Nicolaus,Hold,Buy,down
+2019-02-25 11:34:02,Stephens & Co.,Overweight,Equal-Weight,up
+2019-12-20 13:51:39,Sidoti & Co.,Buy,,main
+2020-02-27 14:50:00,Stifel Nicolaus,Buy,Hold,up
+2020-04-06 11:40:28,Stephens & Co.,Equal-Weight,Overweight,down
+2020-08-06 14:18:05,Stifel,Buy,,main
+2020-10-09 13:43:26,Sidoti & Co.,Buy,,main
+2020-11-03 12:12:22,Stephens & Co.,Overweight,Equal-Weight,up
+2021-02-24 15:47:50,Stephens & Co.,Overweight,,main
+2021-04-29 10:56:20,Stephens & Co.,Equal-Weight,Overweight,down
+2021-10-12 12:04:16,Stifel,Buy,,main

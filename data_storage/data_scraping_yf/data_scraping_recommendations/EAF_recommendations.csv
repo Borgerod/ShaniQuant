@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action
+2018-05-14 11:13:59,RBC Capital,Outperform,,init
+2018-05-14 11:36:31,JP Morgan,Overweight,,init
+2018-05-14 11:49:25,Credit Suisse,Outperform,,init
+2018-05-15 10:54:12,BMO Capital,Outperform,,init
+2018-08-01 17:59:24,Vertical Research,Buy,,init
+2018-08-06 13:08:56,BMO Capital,Outperform,Outperform,main
+2018-11-05 15:16:57,BMO Capital,Outperform,Outperform,main
+2018-11-06 17:26:03,RBC Capital,Outperform,Outperform,main
+2018-11-12 10:44:50,Vertical Group,Sell,Buy,down
+2019-04-22 10:38:04,Citigroup,Sell,Buy,down
+2019-07-25 10:30:27,Citigroup,Neutral,Sell,up
+2019-12-17 11:35:07,BMO Capital,Market Perform,Outperform,down
+2020-02-13 12:11:03,RBC Capital,Sector Perform,Outperform,down
+2020-04-17 15:16:54,JP Morgan,Overweight,,main
+2021-05-13 11:03:28,RBC Capital,Outperform,Sector Perform,up

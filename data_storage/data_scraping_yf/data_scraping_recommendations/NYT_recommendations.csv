@@ -1,0 +1,29 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-10 11:44:00,UBS,Neutral,,main
+2012-04-30 07:45:00,Citigroup,Neutral,,main
+2012-07-31 12:23:00,Barclays,Equal-Weight,,main
+2012-10-11 12:51:00,Barclays,Overweight,Equal-Weight,up
+2012-10-26 10:42:00,UBS,Neutral,,main
+2013-02-04 10:00:49,Lazard,Sell,Neutral,down
+2013-07-03 07:27:29,Lazard,Neutral,Sell,up
+2013-07-11 08:15:20,Barclays,Equal-Weight,Overweight,down
+2013-11-05 08:23:29,FBR Capital,Market Perform,,init
+2014-01-06 16:00:00,S&P Capital IQ,Sell,Hold,down
+2014-07-30 02:12:32,Jefferies,Hold,,main
+2014-08-08 16:00:00,Benchmark,Hold,,main
+2017-07-19 16:52:59,Barclays,Equal-Weight,,main
+2018-04-30 11:43:27,JP Morgan,Overweight,Neutral,up
+2018-11-06 11:10:43,Barclays,Underweight,Equal-Weight,down
+2018-12-14 15:04:14,Evercore ISI Group,Outperform,,init
+2019-10-09 12:03:41,Guggenheim,Neutral,,init
+2020-02-06 17:06:00,CFRA,Hold,,main
+2020-04-15 14:55:57,JP Morgan,Overweight,,main
+2020-04-23 11:36:45,Evercore ISI Group,In-Line,Outperform,down
+2020-05-06 16:15:08,CFRA,Buy,Hold,up
+2020-06-15 13:07:31,JP Morgan,Overweight,,main
+2020-08-27 16:35:26,Wolfe Research,Outperform,,init
+2020-10-14 11:08:54,Morgan Stanley,Overweight,,init
+2020-11-09 12:20:51,Evercore ISI Group,Outperform,In-Line,up
+2021-02-05 14:04:13,Morgan Stanley,Overweight,,main
+2021-11-02 13:41:31,Morgan Stanley,Overweight,,main
+2021-12-06 13:22:48,Wolfe Research,Peer Perform,Outperform,down

@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,SPDR Select Sector Fund - Consu
+longName,Consumer Discretionary Select Sector SPDR Fund
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,XLY
+messageBoardId,finmb_8795473
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.14
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,913766400
+annualReportExpenseRatio,
+totalAssets,23523987456
+bookValue,
+fundFamily,SPDR State Street Global Advisors
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0061000003
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.2752
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Consumer Cyclical
+fiveYearAverageReturn,0.2084
+phone,866-732-8673
+longBusinessSummary,"The fund employs a replication strategy. It generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes securities of companies from the following industries: retail; hotels, restaurants and leisure; textiles, apparel and luxury goods; household durables; automobiles; auto components; distributors; leisure products; and diversified consumer services. It is non-diversified."
+companyOfficers,[]
+previousClose,181.12
+regularMarketOpen,181.6
+twoHundredDayAverage,186.7662
+trailingAnnualDividendYield,0.0064598056
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,182.18
+navPrice,209.07
+averageDailyVolume10Day,10568480
+regularMarketPreviousClose,181.12
+fiftyDayAverage,192.7604
+trailingAnnualDividendRate,1.17
+open,181.6
+toCurrency,
+averageVolume10days,10568480
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,178.21
+currency,USD
+trailingPE,2.7745664
+regularMarketVolume,9495389
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,9964795
+dayLow,178.21
+ask,179.14
+askSize,1100
+volume,9495389
+fiftyTwoWeekHigh,215.06
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,149.65
+bid,178.75
+tradeable,False
+dividendYield,
+bidSize,900
+dayHigh,182.18
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0.941}, {'basic_materials': 0}, {'consumer_defensive': 0.0523}, {'technology': 0.0066000004}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'AMZN', 'holdingName': 'Amazon.com Inc', 'holdingPercent': 0.2252}, {'symbol': 'TSLA', 'holdingName': 'Tesla Inc', 'holdingPercent': 0.1425}, {'symbol': 'HD', 'holdingName': 'The Home Depot Inc', 'holdingPercent': 0.0872}, {'symbol': 'NKE', 'holdingName': 'Nike Inc Class B', 'holdingPercent': 0.0463}, {'symbol': 'MCD', 'holdingName': ""McDonald's Corp"", 'holdingPercent': 0.045100003}, {'symbol': 'LOW', 'holdingName': ""Lowe's Companies Inc"", 'holdingPercent': 0.0367}, {'symbol': 'SBUX', 'holdingName': 'Starbucks Corp', 'holdingPercent': 0.0353}, {'symbol': 'TGT', 'holdingName': 'Target Corp', 'holdingPercent': 0.0311}, {'symbol': 'BKNG', 'holdingName': 'Booking Holdings Inc', 'holdingPercent': 0.0241}, {'symbol': 'TJX', 'holdingName': 'TJX Companies Inc', 'holdingPercent': 0.0223}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 18.48, 'priceToSales': 2.36, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 29.38, 'priceToBook': 8.29, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9995
+regularMarketPrice,180
+preMarketPrice,
+logo_url,

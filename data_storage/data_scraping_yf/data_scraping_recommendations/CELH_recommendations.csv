@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action
+2018-02-01 15:50:48,Maxim Group,Buy,,init
+2018-05-05 14:00:38,B. Riley FBR,Buy,,init
+2018-08-07 13:05:32,B. Riley FBR,Buy,Buy,main
+2020-04-30 11:19:06,Roth Capital,Buy,,init
+2020-05-13 10:53:49,B. Riley FBR,Buy,,main
+2020-11-13 12:17:33,Ladenburg Thalmann,Neutral,Buy,down
+2021-01-05 15:02:56,Maxim Group,Hold,Buy,down
+2021-04-06 11:00:04,Credit Suisse,Neutral,,init
+2021-05-14 13:01:46,B. Riley Securities,Buy,,main
+2021-05-14 13:29:33,Credit Suisse,Neutral,,main
+2021-06-11 10:54:55,Credit Suisse,Outperform,Neutral,up
+2021-08-13 11:49:56,Credit Suisse,Outperform,,main
+2021-09-10 12:47:22,Roth Capital,Buy,,main
+2021-09-16 12:06:38,Jefferies,Buy,,init
+2021-11-12 12:08:57,Credit Suisse,Neutral,Outperform,down
+2021-11-12 13:52:19,B. Riley Securities,Buy,,main
+2021-11-16 09:40:28,Stifel,Buy,,init

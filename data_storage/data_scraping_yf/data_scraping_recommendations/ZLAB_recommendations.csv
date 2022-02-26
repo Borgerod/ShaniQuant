@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action
+2017-10-16 19:16:25,JP Morgan,Neutral,,init
+2018-02-14 13:19:59,JP Morgan,Overweight,Neutral,up
+2018-02-14 13:27:52,JP Morgan,Overweight,Overweight,main
+2019-01-29 15:05:36,Credit Suisse,Outperform,,init
+2019-07-05 10:36:36,Macquarie,Outperform,,init
+2019-09-04 11:46:34,China Renaissance,Buy,,init
+2019-12-30 11:27:57,Citigroup,Buy,,main
+2020-09-10 15:56:51,SVB Leerink,Outperform,,main
+2021-02-03 11:53:49,SVB Leerink,Outperform,,main
+2021-04-14 13:54:32,SVB Leerink,Outperform,,main
+2021-06-01 15:47:01,SVB Leerink,Outperform,,main
+2021-10-12 10:43:18,Bernstein,Market Perform,,init
+2021-11-10 17:27:04,SVB Leerink,Outperform,,main
+2021-11-11 15:07:38,Citigroup,Buy,,main
+2021-12-15 20:14:58,JP Morgan,Overweight,,main

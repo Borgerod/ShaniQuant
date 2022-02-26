@@ -1,0 +1,36 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-24 08:04:00,Stifel Nicolaus,Buy,,init
+2012-07-10 08:25:00,Stifel Nicolaus,Hold,Buy,down
+2012-08-17 07:59:00,Keefe Bruyette & Woods,Market Perform,,main
+2012-12-13 07:57:15,BGB Securities,Hold,,init
+2013-07-16 06:25:18,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2013-11-18 06:10:37,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2014-01-29 06:23:22,"Keefe, Bruyette & Woods",Outperform,Market Perform,up
+2014-10-09 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2014-12-22 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-02-23 04:08:32,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2015-06-17 04:01:53,Keefe Bruyette & Woods,Market Perform,,main
+2015-10-06 05:54:39,Goldman Sachs,Neutral,,init
+2016-01-12 06:15:23,Goldman Sachs,Sell,,down
+2016-03-23 06:15:58,SunTrust Robinson Humphrey,Neutral,,init
+2016-05-12 04:32:22,Buckingham Research,Neutral,,init
+2016-12-08 12:29:17,Keefe Bruyette & Woods,Outperform,,init
+2017-01-10 13:33:48,Goldman Sachs,Neutral,Sell,up
+2017-04-03 16:11:20,Wells Fargo,Underperform,Market Perform,down
+2017-04-19 14:41:36,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2017-07-13 13:10:05,Rosenblatt,Neutral,,init
+2018-01-08 18:23:23,Goldman Sachs,Sell,Neutral,down
+2018-06-05 12:24:43,Compass Point,Neutral,,init
+2019-10-02 10:47:52,Compass Point,Buy,Neutral,up
+2020-01-09 14:47:02,Wells Fargo,Underweight,,main
+2020-04-06 16:22:10,Wells Fargo,Underweight,,main
+2020-06-23 09:47:20,Credit Suisse,Outperform,,init
+2020-07-10 13:51:01,Wells Fargo,Underweight,,main
+2020-07-22 11:26:09,Compass Point,Neutral,Buy,down
+2020-10-21 12:51:06,Credit Suisse,Outperform,,main
+2020-12-02 15:06:04,Compass Point,Buy,Neutral,up
+2021-03-05 16:09:08,Jefferies,Buy,,init
+2021-04-21 15:41:30,Credit Suisse,Outperform,,main
+2021-12-16 10:54:06,B of A Securities,Buy,,init
+2022-01-11 12:55:13,Goldman Sachs,Neutral,,main
+2022-01-19 10:10:28,"Keefe, Bruyette & Woods",Outperform,Market Perform,up

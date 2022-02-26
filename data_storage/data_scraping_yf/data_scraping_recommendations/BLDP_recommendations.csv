@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action
+2013-04-12 15:13:58,Sidoti & Co.,Neutral,,init
+2014-02-26 08:00:00,Sidoti & Co.,Buy,Neutral,up
+2014-02-27 08:00:00,Byron Capital Markets,Hold,Buy,down
+2014-03-11 08:00:00,Lake Street,Hold,Buy,down
+2014-06-18 09:29:29,Jennings Capital,Buy,,init
+2014-09-16 11:33:24,Sidoti & Co.,Buy,Neutral,up
+2014-10-30 10:38:10,Jennings Capital,Hold,,down
+2014-11-04 08:39:16,Roth Capital,Buy,,init
+2015-02-12 06:11:32,Lake Street,Buy,Hold,up
+2015-02-26 09:17:02,Sidoti & Co.,Neutral,Buy,down
+2015-07-14 07:15:25,H.C. Wainwright,Buy,,init
+2016-07-28 07:22:33,FBR Capital,Outperform,Market Perform,up
+2017-09-18 12:34:15,FBR Capital,Buy,,main
+2019-07-01 12:49:41,Roth Capital,Sell,Neutral,down
+2019-11-01 13:25:32,H.C. Wainwright,Neutral,Buy,down
+2020-03-10 13:48:06,H.C. Wainwright,Buy,Neutral,up
+2020-06-18 13:31:44,TD Securities,Hold,,init
+2020-08-24 09:12:10,Bernstein,Outperform,,init
+2020-11-10 11:09:37,HC Wainwright & Co.,Neutral,Buy,down
+2021-01-14 11:33:58,National Bank Of Canada,Sector Perform,Outperform,down
+2021-01-14 16:04:18,TD Securities,Hold,Speculative Buy,down
+2021-01-19 17:23:35,BMO Capital,Outperform,,init
+2021-01-20 17:47:24,Citigroup,Buy,,init
+2021-01-27 12:04:32,Piper Sandler,Neutral,,init
+2021-02-01 11:52:20,CIBC,Neutral,,init
+2021-03-30 12:10:38,Northcoast Research,Neutral,,init
+2021-04-16 10:45:52,B. Riley FBR,Buy,,init
+2021-04-20 10:56:52,Wells Fargo,Equal-Weight,,init
+2021-05-05 12:45:47,Roth Capital,Neutral,Buy,down
+2021-09-01 09:07:15,Wolfe Research,Underperform,,init
+2021-09-23 12:49:27,Piper Sandler,Neutral,,main
+2021-10-15 11:24:59,Truist Securities,Hold,,init
+2021-11-17 11:41:30,Citigroup,Neutral,Buy,down
+2022-01-05 09:49:58,Keybanc,Sector Weight,,init
+2022-01-24 15:30:21,Truist Securities,Hold,,main
+2022-01-26 12:12:57,Susquehanna,Neutral,,init
+2022-02-07 10:17:07,BMO Capital,Market Perform,Outperform,down

@@ -1,0 +1,56 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-06 07:05:00,Raymond James,Market Perform,Outperform,down
+2012-07-06 11:05:00,Raymond James,Market Perform,Outperform,down
+2012-08-16 05:44:00,Morgan Stanley,Underweight,Equal-Weight,down
+2013-05-23 07:47:26,Wells Fargo,Outperform,,init
+2014-02-13 16:00:00,Wells Fargo,Outperform,,init
+2014-06-16 09:27:08,Bank of America,Buy,,init
+2014-06-30 06:26:02,JMP Securities,Market Outperform,Market Perform,up
+2014-08-18 16:00:00,Goldman Sachs,Buy,,init
+2014-10-31 09:00:00,Citigroup,Neutral,,main
+2014-12-11 09:00:00,Citigroup,Neutral,,main
+2015-01-09 09:00:00,Citigroup,Neutral,,main
+2015-04-06 09:00:00,SunTrust Robinson Humphrey,Buy,,main
+2015-04-30 09:00:00,JMP Securities,Market Outperform,,main
+2016-07-28 11:55:50,JMP Securities,Market Outperform,,main
+2016-07-29 14:06:48,JP Morgan,Overweight,,main
+2017-11-08 17:23:12,Goldman Sachs,Buy,,init
+2017-12-12 13:27:00,JP Morgan,Underweight,Overweight,down
+2018-04-24 11:37:51,JP Morgan,Underweight,Underweight,main
+2018-04-24 12:16:30,JMP Securities,Market Outperform,Market Outperform,main
+2018-05-05 14:00:37,B. Riley FBR,Buy,Neutral,up
+2018-05-05 14:00:38,B. Riley FBR,Buy,,init
+2018-07-20 13:23:14,B. Riley FBR,Buy,Buy,main
+2018-07-25 11:43:09,Citigroup,Buy,Buy,main
+2018-07-25 17:59:21,Bank of America,Buy,Buy,main
+2019-02-27 12:52:27,Wells Fargo,Outperform,Outperform,main
+2019-02-27 13:55:12,B. Riley FBR,Buy,Buy,main
+2019-04-24 11:34:53,Bank of America,Buy,Buy,main
+2019-04-24 14:48:40,Wells Fargo,Outperform,Outperform,main
+2019-07-10 10:47:17,Keefe Bruyette & Woods,Outperform,,init
+2019-07-24 11:37:57,JMP Securities,Market Outperform,,main
+2019-07-24 12:45:51,JP Morgan,Underweight,,main
+2019-10-21 12:48:11,B. Riley,Buy,,main
+2019-11-22 11:45:46,Jefferies,Hold,,init
+2020-01-02 14:16:23,Stephens & Co.,Overweight,,main
+2020-01-15 12:35:04,Citigroup,Buy,,main
+2020-02-13 12:42:28,B. Riley FBR,Buy,,main
+2020-02-14 12:16:23,Citigroup,Buy,,main
+2020-02-26 11:42:46,Stephens & Co.,Overweight,,main
+2020-02-26 12:51:34,JP Morgan,Underweight,,main
+2020-04-23 11:18:51,B. Riley FBR,Buy,,main
+2020-04-29 10:38:49,Needham,Buy,,main
+2020-04-29 13:50:11,JP Morgan,Underweight,,main
+2020-04-29 15:08:30,JMP Securities,Market Outperform,,main
+2020-04-29 16:31:53,SunTrust Robinson Humphrey,Buy,,main
+2020-06-18 10:25:33,Baird,Outperform,,init
+2020-06-19 10:14:46,Needham,Buy,,main
+2020-07-29 10:16:03,Needham,Buy,,main
+2020-07-29 12:41:23,JP Morgan,Overweight,Underweight,up
+2020-09-23 16:32:45,Citigroup,Buy,,main
+2020-10-28 10:32:34,Needham,Buy,,main
+2020-10-28 11:19:47,JMP Securities,Market Outperform,,main
+2021-04-28 11:10:01,Needham,Buy,,main
+2021-07-28 10:39:49,Needham,Buy,,main
+2021-10-27 10:57:32,Needham,Buy,,main
+2022-01-11 11:59:01,RBC Capital,Outperform,,init

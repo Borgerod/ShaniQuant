@@ -1,0 +1,84 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-08 08:09:00,Stifel Nicolaus,Hold,,down
+2012-03-28 06:07:00,Citigroup,Neutral,,down
+2012-03-28 06:40:00,Sterne Agee,Neutral,,main
+2012-06-26 06:28:00,Brean Capital,Buy,,main
+2012-06-26 06:35:00,Sterne Agee,Neutral,,main
+2012-06-26 06:55:00,Goldman Sachs,Neutral,,main
+2012-06-26 08:29:00,Bank of America,Buy,,main
+2012-08-08 11:08:00,JP Morgan,Overweight,Neutral,up
+2012-08-14 08:00:00,CLSA,Buy,,init
+2012-09-26 06:44:00,Goldman Sachs,Neutral,,main
+2012-09-26 07:32:00,Sterne Agee,Neutral,,main
+2012-09-26 07:37:00,Bank of America,Buy,,main
+2012-09-26 09:31:00,Needham,Buy,Strong Buy,down
+2012-10-08 16:16:00,Citigroup,Neutral,,init
+2013-01-11 09:56:33,Citigroup,Neutral,,main
+2013-01-11 10:37:38,Bank of America,Buy,,main
+2013-03-28 06:33:54,Citigroup,Neutral,,main
+2013-03-28 08:08:29,Credit Agricole,Outperform,Buy,down
+2013-06-12 07:48:25,Raymond James,Market Perform,Outperform,down
+2013-06-20 16:00:00,Credit Agricole,Underperform,,down
+2013-08-07 14:08:54,Needham,Hold,Buy,down
+2013-08-27 08:45:15,Raymond James,Underperform,Market Perform,down
+2013-08-28 08:53:08,Bank of America,Buy,,main
+2013-09-06 09:17:12,CLSA,Underperform,,main
+2013-09-11 08:41:13,Raymond James,Market Perform,Underperform,up
+2013-09-11 09:47:19,Cross Research,Buy,Hold,up
+2013-09-26 07:59:11,Brean Capital,Buy,,main
+2014-01-03 16:00:00,Cross Research,Hold,Buy,down
+2014-01-15 16:00:00,Citigroup,Buy,,up
+2014-04-04 21:40:51,Citigroup,Buy,,main
+2014-05-12 07:29:13,Needham,Buy,Hold,up
+2014-05-19 10:56:58,Cross Research,Buy,Hold,up
+2014-09-16 07:42:12,Stifel,Buy,Hold,up
+2014-09-24 05:55:39,Raymond James,Outperform,Market Perform,up
+2014-09-30 09:00:00,Citigroup,Buy,,main
+2014-12-30 05:10:06,Brean Capital,Buy,,main
+2015-01-05 00:00:00,Raymond James,Market Perform,Outperform,down
+2015-01-13 09:00:00,Stifel Nicolaus,Buy,,main
+2015-02-27 07:06:01,Stifel Nicolaus,Hold,Buy,down
+2015-04-01 09:00:00,Citigroup,Buy,,main
+2015-06-26 07:30:51,Needham,Hold,Buy,down
+2015-06-29 09:00:00,Citigroup,Buy,,main
+2015-09-25 06:23:42,Brean Capital,Buy,,main
+2015-10-29 09:06:52,CLSA,Underperform,Outperform,down
+2016-01-11 12:12:29,Macquarie,Outperform,,main
+2016-03-23 06:31:49,Raymond James,Underperform,Market Perform,down
+2016-03-24 09:41:39,Cross Research,Hold,Buy,down
+2016-03-29 04:07:54,Citigroup,Buy,,main
+2016-05-18 07:43:09,Raymond James,Outperform,Underperform,up
+2016-06-08 06:56:01,Raymond James,Market Perform,Outperform,down
+2016-06-24 08:36:59,Brean Capital,Buy,,main
+2016-09-27 10:57:58,CLSA,Underperform,,main
+2017-04-12 17:33:59,Stifel Nicolaus,Buy,Hold,up
+2017-05-19 11:43:45,Raymond James,Strong Buy,Market Perform,up
+2017-08-25 11:21:30,Loop Capital,Buy,,init
+2017-09-26 18:30:08,Citigroup,Neutral,,main
+2017-10-06 19:31:01,Pivotal Research,Hold,,init
+2017-12-07 13:22:11,SunTrust Robinson Humphrey,Buy,,init
+2018-01-31 13:59:02,Pivotal Research,Buy,Hold,up
+2018-04-02 11:47:31,Stifel Nicolaus,Buy,Buy,main
+2018-06-29 11:56:35,Stifel Nicolaus,Buy,Buy,main
+2018-10-04 11:02:48,Stifel Nicolaus,Buy,Buy,main
+2019-01-11 14:25:32,Cross Research,Buy,Hold,up
+2019-01-28 11:34:01,Citigroup,Buy,Neutral,up
+2019-04-04 13:08:22,Barrington Research,Outperform,,init
+2019-09-06 10:41:33,Bank of America,Buy,,init
+2020-01-13 14:26:30,Citigroup,Buy,,main
+2020-03-25 14:25:05,Raymond James,Strong Buy,,main
+2020-06-26 11:32:52,Raymond James,Strong Buy,,main
+2020-09-30 11:12:38,Raymond James,Strong Buy,,main
+2020-09-30 12:34:04,Citigroup,Buy,,main
+2020-12-08 13:31:23,Stifel,Hold,Buy,down
+2021-01-12 13:29:08,Raymond James,Strong Buy,,main
+2021-03-23 13:26:50,Loop Capital,Buy,,main
+2021-05-24 12:07:07,Citigroup,Buy,,main
+2021-06-25 12:31:31,Raymond James,Strong Buy,,main
+2021-06-28 12:17:12,Barrington Research,Outperform,,main
+2021-09-29 08:39:38,Raymond James,Strong Buy,,main
+2021-10-05 14:30:39,Loop Capital,Buy,,main
+2021-12-16 13:33:43,Northcoast Research,Buy,,init
+2022-01-12 09:55:28,Raymond James,Strong Buy,,main
+2022-01-12 13:57:18,Cross Research,Buy,Hold,up
+2022-01-12 15:18:29,Citigroup,Buy,,main

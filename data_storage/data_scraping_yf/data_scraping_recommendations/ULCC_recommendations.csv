@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action
+2021-04-26 11:06:44,Citigroup,Buy,,init
+2021-04-26 11:08:35,UBS,Buy,,init
+2021-04-26 11:11:49,Deutsche Bank,Buy,,init
+2021-04-26 11:14:27,Evercore ISI Group,Outperform,,init
+2021-04-26 11:16:49,Cowen & Co.,Outperform,,init
+2021-04-26 11:53:45,Barclays,Overweight,,init
+2021-04-26 12:39:22,Morgan Stanley,Overweight,,init
+2021-04-26 13:02:16,JP Morgan,Neutral,,init
+2021-04-26 13:11:29,B of A Securities,Neutral,,init
+2021-04-26 13:53:32,Wolfe Research,Peer Perform,,init
+2021-07-13 12:40:06,Susquehanna,Positive,,init
+2021-09-14 12:43:23,Morgan Stanley,Overweight,,main
+2021-10-01 09:44:52,JP Morgan,Overweight,Neutral,up
+2022-01-07 13:19:07,B of A Securities,Buy,Neutral,up
+2022-01-14 12:53:04,Barclays,Overweight,,main

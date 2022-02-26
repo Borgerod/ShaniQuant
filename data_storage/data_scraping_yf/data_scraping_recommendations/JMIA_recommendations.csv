@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action
+2019-05-06 12:59:05,RBC Capital,Sector Perform,,init
+2019-05-07 11:19:55,Stifel,Hold,,init
+2019-05-07 12:10:20,Raymond James,Market Perform,,init
+2019-05-07 12:26:25,Morgan Stanley,Underweight,,init
+2019-05-07 13:13:38,Berenberg,Hold,,init
+2019-05-13 18:01:38,Stifel,Buy,Hold,up
+2019-05-14 10:36:03,Raymond James,Outperform,Market Perform,up
+2019-05-14 12:07:13,Morgan Stanley,Underweight,,main
+2019-05-14 12:07:21,Berenberg,Buy,Hold,up
+2019-08-20 12:19:09,Morgan Stanley,Equal-Weight,Underweight,up
+2019-08-22 10:21:09,RBC Capital,Outperform,Sector Perform,up
+2019-08-22 11:22:09,Raymond James,Outperform,,main
+2019-11-13 12:20:48,Raymond James,Outperform,,main
+2019-11-13 14:56:54,RBC Capital,Outperform,,main
+2020-05-14 10:12:01,Stifel,Hold,Buy,down
+2020-08-13 12:23:33,Morgan Stanley,Equal-Weight,,main
+2020-08-13 12:25:43,Stifel,Hold,,main
+2021-01-15 15:34:40,Morgan Stanley,Equal-Weight,,main
+2021-07-20 13:16:58,Morgan Stanley,Equal-Weight,,main
+2021-11-29 13:00:02,Morgan Stanley,Underweight,Equal-Weight,down

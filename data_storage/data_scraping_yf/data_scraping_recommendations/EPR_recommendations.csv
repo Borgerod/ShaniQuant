@@ -1,0 +1,62 @@
+Date,Firm,To Grade,From Grade,Action
+2012-08-15 14:25:00,JP Morgan,Neutral,,main
+2012-12-11 08:47:45,Goldman Sachs,Neutral,Buy,down
+2013-04-17 15:59:00,JP Morgan,Neutral,,main
+2013-05-17 10:54:23,JP Morgan,Neutral,,main
+2013-06-13 09:17:12,KeyBanc,Underweight,Hold,down
+2014-01-16 16:00:00,JP Morgan,Overweight,Neutral,up
+2014-05-23 22:27:27,JP Morgan,Overweight,,main
+2014-07-11 19:30:17,Citigroup,Buy,,main
+2014-08-14 09:00:00,JP Morgan,Overweight,,main
+2014-10-06 08:00:00,FBR Capital,Outperform,Market Perform,up
+2015-02-10 05:00:08,Citigroup,Neutral,Buy,down
+2015-02-25 05:58:44,FBR Capital,Market Perform,Outperform,down
+2015-09-17 07:25:06,Ladenburg Thalmann,Buy,Neutral,up
+2016-03-03 07:27:26,Ladenburg Thalmann,Neutral,Buy,down
+2016-05-13 12:32:48,Citigroup,Neutral,,main
+2016-07-07 12:43:02,Citigroup,Neutral,,main
+2016-07-21 16:42:11,Janney Capital,Neutral,,init
+2016-08-12 07:43:21,Citigroup,Neutral,,main
+2016-10-12 12:37:26,FBR Capital,Market Perform,,init
+2016-12-16 13:04:17,JP Morgan,Neutral,Overweight,down
+2017-09-11 15:55:59,Ladenburg Thalmann,Buy,Neutral,up
+2017-12-19 10:56:40,JP Morgan,Underweight,Neutral,down
+2017-12-19 15:17:24,SunTrust Robinson Humphrey,Hold,,init
+2018-03-01 11:08:34,KeyBanc,Sector Weight,Overweight,down
+2018-03-01 16:57:51,Stifel Nicolaus,Hold,Hold,main
+2018-03-13 15:41:16,Citigroup,Neutral,Neutral,main
+2018-03-26 12:05:36,Ladenburg Thalmann,Neutral,Buy,down
+2018-05-09 12:06:18,Stifel Nicolaus,Hold,Hold,main
+2018-06-19 11:18:53,Stifel Nicolaus,Hold,Hold,main
+2018-07-16 18:35:06,Bank of America,Neutral,Neutral,main
+2018-07-20 13:15:34,Raymond James,Market Perform,,init
+2018-07-31 11:19:26,Stifel Nicolaus,Hold,Hold,main
+2018-08-02 14:31:28,Citigroup,Neutral,Neutral,main
+2018-09-10 15:54:24,Bank of America,Neutral,Neutral,main
+2018-09-18 10:47:21,Stifel Nicolaus,Hold,Hold,main
+2018-11-01 14:17:36,Citigroup,Neutral,Neutral,main
+2018-12-06 11:21:10,Raymond James,Outperform,Market Perform,up
+2019-03-22 13:31:24,Raymond James,Outperform,Outperform,main
+2019-04-30 13:58:22,Stifel Nicolaus,Hold,Hold,main
+2019-06-11 16:06:58,Bank of America,Underperform,Neutral,down
+2019-08-23 11:48:40,Stifel Nicolaus,Hold,,main
+2019-08-28 12:12:17,JP Morgan,Neutral,,main
+2019-12-06 14:31:12,JP Morgan,Neutral,,main
+2019-12-18 12:08:19,JP Morgan,Overweight,Neutral,up
+2020-01-16 12:02:31,SunTrust Robinson Humphrey,Buy,Hold,up
+2020-02-25 13:52:46,Stifel Nicolaus,Hold,,main
+2020-03-13 13:52:19,Stifel,Hold,,main
+2020-04-07 12:30:30,Citigroup,Sell,Neutral,down
+2020-04-17 16:59:37,SunTrust Robinson Humphrey,Buy,,main
+2020-04-17 17:40:36,Raymond James,Outperform,,main
+2020-04-22 09:51:27,JP Morgan,Neutral,Overweight,down
+2020-04-24 15:19:42,Stifel,Hold,,main
+2020-05-27 12:52:26,RBC Capital,Outperform,,reit
+2020-08-31 11:04:31,RBC Capital,Outperform,,main
+2020-10-13 16:18:52,RBC Capital,Sector Perform,Outperform,down
+2020-12-21 11:36:59,JP Morgan,Underweight,Neutral,down
+2021-01-14 13:10:25,Janney Capital,Neutral,Buy,down
+2021-04-07 11:17:47,B of A Securities,Buy,Underperform,up
+2021-06-01 11:17:18,Raymond James,Strong Buy,Market Perform,up
+2021-10-25 12:26:54,RBC Capital,Sector Perform,,main
+2021-11-24 15:33:23,Citigroup,Neutral,,main

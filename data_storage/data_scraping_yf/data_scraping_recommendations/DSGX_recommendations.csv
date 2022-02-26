@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action
+2013-03-08 07:26:47,BMO Capital,Market Perform,,main
+2013-11-27 14:08:19,PI Financial,Neutral,Buy,down
+2013-12-04 16:00:00,PI Financial,Buy,Neutral,up
+2014-11-25 04:39:45,Morgan Stanley,Equal-Weight,,init
+2014-12-05 09:00:00,Barclays,Overweight,,main
+2015-05-29 09:00:00,Barclays,Overweight,,main
+2015-09-11 04:22:37,Barclays,Overweight,,main
+2015-09-11 15:12:13,Canaccord Genuity,Buy,,main
+2015-12-04 09:31:12,Barclays,Overweight,,main
+2016-05-27 11:46:34,Barclays,Overweight,,main
+2016-09-09 08:01:18,Barclays,Overweight,,main
+2016-10-19 08:03:36,CIBC,Sector Outperform,Sector Performer,up
+2017-09-07 15:51:21,Canaccord Genuity,Buy,,main
+2017-09-07 15:55:15,BMO Capital,Market Perform,,main
+2017-12-01 16:09:45,Raymond James,Market Perform,Outperform,down
+2018-03-06 14:29:11,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-05-31 11:48:19,Canaccord Genuity,Buy,Buy,main
+2018-05-31 12:59:26,Barclays,Overweight,Overweight,main
+2018-06-01 11:50:23,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2019-07-02 10:49:10,Stephens & Co.,Equal-Weight,,init
+2019-08-22 13:59:01,Wolfe Research,Outperform,,init
+2019-12-05 13:19:03,Canaccord Genuity,Buy,,main
+2019-12-05 14:08:51,Barclays,Overweight,,main
+2020-01-10 14:21:53,Barclays,Equal-Weight,Overweight,down
+2020-01-10 14:23:27,TD Securities,Buy,,main
+2020-05-26 14:47:49,ScotiaBank,Sector Outperform,,main
+2020-05-28 11:37:23,Canaccord Genuity,Buy,,reit
+2020-06-04 12:21:00,RBC Capital,Outperform,,main
+2020-09-10 11:17:07,TD Securities,Buy,,main
+2020-09-10 14:02:16,ScotiaBank,Sector Outperform,,main
+2021-06-03 10:57:33,Barclays,Equal-Weight,,main
+2021-06-03 11:15:23,RBC Capital,Outperform,,main
+2021-06-03 11:37:41,Stephens & Co.,Overweight,,main
+2021-06-03 11:53:37,CIBC,Neutral,,main
+2021-08-23 11:19:43,Barclays,Equal-Weight,,main
+2021-09-03 13:07:21,RBC Capital,Outperform,,main
+2021-09-09 11:27:09,Barclays,Equal-Weight,,main
+2021-09-09 12:40:46,RBC Capital,Outperform,,main
+2021-09-09 13:22:54,Stephens & Co.,Overweight,,main
+2021-12-02 12:11:42,Barclays,Equal-Weight,,main
+2021-12-02 12:21:33,RBC Capital,Outperform,,main

@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action
+2021-05-24 10:39:40,Barclays,Equal-Weight,,init
+2021-05-24 10:57:59,Piper Sandler,Overweight,,init
+2021-05-24 11:09:08,Goldman Sachs,Neutral,,init
+2021-05-24 11:10:17,RBC Capital,Outperform,,init
+2021-05-24 11:47:22,Deutsche Bank,Buy,,init
+2021-05-24 11:53:23,Citigroup,Neutral,,init
+2021-05-24 11:57:35,Credit Suisse,Outperform,,init
+2021-05-24 13:22:37,UBS,Neutral,,init
+2021-05-24 13:25:55,Jefferies,Buy,,init
+2021-05-24 13:33:20,JP Morgan,Neutral,,init
+2021-05-24 13:37:49,Morgan Stanley,Equal-Weight,,init
+2021-05-24 16:59:08,Evercore ISI Group,Outperform,,init
+2021-06-03 13:32:07,Morgan Stanley,Equal-Weight,,main
+2021-11-18 10:14:42,JP Morgan,Overweight,Neutral,up
+2021-12-17 10:28:58,Morgan Stanley,Overweight,Equal-Weight,up

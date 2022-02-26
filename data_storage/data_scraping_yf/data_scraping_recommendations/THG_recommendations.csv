@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-19 07:57:00,Sterne Agee,Buy,,main
+2012-08-03 14:25:00,Barclays,Equal-Weight,,main
+2013-03-18 06:14:53,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2013-03-26 08:47:04,Macquarie,Outperform,Neutral,up
+2013-09-24 10:07:39,JMP Securities,Market Outperform,Market Perform,up
+2014-02-14 16:00:00,Guggenheim,Buy,,init
+2014-07-21 20:08:42,JMP Securities,Market Perform,,main
+2014-10-30 09:00:00,JMP Securities,Market Outperform,,main
+2015-01-21 09:00:00,JMP Securities,Market Outperform,,main
+2015-04-09 09:00:00,JMP Securities,Market Outperform,,main
+2015-07-14 07:46:38,PiperJaffray,Overweight,,init
+2015-07-20 11:00:00,JMP Securities,Market Outperform,,main
+2015-11-12 05:51:18,PiperJaffray,Neutral,Overweight,down
+2016-03-28 06:35:33,BMO Capital,Outperform,Market Perform,up
+2016-10-24 13:53:27,Sandler O'Neill,Buy,,init
+2017-01-12 13:08:59,Keefe Bruyette & Woods,Underperform,Market Perform,down
+2017-05-18 10:05:21,Keefe Bruyette & Woods,Market Perform,Underperform,up
+2018-08-30 16:35:29,Sandler O'Neill,Neutral,Buy,down
+2018-09-26 12:53:10,Sandler O'Neill,Buy,Neutral,up
+2019-03-01 13:20:09,Compass Point,Buy,,init
+2020-01-22 13:56:36,Buckingham,Buy,,main
+2020-03-11 13:22:56,Piper Sandler,Overweight,,main
+2020-04-06 17:05:45,Piper Sandler,Overweight,,main
+2020-04-16 18:51:58,JMP Securities,Market Outperform,,main
+2020-06-03 14:37:40,Piper Sandler,Overweight,,main
+2020-09-03 10:48:31,Credit Suisse,Neutral,,init
+2021-04-16 13:53:28,JMP Securities,Market Outperform,,main
+2021-05-21 10:24:46,B of A Securities,Buy,,init
+2021-08-17 09:09:37,Wolfe Research,Peer Perform,,init

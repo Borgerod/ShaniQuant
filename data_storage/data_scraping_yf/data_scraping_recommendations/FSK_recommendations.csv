@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-12 11:00:06,Wells Fargo,Underweight,Equal-Weight,down
+2020-11-25 09:37:06,Raymond James,Market Perform,,init
+2020-11-25 09:37:08,JP Morgan,Overweight,Neutral,up
+2020-11-25 09:37:10,Jefferies,Buy,,init
+2020-11-25 09:37:16,Wells Fargo,Equal-Weight,,main
+2020-11-25 09:37:19,Keefe Bruyette & Woods,Market Perform,,main
+2020-11-25 09:37:20,Raymond James,Outperform,Market Perform,up
+2020-11-25 09:37:20,Wells Fargo,Underweight,,init
+2020-11-25 09:37:22,Compass Point,Neutral,Buy,down
+2020-11-25 09:37:22,JP Morgan,Neutral,Overweight,down
+2020-11-25 09:37:23,Wells Fargo,Equal-Weight,,main
+2020-11-25 09:37:24,Truist Securities,Hold,,init
+2020-12-07 12:46:39,Raymond James,Market Perform,Outperform,down
+2021-06-18 10:41:00,RBC Capital,Sector Perform,,init
+2021-10-25 12:28:35,Wells Fargo,Underweight,,main

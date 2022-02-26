@@ -1,0 +1,52 @@
+Date,Firm,To Grade,From Grade,Action
+2012-11-05 05:53:00,Deutsche Bank,Hold,,init
+2012-11-05 06:01:00,Morgan Stanley,Equal-Weight,,init
+2012-11-05 06:53:00,Jefferies,Buy,,init
+2012-11-05 10:53:00,RBC Capital,Outperform,,init
+2012-11-16 07:36:00,Jefferies,Buy,,main
+2013-01-10 16:13:56,Cantor Fitzgerald,Buy,,init
+2013-02-22 07:54:05,Jefferies,Buy,,main
+2013-04-09 07:38:54,Jefferies,Buy,,main
+2013-08-08 07:44:47,Jefferies,Buy,,main
+2013-08-08 07:53:49,Deutsche Bank,Hold,,main
+2013-12-20 06:24:21,Wunderlich,Buy,,init
+2014-08-08 16:00:00,JP Morgan,Hold,,main
+2015-02-13 09:00:00,Jefferies,Buy,,main
+2015-04-01 06:02:14,Raymond James,Outperform,,init
+2015-05-08 09:00:00,Deutsche Bank,Hold,,main
+2015-05-28 16:22:07,Topeka,Buy,,init
+2015-06-17 08:37:36,RBC Capital,Outperform,,main
+2015-07-14 08:00:24,Morgan Stanley,Underweight,,init
+2015-08-07 07:24:33,William Blair,Market Perform,Outperform,down
+2015-08-07 07:26:55,Jefferies,Hold,Buy,down
+2015-08-07 07:39:01,RBC Capital,Sector Perform,Outperform,down
+2015-08-07 13:17:32,Cantor Fitzgerald,Buy,,main
+2015-11-06 10:01:31,Deutsche Bank,Hold,,main
+2016-02-25 06:07:26,Deutsche Bank,Hold,,main
+2016-02-25 06:18:39,Jefferies,Hold,,main
+2016-08-04 11:45:29,Cantor Fitzgerald,Hold,Buy,down
+2016-08-05 08:26:55,Loop Capital,Hold,,init
+2016-08-05 10:55:04,Jefferies,Hold,,main
+2016-08-09 21:57:49,Deutsche Bank,Hold,,main
+2016-09-16 07:23:04,Jefferies,Hold,,main
+2016-11-07 10:57:56,Raymond James,Market Perform,Outperform,down
+2017-08-03 17:10:34,Deutsche Bank,Hold,,main
+2017-08-16 12:19:03,SunTrust Robinson Humphrey,Hold,,init
+2017-08-25 11:17:09,Jefferies,Underperform,Hold,down
+2017-11-01 16:28:18,Jefferies,Underperform,,main
+2018-02-23 14:16:30,Deutsche Bank,Hold,Hold,main
+2018-08-15 12:49:55,Deutsche Bank,Hold,Hold,main
+2018-10-31 13:46:52,Deutsche Bank,Hold,Hold,main
+2020-04-29 16:57:14,SunTrust Robinson Humphrey,Hold,,main
+2020-07-23 11:18:43,Needham,Buy,,init
+2020-08-28 11:20:21,Truist Securities,Buy,Hold,up
+2020-09-29 11:51:38,B of A Securities,Buy,,init
+2020-10-23 10:22:05,JMP Securities,Market Outperform,,init
+2020-10-23 16:23:56,Stifel,Buy,,init
+2020-10-28 11:27:30,JMP Securities,Market Outperform,,main
+2020-10-28 15:04:47,Stifel,Buy,,main
+2021-04-27 10:11:35,Needham,Buy,,init
+2021-04-28 12:18:16,JMP Securities,Market Outperform,,main
+2021-07-28 10:37:17,Needham,Buy,,main
+2021-10-27 09:58:05,Needham,Buy,,main
+2022-02-11 11:40:37,Needham,Buy,,main

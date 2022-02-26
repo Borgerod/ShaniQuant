@@ -1,0 +1,56 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-11 10:56:00,Early Bird Capital,Hold,,main
+2012-10-04 09:42:00,Wells Fargo,Underperform,Market Perform,down
+2013-01-31 09:14:45,BB&T Capital,Underweight,Hold,down
+2013-05-20 09:38:24,Standpoint Research,Hold,Buy,down
+2014-11-25 00:00:00,Maxim Group,Buy,,init
+2015-01-07 00:00:00,RBC Capital,Sector Perform,Underperform,up
+2015-01-28 07:50:37,Wells Fargo,Market Perform,Underperform,up
+2015-02-11 09:25:08,Cowen & Co.,Market Perform,Outperform,down
+2015-07-28 08:04:37,BB&T Capital,Hold,,init
+2016-01-20 07:36:29,Jefferies,Underperform,,init
+2016-04-28 06:05:48,Credit Suisse,Neutral,Underperform,up
+2016-08-30 07:10:06,Wells Fargo,Underperform,Market Perform,down
+2016-09-29 04:20:52,Credit Suisse,Underperform,Neutral,down
+2016-11-30 13:46:49,Maxim Group,Hold,Buy,down
+2017-01-10 11:21:33,Loop Capital,Hold,,init
+2017-06-02 12:58:12,Cowen & Co.,Outperform,Market Perform,up
+2017-06-30 20:33:32,Loop Capital,Buy,Hold,up
+2017-10-25 13:22:23,Wells Fargo,Underperform,,main
+2017-11-02 16:47:22,Loop Capital,Buy,,main
+2018-02-22 15:31:04,Cowen & Co.,Outperform,Outperform,main
+2018-02-23 14:27:27,Credit Suisse,Underperform,Underperform,main
+2018-05-17 11:42:44,Wells Fargo,Outperform,Market Perform,up
+2018-05-25 10:54:01,Stifel Nicolaus,Hold,,init
+2018-07-06 14:03:49,SunTrust Robinson Humphrey,Buy,Hold,up
+2018-08-06 13:09:12,Credit Suisse,Underperform,Underperform,main
+2019-06-03 11:52:08,Morgan Stanley,Equal-Weight,,init
+2019-08-01 11:09:50,Wells Fargo,Market Perform,Outperform,down
+2019-11-25 11:57:27,SunTrust Robinson Humphrey,Hold,Buy,down
+2020-01-09 15:26:21,Wells Fargo,Underweight,Equal-Weight,down
+2020-02-20 13:00:15,Wells Fargo,Underweight,,main
+2020-02-20 13:37:15,SunTrust Robinson Humphrey,Hold,,main
+2020-02-20 15:09:53,Credit Suisse,Underperform,,main
+2020-03-03 10:52:32,Wells Fargo,Equal-Weight,Underweight,up
+2020-03-25 15:04:16,Morgan Stanley,Equal-Weight,,main
+2020-03-31 09:24:38,William Blair,Outperform,,init
+2020-04-02 13:14:46,Wells Fargo,Equal-Weight,,main
+2020-04-14 14:43:26,Morgan Stanley,Equal-Weight,,main
+2020-04-14 15:11:11,SunTrust Robinson Humphrey,Hold,,main
+2020-04-30 15:39:59,Wells Fargo,Equal-Weight,,main
+2020-04-30 16:15:53,SunTrust Robinson Humphrey,Hold,,main
+2020-05-05 12:36:40,Morgan Stanley,Equal-Weight,,main
+2020-05-19 08:51:44,Wells Fargo,Overweight,Equal-Weight,up
+2020-07-30 14:46:51,SunTrust Robinson Humphrey,Hold,,main
+2020-08-04 12:30:59,Morgan Stanley,Equal-Weight,,main
+2020-12-11 14:35:07,Morgan Stanley,Equal-Weight,,main
+2021-02-09 14:25:31,Alliance Global Partners,Neutral,Buy,down
+2021-02-19 14:46:47,Morgan Stanley,Equal-Weight,,main
+2021-02-22 14:27:24,Morgan Stanley,Equal-Weight,,main
+2021-05-05 13:33:18,Credit Suisse,Underperform,,main
+2021-05-13 10:54:35,Wells Fargo,Equal-Weight,,init
+2021-06-15 11:19:43,Morgan Stanley,Equal-Weight,,main
+2021-08-04 13:04:21,Alliance Global Partners,Neutral,,main
+2021-11-03 12:34:58,Wells Fargo,Equal-Weight,,main
+2021-11-10 11:17:01,B of A Securities,Underperform,Buy,down
+2021-11-17 13:52:38,Morgan Stanley,Equal-Weight,,main

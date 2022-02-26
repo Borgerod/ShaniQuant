@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action
+2017-01-19 13:23:50,SunTrust Robinson Humphrey,Buy,,init
+2017-03-31 13:39:50,Jefferies,Buy,,init
+2017-10-23 10:32:07,Jefferies,Hold,Buy,down
+2018-08-21 11:29:56,SunTrust Robinson Humphrey,Buy,Buy,main
+2019-01-14 13:02:04,Credit Suisse,Outperform,Neutral,up
+2019-06-28 11:55:18,Canaccord Genuity,Buy,,init
+2019-09-10 11:12:19,JP Morgan,Neutral,,init
+2020-01-07 12:26:38,Jefferies,Buy,Hold,up
+2020-02-20 15:53:19,Canaccord Genuity,Buy,,main
+2020-04-29 16:26:29,SunTrust Robinson Humphrey,Buy,,main
+2020-05-21 09:31:03,RBC Capital,Sector Perform,,init
+2020-07-28 12:27:25,SunTrust Robinson Humphrey,Buy,,main
+2020-08-04 09:37:59,RBC Capital,Outperform,Sector Perform,up
+2020-10-27 14:57:57,Canaccord Genuity,Buy,,main
+2020-12-22 13:45:26,Truist Securities,Hold,Buy,down
+2021-01-07 11:03:51,Jefferies,Hold,Buy,down
+2021-04-27 14:24:52,Canaccord Genuity,Hold,,main
+2022-02-08 12:27:01,Jefferies,Buy,Hold,up

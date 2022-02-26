@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action
+2014-07-21 07:40:23,PiperJaffray,Overweight,,init
+2014-07-21 08:15:49,Deutsche Bank,Hold,,init
+2014-10-01 05:52:42,RBC Capital,Outperform,,init
+2014-10-15 16:00:00,Deutsche Bank,Buy,Hold,up
+2014-10-30 09:00:00,Deutsche Bank,Buy,,main
+2014-11-13 06:45:48,Deutsche Bank,Hold,Buy,down
+2015-02-20 09:00:00,Jefferies,Market Outperform,,main
+2015-06-05 06:26:40,Goldman Sachs,Buy,,init
+2015-06-10 07:53:01,KeyBanc,Overweight,,init
+2015-06-17 06:43:46,PiperJaffray,Overweight,,main
+2015-06-23 07:46:16,Bank of America,Buy,,init
+2015-08-03 07:51:46,Jefferies,Buy,,init
+2015-08-13 14:16:25,PiperJaffray,Overweight,,main
+2015-09-18 08:45:33,KeyBanc,Overweight,,main
+2016-07-11 21:30:37,Jefferies,Buy,,main
+2016-08-31 07:28:36,JMP Securities,Market Outperform,,main
+2016-09-08 07:23:27,Jefferies,Buy,,main
+2016-11-02 10:44:15,Bank of America,Underperform,Buy,down
+2016-11-02 11:26:46,Jefferies,Hold,Buy,down
+2016-11-02 13:38:32,Stephens & Co.,Equal-Weight,Overweight,down
+2016-11-04 08:30:42,Goldman Sachs,Neutral,Buy,down
+2019-07-22 11:44:58,Cowen & Co.,Outperform,,init
+2019-07-22 11:52:54,Goldman Sachs,Neutral,,init
+2019-07-22 12:24:05,JP Morgan,Overweight,,init
+2019-07-22 12:25:25,Bank of America,Buy,,init
+2019-07-22 12:55:56,William Blair,Outperform,,init
+2019-07-22 13:18:11,Guggenheim,Buy,,init
+2019-07-23 12:15:16,BTIG Research,Buy,,init
+2020-05-19 15:00:39,Guggenheim,Buy,,main
+2020-09-09 11:34:34,Morgan Stanley,Equal-Weight,,init
+2020-11-11 12:41:32,Morgan Stanley,Equal-Weight,,main
+2021-02-26 13:27:51,Morgan Stanley,Equal-Weight,,main
+2021-03-03 13:58:54,Goldman Sachs,Neutral,Buy,down
+2021-05-07 11:42:32,Morgan Stanley,Equal-Weight,,main
+2021-08-06 12:15:40,Goldman Sachs,Neutral,,main
+2022-02-15 14:24:42,Morgan Stanley,Equal-Weight,,main
+2022-02-16 14:16:05,BTIG,Buy,,main

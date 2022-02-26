@@ -1,0 +1,60 @@
+Date,Firm,To Grade,From Grade,Action
+2013-03-05 07:56:57,JMP Securities,Market Outperform,,init
+2013-05-24 07:51:29,Stephens & Co.,Overweight,,init
+2013-06-05 07:20:08,Credit Suisse,Neutral,,init
+2013-06-10 06:11:33,Bank of America,Neutral,,init
+2013-10-16 07:15:56,Raymond James,Market Perform,,init
+2013-11-04 08:56:02,JMP Securities,Market Outperform,,main
+2014-01-15 07:12:17,Bank of America,Neutral,,main
+2014-02-04 16:00:00,JMP Securities,Market Perform,Market Outperform,down
+2014-07-08 10:47:06,Compass Point,Sell,,init
+2014-09-04 16:46:14,Jefferies,Hold,,init
+2014-10-08 08:30:00,Macquarie,Neutral,,init
+2015-01-30 09:00:00,Jefferies,Hold,,main
+2015-02-03 09:00:00,Jefferies,Hold,,main
+2015-03-02 09:00:00,Jefferies,Hold,,main
+2015-04-08 09:00:00,Jefferies,Hold,,main
+2015-04-30 09:00:00,JMP Securities,Market Underperform,,main
+2015-07-15 07:29:24,Janney Capital,Sell,,init
+2015-07-30 11:00:00,JMP Securities,Market Underperform,,main
+2015-08-26 06:57:53,JMP Securities,Market Perform,Market Underperform,up
+2015-11-10 07:58:43,Compass Point,Neutral,Sell,up
+2016-03-16 05:35:11,JMP Securities,Market Underperform,Market Perform,down
+2016-06-20 07:55:37,Janney Capital,Neutral,,up
+2016-07-27 04:25:27,Credit Suisse,Underperform,Neutral,down
+2016-09-06 05:24:25,Compass Point,Sell,Neutral,down
+2016-11-01 12:54:04,Stephens & Co.,Underweight,,init
+2017-01-23 13:05:55,Susquehanna,Neutral,,init
+2017-02-17 15:13:34,Janney Capital,Sell,Neutral,down
+2017-08-01 12:27:02,Raymond James,Market Perform,Underperform,up
+2017-08-01 16:51:24,BMO Capital,Market Perform,,main
+2017-10-31 14:05:56,BMO Capital,Market Perform,,main
+2017-10-31 16:40:15,Credit Suisse,Underperform,,main
+2017-10-31 17:16:23,Bank of America,Underperform,,main
+2018-01-09 16:40:42,Oppenheimer,Outperform,,init
+2018-02-01 15:31:46,BMO Capital,Market Perform,Market Perform,main
+2018-08-01 10:28:58,Compass Point,Neutral,Sell,up
+2018-08-01 13:55:37,Susquehanna,Neutral,Neutral,main
+2018-08-02 12:41:03,BMO Capital,Market Perform,Market Perform,main
+2018-08-02 13:04:10,JMP Securities,Market Underperform,Market Underperform,main
+2018-10-30 14:36:55,Credit Suisse,Underperform,Underperform,main
+2018-11-01 14:52:03,BMO Capital,Market Perform,Market Perform,main
+2019-01-03 13:48:08,Stephens & Co.,Equal-Weight,Underweight,up
+2019-01-24 13:30:52,BTIG Research,Sell,,init
+2019-01-31 11:17:38,Oppenheimer,Market Perform,Outperform,down
+2019-03-28 11:58:28,Buckingham,Neutral,,init
+2019-04-30 13:15:09,Stephens & Co.,Equal-Weight,Equal-Weight,main
+2019-11-05 13:23:11,Stephens & Co.,Equal-Weight,,main
+2019-11-14 13:47:21,Credit Suisse,Underperform,,reit
+2020-01-31 12:28:21,Janney Capital,Sell,Neutral,down
+2020-03-19 12:46:58,BTIG Research,Sell,,main
+2020-04-03 21:40:19,JMP Securities,Market Underperform,,main
+2020-07-31 13:24:09,Credit Suisse,Underperform,,main
+2020-07-31 16:27:04,Janney Capital,Neutral,Sell,up
+2021-05-03 10:58:45,BMO Capital,Market Perform,,main
+2021-07-06 12:21:07,Credit Suisse,Underperform,,main
+2021-07-30 12:44:16,Credit Suisse,Underperform,,main
+2021-11-02 11:36:42,Stephens & Co.,Equal-Weight,,main
+2021-11-02 11:53:33,JMP Securities,Market Underperform,,main
+2021-11-02 12:18:51,Credit Suisse,Underperform,,main
+2022-02-01 14:33:00,BMO Capital,Market Perform,,main

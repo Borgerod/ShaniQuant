@@ -1,0 +1,147 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-24 10:17:00,Sterne Agee,Buy,,up
+2012-07-10 10:36:00,Pacific Crest,Outperform,,init
+2012-07-31 07:43:00,Sterne Agee,Buy,,main
+2012-08-08 06:29:00,Sterne Agee,Buy,,main
+2012-09-05 10:07:00,Feltl & Co.,Sell,,init
+2012-09-12 06:34:00,Needham,Hold,Buy,down
+2012-09-14 06:49:00,Lazard,Neutral,Buy,down
+2012-10-02 08:36:00,Feltl & Co.,Hold,Sell,up
+2012-10-23 07:51:00,Sterne Agee,Buy,,main
+2012-12-19 06:13:39,JP Morgan,Overweight,Neutral,up
+2013-01-14 08:25:55,Pacific Crest,Outperform,Sector Perform,up
+2013-01-25 08:20:12,Cowen & Co.,Outperform,Neutral,up
+2013-01-25 08:34:00,Stifel Nicolaus,Buy,,main
+2013-01-25 12:19:30,Blaylock Robert Van,Strong Buy,,main
+2013-03-18 07:58:31,JP Morgan,Overweight,,main
+2013-03-18 10:38:19,Needham,Buy,Hold,up
+2013-03-21 07:18:11,Sterne Agee,Buy,,main
+2013-03-25 07:47:13,JP Morgan,Overweight,,main
+2013-03-26 09:38:52,Blaylock Robert Van,Strong Buy,,main
+2013-04-24 08:08:59,Maxim Group,Buy,,init
+2013-06-26 08:26:36,Stifel Nicolaus,Buy,,main
+2013-09-20 06:30:43,Oppenheimer,Outperform,Perform,up
+2013-10-11 06:46:38,JP Morgan,Neutral,Overweight,down
+2013-11-07 06:52:20,JP Morgan,Overweight,Neutral,up
+2013-11-11 10:48:40,Pacific Crest,Outperform,,main
+2013-12-09 16:00:00,Cross Research,Buy,,init
+2014-01-14 07:47:29,Stifel Nicolaus,Buy,,main
+2014-01-28 16:00:00,Oppenheimer,Perform,Outperform,down
+2014-04-11 07:35:04,Stifel Nicolaus,Buy,,main
+2014-04-25 01:57:48,JP Morgan,Overweight,,main
+2014-04-25 02:39:04,Pacific Crest,Outperform,,main
+2014-04-25 07:34:52,Stifel Nicolaus,Buy,,main
+2014-05-06 06:26:50,Imperial Capital,Outperform,,init
+2014-05-14 10:45:15,Lake Street,Buy,,init
+2014-06-05 06:15:43,Feltl & Co.,Strong Buy,Buy,up
+2014-06-11 20:38:00,JP Morgan,Overweight,,main
+2014-06-13 20:03:54,JP Morgan,Overweight,,main
+2014-07-29 22:26:39,JP Morgan,Overweight,,main
+2014-08-01 07:35:14,Needham,Strong Buy,,main
+2014-10-13 09:00:00,Pacific Crest,Outperform,,main
+2014-11-17 10:05:57,Imperial Capital,Outperform,,main
+2014-12-05 00:00:00,Feltl & Co.,Buy,Strong Buy,down
+2014-12-05 07:30:47,Stifel Nicolaus,Buy,,main
+2014-12-05 09:00:00,Stifel Nicolaus,Buy,,main
+2015-01-02 00:00:00,Pacific Crest,Sector Perform,Outperform,down
+2015-01-14 09:00:00,JP Morgan,Overweight,,main
+2015-01-22 06:45:46,BMO Capital,Outperform,,init
+2015-01-30 09:00:00,Stifel Nicolaus,Buy,,main
+2015-03-10 10:29:08,Northland Securities,Outperform,,init
+2015-04-24 09:00:00,BMO Capital,Outperform,,main
+2015-05-22 06:22:24,Mizuho,Buy,,init
+2015-06-04 09:00:00,JP Morgan,Overweight,,main
+2015-07-31 14:12:41,Stifel Nicolaus,Buy,,main
+2016-01-20 07:04:24,Oppenheimer,Perform,Outperform,down
+2016-01-29 07:41:43,Needham,Buy,Strong Buy,down
+2016-03-08 09:15:43,Rosenblatt,Buy,,init
+2016-04-11 13:18:38,Redstone Technology,Positive,,init
+2016-04-15 07:49:26,Cross Research,Hold,Buy,down
+2016-04-29 06:21:41,Mizuho,Neutral,Buy,down
+2016-10-13 13:47:22,Mizuho,Buy,Neutral,up
+2016-10-28 11:31:42,Needham,Hold,Buy,down
+2016-12-12 10:55:12,Oppenheimer,Underperform,Perform,down
+2017-03-16 14:49:23,Northland Securities,Outperform,Market Perform,up
+2017-08-04 11:42:19,Craig-Hallum,Buy,Hold,up
+2017-10-09 11:58:14,Mizuho,Neutral,Buy,down
+2017-11-03 12:53:14,Rosenblatt,Neutral,Buy,down
+2017-11-08 12:56:01,Stifel Nicolaus,Buy,,main
+2017-12-08 13:57:52,Oppenheimer,Perform,Underperform,up
+2018-01-12 18:47:04,KeyBanc,Overweight,Sector Weight,up
+2018-02-08 14:47:59,Stifel Nicolaus,Buy,Buy,main
+2018-04-11 11:22:21,Mizuho,Buy,Neutral,up
+2018-06-20 10:30:10,Stifel Nicolaus,Buy,Buy,main
+2018-06-21 12:40:50,Craig-Hallum,Hold,Buy,down
+2018-08-01 11:40:02,Craig-Hallum,Buy,Hold,up
+2018-08-10 11:42:51,BMO Capital,Market Perform,Market Perform,main
+2018-08-10 12:14:13,JP Morgan,Overweight,Overweight,main
+2018-11-09 10:41:41,KeyBanc,Sector Weight,Overweight,down
+2018-12-07 14:09:06,Susquehanna,Neutral,,init
+2019-02-08 13:37:41,JP Morgan,Neutral,Overweight,down
+2019-03-18 11:22:39,Mizuho,Neutral,Buy,down
+2019-03-18 13:04:26,JP Morgan,Neutral,Neutral,main
+2019-03-19 12:03:53,BMO Capital,Market Perform,Market Perform,main
+2019-05-10 13:01:19,Mizuho,Neutral,,main
+2019-08-09 10:27:10,Dougherty,Buy,Neutral,up
+2019-08-09 10:38:17,JP Morgan,Underweight,Neutral,down
+2019-08-09 10:40:44,Dougherty & Co.,Buy,Neutral,up
+2019-08-09 12:59:34,BMO Capital,Market Perform,,main
+2019-11-08 13:26:02,JP Morgan,Underweight,,main
+2019-11-18 15:16:27,JP Morgan,Underperform,,main
+2019-12-17 11:58:26,Rosenblatt,Sell,Neutral,down
+2019-12-19 16:49:23,Summit Insights Group,Buy,Hold,up
+2020-01-03 11:24:37,KeyBanc,Overweight,Sector Weight,up
+2020-01-16 12:15:20,Mizuho,Buy,Neutral,up
+2020-02-07 09:59:50,JP Morgan,Neutral,Underweight,up
+2020-02-07 10:25:18,KeyBanc,Overweight,,main
+2020-02-07 12:40:30,Mizuho,Buy,,main
+2020-02-07 12:57:39,Needham,Buy,,main
+2020-03-20 11:17:50,JP Morgan,Underweight,Neutral,down
+2020-03-31 10:53:02,KeyBanc,Sector Weight,Overweight,down
+2020-06-15 10:56:58,Rosenblatt,Neutral,,init
+2020-07-08 09:23:56,Rosenblatt,Buy,Neutral,up
+2020-07-21 12:35:31,Susquehanna,Positive,Neutral,up
+2020-07-21 12:55:15,Rosenblatt,Buy,,main
+2020-08-06 08:57:59,KeyBanc,Overweight,Sector Weight,up
+2020-08-06 09:35:40,Needham,Buy,,main
+2020-08-06 11:18:18,Rosenblatt,Buy,,main
+2020-08-06 15:33:23,BMO Capital,Market Perform,,main
+2020-11-06 13:22:27,Rosenblatt,Buy,,main
+2020-11-06 13:54:35,Needham,Buy,,main
+2020-11-30 14:01:43,Cowen & Co.,Market Perform,,init
+2021-01-06 10:37:24,KeyBanc,Overweight,,main
+2021-01-21 10:30:05,JP Morgan,Neutral,Underweight,up
+2021-02-05 11:02:21,KeyBanc,Overweight,,main
+2021-02-05 13:06:04,Craig-Hallum,Buy,Hold,up
+2021-02-05 13:07:02,Oppenheimer,Outperform,Perform,up
+2021-02-05 13:39:23,Needham,Buy,,main
+2021-02-05 19:03:46,Rosenblatt,Buy,,main
+2021-02-24 13:27:13,Morgan Stanley,Overweight,,init
+2021-03-10 11:47:53,JP Morgan,Overweight,Neutral,up
+2021-03-29 10:49:03,Needham,Buy,,main
+2021-04-27 11:00:39,Cowen & Co.,Outperform,Market Perform,up
+2021-05-07 11:04:42,Keybanc,Overweight,,main
+2021-05-07 12:51:36,Morgan Stanley,Overweight,,main
+2021-05-07 12:59:11,Needham,Buy,,main
+2021-05-07 13:20:55,Rosenblatt,Buy,,main
+2021-07-14 09:01:46,Keybanc,Overweight,,main
+2021-07-15 13:00:26,Mizuho,Buy,,main
+2021-08-06 08:58:39,Keybanc,Overweight,,main
+2021-08-06 10:50:06,Needham,Buy,,main
+2021-08-06 13:25:57,Rosenblatt,Buy,,main
+2021-08-11 15:41:06,Arete Research,Neutral,Buy,down
+2021-08-23 11:15:17,Mizuho,Buy,,main
+2021-08-31 08:45:05,Keybanc,Overweight,,main
+2021-08-31 11:14:40,Rosenblatt,Buy,,main
+2021-08-31 13:40:33,Cowen & Co.,Outperform,,main
+2021-10-05 08:47:55,Keybanc,Overweight,,main
+2021-11-05 08:48:50,Keybanc,Overweight,,main
+2021-11-05 13:41:45,Mizuho,Buy,,main
+2021-11-05 14:46:53,Needham,Buy,,main
+2021-11-05 15:51:25,Summit Insights Group,Buy,Hold,up
+2021-11-08 12:23:20,Oppenheimer,Outperform,,main
+2021-11-30 09:29:38,Keybanc,Overweight,,main
+2021-12-14 13:56:04,Susquehanna,Positive,,main
+2021-12-15 11:37:56,Needham,Buy,,main
+2021-12-31 11:58:56,Rosenblatt,Buy,,main
+2022-02-04 12:37:17,Needham,Buy,,main

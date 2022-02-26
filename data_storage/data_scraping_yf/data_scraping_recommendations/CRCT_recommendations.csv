@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action
+2021-04-19 10:18:12,Barclays,Overweight,,init
+2021-04-19 10:21:35,Goldman Sachs,Buy,,init
+2021-04-19 12:01:35,Citigroup,Buy,,init
+2021-04-19 12:04:39,Baird,Outperform,,init
+2021-04-19 12:23:59,Morgan Stanley,Overweight,,init
+2021-05-14 11:29:53,Morgan Stanley,Overweight,,main
+2021-06-11 11:06:54,Morgan Stanley,Equal-Weight,Overweight,down
+2021-08-13 09:37:02,Morgan Stanley,Underweight,Equal-Weight,down
+2021-08-13 12:21:17,Goldman Sachs,Neutral,Buy,down
+2021-08-17 10:16:24,Barclays,Equal-Weight,Overweight,down
+2021-10-01 11:06:53,Barclays,Underweight,Equal-Weight,down
+2021-11-11 13:36:31,Morgan Stanley,Underweight,,main
+2021-12-22 14:58:27,Citigroup,Neutral,,main

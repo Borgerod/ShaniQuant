@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action
+2020-12-01 12:37:49,Deutsche Bank,Buy,,init
+2021-03-02 12:55:44,Morgan Stanley,Overweight,,init
+2021-03-09 11:44:35,Deutsche Bank,Hold,Buy,down
+2021-03-10 14:13:03,Cowen & Co.,Outperform,,init
+2021-04-19 14:50:25,Morgan Stanley,Overweight,,main
+2021-05-19 12:06:46,Morgan Stanley,Overweight,,main
+2021-06-16 12:39:12,JP Morgan,Overweight,,init
+2021-06-23 11:30:00,Morgan Stanley,Overweight,,main
+2021-06-30 09:03:22,Baird,Outperform,,init
+2021-07-23 09:34:59,DA Davidson,Buy,,init
+2021-08-17 12:19:48,Morgan Stanley,Overweight,,main
+2021-09-29 12:11:13,Morgan Stanley,Overweight,,main
+2021-11-11 10:44:07,Jefferies,Buy,,init
+2021-11-11 12:58:32,Benchmark,Hold,,init
+2021-12-09 14:22:58,Morgan Stanley,Overweight,,main
+2022-02-09 11:40:18,Benchmark,Buy,Hold,up

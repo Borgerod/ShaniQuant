@@ -1,0 +1,84 @@
+Date,Firm,To Grade,From Grade,Action
+2013-12-18 06:44:17,Jefferies,Buy,,init
+2014-06-16 21:01:18,JMP Securities,Market Outperform,,main
+2014-09-19 05:48:18,Wedbush,Outperform,,init
+2015-03-12 09:00:00,Leerink Swann,Outperform,,main
+2015-05-08 09:00:00,Leerink Swann,Outperform,,main
+2015-05-29 08:48:48,Citigroup,Buy,,init
+2015-06-01 05:46:33,Brean Capital,Hold,Buy,down
+2015-09-17 07:44:20,PiperJaffray,Neutral,Overweight,down
+2015-10-19 04:50:17,Barclays,Overweight,,init
+2016-02-24 11:36:33,Barclays,Overweight,,main
+2016-03-01 16:24:26,SunTrust Robinson Humphrey,Buy,,init
+2016-03-10 08:59:41,Jefferies,Buy,,main
+2016-03-10 09:00:12,Leerink Swann,Outperform,,main
+2016-05-06 06:19:34,Avondale Partners,Market Outperform,Market Perform,up
+2016-06-06 06:18:57,Citigroup,Buy,,main
+2016-06-06 06:47:44,Jefferies,Hold,Buy,down
+2016-06-06 12:07:55,Barclays,Overweight,,main
+2016-11-17 12:10:05,H.C. Wainwright,Buy,,init
+2017-09-15 14:47:25,Leerink Swann,Market Perform,,main
+2017-09-19 12:23:46,Oppenheimer,Outperform,,init
+2017-11-14 12:20:58,Leerink Swann,Outperform,Market Perform,up
+2017-11-14 17:15:14,H.C. Wainwright,Buy,,main
+2017-12-21 17:19:00,Cowen & Co.,Outperform,,init
+2018-03-05 14:49:30,Citigroup,Buy,Buy,main
+2018-03-12 11:00:02,Barclays,Overweight,,init
+2018-10-29 12:28:21,Guggenheim,Buy,Neutral,up
+2019-02-15 12:30:17,PiperJaffray,Overweight,,init
+2019-03-05 11:37:33,Cantor Fitzgerald,Neutral,,init
+2019-03-25 11:41:17,Credit Suisse,Outperform,,init
+2019-04-17 12:13:31,JP Morgan,Neutral,,init
+2019-06-04 11:12:55,Citigroup,Buy,Neutral,up
+2019-06-07 12:22:17,Guggenheim,Neutral,Buy,down
+2019-06-19 13:27:49,B. Riley,Neutral,Buy,down
+2019-07-12 13:19:54,JP Morgan,Neutral,,main
+2019-07-18 10:47:09,Deutsche Bank,Hold,,init
+2019-08-02 13:46:14,JP Morgan,Underweight,Neutral,down
+2019-09-09 10:29:46,Jefferies,Buy,Hold,up
+2019-09-09 12:02:23,Cantor Fitzgerald,Neutral,,reit
+2019-09-11 13:29:49,B. Riley,Neutral,,main
+2019-09-24 10:58:53,Guggenheim,Buy,Neutral,up
+2020-01-24 12:37:23,H.C. Wainwright,Buy,,reit
+2020-01-28 11:51:44,BMO Capital,Market Perform,,init
+2020-02-28 12:10:29,H.C. Wainwright,Buy,,reit
+2020-03-12 09:45:30,JP Morgan,Neutral,Underweight,up
+2020-03-30 18:07:19,Oppenheimer,Outperform,,main
+2020-04-16 11:42:18,Goldman Sachs,Buy,,init
+2020-05-01 10:03:17,JP Morgan,Overweight,Neutral,up
+2020-07-29 14:00:52,Credit Suisse,Outperform,,main
+2020-08-07 14:24:13,Credit Suisse,Outperform,,main
+2020-09-17 14:34:12,HC Wainwright & Co.,Buy,,main
+2020-09-18 12:15:53,Citigroup,Neutral,Buy,down
+2020-09-21 13:05:55,Oppenheimer,Outperform,,main
+2020-09-21 13:39:29,Piper Sandler,Overweight,,main
+2020-09-28 15:36:27,B of A Securities,Neutral,,init
+2020-10-08 11:56:19,Credit Suisse,Outperform,,reit
+2020-10-16 10:57:55,HC Wainwright & Co.,Buy,,main
+2020-10-21 11:24:57,BMO Capital,Market Perform,,main
+2020-10-26 10:52:41,HC Wainwright & Co.,Buy,,main
+2020-10-26 11:17:36,SVB Leerink,Outperform,,main
+2020-10-26 12:00:48,Piper Sandler,Overweight,,main
+2020-10-27 12:20:52,Credit Suisse,Outperform,,main
+2020-11-02 12:59:28,H.C. Wainwright,Buy,,main
+2020-11-05 14:46:55,Piper Sandler,Overweight,,main
+2020-11-09 11:07:17,HC Wainwright & Co.,Buy,,main
+2020-11-17 13:42:18,B of A Securities,Underperform,Neutral,down
+2020-12-08 12:24:10,JMP Securities,Market Perform,,init
+2020-12-16 14:10:45,Credit Suisse,Outperform,,main
+2021-01-15 17:26:52,HC Wainwright & Co.,Buy,,main
+2021-03-01 11:52:54,HC Wainwright & Co.,Buy,,main
+2021-03-01 16:51:25,Oppenheimer,Outperform,,main
+2021-05-10 10:13:10,HC Wainwright & Co.,Buy,,main
+2021-05-10 10:57:57,Jefferies,Buy,Hold,up
+2021-05-17 10:56:31,Oppenheimer,Perform,Outperform,down
+2021-06-04 12:11:20,Citigroup,Buy,Neutral,up
+2021-08-09 10:12:17,HC Wainwright & Co.,Buy,,main
+2021-08-26 11:57:11,Morgan Stanley,Equal-Weight,,init
+2021-09-21 08:35:03,SVB Leerink,Outperform,,main
+2021-09-21 11:15:45,Oppenheimer,Perform,,main
+2021-09-21 11:50:28,Morgan Stanley,Equal-Weight,,main
+2021-09-23 08:58:21,Stifel,Buy,,init
+2021-11-19 10:39:08,BMO Capital,Outperform,,init
+2022-02-01 12:45:26,B of A Securities,Neutral,Underperform,up
+2022-02-01 14:08:55,Morgan Stanley,Equal-Weight,,main

@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,SPDR Select Sector Fund - Consu
+longName,Consumer Staples Select Sector SPDR Fund
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,XLP
+messageBoardId,finmb_2668776
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,0.6
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,913766400
+annualReportExpenseRatio,
+totalAssets,13312582656
+bookValue,
+fundFamily,SPDR State Street Global Advisors
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0249
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.17809999
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Consumer Defensive
+fiveYearAverageReturn,0.1121
+phone,866-732-8673
+longBusinessSummary,"In seeking to track the performance of the index, the fund employs a replication strategy. It generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes securities of companies from the following industries: food and staples retailing; household products; food products; beverages; tobacco; and personal products. The fund is non-diversified."
+companyOfficers,[]
+previousClose,75.89
+regularMarketOpen,75.83
+twoHundredDayAverage,72.3294
+trailingAnnualDividendYield,0.022796152
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,76.32
+navPrice,77.55
+averageDailyVolume10Day,15435030
+regularMarketPreviousClose,75.89
+fiftyDayAverage,75.9396
+trailingAnnualDividendRate,1.73
+open,75.83
+toCurrency,
+averageVolume10days,15435030
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,75.58
+currency,USD
+trailingPE,3.680236
+regularMarketVolume,16470132
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,16802661
+dayLow,75.58
+ask,75.92
+askSize,3000
+volume,16470132
+fiftyTwoWeekHigh,78.18
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,62.99
+bid,75.58
+tradeable,False
+dividendYield,
+bidSize,4000
+dayHigh,76.32
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0.9792}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0.0208}]"
+holdings,"[{'symbol': 'PG', 'holdingName': 'Procter & Gamble Co', 'holdingPercent': 0.1554}, {'symbol': 'KO', 'holdingName': 'Coca-Cola Co', 'holdingPercent': 0.0988}, {'symbol': 'PEP', 'holdingName': 'PepsiCo Inc', 'holdingPercent': 0.0963}, {'symbol': 'WMT', 'holdingName': 'Walmart Inc', 'holdingPercent': 0.0911}, {'symbol': 'COST', 'holdingName': 'Costco Wholesale Corp', 'holdingPercent': 0.047}, {'symbol': 'PM', 'holdingName': 'Philip Morris International Inc', 'holdingPercent': 0.045500003}, {'symbol': 'MDLZ', 'holdingName': 'Mondelez International Inc Class A', 'holdingPercent': 0.0444}, {'symbol': 'MO', 'holdingName': 'Altria Group Inc', 'holdingPercent': 0.0435}, {'symbol': 'EL', 'holdingName': 'The Estee Lauder Companies Inc Class A', 'holdingPercent': 0.040599998}, {'symbol': 'CL', 'holdingName': 'Colgate-Palmolive Co', 'holdingPercent': 0.0379}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 15.67, 'priceToSales': 1.6, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 25.56, 'priceToBook': 5.74, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9983
+regularMarketPrice,76.03
+preMarketPrice,
+logo_url,

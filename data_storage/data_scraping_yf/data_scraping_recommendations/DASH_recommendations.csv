@@ -1,0 +1,56 @@
+Date,Firm,To Grade,From Grade,Action
+2020-12-10 11:54:19,BTIG,Neutral,,init
+2020-12-14 13:45:32,DA Davidson,Neutral,Buy,down
+2020-12-18 13:56:05,Susquehanna,Positive,,init
+2021-01-04 10:09:01,Needham,Buy,,init
+2021-01-04 10:31:44,RBC Capital,Sector Perform,,init
+2021-01-04 10:37:40,JP Morgan,Neutral,,init
+2021-01-04 11:32:39,Piper Sandler,Neutral,,init
+2021-01-04 11:34:53,Goldman Sachs,Neutral,,init
+2021-01-04 11:36:11,JMP Securities,Market Outperform,,init
+2021-01-04 13:07:12,Barclays,Equal-Weight,,init
+2021-01-04 13:08:34,Mizuho,Neutral,,init
+2021-01-04 13:09:34,William Blair,Outperform,,init
+2021-01-04 14:17:13,B of A Securities,Neutral,,init
+2021-01-04 16:46:35,Deutsche bank,Buy,,init
+2021-01-04 16:50:17,UBS,Neutral,,init
+2021-01-15 13:47:24,Truist Securities,Hold,,init
+2021-01-27 11:11:17,Wells Fargo,Equal-Weight,,init
+2021-02-22 16:52:29,Truist Securities,Hold,,main
+2021-02-26 16:49:09,Mizuho,Neutral,,main
+2021-03-01 15:07:59,DA Davidson,Neutral,,main
+2021-04-01 11:07:09,Wolfe Research,Outperform,,init
+2021-04-06 12:03:54,Evercore ISI Group,In-Line,,init
+2021-04-27 10:05:48,Needham,Buy,,init
+2021-05-14 11:21:46,Truist Securities,Buy,Hold,up
+2021-05-14 13:17:21,Wells Fargo,Overweight,Equal-Weight,up
+2021-05-19 15:07:42,DA Davidson,Neutral,,main
+2021-06-22 11:26:24,Needham,Buy,,main
+2021-06-29 11:51:50,Wells Fargo,Overweight,,main
+2021-08-02 11:16:10,Gordon Haskett,Buy,,init
+2021-08-13 10:25:53,Needham,Buy,,main
+2021-08-13 10:57:26,JMP Securities,Market Outperform,,main
+2021-08-13 12:00:36,Wells Fargo,Overweight,,main
+2021-08-13 13:53:12,Barclays,Equal-Weight,,main
+2021-08-13 13:58:39,RBC Capital,Outperform,,main
+2021-08-17 13:31:52,Susquehanna,Positive,,main
+2021-09-13 10:12:22,Goldman Sachs,Neutral,,init
+2021-09-16 10:59:10,B of A Securities,Buy,Neutral,up
+2021-10-01 10:44:11,Needham,Buy,,main
+2021-10-06 13:11:20,Truist Securities,Buy,,main
+2021-10-18 13:58:51,JMP Securities,Market Outperform,,main
+2021-11-10 11:25:11,Gordon Haskett,Hold,Buy,down
+2021-11-10 11:39:38,Needham,Buy,,main
+2021-11-10 12:57:28,Mizuho,Neutral,,main
+2021-11-10 13:37:18,RBC Capital,Outperform,,main
+2021-11-10 14:44:35,DA Davidson,Neutral,,main
+2021-12-01 11:45:17,Gordon Haskett,Buy,Hold,up
+2021-12-02 13:10:54,UBS,Neutral,,init
+2021-12-15 19:58:45,JP Morgan,Neutral,,main
+2022-01-12 09:43:02,Evercore ISI Group,Outperform,In-Line,up
+2022-01-19 13:14:16,Northcoast Research,Neutral,,init
+2022-02-08 12:37:19,Mizuho,Neutral,,main
+2022-02-17 11:54:25,RBC Capital,Outperform,,main
+2022-02-17 11:54:45,Needham,Buy,,main
+2022-02-17 12:15:20,JP Morgan,Neutral,,main
+2022-02-17 15:34:57,JMP Securities,Market Outperform,,main

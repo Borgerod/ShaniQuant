@@ -1,0 +1,56 @@
+Date,Firm,To Grade,From Grade,Action
+2012-08-06 07:15:00,JP Morgan,Neutral,,main
+2013-01-24 07:13:58,Credit Suisse,Outperform,Neutral,up
+2013-02-26 08:14:48,JP Morgan,Neutral,,main
+2013-08-09 07:00:00,Buckingham Research,Neutral,,init
+2013-08-15 08:09:27,Credit Suisse,Outperform,Outperform,main
+2014-01-22 08:00:00,Buckingham Research,Buy,Neutral,up
+2014-02-19 07:11:31,Citigroup,Neutral,,init
+2014-03-05 07:10:18,Credit Suisse,Neutral,Outperform,down
+2014-05-16 19:26:38,Citigroup,Hold,,main
+2014-05-19 19:44:13,Credit Suisse,Neutral,,main
+2014-05-20 19:59:27,JP Morgan,Neutral,,main
+2014-08-08 08:11:18,Buckingham Research,Neutral,Buy,down
+2014-11-21 00:00:00,Bank of America,Neutral,Buy,down
+2014-12-09 09:00:00,JP Morgan,Neutral,,main
+2015-06-04 07:33:08,Credit Suisse,Underperform,Neutral,down
+2015-06-30 07:28:41,Deutsche Bank,Hold,,init
+2015-06-30 17:10:16,Deutsche Bank,Hold,,init
+2015-07-01 09:28:32,Deutsche Bank,Hold,,init
+2015-07-07 07:46:07,Bank of America,Underperform,Neutral,down
+2015-08-07 11:00:00,Deutsche Bank,Hold,,main
+2015-08-10 07:51:07,JP Morgan,Underweight,Neutral,down
+2015-09-18 06:46:20,Credit Suisse,Neutral,Underperform,up
+2015-11-09 08:47:47,Deutsche Bank,Hold,,main
+2016-01-05 12:11:59,Deutsche Bank,Hold,,main
+2016-02-23 06:37:03,Deutsche Bank,Hold,,main
+2016-02-23 12:05:44,JP Morgan,Underweight,,main
+2016-02-29 05:11:24,Deutsche Bank,Sell,Hold,down
+2016-05-13 12:32:50,Deutsche Bank,Sell,,main
+2016-09-28 04:37:08,Credit Suisse,Outperform,Neutral,up
+2017-02-10 12:40:52,Susquehanna,Neutral,,init
+2017-08-08 14:26:31,Deutsche Bank,Sell,,main
+2018-02-26 13:10:39,Deutsche Bank,Sell,Sell,main
+2018-05-21 12:12:34,Bank of America,Buy,Underperform,up
+2018-08-08 11:23:01,Wedbush,Outperform,,init
+2018-10-30 11:30:17,Wedbush,Neutral,Outperform,down
+2018-11-16 13:44:41,Deutsche Bank,Sell,Sell,main
+2019-02-26 13:25:49,Deutsche Bank,Sell,Sell,main
+2019-03-04 12:12:01,JP Morgan,Underweight,Neutral,down
+2019-04-22 14:09:25,Wedbush,Underperform,Neutral,down
+2019-05-16 11:51:17,Wedbush,Underperform,,main
+2019-05-16 12:30:50,Deutsche Bank,Sell,,main
+2019-07-11 14:08:37,Wedbush,Neutral,Underperform,up
+2019-08-19 12:01:25,Deutsche Bank,Sell,,main
+2019-11-15 12:44:16,Wedbush,Neutral,,main
+2020-01-24 11:39:24,Odeon Capital,Sell,,init
+2020-02-26 13:23:53,Deutsche Bank,Sell,,main
+2020-04-22 17:09:09,CFRA,Sell,,main
+2020-05-07 11:47:50,Deutsche Bank,Sell,,main
+2020-05-15 12:15:19,Deutsche Bank,Sell,,main
+2020-08-14 13:41:18,Wedbush,Neutral,,main
+2021-01-21 12:19:45,Deutsche Bank,Hold,Sell,up
+2021-02-23 16:02:39,Deutsche Bank,Hold,,main
+2021-05-14 11:42:32,Telsey Advisory Group,Market Perform,,main
+2021-08-13 09:24:02,Telsey Advisory Group,Market Perform,,main
+2021-11-12 12:32:15,Telsey Advisory Group,Market Perform,,main

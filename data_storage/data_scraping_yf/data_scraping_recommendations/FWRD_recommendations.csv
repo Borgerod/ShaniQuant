@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-20 07:10:00,Bank oferica,Underperform,,main
+2012-04-23 07:47:00,Dahlman Rose,Hold,,down
+2012-07-16 06:28:00,Morgan Stanley,Equal-Weight,,init
+2012-09-25 06:48:00,Bank of America,Underperform,,main
+2013-02-13 14:55:42,Wolfe Trahan,Peer Perform,Outperform,down
+2013-03-05 07:41:13,Bank of America,Underperform,,main
+2014-01-23 16:00:00,Avondale Partners,Market Outperform,Market Perform,up
+2014-02-13 16:00:00,Stephens & Co.,Overweight,Equal-Weight,up
+2015-02-09 06:41:11,BB&T Capital,Buy,Hold,up
+2015-07-23 11:00:00,Macquarie,Neutral,,main
+2015-11-17 06:26:19,Baird,Outperform,Neutral,up
+2016-05-24 08:55:06,RBC Capital,Outperform,,up
+2016-07-12 07:32:52,BB&T Capital,Hold,Buy,down
+2016-12-02 18:24:45,Baird,Neutral,Outperform,down
+2017-03-02 17:22:00,Seaport Global,Neutral,,init
+2017-08-01 16:45:06,Wolfe Research,Peer Perform,Outperform,down
+2017-10-26 11:13:44,Stifel Nicolaus,Hold,,main
+2018-01-18 12:36:00,Baird,Outperform,Neutral,up
+2018-04-26 11:18:49,Stifel Nicolaus,Buy,Hold,up
+2018-07-10 12:12:17,Stifel Nicolaus,Hold,Buy,down
+2018-07-26 11:41:10,Stifel Nicolaus,Hold,Hold,main
+2018-09-04 13:13:36,Deutsche Bank,Buy,,init
+2018-10-29 18:39:36,Stephens & Co.,Equal-Weight,Overweight,down
+2019-04-26 15:49:00,Deutsche Bank,Buy,Buy,main
+2020-02-10 16:55:49,Stephens & Co.,Equal-Weight,,main
+2020-05-04 12:41:08,Baird,Outperformer,,main
+2020-07-24 15:05:03,Stifel,Hold,,main
+2020-09-29 10:13:04,Raymond James,Outperform,Market Perform,up
+2020-11-02 13:19:39,Raymond James,Outperform,,main
+2020-11-02 14:50:15,Stifel,Hold,,main
+2020-12-11 14:32:50,Raymond James,Outperform,,main
+2021-02-16 12:25:36,Raymond James,Outperform,,main
+2021-04-15 12:09:00,Raymond James,Outperform,,main
+2021-05-03 11:50:45,Raymond James,Strong Buy,Outperform,up
+2021-07-13 12:10:18,Raymond James,Strong Buy,,main
+2021-10-29 14:06:13,Raymond James,Strong Buy,,main
+2021-12-09 12:31:41,Susquehanna,Positive,,init
+2021-12-30 12:13:40,Raymond James,Strong Buy,,main
+2022-01-04 12:31:10,Stephens & Co.,Overweight,Equal-Weight,up
+2022-01-05 12:01:57,Baird,Neutral,Outperform,down
+2022-01-06 11:50:30,Wolfe Research,Peer Perform,Outperform,down

@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-02 06:20:00,Guggenheim,Buy,,up
+2012-06-25 10:20:00,Raymond James,Market Perform,Outperform,down
+2012-09-14 15:08:00,Sidoti & Co.,Neutral,Buy,down
+2013-01-29 08:55:26,Sandler O'Neill,Hold,Buy,down
+2013-04-09 16:14:30,DA Davidson,Buy,,init
+2013-09-16 07:49:32,Raymond James,Outperform,Market Perform,up
+2014-01-28 06:32:56,DA Davidson,Buy,,main
+2014-04-29 06:30:30,DA Davidson,Buy,,main
+2014-04-30 01:36:20,Raymond James,Outperform,,main
+2014-10-28 05:37:14,Keefe Bruyette & Woods,Market Perform,,main
+2015-01-27 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-04-28 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-06-05 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-07-28 11:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2016-01-26 07:37:01,RBC Capital,Strong Buy,Outperform,up
+2016-01-26 08:49:52,Sandler O'Neill,Buy,Hold,up
+2016-03-11 06:49:54,PiperJaffray,Overweight,,init
+2016-07-26 08:37:47,Sandler O'Neill,Hold,Buy,down
+2016-07-27 14:18:58,Keefe Bruyette & Woods,Market Perform,,main
+2017-01-10 22:36:38,FBR Capital,Market Perform,,init
+2017-04-25 13:48:45,DA Davidson,Neutral,,down
+2018-01-09 18:42:31,Raymond James,Outperform,Strong Buy,down
+2018-06-15 10:14:38,Stephens & Co.,Equal-Weight,,init
+2018-07-24 11:49:14,Raymond James,Market Perform,Outperform,down
+2019-07-30 12:25:54,Piper Jaffray,Overweight,,main
+2020-01-28 11:22:50,Piper Sandler,Overweight,Neutral,up
+2020-04-07 15:10:13,DA Davidson,Neutral,,main
+2020-10-27 12:32:52,Piper Sandler,Overweight,,main
+2020-12-18 12:13:04,DA Davidson,Buy,Neutral,up
+2021-10-26 11:06:20,Stephens & Co.,Overweight,Equal-Weight,up

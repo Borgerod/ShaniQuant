@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action
+2016-10-18 14:02:01,Goldman Sachs,Neutral,,init
+2016-10-21 11:00:00,Longbow Research,Neutral,,init
+2016-11-10 14:25:25,Gabelli & Co.,Hold,Buy,down
+2016-12-02 18:54:01,Longbow Research,Buy,Neutral,up
+2017-01-31 13:41:36,Seaport Global,Neutral,Buy,down
+2017-06-07 18:41:33,Seaport Global,Buy,Neutral,up
+2017-11-10 13:36:26,Morgan Stanley,Equal-Weight,,main
+2017-11-22 13:27:08,Seaport Global,Neutral,Buy,down
+2018-02-09 16:20:05,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-02-12 12:59:33,JP Morgan,Neutral,Neutral,main
+2018-03-16 12:15:22,JP Morgan,Underweight,Neutral,down
+2018-03-16 13:39:43,JP Morgan,Underweight,Underweight,main
+2018-04-19 12:29:48,Longbow Research,Neutral,Buy,down
+2018-05-03 13:46:42,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-05-04 12:29:13,JP Morgan,Neutral,Underweight,up
+2018-08-02 11:28:41,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-09-14 11:36:38,JP Morgan,Underweight,Neutral,down
+2018-10-03 12:35:28,Jefferies,Buy,,init
+2018-11-06 15:37:59,Bank of America,Underperform,Buy,down
+2019-03-15 12:11:27,Buckingham,Neutral,,init
+2019-07-01 12:08:43,Buckingham Research,Buy,Neutral,up
+2019-08-02 14:54:01,Citi,Buy,,main
+2020-02-05 10:04:11,JP Morgan,Neutral,Underweight,up
+2020-03-13 09:22:37,Goldman Sachs,Buy,Neutral,up
+2020-03-17 14:56:45,Morgan Stanley,Equal-Weight,,main
+2020-04-02 18:25:18,Morgan Stanley,Equal-Weight,,main
+2020-04-20 17:46:31,SunTrust Robinson Humphrey,Hold,,main
+2020-05-08 13:05:19,Morgan Stanley,Equal-Weight,,main
+2020-06-04 11:21:29,SunTrust Robinson Humphrey,Buy,Hold,up
+2020-08-05 10:35:17,JP Morgan,Overweight,Neutral,up
+2020-08-05 14:51:52,Morgan Stanley,Equal-Weight,,main
+2020-10-29 12:29:13,Morgan Stanley,Equal-Weight,,main
+2021-01-11 13:56:07,Seaport Global,Neutral,Buy,down
+2021-02-04 14:12:07,Morgan Stanley,Equal-Weight,,main
+2021-04-19 10:30:31,Jefferies,Buy,Hold,up
+2021-04-30 13:11:44,Morgan Stanley,Equal-Weight,,main
+2021-08-09 15:01:49,Morgan Stanley,Equal-Weight,,main
+2021-10-13 11:20:00,Seaport Global,Buy,Neutral,up

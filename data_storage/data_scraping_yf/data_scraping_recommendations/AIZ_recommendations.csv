@@ -1,0 +1,58 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-23 06:05:00,Sterne Agee,Neutral,,down
+2012-03-08 14:15:00,Bank of America,Buy,,main
+2012-03-19 07:54:00,Sterne Agee,Neutral,,main
+2012-03-21 06:14:00,Bank oferica,Neutral,,down
+2012-05-02 06:01:00,Bank oferica,Underperform,,down
+2012-05-22 06:49:00,Macquarie,Underperform,,init
+2012-05-22 09:01:00,Sterne Agee,Underperform,,down
+2012-10-03 07:01:00,Goldman Sachs,Buy,Neutral,up
+2013-04-10 08:29:23,Sterne Agee,Neutral,Underperform,up
+2013-07-03 09:06:01,Bank of America,Underperform,Neutral,down
+2013-09-20 07:19:05,Goldman Sachs,Neutral,Buy,down
+2013-10-11 06:29:54,Bank of America,Neutral,Underperform,up
+2014-04-25 02:39:05,SunTrust Robinson Humphrey,Neutral,,main
+2014-05-16 07:02:14,Bank of America,Underperform,Neutral,down
+2014-07-01 22:20:26,JP Morgan,Neutral,,main
+2014-07-17 23:35:42,Sterne Agee,Neutral,,main
+2015-02-24 09:00:00,Jefferies,Hold,,main
+2015-04-29 09:00:00,Jefferies,Hold,,main
+2015-05-15 06:12:11,Goldman Sachs,Buy,,init
+2015-06-10 07:54:11,Bank of America,Underperform,,main
+2015-07-29 11:00:00,Macquarie,Neutral,,main
+2015-07-30 07:16:01,SunTrust Robinson Humphrey,Buy,Neutral,up
+2015-08-03 07:28:12,Bank of America,Buy,Underperform,up
+2015-08-14 11:00:00,Jefferies,Hold,,main
+2015-10-21 15:54:21,PiperJaffray,Neutral,,main
+2016-10-07 10:48:28,Credit Suisse,Neutral,,init
+2016-10-20 10:46:17,Bank of America,Neutral,Buy,down
+2018-03-02 12:37:36,UBS,Buy,,init
+2018-06-21 11:22:08,UBS,Buy,Buy,main
+2018-07-10 11:24:07,Morgan Stanley,Overweight,,init
+2018-07-16 10:56:11,Keefe Bruyette & Woods,Outperform,,init
+2019-08-15 12:38:33,Morgan Stanley,Overweight,,main
+2019-09-09 11:30:05,UBS,Buy,,main
+2019-09-10 11:47:59,UBS,Buy,,main
+2019-10-03 12:47:42,SunTrust Robinson Humphrey,Buy,,main
+2019-10-10 13:02:50,UBS,Buy,,main
+2019-11-06 12:42:12,UBS,Buy,,main
+2019-11-08 13:47:33,Morgan Stanley,Overweight,,main
+2020-02-14 14:05:48,Morgan Stanley,Overweight,,main
+2020-02-19 12:45:23,UBS,Buy,,main
+2020-02-28 13:18:00,Morgan Stanley,Overweight,,main
+2020-04-01 13:50:44,Morgan Stanley,Overweight,,main
+2020-05-07 15:27:28,SunTrust Robinson Humphrey,Buy,,main
+2020-05-18 11:53:27,Morgan Stanley,Overweight,,main
+2020-06-11 12:42:41,Morgan Stanley,Overweight,,main
+2020-08-10 12:28:37,Morgan Stanley,Overweight,,main
+2020-08-19 11:42:51,Morgan Stanley,Overweight,,main
+2020-11-24 13:19:48,Morgan Stanley,Overweight,,main
+2021-01-12 13:57:37,Morgan Stanley,Overweight,,main
+2021-04-19 13:15:23,Truist Securities,Buy,,main
+2021-05-21 10:23:41,B of A Securities,Buy,,init
+2021-05-27 12:01:14,Morgan Stanley,Overweight,,main
+2021-07-23 11:28:39,William Blair,Outperform,,init
+2021-08-16 12:00:43,Morgan Stanley,Overweight,,main
+2021-10-14 10:18:34,Piper Sandler,Overweight,,init
+2021-10-15 12:24:20,Morgan Stanley,Overweight,,main
+2021-11-04 13:26:51,Morgan Stanley,Overweight,,main

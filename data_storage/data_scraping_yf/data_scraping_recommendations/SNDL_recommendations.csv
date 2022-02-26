@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action
+2019-08-26 10:32:05,CIBC,Neutral,,init
+2019-08-26 10:51:38,BMO Capital,Market Perform,,init
+2019-08-26 13:15:29,Cowen & Co.,Outperform,,init
+2019-09-10 10:21:55,BMO Capital,Outperform,Market Perform,up
+2019-09-27 14:23:09,Barclays,Overweight,,init
+2019-10-31 10:54:45,BMO Capital,Market Perform,Outperform,down
+2020-01-31 11:57:12,CIBC,Underperformer,Neutral,down
+2020-02-24 11:02:53,Cowen & Co.,Market Perform,Outperform,down
+2020-06-29 12:21:10,BMO Capital,Market Perform,Underperform,up
+2020-08-17 10:09:09,CIBC,Neutral,Underperformer,up
+2021-03-10 11:19:01,Cantor Fitzgerald,Neutral,,init
+2021-03-10 12:24:21,BMO Capital,Underperform,Market Perform,down
+2021-07-21 09:02:27,ATB Capital,Sector Perform,Underperform,up

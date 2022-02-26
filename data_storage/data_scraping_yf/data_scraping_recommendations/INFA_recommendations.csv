@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action
+2021-11-22 09:53:10,Goldman Sachs,Buy,,init
+2021-11-22 10:07:07,JP Morgan,Overweight,,init
+2021-11-22 10:15:24,RBC Capital,Outperform,,init
+2021-11-22 10:30:27,Wolfe Research,Outperform,,init
+2021-11-22 11:06:53,Credit Suisse,Neutral,,init
+2021-11-22 11:53:02,Wells Fargo,Overweight,,init
+2021-11-22 13:47:39,UBS,Buy,,init
+2021-11-22 13:48:46,B of A Securities,Buy,,init
+2021-11-22 15:11:20,Deutsche Bank,Buy,,init
+2021-11-23 12:00:27,Citigroup,Neutral,,init
+2021-12-09 13:00:06,Macquarie,Outperform,,init
+2022-01-27 12:56:51,Berenberg,Buy,,init
+2022-02-01 16:44:04,Citigroup,Buy,Neutral,up
+2022-02-17 13:07:44,Credit Suisse,Neutral,,main

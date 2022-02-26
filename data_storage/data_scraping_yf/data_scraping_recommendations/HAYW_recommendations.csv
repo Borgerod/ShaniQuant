@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action
+2021-04-06 10:05:39,Keybanc,Overweight,,init
+2021-04-06 10:16:27,Goldman Sachs,Buy,,init
+2021-04-06 11:23:00,Baird,Outperform,,init
+2021-04-06 11:24:58,Morgan Stanley,Equal-Weight,,init
+2021-04-06 11:45:18,B of A Securities,Buy,,init
+2021-04-06 12:16:30,Jefferies,Buy,,init
+2021-04-06 12:20:39,William Blair,Outperform,,init
+2021-04-06 13:35:57,Wolfe Research,Outperform,,init
+2021-05-06 10:09:04,Keybanc,Overweight,,main
+2021-06-08 12:13:28,Keybanc,Overweight,,main
+2021-06-09 10:40:00,BMO Capital,Market Perform,,init
+2021-08-03 12:43:40,Morgan Stanley,Equal-Weight,,main
+2021-12-20 10:11:19,Jefferies,Hold,Buy,down

@@ -1,0 +1,82 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-27 06:51:00,DA Davidson,Neutral,,main
+2012-07-12 07:00:00,Wedbush,Outperform,,main
+2012-09-28 05:52:00,DA Davidson,Neutral,,main
+2012-10-26 06:47:00,DA Davidson,Neutral,,main
+2013-02-01 09:21:15,Imperial Capital,Outperform,,main
+2013-04-12 07:41:04,Raymond James,Market Perform,Strong Buy,down
+2013-06-05 06:32:37,Wedbush,Neutral,Outperform,down
+2013-07-29 10:38:45,Imperial Capital,Outperform,,main
+2013-10-25 08:47:15,DA Davidson,Buy,Neutral,up
+2013-10-28 07:46:16,Imperial Capital,Outperform,,main
+2013-12-17 07:15:01,KeyBanc,Buy,,main
+2013-12-19 16:00:00,Raymond James,Strong Buy,Market Perform,up
+2014-05-14 08:15:30,CRT Capital,Buy,,init
+2014-08-18 16:00:00,DA Davidson,Neutral,Buy,down
+2014-09-26 06:39:55,Wunderlich,Hold,,init
+2014-10-03 17:44:23,Imperial Capital,In-Line,,init
+2014-10-24 09:00:00,CRT Capital,Buy,,main
+2015-03-23 04:31:51,Imperial Capital,Outperform,In-Line,up
+2015-04-07 07:14:34,SunTrust Robinson Humphrey,Neutral,,init
+2015-04-16 09:00:00,KeyBanc,Overweight,,main
+2015-04-20 06:03:41,Jefferies,Buy,,init
+2015-04-24 06:23:34,Raymond James,Market Perform,Strong Buy,down
+2015-04-24 09:00:00,CRT Capital,Buy,,main
+2015-06-25 11:24:45,Bank of America,Buy,Neutral,up
+2016-01-04 09:09:30,Ladenburg Thalmann,Buy,,init
+2016-03-15 03:44:45,Imperial Capital,Outperform,,init
+2016-05-13 07:00:30,SunTrust Robinson Humphrey,Buy,Neutral,up
+2016-05-23 06:44:10,Wunderlich,Buy,Hold,up
+2016-06-30 09:34:18,FBR Capital,Outperform,,init
+2016-09-09 08:55:41,Compass Point,Neutral,,init
+2016-11-04 11:34:25,Compass Point,Buy,Neutral,up
+2016-11-14 14:13:28,Compass Point,Neutral,Buy,down
+2017-02-03 18:53:24,Compass Point,Buy,Neutral,up
+2017-06-23 12:12:31,Cowen & Co.,Market Perform,,init
+2017-10-26 14:44:57,SunTrust Robinson Humphrey,Buy,,main
+2017-12-14 12:22:25,JP Morgan,Overweight,,init
+2017-12-27 14:45:38,Compass Point,Sell,Neutral,down
+2018-01-25 12:39:14,KeyBanc,Overweight,Overweight,main
+2018-02-07 13:59:06,Cowen & Co.,Neutral,Sell,up
+2018-04-18 11:17:12,DA Davidson,Neutral,Buy,down
+2018-04-27 11:19:39,KeyBanc,Overweight,Overweight,main
+2018-05-05 14:00:39,B. Riley FBR,Buy,Buy,main
+2018-05-30 12:11:08,B. Riley FBR,Buy,Buy,main
+2018-06-04 11:27:05,KeyBanc,Overweight,Overweight,main
+2018-08-03 10:36:18,KeyBanc,Overweight,Overweight,main
+2018-09-28 15:17:02,Cowen & Co.,Market Perform,Market Perform,main
+2018-12-18 12:13:38,Compass Point,Buy,Neutral,up
+2019-01-09 13:12:25,Stephens & Co.,Equal-Weight,,init
+2019-02-13 13:14:05,Berenberg,Buy,,init
+2019-08-09 11:11:17,Stephens & Co.,Overweight,Equal-Weight,up
+2019-09-11 10:17:23,Raymond James,Outperform,Market Perform,up
+2019-11-06 10:49:31,KeyBanc,Overweight,,main
+2020-01-29 11:09:33,Imperial Capital,Outperform,,main
+2020-02-11 12:28:19,Raymond James,Outperform,,main
+2020-03-24 15:56:17,Cowen & Co.,Outperform,Market Perform,up
+2020-03-26 12:18:18,B. Riley FBR,Buy,,main
+2020-04-22 14:33:53,KeyBanc,Overweight,,main
+2020-05-08 12:37:17,Raymond James,Outperform,,main
+2020-05-11 13:43:04,Compass Point,Buy,,main
+2020-06-16 11:35:16,Raymond James,Outperform,,main
+2020-06-29 12:52:24,SunTrust Robinson Humphrey,Buy,,main
+2020-08-07 11:33:16,Raymond James,Outperform,,main
+2020-08-10 08:52:01,KeyBanc,Overweight,,main
+2020-10-30 09:51:10,Compass Point,Buy,Neutral,up
+2020-12-21 12:57:28,Compass Point,Neutral,Buy,down
+2021-01-04 09:23:42,KeyBanc,Overweight,,main
+2021-01-08 16:11:25,Raymond James,Outperform,,main
+2021-02-11 12:28:40,Raymond James,Outperform,,main
+2021-02-12 10:11:48,KeyBanc,Overweight,,main
+2021-04-07 13:35:32,Roth Capital,Buy,,main
+2021-05-11 10:09:36,Keybanc,Overweight,,main
+2021-05-11 12:24:59,Raymond James,Outperform,,main
+2021-05-20 12:30:45,Roth Capital,Buy,,main
+2021-08-10 12:04:25,Raymond James,Outperform,,main
+2021-08-10 13:27:10,Roth Capital,Buy,,main
+2021-10-12 13:03:44,Compass Point,Buy,Neutral,up
+2021-11-10 14:05:33,Raymond James,Outperform,,main
+2021-11-11 10:18:31,Keybanc,Overweight,,main
+2021-11-16 11:48:59,B of A Securities,Buy,,init
+2021-12-14 11:42:19,Goldman Sachs,Neutral,,init
+2022-02-11 12:24:21,Raymond James,Outperform,,main

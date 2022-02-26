@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-20 08:34:00,Janney Capital,Buy,Neutral,up
+2012-10-02 12:25:00,Barclays,Overweight,,main
+2012-10-11 07:48:00,Compass Point,Buy,,init
+2013-02-06 06:25:24,Compass Point,Buy,,main
+2013-03-06 08:44:30,Janney Capital,Neutral,Buy,down
+2013-03-22 06:28:26,Credit Suisse,Outperform,,main
+2013-04-12 06:40:55,Compass Point,Buy,,main
+2013-04-23 08:42:19,Evercore Partners,Equal-Weight,Overweight,down
+2013-05-30 07:52:40,Credit Suisse,Outperform,,main
+2013-05-30 08:44:00,Compass Point,Buy,,main
+2013-07-19 06:55:24,Compass Point,Buy,,main
+2014-01-21 08:00:00,Barclays,Overweight,,main
+2014-01-22 16:00:00,Goldman Sachs,Buy,,init
+2014-03-24 07:51:41,Compass Point,Buy,,main
+2014-05-01 07:01:21,Credit Suisse,Outperform,,init
+2014-05-01 08:00:00,Evercore Partners,Overweight,Equal-Weight,up
+2014-05-02 16:00:00,Janney Capital,Neutral,,init
+2014-05-02 23:27:27,Barclays,Overweight,,main
+2014-07-31 06:20:33,Janney Capital,Buy,Neutral,up
+2014-11-04 05:39:02,Goldman Sachs,Buy,Neutral,up
+2015-01-23 06:07:45,Goldman Sachs,Neutral,Buy,down
+2015-04-24 09:00:00,BMO Capital,Market Perform,,main
+2015-11-30 07:07:46,JP Morgan,Overweight,,init
+2016-01-13 06:26:55,Goldman Sachs,Buy,Neutral,up
+2016-03-21 17:18:26,DA Davidson,Buy,,init
+2016-07-14 07:31:06,Citigroup,Buy,,init
+2016-08-10 03:58:45,Goldman Sachs,Buy,,main
+2016-12-02 14:00:06,FBR Capital,Outperform,,init
+2016-12-07 17:29:50,Jefferies,Buy,,init
+2017-01-30 21:25:53,Wedbush,Outperform,,init
+2017-10-17 16:58:04,Citigroup,Buy,,init
+2018-01-09 16:40:40,Oppenheimer,Outperform,,init
+2018-01-26 21:36:28,Bank of America,Buy,Buy,main
+2018-04-04 12:48:37,Wells Fargo,Outperform,,init
+2018-04-25 13:25:02,BMO Capital,Market Perform,Market Perform,main
+2018-05-30 13:05:40,Wedbush,Outperform,Outperform,main
+2018-07-10 12:29:48,Stephens & Co.,Overweight,,init
+2018-12-12 15:59:12,Wells Fargo,Outperform,Outperform,main
+2019-07-26 11:50:23,Compass Point,Neutral,Buy,down
+2019-10-25 12:42:00,BMO Capital,Outperform,,main
+2020-01-24 12:40:36,Citigroup,Buy,,main
+2020-05-15 09:57:01,BMO Capital,Market Perform,Outperform,down
+2020-12-21 12:14:21,RBC Capital,Sector Perform,,init
+2021-01-29 12:53:12,RBC Capital,Outperform,Sector Perform,up
+2021-01-29 15:26:10,Credit Suisse,Outperform,,main
+2021-07-23 13:17:20,Credit Suisse,Outperform,,main
+2021-10-22 11:54:58,Stephens & Co.,Overweight,,main
+2021-10-22 12:14:31,Credit Suisse,Outperform,,main
+2021-10-22 13:25:49,RBC Capital,Outperform,,main

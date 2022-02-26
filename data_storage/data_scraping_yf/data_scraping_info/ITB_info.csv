@@ -1,0 +1,114 @@
+,info
+exchange,BTS
+shortName,iShares U.S. Home Construction 
+longName,iShares U.S. Home Construction ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,ITB
+messageBoardId,finmb_27445771
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.51
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1146441600
+annualReportExpenseRatio,
+totalAssets,3193105408
+bookValue,
+fundFamily,iShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0039
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.3671
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Consumer Cyclical
+fiveYearAverageReturn,0.2384
+phone,800-474-2737
+longBusinessSummary,"The fund generally invests at least 90% of its assets in securities of the underlying index and in depositary receipts representing securities of the underlying index. The underlying index measures the performance of the home construction sector of the U.S. equity market. The fund may invest the remainder of its assets in certain futures, options and swap contracts, cash and cash equivalents. It is non-diversified."
+companyOfficers,[]
+previousClose,67.25
+regularMarketOpen,67.16
+twoHundredDayAverage,72.52645
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,68.13
+navPrice,81.59
+averageDailyVolume10Day,6167820
+regularMarketPreviousClose,67.25
+fiftyDayAverage,77.8282
+trailingAnnualDividendRate,
+open,67.16
+toCurrency,
+averageVolume10days,6167820
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,65.805
+currency,USD
+regularMarketVolume,3850767
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,3661969
+dayLow,65.805
+ask,67.49
+askSize,900
+volume,3850767
+fiftyTwoWeekHigh,83.43
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,57.19
+bid,67.49
+tradeable,False
+dividendYield,
+bidSize,900
+dayHigh,68.13
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0.7694}, {'basic_materials': 0.060300004}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0.1702}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'DHI', 'holdingName': 'D.R. Horton Inc', 'holdingPercent': 0.1456}, {'symbol': 'LEN', 'holdingName': 'Lennar Corp', 'holdingPercent': 0.1348}, {'symbol': 'NVR', 'holdingName': 'NVR Inc', 'holdingPercent': 0.083000004}, {'symbol': 'PHM', 'holdingName': 'PulteGroup Inc', 'holdingPercent': 0.0675}, {'symbol': 'HD', 'holdingName': 'The Home Depot Inc', 'holdingPercent': 0.0465}, {'symbol': 'SHW', 'holdingName': 'Sherwin-Williams Co', 'holdingPercent': 0.0458}, {'symbol': 'LOW', 'holdingName': ""Lowe's Companies Inc"", 'holdingPercent': 0.044}, {'symbol': 'BLD', 'holdingName': 'TopBuild Corp', 'holdingPercent': 0.0312}, {'symbol': 'TOL', 'holdingName': 'Toll Brothers Inc', 'holdingPercent': 0.0309}, {'symbol': 'MAS', 'holdingName': 'Masco Corp', 'holdingPercent': 0.0208}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 11.05, 'priceToSales': 1.24, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 13.39, 'priceToBook': 2.62, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9991
+regularMarketPrice,67.36
+preMarketPrice,66.99
+logo_url,

@@ -1,0 +1,73 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-26 05:44:00,Bank of America,Neutral,Underperform,up
+2012-08-10 05:47:00,Citigroup,Buy,Neutral,up
+2012-08-23 06:21:00,Credit Suisse,Outperform,Neutral,up
+2012-09-12 05:46:00,Citigroup,Buy,,main
+2012-09-20 05:53:00,Bank of America,Underperform,Neutral,down
+2012-10-11 13:00:00,Citigroup,Buy,,main
+2012-10-25 05:50:00,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2012-10-25 05:55:00,Citigroup,Buy,,main
+2013-02-13 12:54:46,Bank of America,Underperform,,main
+2013-03-12 12:20:13,Citigroup,Neutral,Buy,down
+2013-05-13 06:20:46,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2013-07-03 07:45:42,Credit Suisse,Neutral,Outperform,down
+2013-07-03 07:59:57,Credit Suisse,Neutral,Outperform,down
+2014-04-04 22:18:29,Keefe Bruyette & Woods,Market Perform,,main
+2014-04-09 22:17:26,Citigroup,Neutral,,main
+2014-04-10 22:02:03,Citigroup,Neutral,,main
+2014-06-12 19:38:15,Citigroup,Neutral,,main
+2014-07-14 00:00:58,Keefe Bruyette & Woods,Outperform,,main
+2014-07-31 06:20:31,Citigroup,Buy,Neutral,up
+2014-08-21 06:30:49,Jefferies,Hold,,init
+2014-09-05 08:36:36,Bank of America,Neutral,Underperform,up
+2014-09-12 09:00:00,Citigroup,Buy,,main
+2014-10-08 09:00:00,Citigroup,Buy,,main
+2014-10-14 16:00:00,Bank of America,Neutral,,main
+2014-10-24 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2014-12-09 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-01-08 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-02-13 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-02-26 06:50:00,Bank of America,Neutral,Buy,up
+2015-03-02 09:00:00,Citigroup,Buy,,main
+2015-03-05 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-04-08 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-05-01 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-06-08 06:15:13,Goldman Sachs,Neutral,,init
+2015-06-11 09:00:00,Citigroup,Buy,,main
+2015-07-15 11:00:00,Citigroup,Buy,,main
+2015-07-31 13:12:48,Citigroup,Buy,,main
+2015-07-31 14:12:42,Keefe Bruyette & Woods,Outperform,,main
+2015-09-03 05:54:05,Keefe Bruyette & Woods,Outperform,,main
+2015-09-10 15:16:25,Citigroup,Buy,,main
+2015-10-07 11:00:00,Jefferies,Hold,,main
+2015-10-12 04:19:56,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2016-01-11 12:35:20,Keefe Bruyette & Woods,Market Perform,,main
+2016-02-12 14:03:49,Keefe Bruyette & Woods,Market Perform,,main
+2016-03-15 08:39:21,Bank of America,Buy,Neutral,up
+2016-07-11 21:30:37,Jefferies,Hold,,main
+2016-07-29 10:43:08,Citigroup,Buy,,main
+2016-10-14 14:39:20,Keefe Bruyette & Woods,Market Perform,,main
+2016-11-23 11:55:19,Citigroup,Neutral,Buy,down
+2017-04-12 12:39:39,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2017-08-11 16:41:09,Credit Suisse,Neutral,,main
+2018-07-30 11:52:37,Citigroup,Buy,Buy,main
+2019-06-12 10:47:52,Goldman Sachs,Buy,Neutral,up
+2019-07-09 11:43:42,Citigroup,Buy,,main
+2019-10-15 11:19:40,Citigroup,Buy,,main
+2020-01-13 14:27:13,Citigroup,Buy,,main
+2020-02-12 15:46:07,CFRA,Buy,,main
+2020-03-23 11:58:40,B of A Securities,Neutral,Buy,down
+2020-04-17 17:40:03,Credit Suisse,Neutral,,main
+2020-04-29 16:02:17,Citigroup,Buy,,main
+2020-04-29 16:21:27,B of A Securities,Neutral,,main
+2020-07-13 09:51:05,Evercore ISI Group,Outperform,,init
+2020-09-21 12:14:08,B of A Securities,Buy,Neutral,up
+2020-10-19 10:01:45,"Keefe, Bruyette & Woods",Market Perform,Outperform,down
+2021-01-12 10:41:38,"Keefe, Bruyette & Woods",Outperform,Market Perform,up
+2021-03-25 12:08:02,Citigroup,Neutral,Buy,down
+2021-03-26 11:09:01,Goldman Sachs,Neutral,Buy,down
+2021-04-06 11:35:14,"Keefe, Bruyette & Woods",Market Perform,Outperform,down
+2021-04-09 15:56:22,B of A Securities,Neutral,Buy,down
+2021-08-02 13:04:33,Citigroup,Buy,Neutral,up
+2021-10-26 14:50:17,Citigroup,Buy,,main
+2022-01-12 15:27:43,Citigroup,Buy,,main

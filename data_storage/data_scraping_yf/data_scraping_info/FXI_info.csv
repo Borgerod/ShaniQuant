@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,iShares China Large-Cap ETF
+longName,iShares China Large-Cap ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,FXI
+messageBoardId,finmb_22701347
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,0.71
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1096934400
+annualReportExpenseRatio,
+totalAssets,4895027200
+bookValue,
+fundFamily,iShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0207
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.00029999999
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,China Region
+fiveYearAverageReturn,0.0294
+phone,800-474-2737
+longBusinessSummary,The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The index designed to measure the performance of the largest companies in the Chinese equity market that trade on the Stock Exchange of Hong Kong and are available to international investors. The fund is non-diversified.
+companyOfficers,[]
+previousClose,37.79
+regularMarketOpen,37.18
+twoHundredDayAverage,40.8477
+trailingAnnualDividendYield,0.026726646
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,37.19
+navPrice,37.69
+averageDailyVolume10Day,32783530
+regularMarketPreviousClose,37.79
+fiftyDayAverage,37.2984
+trailingAnnualDividendRate,1.01
+open,37.18
+toCurrency,
+averageVolume10days,32783530
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,36.61
+currency,USD
+trailingPE,3.8459926
+regularMarketVolume,43084395
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,33939527
+dayLow,36.61
+ask,36.7
+askSize,27000
+volume,43084395
+fiftyTwoWeekHigh,52.19
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,35.23
+bid,36.26
+tradeable,False
+dividendYield,
+bidSize,36100
+dayHigh,37.19
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0.0374}, {'consumer_cyclical': 0.32880002}, {'basic_materials': 0.0172}, {'consumer_defensive': 0.024}, {'technology': 0.044499997}, {'communication_services': 0.13069999}, {'financial_services': 0.2963}, {'utilities': 0}, {'industrials': 0.0127}, {'energy': 0.033299997}, {'healthcare': 0.0752}]"
+holdings,"[{'symbol': '09988', 'holdingName': 'Alibaba Group Holding Ltd Ordinary Shares', 'holdingPercent': 0.0939}, {'symbol': '00700', 'holdingName': 'Tencent Holdings Ltd', 'holdingPercent': 0.081999995}, {'symbol': '03690', 'holdingName': 'Meituan', 'holdingPercent': 0.0714}, {'symbol': '00939', 'holdingName': 'China Construction Bank Corp Class H', 'holdingPercent': 0.0591}, {'symbol': '02269', 'holdingName': 'WuXi Biologics (Cayman) Inc Registered Shs Unitary 144A/Reg S', 'holdingPercent': 0.0496}, {'symbol': '02318', 'holdingName': 'Ping An Insurance (Group) Co. of China Ltd Class H', 'holdingPercent': 0.0475}, {'symbol': '09618', 'holdingName': 'JD.com Inc Ordinary Shares - Class A', 'holdingPercent': 0.0467}, {'symbol': 'XTSLA', 'holdingName': 'BlackRock Cash Funds Treasury SL Agency', 'holdingPercent': 0.0461}, {'symbol': '01810', 'holdingName': 'Xiaomi Corp Ordinary Shares - Class B', 'holdingPercent': 0.043899998}, {'symbol': '01398', 'holdingName': 'Industrial And Commercial Bank Of China Ltd Class H', 'holdingPercent': 0.0436}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 11.68, 'priceToSales': 1.68, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 11.45, 'priceToBook': 1.38, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9467
+regularMarketPrice,36.71
+preMarketPrice,
+logo_url,

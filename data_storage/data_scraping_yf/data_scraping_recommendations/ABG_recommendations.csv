@@ -1,0 +1,70 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-25 05:47:00,Deutsche Bank,Hold,,main
+2012-09-12 06:43:00,Morgan Stanley,Underweight,,init
+2012-10-24 07:30:00,Deutsche Bank,Hold,,main
+2013-01-10 09:19:14,Buckingham Research,Neutral,Buy,down
+2013-02-20 07:57:58,Deutsche Bank,Hold,,main
+2013-04-25 12:20:30,Craig-Hallum,Buy,Hold,up
+2013-09-04 07:54:10,KeyBanc,Buy,Hold,up
+2013-10-23 10:21:04,Buckingham Research,Underperform,,down
+2014-02-05 06:35:36,Morgan Stanley,Underweight,,main
+2014-04-24 02:23:03,Deutsche Bank,Hold,,main
+2014-04-24 03:12:24,KeyBanc,Buy,,main
+2014-04-24 08:00:00,BB&T Capital,Buy,Hold,up
+2014-05-22 21:53:15,KeyBanc,Buy,,main
+2014-07-16 22:03:41,KeyBanc,Buy,,main
+2015-01-06 00:00:00,Bank of America,Neutral,Buy,down
+2015-04-15 09:00:00,KeyBanc,Overweight,,main
+2015-04-16 09:00:00,Deutsche Bank,Hold,,main
+2015-04-22 09:00:00,Stephens & Co.,Overweight,,main
+2015-06-23 09:00:00,KeyBanc,Overweight,,main
+2015-07-16 11:00:00,KeyBanc,Overweight,,main
+2015-07-22 07:27:51,Bank of America,Underperform,Neutral,down
+2015-09-08 07:37:59,Craig-Hallum,Buy,Hold,up
+2015-10-22 06:53:09,Bank of America,Buy,Neutral,up
+2016-01-12 09:47:53,Craig-Hallum,Hold,,down
+2016-01-25 13:12:42,Deutsche Bank,Hold,,main
+2016-04-11 09:56:36,Jefferies,Hold,,init
+2016-11-16 13:29:41,KeyBanc,Sector Weight,Overweight,down
+2018-03-14 13:43:43,Morgan Stanley,Underweight,Underweight,main
+2018-04-25 12:26:16,Buckingham,Buy,Buy,main
+2018-08-24 12:14:57,SunTrust Robinson Humphrey,Hold,,init
+2018-10-24 15:40:15,Buckingham,Neutral,Neutral,main
+2018-11-14 12:57:45,Morgan Stanley,Underweight,Underweight,main
+2019-02-19 11:58:03,JP Morgan,Neutral,,init
+2019-04-24 12:24:46,Craig-Hallum,Buy,Hold,up
+2019-05-06 14:39:10,Morgan Stanley,Equal-Weight,,main
+2019-07-09 11:35:56,JP Morgan,Neutral,,main
+2019-08-02 15:23:01,Morgan Stanley,Equal-Weight,,main
+2019-09-13 11:01:32,Bank of America,Neutral,Buy,down
+2019-10-23 12:46:24,JP Morgan,Neutral,,main
+2019-11-14 13:29:50,Morgan Stanley,Equal-Weight,,main
+2019-12-17 13:57:37,Morgan Stanley,Equal-Weight,,main
+2020-01-22 13:39:17,Morgan Stanley,Equal-Weight,,main
+2020-02-04 13:41:02,Craig-Hallum,Hold,Buy,down
+2020-02-11 11:11:46,Bank of America,Buy,Neutral,up
+2020-03-11 14:26:00,JP Morgan,Underweight,,main
+2020-03-26 14:07:21,Craig-Hallum,Buy,Hold,up
+2020-03-30 18:51:04,Morgan Stanley,Equal-Weight,,main
+2020-04-07 20:15:52,SunTrust Robinson Humphrey,Hold,,main
+2020-04-13 13:16:01,Morgan Stanley,Equal-Weight,,main
+2020-05-06 13:44:30,JP Morgan,Neutral,,main
+2020-05-06 15:47:58,SunTrust Robinson Humphrey,Hold,,main
+2020-05-18 11:44:25,Morgan Stanley,Equal-Weight,,main
+2020-07-09 11:56:32,SunTrust Robinson Humphrey,Hold,,main
+2020-07-10 12:16:30,Morgan Stanley,Equal-Weight,,main
+2020-07-29 12:14:24,Morgan Stanley,Equal-Weight,,main
+2020-10-15 14:39:02,B of A Securities,Buy,,main
+2020-10-19 10:55:15,Seaport Global,Buy,,init
+2020-11-17 15:19:09,B of A Securities,Buy,,main
+2020-12-07 10:57:04,Morgan Stanley,Overweight,Equal-Weight,up
+2021-01-15 17:10:25,Truist Securities,Hold,,main
+2021-01-15 17:12:03,JP Morgan,Neutral,,main
+2021-02-03 16:48:05,Craig-Hallum,Buy,,main
+2021-02-18 12:50:53,Morgan Stanley,Overweight,,main
+2021-04-29 11:45:56,Morgan Stanley,Overweight,,main
+2021-07-26 10:56:35,Morgan Stanley,Equal-Weight,Overweight,down
+2021-08-05 12:27:46,Morgan Stanley,Equal-Weight,,main
+2021-09-30 11:17:53,Truist Securities,Buy,Hold,up
+2021-09-30 12:42:53,Craig-Hallum,Buy,,main
+2021-11-17 13:29:05,Morgan Stanley,Equal-Weight,,main

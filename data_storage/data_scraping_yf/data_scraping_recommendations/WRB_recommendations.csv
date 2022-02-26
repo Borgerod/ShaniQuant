@@ -1,0 +1,72 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-12 06:47:00,Deutsche Bank,Sell,,main
+2012-04-25 08:04:00,BGB Securities,Hold,,down
+2012-05-09 11:01:00,UBS,Neutral,,main
+2012-10-02 08:23:00,Goldman Sachs,Sell,,down
+2012-10-12 07:36:00,Citigroup,Neutral,,main
+2012-12-17 14:20:08,RBC Capital,Sector Perform,Outperform,down
+2013-01-31 14:11:58,Goldman Sachs,Sell,,main
+2013-02-01 06:46:13,Deutsche Bank,Hold,Sell,up
+2013-04-23 06:25:14,Compass Point,Neutral,,init
+2013-06-06 06:31:28,Bank of America,Buy,Neutral,up
+2013-07-23 07:29:40,Compass Point,Neutral,,main
+2013-10-16 07:55:49,Macquarie,Neutral,,down
+2013-12-02 16:00:00,Goldman Sachs,Sell,Neutral,down
+2014-01-30 08:00:00,Deutsche Bank,Sell,Hold,down
+2014-04-25 06:48:07,Compass Point,Neutral,,main
+2014-04-25 23:53:40,Deutsche Bank,Sell,,main
+2014-08-04 20:13:00,Deutsche Bank,Sell,,main
+2014-10-27 06:30:31,Compass Point,Neutral,,main
+2014-10-27 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-04-01 17:34:13,Credit Suisse,Underperform,,init
+2015-05-06 06:56:31,Goldman Sachs,Neutral,Sell,up
+2015-07-07 06:56:16,Deutsche Bank,Hold,Sell,up
+2015-07-08 07:19:35,Goldman Sachs,Buy,Neutral,up
+2015-07-09 07:57:09,Bank of America,Neutral,Buy,down
+2015-07-20 06:34:43,UBS,Sell,Neutral,down
+2015-09-21 11:38:34,Sterne Agee CRT,Neutral,,init
+2016-01-21 03:38:10,Morgan Stanley,Equal-Weight,Underweight,up
+2016-11-15 12:06:18,Goldman Sachs,Neutral,Buy,down
+2017-10-25 12:40:47,UBS,Sell,,main
+2017-10-25 16:58:24,Bank of America,Neutral,,main
+2017-10-25 17:49:24,Deutsche Bank,Hold,,main
+2018-06-14 11:31:05,Bank of America,Underperform,Neutral,down
+2018-06-18 13:16:08,Goldman Sachs,Sell,,init
+2018-08-07 12:53:30,Credit Suisse,Neutral,,init
+2019-01-03 15:13:45,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2019-02-27 11:46:08,Credit Suisse,Outperform,Neutral,up
+2019-04-24 15:32:19,UBS,Sell,,main
+2019-06-27 11:39:49,Deutsche Bank,Sell,Hold,down
+2019-08-14 13:15:24,Morgan Stanley,Equal-Weight,,main
+2019-09-12 12:52:35,Buckingham,Neutral,,main
+2019-12-05 11:40:39,RBC Capital,Outperform,Sector Perform,up
+2019-12-11 12:46:57,Credit Suisse,Outperform,,main
+2020-01-22 12:52:26,Buckingham,Buy,Neutral,up
+2020-01-29 13:08:18,RBC Capital,Outperform,,main
+2020-01-29 14:44:31,Deutsche Bank,Sell,,main
+2020-02-28 13:30:45,Morgan Stanley,Equal-Weight,,main
+2020-04-01 14:10:15,Morgan Stanley,Equal-Weight,,main
+2020-04-08 14:31:02,RBC Capital,Outperform,,main
+2020-04-14 10:40:11,Deutsche Bank,Hold,Sell,up
+2020-04-24 10:46:15,CFRA,Hold,,main
+2020-07-22 12:54:12,Deutsche Bank,Hold,,main
+2020-07-23 12:46:05,Morgan Stanley,Equal-Weight,,main
+2020-07-27 14:57:53,UBS,Neutral,,main
+2020-10-26 12:41:47,Morgan Stanley,Equal-Weight,,main
+2020-11-24 14:02:57,Morgan Stanley,Equal-Weight,,main
+2021-01-08 13:07:18,Goldman Sachs,Neutral,Sell,up
+2021-01-11 13:03:28,Credit Suisse,Outperform,,main
+2021-01-12 14:51:20,Morgan Stanley,Equal-Weight,,main
+2021-01-27 14:11:10,Morgan Stanley,Equal-Weight,,main
+2021-02-24 16:26:03,UBS,Buy,Neutral,up
+2021-03-24 12:16:09,Morgan Stanley,Equal-Weight,,main
+2021-04-07 12:10:54,Wells Fargo,Overweight,,init
+2021-04-16 13:47:16,Morgan Stanley,Equal-Weight,,main
+2021-04-21 13:31:32,Deutsche Bank,Hold,,main
+2021-04-22 12:58:10,Morgan Stanley,Equal-Weight,,main
+2021-07-23 12:27:01,RBC Capital,Outperform,,main
+2021-08-19 15:35:59,B of A Securities,Neutral,Underperform,up
+2021-09-20 15:42:28,Boenning & Scattergood,Outperform,Neutral,up
+2021-10-22 13:53:44,RBC Capital,Outperform,,main
+2021-12-09 14:09:05,Truist Securities,Buy,,init
+2021-12-16 13:42:27,Evercore ISI Group,Outperform,,init

@@ -1,0 +1,71 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-19 10:21:00,UBS,Buy,,main
+2012-05-02 06:16:00,Citigroup,Buy,,main
+2012-05-02 06:39:00,Brean Capital,Buy,,main
+2012-05-02 07:34:00,Brean Capital,Buy,,main
+2012-05-02 10:47:00,UBS,Buy,,main
+2012-05-02 11:59:00,Miller Tabak,Buy,,main
+2012-06-27 09:40:00,Miller Tabak,Buy,,main
+2012-06-27 11:39:00,UBS,Buy,,main
+2012-07-02 07:02:00,Citigroup,Buy,,main
+2012-07-31 07:55:00,Goldman Sachs,Neutral,,main
+2012-07-31 08:17:00,Stifel Nicolaus,Buy,,main
+2012-09-18 08:15:00,Miller Tabak,Neutral,Buy,down
+2012-10-11 06:40:00,Citigroup,Buy,,main
+2012-11-01 14:51:00,UBS,Buy,,main
+2012-11-02 07:29:00,Deutsche Bank,Buy,,main
+2012-12-11 11:49:22,CLSA,Underperform,Outperform,down
+2013-01-16 11:51:09,Raymond James,Market Perform,Outperform,down
+2013-02-11 11:37:31,UBS,Buy,,main
+2013-07-25 08:49:03,UBS,Buy,,main
+2013-09-26 07:12:27,UBS,Neutral,Buy,down
+2013-10-08 07:06:57,SunTrust Robinson Humphrey,Buy,,init
+2013-10-14 06:19:17,Deutsche Bank,Hold,Buy,down
+2013-10-31 08:27:17,Stifel Nicolaus,Buy,,main
+2013-11-13 08:43:10,Stifel Nicolaus,Buy,,main
+2014-05-07 01:59:34,Stifel Nicolaus,Buy,,main
+2014-07-30 01:53:43,Deutsche Bank,Hold,,main
+2014-07-30 02:48:48,UBS,Neutral,,main
+2014-08-18 16:00:00,Goldman Sachs,Neutral,Buy,down
+2014-10-16 08:30:00,Stifel Nicolaus,Buy,,main
+2014-10-30 07:41:44,Stifel Nicolaus,Buy,,main
+2015-03-09 05:49:12,Longbow Research,Neutral,Buy,down
+2015-06-24 09:36:58,Cross Research,Buy,Hold,up
+2015-07-29 07:49:16,CLSA,Buy,Outperform,up
+2015-10-29 09:06:34,CLSA,Outperform,Buy,down
+2016-01-22 06:55:28,Longbow Research,Buy,Neutral,up
+2016-03-14 03:22:20,Goldman Sachs,Buy,Neutral,up
+2016-04-27 07:11:48,Bank of America,Buy,,init
+2016-05-02 06:20:24,Citigroup,Sell,Buy,down
+2016-05-09 04:19:37,Goldman Sachs,Buy,,main
+2016-08-03 15:00:27,Citigroup,Sell,,main
+2016-09-20 05:15:16,Goldman Sachs,Neutral,Buy,down
+2017-01-03 12:29:02,SunTrust Robinson Humphrey,Hold,Buy,down
+2018-05-04 12:11:01,Stifel Nicolaus,Buy,Buy,main
+2018-05-04 13:44:32,Deutsche Bank,Hold,Hold,main
+2018-07-17 13:03:59,Wells Fargo,Outperform,,init
+2018-10-26 13:12:51,Citigroup,Neutral,Sell,up
+2018-11-02 15:37:47,Citigroup,Neutral,Neutral,main
+2019-02-01 11:21:33,Stifel Nicolaus,Hold,Buy,down
+2019-05-06 11:54:38,Bank of America,Neutral,Buy,down
+2019-07-02 11:07:27,Raymond James,Outperform,Strong Buy,down
+2019-07-16 11:30:29,Citigroup,Neutral,,main
+2019-07-16 12:15:22,Stifel Nicolaus,Hold,,main
+2019-07-16 13:22:42,Bank of America,Underperform,Neutral,down
+2019-08-02 14:27:17,Citigroup,Neutral,,main
+2019-11-01 11:31:20,Bank of America,Underperform,,main
+2019-11-01 12:04:04,Raymond James,Outperform,,main
+2019-11-04 14:24:33,SunTrust Robinson Humphrey,Hold,,main
+2020-01-13 11:55:13,Wells Fargo,Equal-Weight,Overweight,down
+2020-03-09 12:42:49,Wells Fargo,Equal-Weight,,main
+2020-03-20 14:11:53,Wells Fargo,Equal-Weight,,main
+2020-04-24 10:43:04,Loop Capital,Buy,,init
+2020-04-28 11:56:07,B of A Securities,Neutral,Underperform,up
+2020-05-01 12:32:05,Stifel,Hold,,main
+2020-05-01 13:12:22,Wells Fargo,Equal-Weight,,main
+2020-05-01 16:08:07,Citigroup,Neutral,,main
+2020-05-01 16:58:59,SunTrust Robinson Humphrey,Hold,,main
+2020-05-05 11:58:43,B of A Securities,Neutral,,reit
+2021-02-05 16:50:33,Citigroup,Neutral,,main
+2022-02-02 13:05:02,Raymond James,Outperform,Market Perform,up
+2022-02-04 13:22:05,Truist Securities,Hold,,main

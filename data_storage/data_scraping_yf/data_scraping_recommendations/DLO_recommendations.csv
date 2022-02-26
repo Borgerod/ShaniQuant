@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action
+2021-06-28 09:39:06,Goldman Sachs,Neutral,,init
+2021-06-28 10:59:31,B of A Securities,Buy,,init
+2021-06-28 12:02:46,Morgan Stanley,Overweight,,init
+2021-06-28 13:42:09,Citigroup,Neutral,,init
+2021-08-06 11:07:57,New Street Research,Neutral,,init
+2021-08-25 11:03:04,Goldman Sachs,Neutral,,main
+2022-01-26 15:18:54,Citigroup,Neutral,,main
+2022-01-27 09:58:23,Goldman Sachs,Buy,Neutral,up
+2022-01-27 10:47:09,SMBC Nikko,Neutral,,init
+2022-01-31 11:17:13,HSBC,Buy,Hold,up
+2022-02-10 14:14:27,UBS,Buy,Neutral,up

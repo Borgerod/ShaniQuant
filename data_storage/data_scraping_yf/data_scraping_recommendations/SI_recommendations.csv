@@ -1,0 +1,56 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-25 06:44:00,Deutsche Bank,Buy,,up
+2012-10-10 16:05:00,Deutsche Bank,Hold,Buy,down
+2012-10-12 08:26:00,Societe Generale,Hold,Buy,down
+2012-11-20 15:28:00,Deutsche Bank,Sell,Hold,down
+2013-03-18 06:21:10,Bank of America,Buy,Neutral,up
+2013-03-20 10:39:58,Morgan Stanley,Overweight,Equal-weight,up
+2013-04-10 07:55:25,Exane BNP Paribas,Neutral,Underperform,up
+2013-06-03 08:50:24,Commerzbank,Add,Hold,up
+2013-06-19 11:38:16,Nomura,Buy,Neutral,up
+2013-07-09 08:32:36,Deutsche Bank,Hold,Sell,up
+2013-07-31 14:42:18,Deutsche Bank,Buy,Hold,up
+2013-08-05 16:00:00,LBBW Research,Hold,Buy,down
+2013-08-27 07:57:48,Kepler Cheuvreux,Buy,,init
+2013-09-04 09:30:44,Exane BNP Paribas,Outperform,Neutral,up
+2013-09-05 08:36:33,Barclays,Overweight,Equal-Weight,up
+2013-09-06 07:25:56,Societe Generale,Buy,Hold,up
+2013-10-11 07:33:06,DZ Bank,Buy,Hold,up
+2013-10-31 10:17:08,Commerzbank,Hold,Add,down
+2013-11-14 08:10:56,Banco Sabadell,Sell,Buy,down
+2013-11-18 07:33:00,Mainfirst,Underperform,,down
+2013-11-18 07:33:42,LBBW Research,Buy,Hold,up
+2014-01-10 08:30:00,Berenberg,Hold,Buy,down
+2014-01-16 16:00:00,Morgan Stanley,Equal-Weight,Overweight,down
+2014-03-17 07:29:16,Bank of America,Buy,,up
+2014-03-17 07:29:36,JP Morgan,Overweight,,up
+2014-03-19 12:44:12,UBS,Buy,Neutral,up
+2014-04-08 08:00:00,Bank of America,Buy,Neutral,up
+2014-07-11 07:38:08,RBC Capital,Outperform,Sector Perform,up
+2014-07-11 07:42:57,LBBW Research,Hold,Buy,down
+2014-08-20 06:23:51,Goldman Sachs,Buy,Neutral,up
+2014-11-10 08:00:00,JP Morgan,Neutral,Overweight,down
+2019-11-18 12:37:37,Compass Point,Buy,,init
+2019-12-02 11:21:16,Barclays,Overweight,,init
+2020-03-16 10:06:06,Canaccord Genuity,Buy,,init
+2020-10-16 11:58:46,Compass Point,Buy,,init
+2020-10-27 14:59:03,Canaccord Genuity,Buy,,main
+2020-11-30 15:46:31,Canaccord Genuity,Buy,,main
+2020-12-02 16:19:24,Craig-Hallum,Buy,,init
+2020-12-17 14:01:37,"Keefe, Bruyette & Woods",Outperform,Market Perform,up
+2020-12-22 11:31:23,Wedbush,Outperform,,init
+2021-01-14 12:29:36,Barclays,Equal-Weight,Overweight,down
+2021-02-04 17:12:12,Craig-Hallum,Buy,,main
+2021-03-30 12:19:49,Canaccord Genuity,Buy,,main
+2021-04-13 10:34:46,Barclays,Equal-Weight,,main
+2021-06-14 11:33:58,Goldman Sachs,Neutral,,init
+2021-09-27 10:21:24,Morgan Stanley,Overweight,,init
+2021-10-20 14:23:44,Craig-Hallum,Buy,,main
+2021-10-20 14:45:39,Canaccord Genuity,Buy,,main
+2021-10-27 14:35:44,Morgan Stanley,Overweight,,main
+2021-11-11 10:11:58,JP Morgan,Overweight,,init
+2021-12-06 14:44:39,Morgan Stanley,Overweight,,main
+2021-12-13 12:28:40,Goldman Sachs,Neutral,,main
+2021-12-16 10:30:04,B. Riley Securities,Buy,,init
+2022-01-19 15:33:45,JP Morgan,Overweight,,main
+2022-01-20 09:53:57,Goldman Sachs,Buy,Neutral,up

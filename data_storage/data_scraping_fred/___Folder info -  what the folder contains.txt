@@ -1,0 +1,8 @@
+What this folder (data_scraping_ticker_list) contains: 
+
+Diverse data-series (graphs) from fred financial statistics, such as: 
+- inflation rate
+- vix
+- unemployment rate
+- price index 
+etc...

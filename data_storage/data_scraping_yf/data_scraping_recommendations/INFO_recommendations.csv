@@ -1,0 +1,91 @@
+Date,Firm,To Grade,From Grade,Action
+2016-07-14 06:59:41,Stifel Nicolaus,Hold,Buy,down
+2016-07-14 12:56:40,UBS,Neutral,,main
+2016-07-15 07:38:56,Deutsche Bank,Buy,Hold,up
+2016-07-15 07:39:43,Bank of America,Buy,,init
+2016-07-21 06:32:25,RBC Capital,Outperform,Sector Perform,up
+2016-07-25 12:23:08,Barclays,Equal-Weight,,main
+2016-08-17 07:05:21,PiperJaffray,Overweight,Neutral,up
+2016-08-25 21:00:36,Macquarie,Neutral,,init
+2016-08-26 08:49:25,BMO Capital,Outperform,,main
+2016-09-16 06:13:14,Barclays,Outperform,Neutral,up
+2016-09-16 08:30:06,Baird,Outperform,,main
+2017-09-27 12:39:39,Morgan Stanley,Underweight,,main
+2017-09-27 14:29:53,BMO Capital,Outperform,,main
+2017-09-27 14:42:31,Bank of America,Buy,,main
+2017-09-27 15:11:36,Wells Fargo,Outperform,,main
+2017-11-08 17:25:40,Goldman Sachs,Buy,,init
+2017-11-15 12:45:47,William Blair,Market Perform,Outperform,down
+2017-11-17 17:31:57,UBS,Neutral,,main
+2017-11-28 12:22:14,SunTrust Robinson Humphrey,Buy,Hold,up
+2018-03-28 11:54:02,Morgan Stanley,Underweight,Underweight,main
+2018-03-28 12:03:24,UBS,Neutral,Neutral,main
+2018-03-28 13:42:12,Cantor Fitzgerald,Neutral,Neutral,main
+2018-03-28 14:20:39,Wells Fargo,Outperform,Outperform,main
+2018-06-27 11:14:40,Morgan Stanley,Underweight,Underweight,main
+2018-06-27 12:14:07,Baird,Outperform,Outperform,main
+2018-09-04 11:31:18,BMO Capital,Outperform,Outperform,main
+2018-09-13 12:28:12,Morgan Stanley,Underweight,Underweight,main
+2018-09-26 10:37:55,Stifel Nicolaus,Hold,Hold,main
+2018-09-26 11:54:19,Wells Fargo,Outperform,Outperform,main
+2018-09-27 11:49:31,JP Morgan,Neutral,Neutral,main
+2018-10-15 11:17:05,Morgan Stanley,Underweight,Underweight,main
+2018-12-07 14:44:06,Credit Suisse,Outperform,,init
+2019-01-08 15:38:33,UBS,Neutral,Neutral,main
+2019-03-12 13:44:42,UBS,Neutral,Neutral,main
+2019-03-27 12:00:48,Morgan Stanley,Underweight,Underweight,main
+2019-06-27 13:39:11,BMO Capital,Outperform,,main
+2019-06-28 11:53:27,Deutsche Bank,Buy,,main
+2019-09-12 10:56:00,Canaccord Genuity,Buy,,init
+2019-09-20 11:50:06,Credit Suisse,Outperform,,main
+2019-09-25 11:12:53,UBS,Neutral,,main
+2019-10-10 12:31:46,Morgan Stanley,Underweight,,main
+2019-11-13 13:11:48,Morgan Stanley,Underweight,,main
+2019-11-13 14:04:24,BMO Capital,Outperform,,main
+2019-11-13 14:19:05,SunTrust Robinson Humphrey,Buy,,main
+2019-11-13 14:32:10,Wells Fargo,Outperform,,main
+2019-11-13 14:35:49,Cantor Fitzgerald,Neutral,,main
+2019-11-22 11:49:56,Jefferies,Hold,,init
+2019-12-11 12:51:52,RBC Capital,Outperform,,init
+2020-01-15 13:14:32,RBC Capital,Outperform,,main
+2020-01-15 13:37:39,Cantor Fitzgerald,Neutral,,main
+2020-01-16 12:44:36,Argus Research,Buy,Hold,up
+2020-03-10 13:29:15,Morgan Stanley,Underweight,,main
+2020-03-19 11:50:50,Deutsche Bank,Buy,,main
+2020-03-20 14:16:09,Wells Fargo,Overweight,,main
+2020-03-25 12:13:51,Cantor Fitzgerald,Neutral,,main
+2020-03-25 13:28:06,UBS,Neutral,,main
+2020-03-25 19:07:21,Morgan Stanley,Underweight,,main
+2020-04-22 12:46:46,Morgan Stanley,Underweight,,main
+2020-06-16 11:55:04,Deutsche Bank,Buy,,main
+2020-06-19 10:05:46,Morgan Stanley,Equal-Weight,Underweight,up
+2020-06-24 09:45:07,Stifel,Buy,Hold,up
+2020-06-24 11:57:28,Morgan Stanley,Equal-Weight,,main
+2020-06-24 13:28:09,UBS,Buy,Neutral,up
+2020-06-24 13:38:00,SunTrust Robinson Humphrey,Buy,,main
+2020-06-24 14:20:10,Baird,Outperform,,main
+2020-06-24 14:24:07,BMO Capital,Market Perform,,main
+2020-06-24 14:36:27,Wells Fargo,Overweight,,main
+2020-09-30 11:46:03,Morgan Stanley,Equal-Weight,,main
+2020-09-30 13:27:15,B of A Securities,Buy,,main
+2020-10-20 13:22:06,Morgan Stanley,Equal-Weight,,main
+2020-12-01 11:12:57,RBC Capital,Sector Perform,Outperform,down
+2020-12-01 12:23:39,Truist Securities,Hold,Buy,down
+2021-04-12 13:45:26,Morgan Stanley,Overweight,,main
+2021-04-14 14:32:41,BMO Capital,Market Perform,,main
+2021-04-30 12:19:39,Morgan Stanley,Overweight,,main
+2021-06-03 13:36:08,Morgan Stanley,Overweight,,main
+2021-06-24 11:39:37,Morgan Stanley,Overweight,,main
+2021-06-24 14:08:37,Truist Securities,Hold,,main
+2021-06-24 14:21:29,BMO Capital,Market Perform,,main
+2021-06-24 14:23:54,Deutsche Bank,Buy,,main
+2021-07-08 12:54:19,Morgan Stanley,Overweight,,main
+2021-07-15 12:20:59,Deutsche Bank,Buy,,main
+2021-07-30 16:11:33,Morgan Stanley,Overweight,,main
+2021-09-23 12:40:09,Morgan Stanley,Overweight,,main
+2021-09-29 12:07:27,Morgan Stanley,Overweight,,main
+2021-10-27 13:47:22,Morgan Stanley,Overweight,,main
+2022-01-05 14:07:53,Morgan Stanley,Overweight,,main
+2022-01-24 12:56:18,Morgan Stanley,Overweight,,main
+2022-01-24 13:41:17,BMO Capital,Market Perform,,main
+2022-02-09 15:07:54,Morgan Stanley,Overweight,,main

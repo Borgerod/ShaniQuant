@@ -1,0 +1,53 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-26 08:12:00,Macquarie,Neutral,,down
+2012-11-05 07:28:00,Compass Point,Neutral,,main
+2013-02-20 10:15:57,Susquehanna,Positive,Neutral,up
+2013-03-04 06:04:53,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2013-03-05 07:47:46,Barclays,Overweight,Underweight,up
+2013-04-08 10:15:43,Macquarie,Outperform,Neutral,up
+2013-07-25 08:43:11,Barclays,Overweight,,main
+2013-09-17 09:09:54,JMP Securities,Market Outperform,,init
+2013-11-05 09:22:27,Keefe Bruyette & Woods,Outperform,,main
+2013-12-05 06:22:22,Goldman Sachs,Buy,,init
+2014-02-06 08:12:09,Compass Point,Neutral,,main
+2014-05-08 02:41:12,Susquehanna,Positive,,main
+2014-09-17 05:56:49,Compass Point,Buy,Neutral,up
+2014-10-31 09:00:00,Barclays,Overweight,,main
+2014-11-03 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2014-12-16 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-02-17 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-03-04 05:39:56,MKM Partners,Buy,,init
+2015-03-10 04:49:07,BTIG Research,Buy,,init
+2015-04-20 09:00:00,JMP Securities,Market Outperform,,main
+2015-07-14 11:00:00,JMP Securities,Market Outperform,,main
+2015-10-28 11:10:33,Macquarie,Outperform,,main
+2016-01-20 08:12:23,Macquarie,Neutral,Outperform,down
+2016-04-04 16:12:56,Deutsche Bank,Buy,,init
+2016-05-02 05:45:06,Credit Suisse,Neutral,,main
+2016-06-30 09:23:41,FBR Capital,Outperform,Market Perform,up
+2016-07-29 13:09:39,FBR Capital,Outperform,,main
+2016-10-17 11:36:14,Bank of America,Buy,,init
+2017-08-02 19:48:28,Barclays,Outperform,,main
+2017-10-25 17:46:54,Deutsche Bank,Buy,,main
+2017-10-27 17:36:24,Compass Point,Buy,Neutral,up
+2017-11-03 13:06:17,Deutsche Bank,Hold,Buy,down
+2017-12-20 13:38:45,RBC Capital,Outperform,,init
+2018-01-08 14:06:37,Deutsche Bank,Buy,Hold,up
+2018-02-02 15:19:07,Barclays,Overweight,Outperform,main
+2018-03-15 13:13:22,Macquarie,Neutral,,init
+2018-04-10 13:13:39,RBC Capital,Sector Perform,Outperform,down
+2018-04-10 13:22:51,Deutsche Bank,Buy,Buy,main
+2018-04-11 16:40:39,Barclays,Overweight,Overweight,main
+2018-05-05 14:00:39,B. Riley FBR,Neutral,Buy,down
+2018-05-05 14:00:39,B. Riley FBR,Neutral,Neutral,main
+2018-08-07 12:50:15,B. Riley FBR,Neutral,Neutral,main
+2018-08-13 13:48:05,Bank of America,Buy,Buy,main
+2020-03-11 11:24:36,B. Riley FBR,Neutral,,main
+2020-03-23 17:21:00,B. Riley FBR,Neutral,,main
+2020-04-14 12:05:14,Deutsche Bank,Buy,,main
+2020-04-21 14:25:27,B. Riley FBR,Neutral,,main
+2020-05-12 13:04:22,Deutsche Bank,Buy,,main
+2020-05-26 13:08:13,Compass Point,Buy,,main
+2020-06-09 09:16:45,"Keefe, Bruyette & Woods",Market Perform,Outperform,down
+2020-10-07 09:05:16,"Keefe, Bruyette & Woods",Outperform,Market Perform,up
+2021-11-17 11:41:34,B of A Securities,Underperform,Buy,down

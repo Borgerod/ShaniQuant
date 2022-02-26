@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action
+2012-08-09 08:49:00,JMP Securities,Market Outperform,,init
+2012-12-21 06:30:49,Deutsche Bank,Buy,,init
+2013-02-20 07:58:26,Deutsche Bank,Buy,,main
+2014-06-11 06:50:56,MLV & Co.,Buy,,init
+2015-02-19 09:00:00,Deutsche Bank,Buy,,main
+2015-11-09 09:31:32,Deutsche Bank,Buy,,main
+2016-03-01 12:26:52,JMP Securities,Market Perform,,main
+2016-08-16 06:55:04,Keefe Bruyette & Woods,Market Perform,,main
+2016-08-23 07:29:29,JMP Securities,Market Outperform,,main
+2017-12-21 17:29:49,JP Morgan,Neutral,,init
+2018-07-23 11:50:46,JMP Securities,Market Outperform,Market Outperform,main
+2018-07-23 12:39:38,JP Morgan,Neutral,Neutral,main
+2018-07-24 11:51:11,Deutsche Bank,Hold,Buy,down
+2018-07-31 11:40:01,Raymond James,Market Perform,,init
+2018-10-09 10:30:08,BTIG Research,Buy,,init
+2018-10-24 11:58:11,JP Morgan,Underweight,Neutral,down
+2018-11-05 15:55:53,Deutsche Bank,Hold,Hold,main
+2019-02-20 12:05:05,Deutsche Bank,Hold,Buy,down
+2019-08-21 10:34:49,Raymond James,Outperform,Market Perform,up
+2019-09-06 12:13:40,JMP Securities,Market Outperform,,reit
+2019-11-04 13:31:27,JMP Securities,Market Outperform,,main
+2019-11-05 12:26:37,Raymond James,Outperform,,main
+2020-01-29 11:18:41,JP Morgan,Neutral,Underweight,up
+2020-04-13 11:59:37,Raymond James,Outperform,,main
+2020-04-14 14:17:47,JMP Securities,Market Outperform,,main
+2020-06-11 11:48:03,Raymond James,Outperform,,main
+2020-07-28 10:09:50,JP Morgan,Overweight,Neutral,up
+2020-08-03 12:23:52,Raymond James,Outperform,,main
+2020-08-04 13:43:56,Deutsche Bank,Hold,,main
+2020-11-02 13:10:21,Raymond James,Outperform,,main
+2021-02-22 13:15:39,Raymond James,Outperform,,main
+2021-05-10 13:55:01,Raymond James,Outperform,,main
+2021-08-03 11:10:05,JMP Securities,Market Outperform,,main
+2021-11-01 10:55:35,JMP Securities,Market Outperform,,main
+2021-11-08 12:27:19,Raymond James,Outperform,,main
+2021-12-10 12:14:57,JMP Securities,Market Outperform,,main

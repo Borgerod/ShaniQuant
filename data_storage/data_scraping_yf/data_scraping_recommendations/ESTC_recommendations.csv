@@ -1,0 +1,66 @@
+Date,Firm,To Grade,From Grade,Action
+2018-10-30 11:23:42,JP Morgan,Neutral,,init
+2018-10-30 12:01:22,Goldman Sachs,Buy,,init
+2018-10-30 13:08:08,Citigroup,Neutral,,init
+2018-10-30 14:09:14,Canaccord Genuity,Hold,,init
+2018-10-31 11:19:25,Canaccord Genuity,Hold,,init
+2018-12-06 12:50:42,Citigroup,Neutral,Neutral,main
+2018-12-17 13:46:57,Monness Crespi Hardt,Buy,,init
+2019-02-07 11:45:59,Goldman Sachs,Neutral,Buy,down
+2019-02-07 11:47:57,RBC Capital,Sector Perform,Outperform,down
+2019-03-01 13:43:07,Citigroup,Neutral,Neutral,main
+2019-03-06 12:03:21,Oppenheimer,Outperform,,init
+2019-04-04 11:25:02,KeyBanc,Overweight,,init
+2019-05-14 11:17:43,Stifel Nicolaus,Hold,,init
+2019-06-06 12:02:21,Bank of America,Buy,,main
+2019-08-14 13:07:27,RBC Capital,Outperform,Sector Perform,up
+2019-08-29 11:49:26,JP Morgan,Neutral,,main
+2019-08-29 11:59:02,Citigroup,Neutral,,main
+2019-08-29 12:00:46,Barclays,Overweight,,main
+2019-08-29 12:01:25,Stifel,Hold,,main
+2019-08-29 12:17:11,Canaccord Genuity,Hold,,main
+2019-08-29 12:17:32,Bank of America,Buy,,reit
+2019-08-29 12:32:14,RBC Capital,Outperform,,main
+2019-10-29 10:57:16,Piper Jaffray,Overweight,,init
+2019-11-18 11:57:16,Canaccord Genuity,Buy,Hold,up
+2019-12-05 13:49:35,Stifel Nicolaus,Hold,,main
+2019-12-05 14:10:26,Barclays,Overweight,,main
+2020-01-06 15:18:31,Oppenheimer,Outperform,,reit
+2020-01-10 11:37:38,Jefferies,Buy,Hold,up
+2020-01-10 15:07:45,B of A Securities,Buy,,reit
+2020-03-31 10:26:40,Piper Sandler,Overweight,,main
+2020-04-16 09:06:58,DA Davidson,Buy,,init
+2020-06-04 12:26:29,Canaccord Genuity,Buy,,main
+2020-06-04 13:27:57,Piper Sandler,Overweight,,main
+2020-08-20 10:30:59,Citigroup,Buy,Neutral,up
+2020-08-27 10:58:51,Citigroup,Buy,,main
+2020-08-27 14:48:02,B of A Securities,Buy,,main
+2020-09-25 10:22:17,Baird,Neutral,,init
+2020-10-06 12:15:37,RBC Capital,Outperform,,main
+2020-10-15 17:05:43,Canaccord Genuity,Buy,,main
+2020-12-03 16:58:46,Canaccord Genuity,Buy,,main
+2021-01-15 11:01:34,Stifel,Buy,Hold,up
+2021-01-20 11:40:11,Truist Securities,Buy,,init
+2021-01-22 11:33:27,Goldman Sachs,Neutral,,init
+2021-02-25 16:06:39,Jefferies,Buy,,main
+2021-02-25 16:34:47,Barclays,Overweight,,main
+2021-02-25 16:47:58,DA Davidson,Buy,,main
+2021-02-26 12:10:41,Rosenblatt,Buy,,init
+2021-05-18 13:24:38,Jefferies,Buy,,main
+2021-06-03 10:58:54,Barclays,Overweight,,main
+2021-06-03 11:22:05,RBC Capital,Outperform,,main
+2021-06-03 11:33:37,Rosenblatt,Buy,,main
+2021-06-03 12:06:45,Citigroup,Buy,,main
+2021-06-03 12:09:18,Canaccord Genuity,Buy,,main
+2021-06-03 13:16:16,"Monness, Crespi, Hardt",Buy,,main
+2021-06-03 13:23:09,Jefferies,Buy,,main
+2021-06-21 13:16:55,Summit Insights Group,Buy,,init
+2021-07-09 10:53:13,Piper Sandler,Overweight,,main
+2021-08-26 12:15:03,Barclays,Overweight,,main
+2021-08-26 13:51:53,RBC Capital,Outperform,,main
+2021-08-26 14:46:10,"Monness, Crespi, Hardt",Buy,,main
+2021-08-26 14:53:59,Stifel,Buy,,main
+2021-08-26 15:10:59,Rosenblatt,Buy,,main
+2021-09-17 12:58:50,Barclays,Overweight,,main
+2021-12-08 10:04:33,JP Morgan,Overweight,Neutral,up
+2022-01-06 10:12:13,Jefferies,Hold,Buy,down

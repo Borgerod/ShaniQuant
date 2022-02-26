@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-17 06:26:00,KeyBanc,Hold,,init
+2013-05-29 17:13:56,Jefferies,Buy,,init
+2013-05-30 06:38:53,Jefferies,Buy,,init
+2013-07-03 07:43:09,RBC Capital,Sector Perform,,init
+2015-03-19 05:21:51,Macquarie,Outperform,,init
+2015-07-01 09:45:42,Macquarie,Neutral,Outperform,down
+2016-01-12 09:46:57,Sidoti & Co.,Buy,,up
+2016-03-21 09:52:25,Sidoti & Co.,Neutral,Buy,down
+2016-04-19 16:26:05,Nomura,Buy,,init
+2016-09-07 07:18:47,Nomura,Buy,,main
+2018-01-30 14:56:22,William Blair,Outperform,,init
+2018-05-09 11:50:43,Buckingham,Neutral,,init
+2018-05-31 13:56:46,Stifel Nicolaus,Hold,,init
+2018-06-04 12:54:19,Nomura,Buy,Buy,main
+2018-08-13 12:14:04,Stifel Nicolaus,Hold,Hold,main
+2018-10-29 15:13:13,Buckingham,Neutral,Neutral,main
+2019-04-30 10:41:55,Macquarie,Neutral,,init
+2019-04-30 13:29:24,Nomura,Buy,Buy,main
+2019-06-26 10:47:50,Stifel Nicolaus,Sell,Hold,down
+2019-10-08 13:54:09,RBC Capital,Sector Perform,,init
+2019-11-06 11:30:33,Stifel Nicolaus,Hold,Sell,up
+2019-11-22 11:41:09,Jefferies,Hold,,init
+2020-02-04 12:59:39,Buckingham,Neutral,,main
+2020-07-30 11:44:34,RBC Capital,Sector Perform,,main
+2020-10-29 14:47:57,Stifel,Hold,,main

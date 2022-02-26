@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action
+2018-06-04 11:01:11,Stifel Nicolaus,Buy,,init
+2018-06-04 12:42:15,Goldman Sachs,Buy,,init
+2018-09-07 12:49:40,Longbow Research,Buy,,init
+2019-06-12 12:49:20,Bank of America,Buy,,init
+2019-06-12 12:50:15,Bank of America,Buy,,init
+2019-07-02 11:03:03,Barclays,Overweight,,init
+2019-08-22 10:35:42,Baird,Outperform,,init
+2019-09-06 16:32:38,JP Morgan,Overweight,,main
+2020-02-06 17:23:08,Barclays,Overweight,,main
+2020-02-25 13:36:43,JP Morgan,Overweight,,main
+2020-04-14 12:23:52,Barclays,Overweight,,main
+2020-04-22 13:39:20,Jefferies,Buy,,main
+2020-04-29 17:08:51,SunTrust Robinson Humphrey,Buy,,main
+2020-05-04 12:28:32,Oppenheimer,Outperform,,main
+2020-05-06 12:20:46,B of A Securities,Buy,,reit
+2020-05-06 16:10:58,Baird,Outperform,,main
+2020-05-06 16:17:18,SunTrust Robinson Humphrey,Buy,,main
+2020-06-08 13:57:58,Stifel,Buy,,main
+2020-06-12 13:28:46,Jefferies,Buy,,main
+2020-06-26 11:24:37,Gordon Haskett,Buy,,init
+2020-09-30 13:45:08,B of A Securities,Buy,,main
+2021-04-30 13:28:21,Truist Securities,Buy,,main
+2021-04-30 14:22:44,Jefferies,Buy,,main
+2021-10-06 09:01:21,Loop Capital,Buy,,init

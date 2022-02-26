@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action
+2016-04-11 09:54:15,Bank of America,Buy,,init
+2016-04-11 09:55:14,Canaccord Genuity,Buy,,init
+2016-04-11 09:56:20,Stifel Nicolaus,Buy,,init
+2017-10-17 17:07:06,Canaccord Genuity,Buy,,main
+2019-03-04 13:21:27,Deutsche Bank,Buy,,init
+2019-11-19 15:52:52,CLSA,Buy,,init
+2020-02-20 10:17:24,Goldman Sachs,Buy,,init
+2020-03-13 09:23:48,Cantor Fitzgerald,Overweight,,init
+2021-08-03 12:26:24,Jefferies,Buy,,init
+2021-09-22 15:55:33,Goldman Sachs,Neutral,Buy,down

@@ -1,0 +1,34 @@
+Date,Firm,To Grade,From Grade,Action
+2014-11-14 09:00:00,JP Morgan,Overweight,,main
+2015-02-23 05:51:57,JP Morgan,Neutral,Overweight,down
+2016-01-13 11:39:26,JP Morgan,Neutral,,main
+2016-03-10 05:51:20,Deutsche Bank,Buy,,main
+2016-05-16 12:27:49,Deutsche Bank,Buy,,main
+2016-09-01 06:05:39,Citigroup,Buy,,init
+2016-09-20 02:27:50,Wedbush,Outperform,,init
+2017-09-14 11:18:37,JP Morgan,Overweight,Neutral,up
+2018-02-15 14:25:00,Deutsche Bank,Buy,Buy,main
+2018-02-15 15:02:51,JP Morgan,Overweight,Overweight,main
+2018-05-09 13:37:13,B. Riley FBR,Buy,Buy,main
+2018-06-20 13:12:02,Zelman,Hold,,init
+2018-09-21 11:34:03,JP Morgan,Neutral,Overweight,down
+2018-10-29 14:17:58,Wedbush,Outperform,Outperform,main
+2019-02-08 13:42:47,Wedbush,Neutral,Outperform,down
+2019-05-31 10:25:28,Wedbush,Outperform,Neutral,up
+2019-09-11 15:00:16,JP Morgan,Overweight,Neutral,up
+2020-02-07 12:26:21,B. Riley,Buy,,main
+2020-02-07 13:12:27,Wedbush,Outperform,,main
+2020-02-13 13:14:23,Wedbush,Neutral,Outperform,down
+2020-03-18 09:43:25,JP Morgan,Neutral,Overweight,down
+2020-04-01 12:52:48,B. Riley FBR,Buy,,main
+2020-04-30 15:04:14,B. Riley FBR,Buy,,main
+2020-05-06 13:51:01,JP Morgan,Neutral,,main
+2020-10-08 11:04:52,JP Morgan,Overweight,Neutral,up
+2020-12-03 13:53:35,Susquehanna,Positive,,init
+2021-02-05 12:54:57,Wedbush,Outperform,Neutral,up
+2021-04-16 10:29:50,Wells Fargo,Overweight,,init
+2021-04-29 11:38:39,Wedbush,Outperform,,main
+2021-04-29 13:39:23,B. Riley FBR,Buy,,main
+2021-06-11 12:57:14,B. Riley Securities,Buy,,main
+2021-07-29 13:55:01,Zelman,Hold,Sell,up
+2021-10-12 12:00:50,B. Riley Securities,Buy,,main

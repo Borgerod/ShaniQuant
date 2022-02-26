@@ -1,0 +1,79 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-21 10:09:00,Israel Brokerage & Investments,Neutral,,down
+2012-08-02 12:38:00,Barclays,Equal-Weight,,main
+2012-09-24 09:55:00,RBC Capital,Sector Perform,Outperform,down
+2012-11-01 10:32:00,Imperial Capital,Outperform,,main
+2013-02-19 14:14:21,Imperial Capital,Outperform,,main
+2013-03-20 16:54:51,Imperial Capital,Outperform,,init
+2013-04-25 10:20:36,JMP Securities,Market Outperform,,init
+2013-09-27 06:37:16,Wedbush,Outperform,,init
+2013-10-31 06:16:42,Barclays,Underweight,Equal-Weight,down
+2014-03-28 06:53:29,UBS,Buy,Neutral,up
+2014-11-05 00:00:00,Imperial Capital,Outperform,,main
+2014-11-06 00:00:00,Imperial Capital,Outperform,,main
+2015-02-12 06:36:50,Barclays,Equal-Weight,Underweight,up
+2015-03-24 04:35:37,JMP Securities,Market Perform,Market Outperform,down
+2015-04-28 09:00:00,JP Morgan,Neutral,,main
+2015-05-08 09:00:00,RBC Capital,Sector Perform,,main
+2015-06-03 07:44:38,JP Morgan,Overweight,Neutral,up
+2015-08-26 07:28:46,UBS,Buy,Neutral,up
+2016-05-26 07:12:26,JMP Securities,Market Outperform,Market Perform,up
+2016-05-27 06:46:01,UBS,Neutral,Buy,down
+2016-06-22 06:59:52,Chardan Capital,Buy,,init
+2017-01-13 15:22:33,Imperial Capital,In-Line,Outperform,down
+2017-02-10 14:04:43,Goldman Sachs,Neutral,,init
+2017-06-07 12:41:29,Citigroup,Neutral,,init
+2017-08-04 20:14:30,Barclays,Equal-Weight,,main
+2017-10-06 19:33:06,Jefferies,Hold,,init
+2017-11-03 17:26:28,Jefferies,Hold,,main
+2017-11-03 18:53:03,Citigroup,Neutral,,main
+2017-11-06 13:08:42,Chardan Capital,Neutral,Buy,down
+2017-12-13 15:00:44,Oppenheimer,Outperform,,main
+2018-01-18 11:13:10,Jefferies,Buy,Hold,up
+2018-05-08 15:43:45,Morgan Stanley,Equal-Weight,,init
+2018-06-22 15:58:34,DA Davidson,Neutral,,init
+2018-08-10 12:09:06,JP Morgan,Neutral,Neutral,main
+2018-09-20 11:49:58,Jefferies,Buy,Buy,main
+2018-10-19 14:19:46,Wedbush,Outperform,,init
+2019-01-07 13:50:36,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2019-04-17 13:17:00,Oppenheimer,Outperform,Outperform,main
+2019-04-17 14:41:16,DA Davidson,Neutral,Neutral,main
+2019-04-18 10:23:52,JP Morgan,Overweight,Neutral,up
+2019-04-24 13:18:49,Barclays,Equal-Weight,Equal-Weight,main
+2019-05-17 12:17:09,Morgan Stanley,Equal-Weight,,main
+2019-05-17 12:26:43,JMP Securities,Market Outperform,,main
+2019-05-17 13:13:12,Citigroup,Neutral,,main
+2019-08-09 12:41:56,JMP Securities,Market Outperform,,main
+2019-09-04 10:46:50,Rosenblatt,Buy,,init
+2019-11-15 12:49:55,Wedbush,Outperform,,main
+2019-11-18 13:24:50,Morgan Stanley,Equal-Weight,,main
+2019-11-27 13:55:42,Oppenheimer,Outperform,,main
+2020-01-27 11:18:08,JP Morgan,Neutral,Overweight,down
+2020-02-14 12:05:15,Citigroup,Neutral,,main
+2020-02-14 12:33:15,Rosenblatt,Buy,,main
+2020-02-14 12:42:31,Wedbush,Outperform,,main
+2020-02-14 14:14:56,Morgan Stanley,Equal-Weight,,main
+2020-03-25 19:05:52,Morgan Stanley,Equal-Weight,,main
+2020-05-11 13:25:54,Morgan Stanley,Equal-Weight,,main
+2020-05-15 12:56:15,Morgan Stanley,Equal-Weight,,main
+2020-06-18 12:19:06,Oppenheimer,Outperform,,main
+2020-06-26 11:42:12,JP Morgan,Underweight,Neutral,down
+2020-08-07 14:00:20,Morgan Stanley,Equal-Weight,,main
+2020-10-22 11:11:42,Rosenblatt,Buy,,main
+2020-11-03 12:22:46,B of A Securities,Buy,,init
+2020-11-13 12:52:23,Wedbush,Outperform,,main
+2020-11-13 12:55:58,Rosenblatt,Buy,,reit
+2020-11-13 13:00:49,Morgan Stanley,Equal-Weight,,main
+2020-12-17 13:42:22,Morgan Stanley,Overweight,Equal-Weight,up
+2021-01-29 11:34:08,Barclays,Overweight,Equal-Weight,up
+2021-02-19 12:30:05,Wedbush,Outperform,,main
+2021-02-19 14:48:41,Morgan Stanley,Overweight,,main
+2021-02-22 14:31:15,Morgan Stanley,Overweight,,main
+2021-05-14 14:20:06,Citigroup,Buy,,main
+2021-05-26 12:29:25,Morgan Stanley,Overweight,,main
+2021-06-09 13:05:37,JP Morgan,Overweight,Neutral,up
+2021-07-07 09:04:17,RBC Capital,Outperform,Sector Perform,up
+2021-08-06 14:40:44,RBC Capital,Outperform,,main
+2021-09-09 12:15:09,JMP Securities,Market Outperform,,main
+2021-12-16 13:34:11,Morgan Stanley,Equal-Weight,Overweight,down
+2022-02-18 13:19:05,Jefferies,Buy,,main

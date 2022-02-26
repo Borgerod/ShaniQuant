@@ -1,0 +1,74 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-11 13:06:27,Morgan Stanley,Overweight,,main
+2020-11-17 11:53:21,BMO Capital,Market Perform,Outperform,down
+2020-11-17 11:54:35,Redburn,Sell,,init
+2020-11-17 16:00:16,Chardan Capital,Buy,,main
+2020-11-23 11:00:17,Wells Fargo,Equal-Weight,,init
+2020-11-24 12:34:36,SVB Leerink,Underperform,,main
+2020-11-25 09:37:03,Morgan Stanley,Overweight,,init
+2020-11-25 09:37:03,Barclays,Overweight,,init
+2020-11-25 09:37:03,Bank of America,Buy,,init
+2020-11-25 09:37:03,Oppenheimer,Outperform,,init
+2020-11-25 09:37:03,PiperJaffray,Overweight,,init
+2020-11-25 09:37:05,Chardan Capital,Buy,,init
+2020-11-25 09:37:14,Needham,Buy,,main
+2020-11-25 09:37:14,B of A Securities,Neutral,Buy,down
+2020-11-25 09:37:17,Morgan Stanley,Overweight,,main
+2020-11-25 09:37:17,Oppenheimer,Outperform,,main
+2020-11-25 09:37:18,Chardan Capital,Buy,,main
+2020-11-25 09:37:18,BMO Capital,Outperform,,init
+2020-11-25 09:37:19,Needham,Buy,,main
+2020-11-25 09:37:19,Goldman Sachs,Buy,,main
+2020-11-25 09:37:19,BMO Capital,Outperform,,main
+2020-11-25 09:37:19,B of A Securities,Neutral,,main
+2020-11-25 09:37:19,Morgan Stanley,Overweight,,main
+2020-11-25 09:37:20,Barclays,Overweight,,init
+2020-11-25 09:37:21,SVB Leerink,Market Perform,,init
+2020-11-25 09:37:21,JP Morgan,Neutral,Overweight,down
+2020-11-25 09:37:21,Chardan Capital,Buy,,main
+2020-11-25 09:37:21,Brookline Capital,Buy,,init
+2020-11-25 09:37:21,Jefferies,Buy,,init
+2020-11-25 09:37:22,SVB Leerink,Market Perform,,main
+2020-11-25 09:37:22,SVB Leerink,Market Perform,,main
+2020-11-25 09:37:23,SVB Leerink,Underperform,Market Perform,down
+2020-11-25 09:37:24,Chardan Capital,Buy,,main
+2020-12-01 16:07:20,Argus Research,Buy,,main
+2020-12-09 12:17:27,Needham,Hold,Buy,down
+2020-12-16 12:59:45,Jefferies,Hold,Buy,down
+2020-12-16 14:52:12,Morgan Stanley,Equal-Weight,Overweight,down
+2021-01-22 11:56:25,B of A Securities,Neutral,,main
+2021-02-01 12:18:55,SVB Leerink,Underperform,,main
+2021-02-01 13:38:18,B of A Securities,Underperform,Neutral,down
+2021-02-01 16:08:25,Wells Fargo,Equal-Weight,,main
+2021-02-01 16:49:59,Oppenheimer,Outperform,,main
+2021-02-17 17:49:57,Piper Sandler,Overweight,,main
+2021-02-18 13:35:47,Morgan Stanley,Equal-Weight,,main
+2021-02-26 13:52:05,Morgan Stanley,Equal-Weight,,main
+2021-02-26 16:37:21,Brookline Capital,Buy,,main
+2021-03-01 09:36:48,Chardan Capital,Buy,,main
+2021-03-15 16:56:58,Piper Sandler,Overweight,,reit
+2021-04-15 12:23:34,Piper Sandler,Overweight,,reit
+2021-05-07 11:47:18,Goldman Sachs,Buy,,main
+2021-05-07 12:26:02,Morgan Stanley,Equal-Weight,,main
+2021-05-07 14:07:13,Chardan Capital,Buy,,main
+2021-06-24 12:47:29,Argus Research,Buy,,main
+2021-07-15 13:49:46,Jefferies,Hold,,main
+2021-08-06 09:12:41,Piper Sandler,Neutral,Overweight,down
+2021-08-06 10:16:28,Oppenheimer,Perform,Outperform,down
+2021-08-06 12:24:48,Barclays,Overweight,,main
+2021-09-07 12:16:07,Morgan Stanley,Equal-Weight,,main
+2021-10-15 10:17:21,Piper Sandler,Overweight,Neutral,up
+2021-10-22 09:46:52,Deutsche Bank,Sell,,init
+2021-11-05 12:58:58,Goldman Sachs,Buy,,main
+2021-11-05 13:50:18,Jefferies,Hold,,main
+2021-11-05 14:31:32,Morgan Stanley,Equal-Weight,,main
+2021-11-05 15:00:16,Barclays,Overweight,,main
+2021-11-05 15:23:11,SVB Leerink,Underperform,,main
+2021-11-09 09:10:22,Wolfe Research,Outperform,,init
+2021-12-07 09:59:37,Cowen & Co.,Market Perform,,init
+2022-01-18 15:33:20,Morgan Stanley,Equal-Weight,,main
+2022-01-21 11:55:22,B of A Securities,Neutral,Underperform,up
+2022-01-21 12:32:08,UBS,Neutral,,init
+2022-01-26 10:01:45,Deutsche Bank,Hold,Sell,up
+2022-01-28 11:28:36,SVB Leerink,Underperform,,main
+2022-02-01 13:59:27,Morgan Stanley,Equal-Weight,,main

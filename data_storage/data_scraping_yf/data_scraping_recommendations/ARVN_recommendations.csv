@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action
+2018-10-22 12:58:55,Goldman Sachs,Neutral,,init
+2018-10-22 14:06:04,PiperJaffray,Overweight,,init
+2019-04-12 11:47:23,Evercore ISI Group,Outperform,,init
+2019-06-05 11:21:58,Citigroup,Neutral,Buy,down
+2019-08-06 10:37:59,Cantor Fitzgerald,Overweight,,init
+2019-09-12 10:11:09,BMO Capital,Outperform,,init
+2019-09-25 11:52:11,Wedbush,Outperform,,init
+2019-11-13 14:53:27,Piper Jaffray,Overweight,,main
+2019-11-14 11:01:19,Roth Capital,Buy,,init
+2019-11-25 13:22:44,Guggenheim,Buy,,init
+2019-12-19 12:10:42,H.C. Wainwright,Buy,,init
+2019-12-20 12:54:45,Cantor Fitzgerald,Overweight,,reit
+2020-01-06 12:59:51,PiperJaffray,Overweight,,main
+2020-01-24 13:21:42,Wedbush,Outperform,,main
+2020-04-29 11:46:30,HC Wainwright & Co.,Buy,,reit
+2020-05-12 10:26:09,Oppenheimer,Perform,,init
+2021-03-31 10:31:55,BMO Capital,Outperform,,init
+2021-04-21 11:55:40,Truist Securities,Buy,,init
+2021-05-21 10:31:01,UBS,Buy,,init
+2021-07-22 14:21:43,Truist Securities,Buy,,main
+2021-07-23 10:32:02,Oppenheimer,Outperform,,main
+2021-07-23 10:43:03,Citigroup,Buy,,main
+2021-08-09 15:36:19,Roth Capital,Buy,,main
+2021-09-09 11:09:26,B of A Securities,Buy,,init
+2021-09-30 08:56:48,Stifel,Buy,,init
+2021-10-14 11:40:43,SVB Leerink,Outperform,,init
+2021-12-07 09:56:30,Cowen & Co.,Outperform,,init
+2022-01-19 10:38:12,Goldman Sachs,Buy,,init
+2022-02-10 09:52:06,Wells Fargo,Overweight,,init

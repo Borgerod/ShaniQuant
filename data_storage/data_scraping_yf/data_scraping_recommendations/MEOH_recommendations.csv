@@ -1,0 +1,113 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-05 08:57:00,Scotiabank,Sector Outperform,,main
+2012-06-26 07:05:00,Raymond James,Market Perform,Outperform,down
+2012-07-27 09:25:00,BMO Capital,Market Perform,,main
+2012-09-11 09:56:00,Jefferies,Hold,,init
+2012-09-20 07:29:00,Raymond James,Market Perform,,main
+2012-10-02 06:25:00,Raymond James,Outperform,Market Perform,up
+2012-10-26 10:42:00,UBS,Buy,,main
+2013-01-11 09:58:28,Raymond James,Market Perform,Outperform,down
+2013-01-14 13:10:00,CIBC,Sector Underperform,Sector Perform,down
+2013-01-24 07:02:58,Raymond James,Outperform,Market Perform,up
+2013-02-01 08:27:51,BMO Capital,Market Perform,,main
+2013-02-01 14:35:47,TD Securities,Hold,Buy,down
+2013-02-04 13:07:43,Craig-Hallum,Buy,,init
+2013-02-19 08:41:51,Jefferies,Hold,,main
+2013-03-07 08:16:51,UBS,Neutral,Buy,down
+2013-03-18 06:40:52,Jefferies,Buy,Hold,up
+2013-06-10 09:00:28,Monness Crespi Hardt,Buy,,init
+2013-06-10 09:16:44,Monness Crespi Hardt,Buy,,init
+2013-07-16 07:51:54,BMO Capital,Outperform,,main
+2013-07-26 07:00:00,UBS,Buy,Neutral,up
+2013-09-27 09:03:53,Monness Crespi Hardt,Buy,,main
+2013-10-08 07:49:28,Jefferies,Buy,,main
+2013-11-15 07:50:22,Monness Crespi Hardt,Buy,,main
+2013-11-21 13:30:07,BMO Capital,Outperform,,main
+2013-11-26 13:03:49,Raymond James,Market Perform,Outperform,down
+2013-12-02 06:49:58,BMO Capital,Market Perform,Outperform,down
+2013-12-20 16:00:00,Raymond James,Outperform,Market Perform,up
+2014-01-31 08:00:00,UBS,Buy,,main
+2014-01-31 08:04:08,Monness Crespi Hardt,Buy,,main
+2014-04-10 09:18:05,TD Securities,Hold,,init
+2014-04-30 01:26:22,Raymond James,Market Perform,Outperform,down
+2014-05-22 10:08:27,TD Securities,Buy,Hold,up
+2014-07-07 20:22:14,Jefferies,Buy,,main
+2014-07-14 10:27:26,Raymond James,Strong Buy,Market Perform,up
+2014-10-06 09:00:00,Citigroup,Buy,,main
+2014-10-14 09:00:00,Jefferies,Buy,,main
+2014-10-31 09:00:00,Citigroup,Buy,,main
+2014-12-08 09:00:00,UBS,Buy,,main
+2014-12-16 00:00:00,TD Securities,Buy,Hold,up
+2014-12-31 00:00:00,Monness Crespi Hardt,Buy,,main
+2015-01-05 09:00:00,Jefferies,Buy,,main
+2015-01-30 09:00:00,Jefferies,Buy,,main
+2015-03-04 09:00:00,Citigroup,Buy,,main
+2015-03-05 06:58:08,Raymond James,Strong Buy,Outperform,up
+2015-04-16 08:39:23,ScotiaBank,Sector Perform,,down
+2015-05-13 09:00:00,Jefferies,Buy,,main
+2015-07-27 07:30:59,Scotia Howard Weil,Outperform,Sector Perform,up
+2015-08-03 15:22:21,Citigroup,Buy,,main
+2015-08-05 04:22:36,Jefferies,Buy,,main
+2015-08-19 06:16:10,Raymond James,Outperform,Strong Buy,down
+2015-10-27 15:40:20,Raymond James,Outperform,,main
+2015-12-14 08:49:45,Raymond James,Market Perform,Outperform,down
+2016-01-19 08:03:28,Monness Crespi Hardt,Neutral,Buy,down
+2016-01-27 12:07:09,Jefferies,Buy,,main
+2016-03-02 06:16:53,Raymond James,Outperform,Market Perform,up
+2016-03-14 06:36:33,Citigroup,Hold,Buy,down
+2016-03-24 07:35:52,TD Securities,Hold,Buy,down
+2016-05-17 06:20:36,Raymond James,Strong Buy,Outperform,up
+2016-07-05 07:46:17,CIBC,Outperform,Sector Perform,up
+2016-07-15 22:28:00,Citigroup,Neutral,,main
+2016-07-29 08:17:30,TD Securities,Buy,Hold,up
+2016-08-01 05:26:09,Citigroup,Neutral,,main
+2016-10-03 11:09:29,Raymond James,Outperform,Strong Buy,down
+2016-10-04 14:26:44,Citigroup,Neutral,,main
+2016-10-24 10:52:58,CIBC,Sector Performer,Outperformer,down
+2016-10-28 13:41:06,TD Securities,Hold,Buy,down
+2016-10-31 10:10:43,UBS,Sell,Neutral,down
+2017-01-03 15:53:03,Raymond James,Market Perform,Outperform,down
+2017-02-24 12:29:01,Raymond James,Outperform,Market Perform,up
+2017-03-29 19:51:35,CIBC,Outperform,Neutral,up
+2017-04-28 15:30:45,TD Securities,Buy,Hold,up
+2017-05-10 20:42:31,Bernstein,Underperform,,init
+2017-10-13 11:41:30,UBS,Sell,,main
+2017-10-31 13:01:10,Raymond James,Market Perform,Outperform,down
+2018-01-08 13:22:10,TD Securities,Hold,Buy,down
+2018-06-08 12:24:05,Jefferies,Buy,Buy,main
+2018-07-11 11:39:17,Citigroup,Neutral,Neutral,main
+2018-09-13 11:43:52,Raymond James,Outperform,Market Perform,up
+2018-10-08 10:45:49,Barclays,Equal-Weight,,init
+2018-10-11 12:12:29,Citigroup,Neutral,Neutral,main
+2018-10-26 13:05:15,TD Securities,Buy,Hold,up
+2018-10-29 13:52:33,Citigroup,Neutral,Neutral,main
+2018-12-07 11:36:00,Jefferies,Hold,Buy,down
+2019-02-01 13:52:57,Tudor Pickering,Hold,Buy,down
+2019-04-25 14:17:04,UBS,Sell,Sell,main
+2019-07-11 11:14:38,CIBC,Neutral,Outperformer,down
+2019-08-06 12:12:40,Citigroup,Neutral,,main
+2019-08-29 12:43:59,UBS,Sell,,main
+2019-09-09 11:41:45,Barclays,Equal-Weight,,main
+2019-11-01 11:46:27,TD Securities,Buy,,main
+2019-11-19 12:43:59,TD Securities,Hold,Buy,down
+2020-03-11 12:12:54,Citigroup,Neutral,,main
+2020-03-13 13:37:54,UBS,Sell,,main
+2020-03-19 10:19:48,ScotiaBank,Sector Perform,,init
+2020-04-09 13:10:10,Citigroup,Neutral,,main
+2020-05-01 08:54:56,Jefferies,Buy,Hold,up
+2020-05-07 14:58:03,Barclays,Equal-Weight,,main
+2020-05-07 17:03:17,BMO Capital,Outperform,,main
+2020-06-04 09:04:44,ScotiaBank,Sector Outperform,Sector Perform,up
+2020-06-30 13:56:29,TD Securities,Hold,,main
+2020-10-06 11:48:46,UBS,Sell,,main
+2020-10-15 12:53:27,ScotiaBank,Sector Outperform,,main
+2020-11-30 11:23:12,Bernstein,Underperform,Market Perform,down
+2021-01-04 16:14:32,RBC Capital,Sector Perform,Outperform,down
+2021-01-06 12:11:51,ScotiaBank,Sector Perform,Sector Outperform,down
+2021-06-01 11:24:44,RBC Capital,Outperform,Sector Perform,up
+2021-09-07 11:36:52,Barclays,Overweight,Equal-Weight,up
+2021-09-14 09:25:29,Piper Sandler,Neutral,,init
+2021-09-20 13:50:13,Scotiabank,Sector Outperform,Sector Perform,up
+2021-09-30 10:58:49,RBC Capital,Outperform,,main
+2021-12-29 12:49:22,Raymond James,Market Perform,Outperform,down
+2022-01-04 15:13:19,UBS,Sell,,main

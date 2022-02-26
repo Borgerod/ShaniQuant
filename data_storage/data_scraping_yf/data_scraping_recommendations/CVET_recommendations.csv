@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action
+2019-02-12 12:03:09,William Blair,Outperform,,init
+2019-02-28 12:02:14,Raymond James,Outperform,,init
+2019-04-04 12:05:31,Credit Suisse,Neutral,,init
+2019-05-23 12:28:31,Guggenheim,Neutral,,init
+2019-05-23 12:42:40,Stifel Nicolaus,Hold,,init
+2019-08-15 12:00:34,Raymond James,Outperform,,main
+2019-09-09 10:57:36,Goldman Sachs,Sell,,init
+2019-10-17 12:15:08,Credit Suisse,Neutral,,main
+2019-11-13 12:20:11,Raymond James,Outperform,,main
+2020-03-04 13:14:28,Credit Suisse,Neutral,,main
+2020-04-23 12:17:49,Credit Suisse,Neutral,,main
+2020-07-30 16:54:01,Stifel,Hold,,main
+2020-08-12 12:09:01,Raymond James,Outperform,,main
+2020-08-12 13:32:46,Stifel,Hold,,main
+2020-08-12 15:18:47,Credit Suisse,Neutral,,main
+2020-09-16 09:48:33,Stifel,Buy,Hold,up
+2020-10-21 12:18:52,Raymond James,Outperform,,main
+2020-11-11 13:37:41,Credit Suisse,Neutral,,main
+2021-02-17 11:48:44,Barclays,Overweight,,init
+2021-03-02 12:22:40,Raymond James,Outperform,,main
+2021-07-12 11:25:16,Guggenheim,Buy,Neutral,up
+2021-08-06 16:09:28,Raymond James,Outperform,,main
+2021-08-09 13:01:10,Barclays,Overweight,,main
+2021-11-05 14:26:22,Raymond James,Outperform,,main
+2021-11-18 13:29:42,Morgan Stanley,Equal-Weight,,init

@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,SPDR Select Sector Fund - Techn
+longName,Technology Select Sector SPDR Fund
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,XLK
+messageBoardId,finmb_8795639
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.05
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,913766400
+annualReportExpenseRatio,
+totalAssets,51968385024
+bookValue,
+fundFamily,SPDR State Street Global Advisors
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0073
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.412
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Technology
+fiveYearAverageReturn,0.2929
+phone,866-732-8673
+longBusinessSummary,"In seeking to track the performance of the index, the fund employs a replication strategy, which means that the fund typically invests in substantially all of the securities represented in the index in approximately the same proportions as the index. It generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The fund is non-diversified."
+companyOfficers,[]
+previousClose,154
+regularMarketOpen,154.53
+twoHundredDayAverage,155.99405
+trailingAnnualDividendYield,0.007077922
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,154.75
+navPrice,173.65
+averageDailyVolume10Day,12806700
+regularMarketPreviousClose,154
+fiftyDayAverage,164.4912
+trailingAnnualDividendRate,1.09
+open,154.53
+toCurrency,
+averageVolume10days,12806700
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,151.27
+currency,USD
+trailingPE,2.7769883
+regularMarketVolume,12655401
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,13989377
+dayLow,151.27
+ask,151.49
+askSize,1100
+volume,12655401
+fiftyTwoWeekHigh,177.04
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,124.71
+bid,151.25
+tradeable,False
+dividendYield,
+bidSize,1100
+dayHigh,154.75
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0.8754}, {'communication_services': 0}, {'financial_services': 0.1071}, {'utilities': 0}, {'industrials': 0.0175}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'AAPL', 'holdingName': 'Apple Inc', 'holdingPercent': 0.21450001}, {'symbol': 'MSFT', 'holdingName': 'Microsoft Corp', 'holdingPercent': 0.2037}, {'symbol': 'NVDA', 'holdingName': 'NVIDIA Corp', 'holdingPercent': 0.0498}, {'symbol': 'V', 'holdingName': 'Visa Inc Class A', 'holdingPercent': 0.0395}, {'symbol': 'PYPL', 'holdingName': 'PayPal Holdings Inc', 'holdingPercent': 0.0342}, {'symbol': 'MA', 'holdingName': 'Mastercard Inc A', 'holdingPercent': 0.0319}, {'symbol': 'ADBE', 'holdingName': 'Adobe Inc', 'holdingPercent': 0.027999999}, {'symbol': 'INTC', 'holdingName': 'Intel Corp', 'holdingPercent': 0.0226}, {'symbol': 'CRM', 'holdingName': 'Salesforce.com Inc', 'holdingPercent': 0.0226}, {'symbol': 'CSCO', 'holdingName': 'Cisco Systems Inc', 'holdingPercent': 0.0223}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 22.02, 'priceToSales': 6.58, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 34.4, 'priceToBook': 10.88, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9973
+regularMarketPrice,152.44
+preMarketPrice,
+logo_url,

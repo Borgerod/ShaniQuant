@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action
+2021-07-26 09:08:41,Jefferies,Hold,,init
+2021-07-26 09:16:33,Goldman Sachs,Buy,,init
+2021-07-26 09:55:44,BTIG,Buy,,init
+2021-07-26 10:30:00,Needham,Buy,,init
+2021-07-26 11:16:22,Barclays,Overweight,,init
+2021-07-26 11:21:09,Cowen & Co.,Outperform,,init
+2021-07-26 11:44:59,Wells Fargo,Overweight,,init
+2021-07-26 12:00:14,Loop Capital,Buy,,init
+2021-07-26 12:16:18,Deutsche Bank,Buy,,init
+2021-07-26 12:54:42,Piper Sandler,Neutral,,init
+2021-07-26 12:57:57,B of A Securities,Buy,,init
+2021-07-26 13:25:48,Morgan Stanley,Overweight,,init
+2021-09-09 09:53:19,Needham,Buy,,main
+2021-09-09 12:01:52,Wells Fargo,Overweight,,main
+2021-09-09 12:13:09,Barclays,Overweight,,main
+2021-09-09 13:06:47,Morgan Stanley,Overweight,,main
+2021-11-22 14:15:41,Morgan Stanley,Overweight,,main
+2021-12-08 13:56:39,Wells Fargo,Overweight,,main
+2021-12-08 14:08:22,Piper Sandler,Neutral,,main
+2021-12-08 14:23:21,B of A Securities,Buy,,main
+2021-12-08 14:23:35,Deutsche Bank,Buy,,main
+2022-01-31 12:53:24,Wolfe Research,Outperform,,init
+2022-02-18 11:42:05,DA Davidson,Buy,,init

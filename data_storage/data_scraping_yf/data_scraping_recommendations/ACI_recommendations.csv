@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action
+2020-07-30 09:46:51,MKM Partners,Neutral,,init
+2020-09-25 16:30:44,Tigress Financial,Buy,,init
+2020-10-21 11:47:45,Morgan Stanley,Equal-Weight,,main
+2021-01-07 13:20:10,Barclays,Underweight,Equal-Weight,down
+2021-01-13 12:18:31,BMO Capital,Market Perform,Outperform,down
+2021-01-14 13:12:00,Credit Suisse,Outperform,,main
+2021-01-20 11:21:52,Morgan Stanley,Underweight,Equal-Weight,down
+2021-01-27 11:08:42,Wells Fargo,Equal-Weight,Overweight,down
+2021-01-28 13:28:12,Evercore ISI Group,In-Line,Outperform,down
+2021-04-27 14:55:12,Credit Suisse,Outperform,,main
+2021-04-29 11:40:53,Morgan Stanley,Underweight,,main
+2021-05-03 11:54:26,Morgan Stanley,Underweight,,main
+2021-05-04 10:48:45,Goldman Sachs,Neutral,Buy,down
+2021-07-30 10:12:57,Telsey Advisory Group,Outperform,,main
+2021-07-30 12:41:02,Credit Suisse,Outperform,,main
+2021-08-02 12:34:43,Morgan Stanley,Underweight,,main
+2021-08-11 12:02:50,Telsey Advisory Group,Outperform,,main
+2021-08-11 13:16:48,Barclays,Equal-Weight,Underweight,up
+2021-08-11 15:38:04,Tigress Financial,Neutral,Buy,down
+2021-09-23 12:01:48,Credit Suisse,Outperform,,main
+2021-10-05 09:54:02,BMO Capital,Underperform,Market Perform,down
+2021-10-11 11:08:12,Oppenheimer,Perform,Outperform,down
+2021-10-19 10:15:04,Telsey Advisory Group,Outperform,,main
+2021-10-19 11:50:59,Barclays,Equal-Weight,,main
+2021-10-19 12:00:35,RBC Capital,Outperform,,main
+2021-10-19 13:07:21,Citigroup,Neutral,Buy,down
+2021-12-14 14:14:48,UBS,Neutral,,init
+2022-01-07 11:08:11,Telsey Advisory Group,Outperform,,main
+2022-01-12 11:55:33,Barclays,Equal-Weight,,main
+2022-01-12 12:42:34,Morgan Stanley,Underweight,,main

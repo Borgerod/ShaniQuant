@@ -1,0 +1,63 @@
+Date,Firm,To Grade,From Grade,Action
+2012-10-22 07:59:00,BTIG Research,Buy,,init
+2012-11-27 13:14:00,Compass Point,Buy,,main
+2012-12-19 06:37:58,Compass Point,Neutral,Buy,down
+2013-01-14 12:22:18,Morgan Stanley,Underweight,Equal-weight,down
+2013-02-15 08:40:24,Oppenheimer,Outperform,,main
+2013-03-07 08:48:57,Millman Research,Buy,,main
+2013-03-08 08:52:11,Morgan Stanley,Equal-Weight,Underweight,up
+2013-03-11 07:50:26,BTIG Research,Buy,,main
+2013-03-11 08:33:02,Morgan Stanley,Equal-weight,Underweight,up
+2013-04-09 16:21:48,Wedbush,Outperform,,init
+2013-04-09 16:43:45,Wedbush,Outperform,,init
+2013-04-26 06:48:38,Compass Point,Neutral,,main
+2013-07-22 07:44:00,BTIG Research,Neutral,Buy,down
+2013-10-01 06:46:02,Morgan Stanley,Overweight,Equal-Weight,up
+2013-10-14 13:51:07,Barrington Research,Outperform,Market Perform,up
+2014-01-09 08:30:00,BTIG Research,Buy,Neutral,up
+2014-02-19 08:00:00,Credit Suisse,Outperform,,init
+2014-04-15 06:59:27,Morgan Stanley,Overweight,,main
+2014-08-11 16:00:00,Credit Suisse,Outperform,,main
+2014-11-13 09:36:08,Northcoast Research,Neutral,Buy,down
+2014-12-02 00:00:00,Wedbush,Outperform,,main
+2014-12-10 04:29:07,Credit Suisse,Outperform,,main
+2015-02-12 09:38:20,BMO Capital,Outperform,,init
+2015-05-22 07:02:39,PiperJaffray,Overweight,,init
+2015-06-10 06:39:58,Credit Suisse,Neutral,Outperform,down
+2015-09-02 06:37:16,Wedbush,Outperform,,main
+2015-09-14 07:23:28,BTIG Research,Neutral,Buy,down
+2016-03-04 03:53:49,Credit Suisse,Neutral,,main
+2016-03-04 06:41:47,Wedbush,Neutral,Outperform,down
+2016-03-04 07:38:35,BMO Capital,Market Perform,Outperform,down
+2016-03-22 07:48:37,Sterne Agee CRT,Neutral,,init
+2016-04-26 23:56:58,Credit Suisse,Neutral,,main
+2016-04-27 07:47:25,Oppenheimer,Perform,Outperform,down
+2016-05-03 08:31:57,Sterne Agee CRT,Neutral,,init
+2016-08-25 21:03:05,Macquarie,Outperform,,init
+2016-08-31 07:28:31,BMO Capital,Market Perform,,main
+2016-11-16 09:42:52,Morgan Stanley,Equal-Weight,Overweight,down
+2016-11-28 11:58:22,BTIG Research,Sell,Neutral,down
+2017-08-30 14:27:05,Credit Suisse,Neutral,,main
+2018-03-07 14:28:26,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-03-27 16:35:45,Goldman Sachs,Neutral,,init
+2018-04-26 12:58:18,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-06-13 11:27:21,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-06-13 11:40:55,BMO Capital,Market Perform,Market Perform,main
+2018-08-29 11:21:29,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-12-07 12:56:58,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2019-01-31 11:19:13,Goldman Sachs,Sell,Neutral,down
+2019-07-09 13:15:32,Northcoast Research,Neutral,Buy,down
+2019-08-29 13:05:49,Morgan Stanley,Equal-Weight,,main
+2019-11-22 11:42:41,Jefferies,Hold,,init
+2019-12-06 13:22:27,Morgan Stanley,Equal-Weight,,main
+2020-03-06 14:30:37,BTIG Research,Sell,,main
+2020-03-06 14:39:46,Morgan Stanley,Equal-Weight,,main
+2020-03-31 15:19:49,Barrington Research,Outperform,,main
+2020-04-07 12:17:43,Morgan Stanley,Equal-Weight,,main
+2020-06-17 13:25:14,Morgan Stanley,Equal-Weight,,main
+2020-08-03 13:29:43,Morgan Stanley,Equal-Weight,,main
+2021-02-25 13:59:28,Morgan Stanley,Equal-Weight,,main
+2021-03-10 14:36:10,Morgan Stanley,Equal-Weight,,main
+2021-05-25 11:51:27,Morgan Stanley,Equal-Weight,,main
+2021-08-25 11:04:11,Goldman Sachs,Sell,,main
+2021-08-26 13:16:34,BMO Capital,Market Perform,,main

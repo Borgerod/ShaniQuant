@@ -1,0 +1,74 @@
+Date,Firm,To Grade,From Grade,Action
+2012-08-13 05:53:00,Deutsche Bank,Buy,,init
+2013-02-05 11:31:29,Deutsche Bank,Buy,,main
+2013-04-26 08:36:48,Lazard,Neutral,,down
+2013-05-06 10:22:28,Topeka,Buy,,init
+2013-11-21 16:11:02,Bank of America,Buy,,init
+2014-01-22 08:00:00,Needham,Buy,Hold,up
+2014-05-13 10:49:43,Lake Street,Buy,,init
+2014-07-29 06:18:00,Standpoint Research,Hold,Buy,down
+2014-07-30 02:48:47,Topeka,Buy,,main
+2014-09-17 09:58:36,Standpoint Research,Buy,Hold,up
+2014-10-08 08:30:00,Ladenburg Thalmann,Buy,,init
+2014-10-09 08:30:00,Brean Capital,Buy,,init
+2014-10-10 16:00:00,Brean Capital,Buy,,init
+2015-04-13 11:01:00,Standpoint Research,Hold,Buy,down
+2015-04-27 10:04:29,Standpoint Research,Buy,Hold,up
+2015-07-01 23:49:45,Brean Capital,Buy,,main
+2015-08-17 06:32:56,Pacific Crest,Outperform,Sector Weight,up
+2015-08-18 07:16:34,Bank of America,Underperform,Buy,down
+2015-09-08 06:18:21,Susquehanna,Positive,,init
+2016-01-14 13:27:26,Standpoint Research,Buy,Hold,up
+2016-02-01 11:57:40,Pacific Crest,Overweight,,main
+2016-02-18 11:33:04,Standpoint Research,Hold,Buy,down
+2016-03-23 05:28:10,Brean Capital,Buy,,main
+2016-04-06 07:13:30,Ladenburg Thalmann,Neutral,Buy,down
+2016-09-29 06:14:42,Roth Capital,Buy,,init
+2016-12-06 13:02:08,Loop Capital,Buy,,init
+2017-03-07 22:49:11,Standpoint Research,Buy,Hold,up
+2017-06-06 14:36:01,Standpoint Research,Reduce,Buy,down
+2017-08-30 15:19:53,Standpoint Research,Buy,Reduce,up
+2017-10-09 12:55:32,Loop Capital,Buy,,main
+2017-12-07 14:19:40,Summit Redstone Partners,Buy,Hold,up
+2018-01-19 10:37:51,Susquehanna,Neutral,Positive,down
+2018-05-05 14:00:38,B. Riley FBR,Buy,,main
+2018-05-23 15:24:07,Cowen & Co.,Outperform,,init
+2018-06-22 16:20:28,Benchmark,Buy,,init
+2018-07-05 12:00:21,KeyBanc,Overweight,Overweight,main
+2018-08-15 10:10:03,Cowen & Co.,Outperform,Market Perform,up
+2018-09-21 12:13:30,Morgan Stanley,Overweight,Equal-Weight,up
+2018-09-25 10:24:19,KeyBanc,Sector Weight,,init
+2018-11-01 12:54:08,B. Riley FBR,Buy,Buy,main
+2018-12-14 13:21:57,Morgan Stanley,Equal-Weight,Overweight,down
+2019-04-10 16:56:55,B. Riley FBR,Buy,Buy,main
+2019-08-01 11:01:08,JP Morgan,Neutral,Overweight,down
+2019-10-07 13:11:16,Nomura,Neutral,Reduce,up
+2019-10-22 11:34:49,Wedbush,Neutral,,init
+2020-01-07 18:25:03,B. Riley FBR,Buy,,main
+2020-02-03 14:15:38,Nomura Instinet,Buy,Neutral,up
+2020-02-10 11:49:26,B. Riley FBR,Buy,,reit
+2020-02-10 13:52:03,Cowen & Co.,Outperform,,main
+2020-02-25 12:14:20,B of A Securities,Underperform,Buy,down
+2020-03-20 10:35:20,B. Riley FBR,Buy,,main
+2020-04-09 11:24:25,B. Riley FBR,Buy,,main
+2020-04-29 17:26:10,Needham,Buy,,main
+2020-04-30 15:19:38,B. Riley FBR,Buy,,main
+2020-06-22 13:49:37,Cowen & Co.,Outperform,,main
+2020-07-30 16:20:18,Needham,Buy,,main
+2020-09-24 11:32:32,Wedbush,Outperform,Neutral,up
+2020-11-04 12:01:10,Summit Insights Group,Hold,Buy,down
+2021-02-04 18:23:03,Needham,Buy,,main
+2021-02-05 17:43:23,B. Riley FBR,Buy,,main
+2021-02-05 18:05:36,Craig-Hallum,Buy,,main
+2021-04-08 16:59:19,Needham,Buy,,main
+2021-04-09 12:56:46,B. Riley FBR,Buy,,main
+2021-05-06 16:45:13,Needham,Buy,,main
+2021-05-20 10:50:44,Morgan Stanley,Underweight,Equal-Weight,down
+2021-08-02 09:51:08,Needham,Buy,,main
+2021-08-02 13:20:07,Craig-Hallum,Buy,,main
+2021-08-02 13:40:20,B. Riley Securities,Buy,,main
+2021-08-12 10:15:40,Morgan Stanley,Equal-Weight,Underweight,up
+2021-10-29 10:53:43,Susquehanna,Positive,Neutral,up
+2021-12-08 14:19:06,B. Riley Securities,Buy,,main
+2022-01-28 13:51:20,B. Riley Securities,Buy,,main
+2022-01-28 14:58:52,Needham,Buy,,main

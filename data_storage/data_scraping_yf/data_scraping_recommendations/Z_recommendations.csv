@@ -1,0 +1,104 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-03 06:51:00,Benchmark,Buy,,main
+2012-09-10 06:38:00,Canaccord Genuity,Buy,,main
+2012-10-01 09:43:00,Barclays,Equal-Weight,,init
+2012-10-18 05:56:00,Goldman Sachs,Buy,,init
+2012-11-06 08:21:00,Canaccord Genuity,Buy,,main
+2012-11-06 13:57:00,Barclays,Equal-Weight,,main
+2012-11-26 07:10:00,Morgan Stanley,Equal-Weight,,init
+2012-12-13 12:17:47,Barclays,Equal-Weight,,main
+2012-12-19 07:51:44,Canaccord Genuity,Buy,,main
+2013-03-08 06:47:36,Benchmark,Buy,,main
+2013-03-19 08:12:08,JMP Securities,Market Outperform,,init
+2013-03-22 09:12:39,RBC Capital,Outperform,,init
+2013-03-28 06:34:39,Citigroup,Buy,,main
+2013-03-28 08:11:21,Canaccord Genuity,Buy,,main
+2013-05-08 07:24:32,Goldman Sachs,Neutral,Buy,down
+2013-08-07 09:06:38,RBC Capital,Sector Perform,Outperform,down
+2013-09-05 07:19:02,Morgan Stanley,Underweight,Equal-Weight,down
+2013-09-06 06:42:59,Deutsche Bank,Hold,,init
+2013-09-06 09:03:57,Barclays,Overweight,,init
+2013-09-19 07:00:00,CRT Capital,Fair Value,,init
+2013-10-15 06:27:54,Deutsche Bank,Hold,,main
+2013-11-06 13:02:03,Deutsche Bank,Hold,,main
+2013-12-17 07:24:00,SunTrust Robinson Humphrey,Buy,,init
+2014-01-03 16:00:00,RBC Capital,Outperform,Sector Perform,up
+2014-01-06 16:00:00,RBC Capital,Outperform,Sector Perform,up
+2014-02-05 08:00:00,CRT Capital,Buy,Fair Value,up
+2014-02-19 08:00:00,Morgan Stanley,Equal-Weight,Underweight,up
+2014-02-24 08:13:03,Morgan Stanley,Equal-weight,Underweight,up
+2014-04-10 16:34:12,Susquehanna,Positive,,init
+2014-05-08 01:24:44,CRT Capital,Fair Value,,main
+2014-05-08 02:03:14,Deutsche Bank,Hold,,main
+2014-05-08 02:30:37,JMP Securities,Market Outperform,,main
+2014-05-08 02:45:57,Susquehanna,Positive,,main
+2014-05-08 07:26:44,SunTrust Robinson Humphrey,Buy,,main
+2014-06-02 06:26:32,Pacific Crest,Sector Perform,Outperform,down
+2014-06-05 06:15:41,SunTrust Robinson Humphrey,Hold,Buy,down
+2014-06-16 19:23:15,Canaccord Genuity,Buy,,main
+2014-06-19 16:26:51,Oppenheimer,Perform,,init
+2014-06-25 19:29:54,JMP Securities,Market Outperform,,main
+2014-08-06 21:00:39,Barclays,Overweight,,main
+2014-08-06 21:20:37,Canaccord Genuity,Buy,,main
+2014-08-06 21:59:25,Deutsche Bank,Hold,,main
+2014-09-15 10:00:37,Stephens & Co.,Overweight,,init
+2014-11-06 00:00:00,Canaccord Genuity,Buy,,main
+2014-11-06 09:00:00,Macquarie,Outperform,,main
+2015-01-06 00:00:00,Cowen & Co.,Market Perform,,init
+2015-02-17 09:00:00,Deutsche Bank,Hold,,main
+2015-02-19 09:00:00,JMP Securities,Market Outperform,,main
+2015-02-24 07:42:40,Macquarie,Neutral,Outperform,down
+2015-04-06 05:57:42,Barclays,Equal-Weight,Overweight,down
+2015-04-15 09:00:00,SunTrust Robinson Humphrey,Neutral,,main
+2015-05-11 07:11:41,SunTrust Robinson Humphrey,Buy,Neutral,up
+2015-05-13 09:00:00,Barclays,Equal-Weight,,main
+2015-06-30 16:48:38,Guggenheim,Outperform,,init
+2015-07-14 08:03:06,Morgan Stanley,Overweight,,init
+2015-07-20 03:47:26,Barclays,Underweight,Equal-Weight,down
+2015-07-31 07:22:54,Cowen & Co.,Underperform,Market Perform,down
+2015-08-10 17:01:46,Susquehanna,Neutral,,init
+2015-08-11 07:25:49,Susquehanna,Neutral,,init
+2015-08-13 11:00:00,SunTrust Robinson Humphrey,Buy,,main
+2015-11-03 14:07:39,Susquehanna,Neutral,,main
+2016-02-16 11:31:12,Deutsche Bank,Hold,,main
+2016-05-03 07:25:38,Benchmark,Buy,,main
+2016-05-04 08:14:38,Cowen & Co.,Market Perform,Underperform,up
+2016-07-14 12:56:41,Morgan Stanley,Overweight,,main
+2017-11-08 15:24:41,Canaccord Genuity,Buy,,main
+2018-03-13 15:26:31,Morgan Stanley,Overweight,Overweight,main
+2018-03-15 11:59:57,KeyBanc,Overweight,Overweight,main
+2018-05-08 18:59:40,Bank of America,Buy,Buy,main
+2018-07-11 11:27:30,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-08-07 11:00:33,KeyBanc,Overweight,Overweight,main
+2018-11-02 14:04:19,Zelman,Hold,,init
+2018-11-07 13:08:52,Susquehanna,Negative,Neutral,down
+2018-11-07 15:48:28,Zelman,Sell,Hold,down
+2018-11-08 17:37:48,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-11-26 15:17:26,Standpoint Research,Buy,,init
+2018-11-29 14:31:17,Craig-Hallum,Buy,Hold,up
+2019-01-08 13:41:10,Needham,Hold,,init
+2019-02-22 12:23:25,Bank of America,Underperform,Neutral,down
+2019-05-10 12:19:48,Bank of America,Underperform,,main
+2019-07-19 11:25:43,KeyBanc,Overweight,,init
+2019-08-08 10:13:51,KeyBanc,Overweight,,main
+2019-08-08 15:45:19,Morgan Stanley,Equal-Weight,,main
+2019-10-15 12:09:12,Morgan Stanley,Equal-Weight,,main
+2019-11-08 10:51:46,KeyBanc,Overweight,,main
+2020-01-21 13:42:40,Morgan Stanley,Equal-Weight,,main
+2020-02-21 13:02:32,Morgan Stanley,Equal-Weight,,main
+2020-02-28 13:17:44,KeyBanc,Sector Weight,,init
+2020-03-30 18:19:40,Morgan Stanley,Equal-Weight,,main
+2020-05-08 13:13:39,Morgan Stanley,Equal-Weight,,main
+2020-06-08 10:55:11,Needham,Buy,Hold,up
+2020-08-04 13:34:00,Morgan Stanley,Equal-Weight,,main
+2020-08-07 10:46:53,Needham,Buy,,main
+2020-08-07 14:25:23,Morgan Stanley,Equal-Weight,,main
+2020-10-15 12:23:37,Morgan Stanley,Equal-Weight,,main
+2020-11-06 12:00:44,Needham,Buy,,main
+2020-11-06 17:19:40,Morgan Stanley,Equal-Weight,,main
+2021-01-05 14:22:13,Morgan Stanley,Equal-Weight,,main
+2021-02-02 10:30:51,Needham,Buy,,main
+2021-02-11 14:36:20,Morgan Stanley,Equal-Weight,,main
+2021-02-11 16:21:55,Susquehanna,Neutral,,main
+2021-04-27 10:08:58,Needham,Hold,,init
+2021-05-04 13:40:05,Deutsche Bank,Buy,,main

@@ -1,0 +1,85 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-25 10:40:00,UBS,Buy,,main
+2012-07-20 11:40:00,UBS,Buy,,main
+2012-09-05 06:50:00,Citigroup,Neutral,,main
+2012-09-17 05:49:00,Citigroup,Buy,Neutral,up
+2012-09-17 06:46:00,Citigroup,,,up
+2012-11-07 13:46:00,UBS,Buy,,main
+2012-12-12 07:28:59,Topeka,Hold,,init
+2012-12-12 10:23:53,Capstone,Buy,,init
+2013-01-30 06:56:50,Topeka,Hold,,main
+2013-02-22 08:51:59,Ascendiant Capital,Buy,,init
+2013-02-26 06:20:50,Ascendiant Capital,Buy,,init
+2013-03-18 06:31:06,Citigroup,Buy,,main
+2013-05-16 06:31:00,Ascendiant Capital,Neutral,Buy,down
+2013-06-13 08:59:49,Imperial Capital,Outperform,,init
+2013-07-24 07:15:00,Citigroup,Neutral,Buy,down
+2014-02-28 07:51:05,Citigroup,Buy,Neutral,up
+2014-10-28 09:24:40,FBR Capital,Outperform,,main
+2014-10-29 09:00:00,FBR Capital,Outperform,,main
+2014-11-04 09:00:00,Bank of America,Buy,,main
+2014-11-25 00:00:00,RBC Capital,Outperform,,init
+2015-01-15 00:00:00,Canaccord Genuity,Hold,,init
+2015-01-16 06:27:11,Susquehanna,Neutral,,init
+2015-01-28 08:01:19,Vertical Research,Hold,Buy,down
+2015-02-02 05:45:25,KeyBanc,Hold,Buy,down
+2015-02-11 06:42:38,RBC Capital,Sector Perform,Outperform,down
+2015-02-27 06:08:48,FBR Capital,Market Perform,Outperform,down
+2015-02-27 09:00:00,Canaccord Genuity,Hold,,main
+2015-03-02 07:00:13,Bank of America,Underperform,Neutral,down
+2015-03-11 06:04:32,Stifel Nicolaus,Hold,,init
+2015-04-29 09:00:00,Canaccord Genuity,Hold,,main
+2015-07-09 08:07:34,Seaport Global,Neutral,,init
+2015-07-29 11:00:00,Susquehanna,Neutral,,main
+2015-08-18 07:59:22,William Blair,Outperform,,init
+2015-10-15 08:21:13,Avondale Partners,Market Perform,,init
+2015-10-29 14:01:14,Susquehanna,Neutral,,main
+2016-01-21 09:22:29,Seaport Global,Buy,Neutral,up
+2016-03-04 06:29:31,Boenning & Scattergood,Outperform,,init
+2016-03-09 07:40:53,Seaport Global,Accumulate,Neutral,down
+2016-04-27 06:22:05,UBS,Neutral,Buy,down
+2016-04-27 08:35:53,Susquehanna,Neutral,,main
+2016-05-26 08:00:02,Topeka,Buy,,init
+2016-07-29 06:33:16,Bank of America,Neutral,Underperform,up
+2017-02-01 13:35:37,Oppenheimer,Outperform,,up
+2017-02-01 14:57:01,Seaport Global,Neutral,Accumulate,down
+2017-03-06 12:38:59,Bank of America,Buy,Neutral,up
+2017-04-25 13:53:22,William Blair,Outperform,,up
+2017-05-16 10:43:36,Canaccord Genuity,Buy,Hold,up
+2017-07-11 12:55:59,Wolfe Research,Peer Perform,,init
+2017-08-14 13:43:31,Wolfe Research,Outperform,Peer Perform,up
+2017-10-25 11:37:11,Stifel Nicolaus,Hold,,main
+2017-10-25 16:20:46,Bank of America,Buy,,main
+2017-10-25 17:18:32,Oppenheimer,Outperform,,main
+2017-10-26 19:03:54,Seaport Global,Buy,Neutral,up
+2017-12-06 14:54:24,Vertical Research,Buy,Hold,up
+2018-01-31 12:13:58,Stifel Nicolaus,Buy,Hold,up
+2018-01-31 17:07:56,Canaccord Genuity,Buy,Buy,main
+2018-02-01 14:48:00,Bank of America,Buy,Buy,main
+2018-03-22 16:02:27,DA Davidson,Buy,,init
+2018-04-25 11:38:23,Susquehanna,Positive,Neutral,up
+2018-08-30 16:36:36,UBS,Buy,Buy,main
+2018-10-08 11:23:33,Stifel Nicolaus,Buy,Buy,main
+2018-12-11 14:11:05,Buckingham,Buy,,init
+2019-01-29 12:16:35,William Blair,Market Perform,Outperform,down
+2019-04-11 13:12:24,UBS,Buy,Buy,main
+2019-05-14 12:20:28,Buckingham Research,Buy,,main
+2019-05-29 12:55:43,Buckingham Research,Buy,,main
+2019-07-24 13:22:52,DA Davidson,Buy,,main
+2019-07-24 14:30:55,Buckingham Research,Buy,,main
+2019-10-30 10:30:42,Vertical Research,Hold,Buy,down
+2019-10-30 10:32:07,Canaccord Genuity,Hold,Buy,down
+2019-10-30 12:25:28,Buckingham,Neutral,Buy,down
+2020-01-29 13:58:00,Buckingham,Buy,Neutral,up
+2020-01-29 14:30:39,Stifel Nicolaus,Buy,,main
+2020-01-29 16:45:57,Canaccord Genuity,Hold,,main
+2020-04-07 20:03:19,Stifel,Buy,,main
+2020-04-29 10:39:04,CFRA,Hold,,reit
+2020-06-16 09:04:13,Canaccord Genuity,Buy,Hold,up
+2020-11-25 09:37:25,Stifel,Buy,,main
+2021-01-07 15:57:09,DA Davidson,Neutral,Buy,down
+2021-01-27 15:49:59,Canaccord Genuity,Buy,,main
+2021-02-26 16:42:48,Canaccord Genuity,Buy,,main
+2021-03-08 15:25:30,Canaccord Genuity,Buy,,main
+2021-06-15 11:54:34,DA Davidson,Buy,Neutral,up
+2021-12-03 11:42:05,Morgan Stanley,Equal-Weight,,init

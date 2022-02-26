@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action
+2018-10-30 11:35:06,BMO Capital,Market Perform,,init
+2018-11-05 14:25:41,Goldman Sachs,Buy,,init
+2018-11-05 14:27:47,Citigroup,Buy,,init
+2018-11-09 14:06:42,Loop Capital,Buy,,init
+2018-11-14 13:13:37,Buckingham,Neutral,,init
+2018-12-03 13:47:29,HSBC,Buy,,init
+2018-12-13 12:52:19,Argus,Buy,,init
+2019-01-15 11:45:46,Nomura,Neutral,Buy,down
+2019-01-16 14:33:23,Clarksons Platou,Buy,,init
+2019-04-15 11:57:34,Citigroup,Neutral,Buy,down
+2019-05-10 12:57:41,Bank of America,Neutral,Buy,down
+2019-05-16 11:18:19,Argus Research,Hold,Buy,down
+2019-08-12 11:14:11,Bank of America,Underperform,Neutral,down
+2019-10-09 12:48:08,Citigroup,Neutral,,main
+2020-01-21 14:46:40,Seaport Global,Neutral,Buy,down
+2020-02-21 10:27:58,BMO Capital,Underperform,Market Perform,down
+2020-03-26 09:18:45,KeyBanc,Sector Weight,,init
+2020-03-30 10:11:42,Goldman Sachs,Neutral,Buy,down
+2020-04-06 12:09:50,BMO Capital,Market Perform,Underperform,up
+2020-04-09 13:00:12,Citigroup,Neutral,,main
+2020-05-12 12:03:15,Credit Suisse,Neutral,,main
+2020-05-12 14:39:21,BMO Capital,Market Perform,,main
+2020-08-10 11:25:43,Citigroup,Neutral,,main
+2020-08-26 10:17:34,Raymond James,Strong Buy,,init
+2020-09-22 16:01:10,Evercore ISI Group,In-Line,,init
+2020-10-08 11:28:18,Raymond James,Strong Buy,,main
+2020-11-06 12:58:27,BMO Capital,Market Perform,,main
+2020-11-09 12:18:56,Citigroup,Buy,Neutral,up
+2020-12-07 14:24:42,Raymond James,Strong Buy,,main
+2021-01-08 14:58:19,Raymond James,Outperform,Strong Buy,down
+2021-02-23 12:56:50,Credit Suisse,Neutral,,main
+2021-03-10 14:16:07,Cowen & Co.,Market Perform,,init
+2021-04-19 11:51:53,Evercore ISI Group,Outperform,In-Line,up
+2021-08-09 14:04:58,Vertical Research,Hold,Sell,up
+2021-10-01 09:46:14,Piper Sandler,Overweight,,init
+2021-10-05 11:15:37,Raymond James,Outperform,,main
+2021-10-13 09:23:01,Mizuho,Neutral,,init
+2021-11-05 14:36:11,Raymond James,Outperform,,main
+2021-11-09 12:10:17,Citigroup,Neutral,Buy,down
+2021-12-15 11:35:08,Goldman Sachs,Sell,Neutral,down
+2022-01-04 14:46:53,Vertical Research,Buy,Hold,up
+2022-02-01 12:42:05,B of A Securities,Neutral,Underperform,up

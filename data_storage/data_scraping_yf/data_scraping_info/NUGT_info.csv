@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,Direxion Daily Gold Miners Inde
+longName,Direxion Daily Gold Miners Index Bull 2X Shares
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,NUGT
+messageBoardId,finmb_116840403
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,2.33
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1291766400
+annualReportExpenseRatio,
+totalAssets,774909376
+bookValue,
+fundFamily,Direxion Funds
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.19450001
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Trading--Leveraged Equity
+fiveYearAverageReturn,-0.2451
+phone,866-476-7523
+longBusinessSummary,"The fund invests at least 80% of its net assets (plus borrowing for investment purposes) in financial instruments, such as swap agreements, ETFs that track the index, securities of the index and other financial instruments that provide daily leveraged exposure to the index or to ETFs that track the index. The index is a comprised of publicly traded companies that operate globally in both developed and emerging markets, and are involved primarily in mining for gold and, in mining for silver. It is non-diversified."
+companyOfficers,[]
+previousClose,59.04
+regularMarketOpen,59.05
+twoHundredDayAverage,54.6989
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,59
+navPrice,49.05
+averageDailyVolume10Day,3769100
+regularMarketPreviousClose,59.04
+fiftyDayAverage,48.1718
+trailingAnnualDividendRate,
+open,59.05
+toCurrency,
+averageVolume10days,3769100
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,56.89
+currency,USD
+regularMarketVolume,3274632
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,2755124
+dayLow,56.89
+ask,58.85
+askSize,1000
+volume,3274632
+fiftyTwoWeekHigh,81.82
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,40.32
+bid,58.25
+tradeable,False
+dividendYield,
+bidSize,1400
+dayHigh,59
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 1}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'GDX', 'holdingName': 'VanEck Vectors Gold Miners ETF', 'holdingPercent': 0.5324}, {'symbol': 'DAPXX', 'holdingName': 'Dreyfus Government Secs Cash Mgmt Admin', 'holdingPercent': 0.3731}, {'symbol': 'FTIXX', 'holdingName': 'Goldman Sachs FS Treasury Intms Instl', 'holdingPercent': 0.1973}, {'symbol': '', 'holdingName': 'Vaneck Vectors Gold Miners Etf Swap', 'holdingPercent': 0.0919}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 8.07, 'priceToSales': 2.7, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 14.74, 'priceToBook': 1.82, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.48279998
+regularMarketPrice,57.94
+preMarketPrice,
+logo_url,

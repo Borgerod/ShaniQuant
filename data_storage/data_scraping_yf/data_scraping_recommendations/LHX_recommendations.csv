@@ -1,0 +1,58 @@
+Date,Firm,To Grade,From Grade,Action
+2019-07-03 11:05:57,Vertical Research,Buy,,init
+2019-07-10 12:48:29,UBS,Neutral,,main
+2019-08-01 12:35:42,UBS,Neutral,,main
+2019-08-01 13:41:23,JP Morgan,Overweight,,main
+2019-08-01 14:11:27,Credit Suisse,Outperform,,main
+2019-08-06 11:12:29,Morgan Stanley,Overweight,,init
+2019-08-08 14:13:06,Buckingham Research,Buy,,main
+2019-11-01 11:22:00,UBS,Neutral,,main
+2019-11-19 11:24:28,Alembic Global,Overweight,,init
+2019-12-10 13:16:05,Bernstein,Outperform,,init
+2020-01-15 13:54:11,UBS,Neutral,,main
+2020-02-04 17:38:01,CFRA,Buy,,main
+2020-02-05 12:21:41,Raymond James,Outperform,,main
+2020-02-05 13:59:23,Credit Suisse,Outperform,,main
+2020-02-05 14:03:07,Baird,Outperform,,main
+2020-02-07 12:55:49,Benchmark,Buy,,init
+2020-02-12 13:41:52,Argus Research,Buy,,main
+2020-03-25 15:02:17,Morgan Stanley,Overweight,,main
+2020-04-14 14:33:08,Morgan Stanley,Overweight,,main
+2020-04-16 11:43:51,B of A Securities,Buy,,init
+2020-04-16 19:13:30,SunTrust Robinson Humphrey,Buy,,main
+2020-04-20 13:50:17,Bernstein,Outperform,,main
+2020-05-06 12:59:30,Credit Suisse,Outperform,,main
+2020-05-13 11:27:10,Benchmark,Buy,,reit
+2020-05-19 12:53:41,Seaport Global,Buy,,init
+2020-05-21 09:08:46,RBC Capital,Outperform,,init
+2020-06-11 11:37:47,UBS,Neutral,,main
+2020-07-20 12:30:02,Credit Suisse,Outperform,,main
+2020-08-04 14:43:13,Citigroup,Buy,,main
+2020-09-08 11:53:23,Morgan Stanley,Overweight,,init
+2020-10-01 11:28:00,UBS,Buy,Neutral,up
+2020-12-15 13:50:03,JP Morgan,Neutral,Overweight,down
+2021-01-07 12:11:08,Baird,Neutral,Outperform,down
+2021-01-07 16:26:22,Morgan Stanley,Overweight,,main
+2021-02-01 15:16:03,Citigroup,Buy,,main
+2021-02-01 16:39:56,Credit Suisse,Outperform,,main
+2021-02-08 13:38:48,Morgan Stanley,Overweight,,main
+2021-04-08 10:12:49,Goldman Sachs,Neutral,Buy,down
+2021-04-13 12:14:02,Credit Suisse,Outperform,,main
+2021-04-27 11:18:05,Benchmark,Hold,Buy,down
+2021-05-03 12:11:22,Morgan Stanley,Overweight,,main
+2021-05-03 12:19:33,Jefferies,Buy,,main
+2021-05-13 10:59:34,Wells Fargo,Equal-Weight,,init
+2021-08-04 11:32:01,Raymond James,Outperform,,main
+2021-08-04 12:58:44,Susquehanna,Positive,,main
+2021-08-11 10:15:39,Morgan Stanley,Equal-Weight,Overweight,down
+2021-09-08 12:05:21,Wolfe Research,Peer Perform,,init
+2021-09-23 12:04:25,Goldman Sachs,Sell,Neutral,down
+2021-11-02 11:26:14,Wells Fargo,Equal-Weight,,main
+2021-11-04 14:00:27,Morgan Stanley,Equal-Weight,,main
+2021-12-14 12:34:30,UBS,Neutral,Buy,down
+2022-01-06 13:30:46,Baird,Outperform,Neutral,up
+2022-01-10 11:52:42,Wells Fargo,Overweight,Equal-Weight,up
+2022-01-11 12:01:23,Wolfe Research,Outperform,Peer Perform,up
+2022-02-01 13:46:39,Wells Fargo,Overweight,,main
+2022-02-01 15:18:31,Susquehanna,Positive,,main
+2022-02-02 10:51:58,Raymond James,Outperform,,main

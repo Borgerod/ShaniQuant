@@ -1,0 +1,22 @@
+Date,Firm,To Grade,From Grade,Action
+2021-10-14 09:52:03,Mizuho,Neutral,,init
+2021-10-18 08:46:45,Piper Sandler,Overweight,,init
+2021-10-18 08:58:25,Keybanc,Overweight,,init
+2021-10-18 09:07:30,Goldman Sachs,Neutral,,init
+2021-10-18 09:25:30,JP Morgan,Neutral,,init
+2021-10-18 09:54:03,Needham,Buy,,init
+2021-10-18 11:48:13,William Blair,Outperform,,init
+2021-10-18 13:21:26,Canaccord Genuity,Buy,,init
+2021-10-18 13:32:22,Morgan Stanley,Equal-Weight,,init
+2021-11-03 15:53:27,SMBC Nikko,Outperform,,init
+2021-11-10 09:57:36,Piper Sandler,Overweight,,main
+2021-12-10 15:14:16,Northcoast Research,Neutral,,init
+2021-12-13 12:30:28,Goldman Sachs,Neutral,,main
+2021-12-16 11:49:00,Morgan Stanley,Overweight,Equal-Weight,up
+2022-01-25 11:42:28,Keybanc,Overweight,,main
+2022-01-25 20:01:56,Mizuho,Neutral,,main
+2022-01-28 13:46:12,Morgan Stanley,Overweight,,main
+2022-02-15 09:33:08,Keybanc,Overweight,,main
+2022-02-16 10:00:37,Piper Sandler,Overweight,,main
+2022-02-16 11:38:35,Needham,Buy,,main
+2022-02-16 13:48:18,Morgan Stanley,Overweight,,main

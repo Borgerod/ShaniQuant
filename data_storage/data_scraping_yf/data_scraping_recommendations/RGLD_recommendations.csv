@@ -1,0 +1,95 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-21 07:52:00,National Bank Financial,Outperform,,up
+2012-07-30 10:49:00,National Bank Financial,Sector Perform,,main
+2012-08-31 07:22:00,Bank of America,Neutral,,main
+2012-09-12 07:49:00,McNicoll Lewis Vlak,Buy,,main
+2012-09-19 09:12:00,HSBC,Neutral,Overweight,down
+2012-10-11 07:49:00,McNicoll Lewis Vlak,Buy,,main
+2012-10-12 08:27:00,National Bank Financial,Sector Perform,,main
+2012-10-17 17:04:00,Bank of America,Neutral,,main
+2012-11-01 15:23:00,National Bank Financial,Sector Perform,,main
+2013-02-12 08:25:25,UBS,Buy,Neutral,up
+2013-02-12 11:45:20,UBS,Buy,Neutral,up
+2013-03-18 10:00:03,BB&T Capital,Buy,,init
+2013-04-29 10:26:27,UBS,Buy,,main
+2013-06-21 11:27:23,UBS,Buy,,main
+2013-07-08 08:36:49,Cowen & Co.,Outperform,,init
+2013-08-09 07:00:00,RBC Capital,Outperform,Sector Perform,up
+2013-08-20 07:44:28,BB&T Capital,Hold,Buy,down
+2013-12-02 16:00:00,Raymond James,Strong Buy,,init
+2014-01-09 06:39:22,Bank of America,Buy,Neutral,up
+2014-02-12 06:27:06,McNicoll Lewis Vlak,Hold,Buy,down
+2014-02-18 16:00:00,Raymond James,Outperform,Strong Buy,down
+2014-02-25 08:00:00,CIBC,Sector Outperform,,up
+2014-05-02 23:27:27,Barclays,Overweight,,main
+2014-05-29 07:15:46,Morgan Stanley,Overweight,,init
+2014-07-22 20:01:33,CIBC,,,main
+2014-07-25 06:34:58,HSBC,Underweight,Neutral,down
+2014-08-08 16:00:00,UBS,Buy,,main
+2014-10-08 08:30:00,HSBC,Overweight,Underweight,up
+2014-10-27 06:12:10,HSBC,Neutral,Overweight,down
+2014-10-31 09:00:00,Barclays,Overweight,,main
+2014-11-03 09:00:00,Barclays,Overweight,,main
+2014-11-03 18:45:10,Goldman Sachs,Buy,Neutral,up
+2015-01-15 09:00:00,Barclays,Overweight,,main
+2015-01-30 09:00:00,Barclays,Overweight,,main
+2015-03-16 07:11:09,HSBC,Overweight,Neutral,up
+2015-04-20 08:34:43,Raymond James,Outperform,Strong Buy,down
+2015-05-01 09:00:00,Barclays,Overweight,,main
+2015-05-04 06:31:25,BB&T Capital,Buy,Hold,up
+2015-05-13 07:50:39,Canaccord Genuity,Hold,,init
+2015-05-14 08:36:14,Macquarie,Outperform,,init
+2015-07-16 11:00:00,Barclays,Overweight,,main
+2015-08-06 08:02:11,Canaccord Genuity,Buy,Hold,up
+2015-09-08 04:06:17,HSBC,Buy,,main
+2015-09-08 05:44:20,Goldman Sachs,Neutral,Buy,down
+2015-09-18 09:49:44,FBR Capital,Outperform,,init
+2016-01-08 10:10:01,CIBC,Sector Perform,Sector Outperform,down
+2016-01-15 07:17:02,BMO Capital,Market Perform,Outperform,down
+2016-01-28 02:15:32,FBR Capital,Outperform,,main
+2016-01-28 07:54:06,FBR Capital,Market Perform,Outperform,down
+2016-02-10 11:48:10,FBR Capital,Market Perform,,main
+2016-03-14 09:27:35,Raymond James,Market Perform,Outperform,down
+2016-07-06 06:25:49,National Bank Financial,Outperform,Sector Perform,up
+2016-07-06 06:26:50,Raymond James,Outperform,Market Perform,up
+2016-07-06 11:02:15,Dundee,Buy,Neutral,up
+2016-08-08 11:04:59,Barclays,Overweight,,main
+2016-11-07 18:29:03,CIBC,Sector Outperform,Sector Perform,up
+2017-04-20 16:59:41,National Bank Financial,Sector Perform,Outperform,down
+2017-08-16 12:42:35,FBR Capital,Market Perform,,main
+2017-12-28 15:49:54,Canaccord Genuity,Hold,Buy,down
+2018-02-08 12:26:02,Canaccord Genuity,Buy,Hold,up
+2018-03-15 11:22:18,Raymond James,Outperform,Market Perform,up
+2018-10-10 15:37:17,Barclays,Equal-Weight,,init
+2018-11-02 12:16:11,TD Securities,Hold,Buy,down
+2018-11-14 16:14:05,Barclays,Equal-Weight,Equal-Weight,main
+2019-04-01 12:46:58,B. Riley FBR,Buy,Neutral,up
+2019-04-12 12:45:37,Desjardins,Hold,Buy,down
+2019-05-13 13:20:17,RBC Capital,Sector Perform,Outperform,down
+2019-05-13 14:00:34,RBC Capital,Sector Perform,Outperform,down
+2019-06-19 10:45:25,Canaccord Genuity,Hold,Buy,down
+2019-07-16 10:40:00,Raymond James,Market Perform,Outperform,down
+2019-07-16 10:41:40,Barclays,Underweight,Equal-Weight,down
+2019-08-02 11:53:10,CIBC,Neutral,Outperform,down
+2019-09-09 12:35:04,B. Riley,Buy,,main
+2019-10-21 12:39:05,B. Riley,Buy,,main
+2019-10-31 10:50:30,B. Riley,Neutral,Buy,down
+2019-11-08 12:12:02,Cantor Fitzgerald,Buy,Hold,up
+2020-02-25 13:11:10,B. Riley FBR,Neutral,,main
+2020-03-24 11:59:39,B. Riley FBR,Buy,Neutral,up
+2020-03-27 09:00:04,Scotiabank,Sector Perform,Sector Underperform,up
+2020-03-27 11:36:07,B. Riley FBR,Buy,,main
+2020-04-14 12:05:47,B. Riley FBR,Buy,,main
+2020-05-07 18:05:54,CFRA,Buy,,main
+2020-05-15 09:59:25,RBC Capital,Sector Perform,Underperform,up
+2020-05-19 11:41:44,B. Riley FBR,Buy,,main
+2020-05-28 14:49:18,B. Riley FBR,Buy,,main
+2020-07-20 12:14:37,Barclays,Equal-Weight,,main
+2020-10-08 15:43:52,B of A Securities,Underperform,,main
+2020-10-20 14:23:32,TD Securities,Buy,Hold,up
+2021-01-11 10:09:30,RBC Capital,Outperform,Sector Perform,up
+2021-03-04 13:17:08,JP Morgan,Overweight,,init
+2021-08-13 12:32:13,BMO Capital,Market Perform,,main
+2021-09-24 10:19:54,Keybanc,Sector Weight,,init
+2021-11-22 12:50:23,B of A Securities,Neutral,Underperform,up
+2022-01-18 14:12:10,Raymond James,Outperform,,main

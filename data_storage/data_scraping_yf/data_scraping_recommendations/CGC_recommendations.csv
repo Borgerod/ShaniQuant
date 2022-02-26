@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action
+2018-08-16 10:24:01,Canaccord Genuity,Speculative Buy,Hold,up
+2018-09-25 11:40:31,Benchmark,Buy,,init
+2019-01-09 12:40:57,PiperJaffray,Overweight,,init
+2019-01-18 14:32:38,CIBC,Outperform,,init
+2019-01-25 13:43:34,PiperJaffray,Overweight,Overweight,reit
+2019-02-19 13:02:47,GMP Securities,Hold,Buy,down
+2019-02-21 13:19:23,Seaport Global,Neutral,,init
+2019-02-25 15:11:26,Jefferies,Hold,,init
+2019-04-17 12:22:49,Bank of America,Buy,,init
+2019-04-22 12:23:39,GMP Securities,Buy,Hold,up
+2019-05-13 13:31:49,Alliance Global Partners,Buy,,init
+2019-06-06 11:17:26,Stifel Nicolaus,Buy,,init
+2019-06-11 11:20:00,Compass Point,Neutral,,init
+2019-06-19 12:41:09,Bank of America,Buy,,main
+2019-06-28 12:25:11,Consumer Edge,Equal-Weight,,init
+2019-07-17 11:20:17,Ladenburg Thalmann,Buy,,init
+2019-08-26 10:20:33,Seaport Global,Buy,Neutral,up
+2019-09-18 10:42:27,Oppenheimer,Perform,,init
+2019-09-27 12:41:42,Bank of America,Neutral,Buy,down
+2019-10-01 12:50:05,Piper Jaffray,Overweight,,main
+2019-10-11 10:51:48,Jefferies,Underperform,Hold,down
+2019-10-14 11:56:24,Seaport Global,Neutral,Buy,down
+2019-10-22 12:20:18,Piper Jaffray,Overweight,,main
+2019-11-15 12:58:07,Alliance Global Partners,Hold,Buy,down
+2019-11-15 14:46:42,Stifel Nicolaus,Buy,,main
+2019-11-20 11:11:47,Bank of America,Buy,Neutral,up
+2020-01-28 12:47:48,BMO Capital,Outperform,Market Perform,up
+2020-02-18 13:51:15,Stifel Nicolaus,Buy,,main
+2021-02-10 16:39:43,Cormark Securities,Reduce,Market Perform,down
+2021-02-10 16:42:01,Benchmark,Hold,Buy,down
+2021-02-10 16:43:47,Canaccord Genuity,Sell,Hold,down
+2021-05-20 17:44:33,Cantor Fitzgerald,Neutral,,main
+2021-05-25 10:53:32,MKM Partners,Buy,Neutral,up
+2021-06-01 14:15:52,Cantor Fitzgerald,Neutral,,main
+2021-06-02 11:53:08,Canaccord Genuity,Hold,Sell,up
+2021-08-12 09:06:17,Jefferies,Hold,Underperform,up
+2021-11-08 15:55:37,Cowen & Co.,Market Perform,Outperform,down
+2021-11-18 12:14:30,Barclays,Equal-Weight,,init
+2021-12-07 10:23:29,Wells Fargo,Underweight,,init
+2021-12-20 12:21:09,Piper Sandler,Underweight,Neutral,down
+2021-12-22 12:14:56,B of A Securities,Underperform,Neutral,down
+2022-02-18 15:06:45,Cantor Fitzgerald,Neutral,,main

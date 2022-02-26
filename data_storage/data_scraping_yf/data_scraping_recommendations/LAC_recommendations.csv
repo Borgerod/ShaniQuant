@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-25 09:37:25,Roth Capital,Neutral,Buy,down
+2020-12-23 11:33:10,Stifel,Buy,,init
+2021-03-10 12:11:58,Cowen & Co.,Market Perform,,init
+2021-03-31 10:34:21,B. Riley FBR,Buy,,init
+2021-09-30 13:25:44,JP Morgan,Overweight,,init
+2021-10-01 13:17:52,Piper Sandler,Neutral,,init
+2021-11-16 12:00:51,Deutsche Bank,Hold,Buy,down
+2021-11-24 15:55:21,B. Riley Securities,Buy,,main
+2022-01-11 09:44:47,Deutsche Bank,Buy,Hold,up
+2022-01-11 11:41:32,Piper Sandler,Overweight,Neutral,up
+2022-01-12 12:29:19,Cowen & Co.,Outperform,Market Perform,up
+2022-01-27 12:55:09,HSBC,Buy,,init

@@ -1,0 +1,41 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-03 08:16:00,Stifel Nicolaus,Buy,,main
+2012-10-25 05:51:00,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2012-10-25 08:02:00,Stifel Nicolaus,Buy,,main
+2013-01-31 08:27:15,Stifel Nicolaus,Buy,,main
+2013-04-25 06:17:11,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2013-05-30 08:44:38,Stifel Nicolaus,Buy,,main
+2014-07-24 06:32:47,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2014-07-30 06:20:10,Oppenheimer,Outperform,Market Perform,up
+2014-09-16 17:47:48,Sterne Agee,Buy,,init
+2014-12-09 00:00:00,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2015-01-09 00:00:00,William Blair,Outperform,,init
+2015-01-29 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-03-05 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-04-23 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-05-20 06:26:12,CLSA,Outperform,,init
+2015-06-05 09:07:58,Raymond James,Outperform,,init
+2015-08-27 08:52:57,CLSA,Buy,Outperform,up
+2015-09-03 05:57:15,Keefe Bruyette & Woods,Market Perform,,main
+2015-10-22 15:11:58,Keefe Bruyette & Woods,Market Perform,,main
+2016-01-15 09:17:42,Keefe Bruyette & Woods,Market Perform,,main
+2016-01-28 06:44:51,Keefe Bruyette & Woods,Underperform,,down
+2016-01-28 13:54:18,Oppenheimer,Outperform,,main
+2016-04-06 04:19:48,Keefe Bruyette & Woods,Market Perform,Underperform,up
+2016-07-28 12:53:01,Keefe Bruyette & Woods,Market Perform,,main
+2016-07-28 12:53:11,Oppenheimer,Outperform,,main
+2017-04-20 12:35:16,Raymond James,Market Perform,Outperform,down
+2017-06-28 12:35:15,Mizuho,Buy,,init
+2018-10-24 10:47:41,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2019-04-15 11:00:02,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2020-04-24 15:48:11,Oppenheimer,Outperform,,main
+2020-10-06 10:50:00,Morgan Stanley,Overweight,,init
+2020-11-30 11:34:17,Morgan Stanley,Equal-Weight,Overweight,down
+2021-01-06 12:37:37,Goldman Sachs,Buy,,init
+2021-01-28 14:09:17,Morgan Stanley,Equal-Weight,,main
+2021-04-01 13:23:41,Morgan Stanley,Equal-Weight,,main
+2021-04-22 12:10:18,Morgan Stanley,Equal-Weight,,main
+2021-11-02 10:57:00,Truist Securities,Hold,,init
+2021-11-03 08:56:31,Truist Securities,Hold,,init
+2022-01-03 20:20:29,Oppenheimer,Outperform,,main
+2022-01-27 13:23:11,Oppenheimer,Outperform,,main

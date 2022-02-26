@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action
+2012-08-03 14:12:00,Standpoint Research,Hold,Buy,down
+2013-01-28 09:44:41,Goldman Sachs,Neutral,Sell,up
+2013-01-29 08:24:24,Barclays,Equal-Weight,Overweight,down
+2013-02-08 09:53:40,Kepler Cheuvreux,Hold,Buy,down
+2013-05-03 10:28:11,Banco Sabadell,Sell,Buy,down
+2013-08-21 09:22:47,Cowen & Co.,Market Perform,Outperform,down
+2013-09-16 07:42:04,Barclays,Overweight,Equal-Weight,up
+2013-10-08 06:57:26,MainFirst,Underperform,,init
+2013-10-18 12:20:43,Leerink Swann,Market Perform,Outperform,down
+2013-10-31 10:17:54,Natixis,Buy,Neutral,up
+2013-11-15 08:36:15,Mirabaud,Buy,Neutral,up
+2013-11-18 07:32:10,Kepler Cheuvreux,Buy,Hold,up
+2014-01-06 16:00:00,JP Morgan,Neutral,Overweight,down
+2014-01-09 08:30:00,S&P Capital IQ,Hold,Buy,down
+2014-01-23 16:00:00,Citigroup,Neutral,Buy,down
+2014-07-28 12:11:18,Mainfirst,Outperform,,up
+2014-10-28 09:14:28,Deutsche Bank,Hold,Buy,down
+2014-10-29 11:10:08,Bank of America,Neutral,Buy,down
+2014-10-29 11:10:41,Barclays,Equal-Weight,Overweight,down
+2014-10-29 11:11:32,Jefferies,Hold,Buy,down
+2014-10-29 12:29:37,Deutsche Bank,Hold,Buy,down
+2015-03-17 07:08:49,Leerink Swann,Outperform,Market Perform,up
+2015-11-09 06:09:23,Bernstein,Market Perform,Outperform,down
+2015-11-09 08:13:27,UBS,Neutral,,down
+2015-11-09 11:36:21,Bryan Garnier,Neutral,Buy,down
+2015-12-01 11:45:10,Morgan Stanley,Equal-Weight,Overweight,down
+2015-12-10 08:04:38,Exane BNP Paribas,Underperform,Neutral,down
+2016-05-03 08:06:10,HSBC,Hold,Buy,down
+2016-05-12 06:14:22,Barclays,Overweight,Equal-Weight,up
+2016-09-23 07:49:46,PiperJaffray,Neutral,,init
+2017-04-06 19:46:54,Argus,Buy,,init
+2017-08-30 15:44:18,HSBC,Hold,Reduce,up
+2017-11-15 14:36:23,Barclays,Equal-Weight,Underweight,up
+2018-01-23 18:25:15,Barclays,Underweight,Equal-Weight,down
+2018-08-10 11:23:26,Citigroup,Buy,Neutral,up
+2018-08-24 12:15:07,Argus,Buy,Buy,main
+2018-09-10 13:42:07,Bank of America,Buy,Neutral,up
+2018-11-01 11:11:23,Barclays,Equal-Weight,Underweight,up
+2018-11-08 17:20:34,Argus,Buy,Buy,main
+2018-12-14 14:58:42,Morgan Stanley,Equal-Weight,,init
+2019-09-03 10:32:18,Bernstein,Outperform,,init
+2019-09-23 11:00:09,Guggenheim,Buy,Neutral,up
+2019-12-06 12:14:30,Barclays,Underweight,Equal-Weight,down
+2020-01-06 11:13:31,JP Morgan,Overweight,Neutral,up
+2020-02-11 14:44:11,SVB Leerink,Market Perform,,init
+2020-02-19 12:53:23,Argus Research,Buy,,main
+2020-03-11 09:03:37,Goldman Sachs,Buy,Neutral,up
+2021-01-15 16:39:13,Deutsche Bank,Sell,,init
+2021-09-27 11:13:50,SVB Leerink,Outperform,Market Perform,up

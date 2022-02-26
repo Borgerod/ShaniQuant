@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,ARK Fintech Innovation ETF
+longName,ARK Fintech Innovation ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,ARKF
+messageBoardId,finmb_597721466
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,0
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1548979200
+annualReportExpenseRatio,
+totalAssets,2211887360
+bookValue,
+fundFamily,ARK ETF Trust
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0034
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Technology
+fiveYearAverageReturn,
+phone,855-406-1506
+longBusinessSummary,"The fund is an actively-managed ETF that will invest under normal circumstances primarily (at least 80% of its assets) in domestic and foreign equity securities of companies that are engaged in the fund's investment theme of financial technology (""Fintech"") innovation. A company is deemed to be engaged in the theme of Fintech innovation if (i) it derives a significant portion of its revenue or market value from the theme of Fintech innovation, or (ii) it has stated its primary business to be in products and services focused on the theme of Fintech innovation. The fund is non-diversified."
+companyOfficers,[]
+previousClose,30.15
+regularMarketOpen,29.9232
+twoHundredDayAverage,47.2546
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,30.0899
+navPrice,39.26
+averageDailyVolume10Day,1488640
+regularMarketPreviousClose,30.15
+fiftyDayAverage,35.6916
+trailingAnnualDividendRate,
+open,29.9232
+toCurrency,
+averageVolume10days,1488640
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,28.81
+currency,USD
+regularMarketVolume,2793140
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,2036833
+dayLow,28.81
+ask,28.79
+askSize,1300
+volume,2793140
+fiftyTwoWeekHigh,61.36
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,27.97
+bid,28.55
+tradeable,False
+dividendYield,
+bidSize,900
+dayHigh,30.0899
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0.041100003}, {'consumer_cyclical': 0.1863}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0.3403}, {'communication_services': 0.24129999}, {'financial_services': 0.162}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0.029000001}]"
+holdings,"[{'symbol': 'SQ', 'holdingName': 'Square Inc A', 'holdingPercent': 0.1007}, {'symbol': 'SHOP.TO', 'holdingName': 'Shopify Inc A', 'holdingPercent': 0.056900002}, {'symbol': 'PYPL', 'holdingName': 'PayPal Holdings Inc', 'holdingPercent': 0.0469}, {'symbol': 'SE.SI', 'holdingName': 'Sea Ltd ADR', 'holdingPercent': 0.0464}, {'symbol': 'Z', 'holdingName': 'Zillow Group Inc C', 'holdingPercent': 0.045900002}, {'symbol': 'JD', 'holdingName': 'JD.com Inc ADR', 'holdingPercent': 0.038}, {'symbol': 'TWLO', 'holdingName': 'Twilio Inc A', 'holdingPercent': 0.0364}, {'symbol': 'COIN', 'holdingName': 'Coinbase Global Inc Ordinary Shares - Class A', 'holdingPercent': 0.0348}, {'symbol': 'MELI.SA', 'holdingName': 'MercadoLibre Inc', 'holdingPercent': 0.0335}, {'symbol': 'PINS', 'holdingName': 'Pinterest Inc', 'holdingPercent': 0.0325}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 29.09, 'priceToSales': 3.4, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 43.05, 'priceToBook': 7.39, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9985
+regularMarketPrice,29
+preMarketPrice,
+logo_url,

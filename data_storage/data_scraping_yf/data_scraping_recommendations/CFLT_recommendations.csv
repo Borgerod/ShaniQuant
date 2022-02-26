@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action
+2021-07-19 08:53:48,Keybanc,Sector Weight,,init
+2021-07-19 08:57:19,Piper Sandler,Overweight,,init
+2021-07-19 09:21:45,JP Morgan,Neutral,,init
+2021-07-19 10:15:22,Goldman Sachs,Neutral,,init
+2021-07-19 10:26:12,JMP Securities,Market Outperform,,init
+2021-07-19 11:08:19,Morgan Stanley,Equal-Weight,,init
+2021-07-19 11:14:05,Deutsche Bank,Hold,,init
+2021-07-19 11:27:17,Wells Fargo,Overweight,,init
+2021-07-19 11:28:22,Cowen & Co.,Outperform,,init
+2021-07-19 11:34:52,B of A Securities,Neutral,,init
+2021-07-19 14:01:10,UBS,Buy,,init
+2021-07-19 14:11:38,Barclays,Equal-Weight,,init
+2021-07-20 12:02:18,Citigroup,Neutral,,init
+2021-08-06 11:53:06,Barclays,Equal-Weight,,main
+2021-08-06 13:30:33,JMP Securities,Market Outperform,,main
+2021-08-16 12:36:12,Morgan Stanley,Equal-Weight,,main
+2021-09-15 09:21:53,DA Davidson,Neutral,,init
+2021-10-12 15:00:12,Arete Research,Buy,,init
+2021-10-18 14:40:09,Barclays,Equal-Weight,,main
+2021-11-05 13:14:19,JMP Securities,Market Outperform,,main
+2021-11-16 10:07:06,Credit Suisse,Outperform,,init
+2021-11-18 11:05:47,William Blair,Outperform,,init
+2021-11-22 12:53:44,Morgan Stanley,Equal-Weight,,main
+2022-01-25 13:09:14,DA Davidson,Buy,Neutral,up
+2022-01-26 13:11:08,Wells Fargo,Overweight,,main
+2022-02-01 13:50:04,Morgan Stanley,Equal-Weight,,main
+2022-02-11 13:08:05,Morgan Stanley,Equal-Weight,,main
+2022-02-11 13:16:41,Credit Suisse,Outperform,,main
+2022-02-11 15:06:19,Deutsche Bank,Hold,,main

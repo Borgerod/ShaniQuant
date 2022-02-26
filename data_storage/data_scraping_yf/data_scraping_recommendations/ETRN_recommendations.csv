@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action
+2019-04-18 11:26:23,RBC Capital,Sector Perform,,init
+2019-06-17 11:01:41,Bank of America,Neutral,,init
+2019-08-06 10:32:40,UBS,Neutral,,init
+2019-09-26 10:22:35,UBS,Buy,Neutral,up
+2019-11-25 11:46:44,Credit Suisse,Outperform,Neutral,up
+2020-01-07 14:21:45,Wells Fargo,Underweight,Equal-Weight,down
+2020-01-28 15:45:24,B of A Securities,Neutral,,reit
+2020-04-27 11:44:46,Wells Fargo,Overweight,Underweight,up
+2020-07-14 13:03:05,JP Morgan,Neutral,,init
+2020-08-11 14:40:55,UBS,Buy,,main
+2020-08-19 14:20:35,B of A Securities,Underperform,Neutral,down
+2020-09-25 12:28:54,Morgan Stanley,Equal-Weight,,init
+2020-09-29 10:16:00,Morgan Stanley,Equal-Weight,,init
+2020-11-12 13:32:56,Credit Suisse,Outperform,,main
+2020-11-18 12:09:48,B of A Securities,Neutral,Underperform,up
+2021-01-28 12:01:39,Morgan Stanley,Underweight,Equal-Weight,down
+2021-02-11 12:05:33,Barclays,Underweight,Equal-Weight,down
+2021-03-22 13:07:01,Morgan Stanley,Underweight,,main
+2021-05-13 12:16:00,Wells Fargo,Underweight,Equal-Weight,down
+2021-06-02 10:45:43,Barclays,Underweight,,main
+2021-10-19 12:11:43,Barclays,Underweight,,main
+2021-11-03 12:44:17,Wells Fargo,Underweight,,main
+2021-12-16 12:11:56,Wells Fargo,Overweight,Underweight,up
+2022-02-01 16:53:29,UBS,Neutral,Buy,down

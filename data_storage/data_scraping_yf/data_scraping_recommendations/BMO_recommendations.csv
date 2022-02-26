@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-23 06:01:00,Credit Suisse,Outperform,,up
+2012-08-07 13:32:00,Barclays,Underweight,Equal-Weight,down
+2012-08-28 07:48:00,Stifel Nicolaus,Hold,,init
+2012-08-29 07:43:00,Desjardins,Buy,Hold,up
+2012-08-29 08:03:00,BMO Capital,Market Perform,,main
+2013-02-11 12:09:40,Barclays,Underweight,,main
+2013-02-27 07:38:06,BMO Capital,Market Perform,,main
+2013-02-27 08:24:30,Citigroup,Buy,,init
+2013-05-14 11:52:25,Morgan Stanley,Underweight,Equal-Weight,down
+2013-05-30 08:38:27,BMO Capital,Market Perform,,main
+2013-08-28 07:15:09,BMO Capital,Market Perform,,main
+2013-10-17 16:00:00,TD Securities,Hold,,init
+2013-11-21 13:21:39,Barclays,Underweight,,main
+2014-05-01 08:00:00,Canaccord Genuity,Hold,,init
+2014-08-19 09:00:00,Barclays,Equal-Weight,,main
+2014-08-27 07:42:52,TD Securities,Buy,Hold,up
+2014-10-09 16:00:00,Canaccord Genuity,Buy,Hold,up
+2014-12-01 00:00:00,Citigroup,Neutral,Buy,down
+2015-02-24 09:00:00,Citigroup,Neutral,,main
+2015-02-27 09:00:00,Citigroup,Neutral,,main
+2015-12-02 11:11:50,TD Securities,Buy,Hold,up
+2015-12-17 06:05:36,Credit Suisse,Outperform,,main
+2016-03-08 06:33:30,Credit Suisse,Neutral,Outperform,down
+2016-05-26 07:26:51,Canaccord Genuity,Hold,Buy,down
+2016-05-26 07:50:46,Scotiabank,Sector Perform,Outperform,down
+2016-05-26 07:51:08,TD Securities,Hold,Buy,down
+2016-06-09 16:10:01,Rafferty,Buy,Hold,up
+2016-09-21 07:57:33,Dundee,Neutral,,init
+2016-10-04 14:31:30,Credit Suisse,Underperform,Neutral,down
+2016-10-05 11:47:14,Credit Suisse,Underperform,Neutral,down
+2016-11-23 12:49:48,Credit Suisse,Neutral,Underperform,up
+2016-12-07 18:28:03,Canaccord Genuity,Buy,Hold,up
+2017-05-18 16:20:52,Citigroup,Buy,Neutral,up
+2017-05-23 11:35:45,Barclays,Equal-Weight,Underweight,up
+2018-02-15 13:56:03,Macquarie,Outperform,Neutral,up
+2018-07-18 11:26:15,RBC Capital,Outperform,Sector Perform,up
+2018-08-29 12:47:50,Canaccord Genuity,Buy,Hold,up
+2019-01-28 13:43:45,Bank of America,Underperform,Neutral,down
+2020-02-26 17:32:48,B of A Securities,Underperform,,main
+2020-05-11 15:23:11,Barclays,Equal-Weight,,main
+2020-05-13 12:53:49,B of A Securities,Underperform,,main
+2020-12-02 15:56:21,Credit Suisse,Neutral,,main
+2021-02-24 11:11:53,Credit Suisse,Outperform,Neutral,up
+2021-02-24 16:44:08,Canaccord Genuity,Buy,,main
+2021-03-02 16:52:56,B of A Securities,Buy,Neutral,up

@@ -1,0 +1,52 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-15 13:28:00,UBS,Neutral,,main
+2012-05-23 10:48:00,UBS,Neutral,,main
+2012-07-24 11:53:00,UBS,Neutral,,main
+2012-10-24 10:17:00,UBS,Neutral,,main
+2013-05-29 09:25:55,CL King,Buy,,init
+2013-05-30 08:20:09,UBS,Sell,Neutral,down
+2013-10-22 08:00:00,Stephens & Co.,Equal-Weight,Overweight,down
+2014-07-23 09:03:08,Bank of America,Underperform,Buy,down
+2014-09-29 05:56:37,Morgan Stanley,Overweight,Underperform,up
+2015-02-25 14:55:20,Bank of America,Neutral,Underperform,up
+2015-07-22 07:27:51,Bank of America,Buy,Neutral,up
+2015-11-09 08:14:13,Goldman Sachs,Neutral,Sell,up
+2016-04-11 10:24:33,Jefferies,Hold,,init
+2017-01-10 15:26:58,CL King,Neutral,Buy,down
+2017-10-19 16:32:33,Bank of America,Underperform,Neutral,down
+2018-03-14 14:16:02,Morgan Stanley,Overweight,Overweight,main
+2018-07-10 11:12:43,Morgan Stanley,Underweight,Overweight,down
+2018-07-18 12:18:47,Buckingham,Neutral,Neutral,main
+2018-08-15 11:41:32,Morgan Stanley,Underweight,Underweight,main
+2019-02-19 11:58:57,JP Morgan,Underweight,,init
+2019-04-26 12:33:22,Bank of America,Buy,Neutral,up
+2019-05-06 14:42:31,Morgan Stanley,Underweight,,main
+2019-06-05 11:40:35,Stephens & Co.,Overweight,Equal-Weight,up
+2019-07-15 12:20:03,Buckingham Research,Neutral,,main
+2019-08-02 15:42:52,Morgan Stanley,Underweight,,main
+2019-08-15 11:59:48,Bank of America,Neutral,Buy,down
+2019-09-10 10:31:23,JP Morgan,Neutral,Underweight,up
+2019-09-13 10:56:25,Bank of America,Underperform,Neutral,down
+2019-10-15 12:01:03,Morgan Stanley,Underweight,,main
+2019-11-14 11:46:00,Morgan Stanley,Equal-Weight,Underweight,up
+2019-12-18 14:00:58,JP Morgan,Neutral,,main
+2020-02-20 14:40:42,JP Morgan,Neutral,,main
+2020-03-11 15:06:30,JP Morgan,Neutral,,main
+2020-03-12 10:47:36,Benchmark,Buy,,init
+2020-03-23 14:04:22,Benchmark,Buy,,main
+2020-03-31 08:17:03,Morgan Stanley,Equal-Weight,,main
+2020-04-13 14:07:10,Morgan Stanley,Equal-Weight,,main
+2020-05-05 12:44:45,Morgan Stanley,Equal-Weight,,main
+2020-05-18 12:41:50,Morgan Stanley,Equal-Weight,,main
+2020-06-17 14:43:13,Benchmark,Buy,,main
+2020-07-10 12:46:19,Morgan Stanley,Equal-Weight,,main
+2020-08-05 14:49:15,Morgan Stanley,Equal-Weight,,main
+2020-10-15 14:42:12,B of A Securities,Underperform,,main
+2020-10-19 11:08:33,Seaport Global,Buy,,init
+2020-11-17 13:03:10,B of A Securities,Buy,Underperform,up
+2020-12-07 14:10:39,Morgan Stanley,Equal-Weight,,main
+2021-01-15 11:18:29,JP Morgan,Overweight,Neutral,up
+2021-05-07 12:48:50,Morgan Stanley,Equal-Weight,,main
+2021-07-26 14:20:08,Morgan Stanley,Equal-Weight,,main
+2021-08-05 13:26:44,Morgan Stanley,Equal-Weight,,main
+2021-11-17 11:52:30,Morgan Stanley,Underweight,Equal-Weight,down

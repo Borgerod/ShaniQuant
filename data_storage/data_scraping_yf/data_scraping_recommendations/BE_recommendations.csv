@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action
+2018-08-27 11:43:02,Credit Suisse,Underperform,Neutral,down
+2018-10-31 11:16:55,Credit Suisse,Neutral,Underperform,up
+2019-02-07 12:33:16,Credit Suisse,Outperform,Neutral,up
+2019-02-13 11:19:30,Raymond James,Outperform,Market Perform,up
+2019-06-20 12:18:41,Bank of America,Neutral,Underperform,up
+2019-08-13 12:05:53,Raymond James,Outperform,,main
+2019-08-13 12:35:50,Baird,Neutral,,main
+2019-08-13 12:49:08,JP Morgan,Overweight,,main
+2019-08-14 10:18:41,KeyBanc,Overweight,,main
+2019-09-03 13:01:24,Bank of America,Underperform,,reit
+2019-10-01 11:27:23,Raymond James,Outperform,,main
+2020-02-20 10:10:23,Raymond James,Market Perform,Outperform,down
+2020-02-20 14:26:26,JP Morgan,Overweight,,main
+2020-03-17 13:24:58,Morgan Stanley,Overweight,,main
+2020-03-17 15:03:53,JP Morgan,Overweight,,main
+2020-04-15 12:54:09,Morgan Stanley,Overweight,,main
+2020-05-11 13:00:47,Morgan Stanley,Overweight,,main
+2020-06-17 12:58:41,Morgan Stanley,Overweight,,main
+2020-07-24 12:22:25,Morgan Stanley,Overweight,,main
+2020-08-14 12:02:17,Morgan Stanley,Overweight,,main
+2020-09-18 11:57:37,Morgan Stanley,Overweight,,main
+2020-10-30 12:35:46,Morgan Stanley,Overweight,,main
+2020-11-17 13:21:04,Morgan Stanley,Overweight,,main
+2020-12-09 10:49:49,JP Morgan,Neutral,Overweight,down
+2020-12-10 11:39:43,Johnson Rice,Accumulate,,init
+2021-01-12 11:19:52,Morgan Stanley,Equal-Weight,Overweight,down
+2021-01-20 10:18:23,Credit Suisse,Neutral,Outperform,down
+2021-03-04 12:23:59,Raymond James,Outperform,Market Perform,up
+2021-03-08 11:46:24,Credit Suisse,Outperform,Neutral,up
+2021-03-10 13:22:10,Morgan Stanley,Equal-Weight,,main
+2021-03-30 12:04:27,Northcoast Research,Buy,,init
+2021-04-16 16:04:28,JP Morgan,Overweight,Neutral,up
+2021-04-20 10:48:41,Wells Fargo,Overweight,,init
+2021-04-20 12:45:34,Morgan Stanley,Equal-Weight,,main
+2021-06-03 13:51:03,B of A Securities,Neutral,Underperform,up
+2021-07-20 12:14:30,Morgan Stanley,Equal-Weight,,main
+2021-08-19 12:21:36,Morgan Stanley,Equal-Weight,,main
+2021-09-01 09:06:00,Wolfe Research,Peer Perform,,init
+2021-09-23 09:25:16,Piper Sandler,Neutral,,init
+2021-10-01 09:11:58,BMO Capital,Market Perform,,init
+2021-10-05 09:41:25,Raymond James,Strong Buy,Outperform,up
+2021-10-15 11:26:05,Truist Securities,Hold,,init
+2021-10-26 12:38:00,Morgan Stanley,Equal-Weight,,main
+2021-11-05 14:25:10,Raymond James,Strong Buy,,main
+2021-11-08 14:34:16,Truist Securities,Hold,,main
+2022-01-13 14:38:40,Morgan Stanley,Equal-Weight,,main
+2022-01-26 12:11:59,Susquehanna,Neutral,,init
+2022-02-11 12:22:43,Raymond James,Strong Buy,,main
+2022-02-14 12:54:46,B of A Securities,Buy,Neutral,up

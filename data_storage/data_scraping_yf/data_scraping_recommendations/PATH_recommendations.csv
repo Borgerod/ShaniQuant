@@ -1,0 +1,44 @@
+Date,Firm,To Grade,From Grade,Action
+2021-05-13 11:57:29,Berenberg,Hold,,init
+2021-05-17 09:55:21,Keybanc,Overweight,,init
+2021-05-17 10:38:56,Evercore ISI Group,In-Line,,init
+2021-05-17 10:46:33,Barclays,Equal-Weight,,init
+2021-05-17 11:01:38,Oppenheimer,Perform,,init
+2021-05-17 11:01:39,BMO Capital,Market Perform,,init
+2021-05-17 11:12:59,Needham,Buy,,init
+2021-05-17 11:14:20,Wells Fargo,Equal-Weight,,init
+2021-05-17 11:46:57,Morgan Stanley,Equal-Weight,,init
+2021-05-17 11:59:29,RBC Capital,Sector Perform,,init
+2021-05-17 12:38:43,Wolfe Research,Peer Perform,,init
+2021-05-17 12:40:07,DA Davidson,Buy,,init
+2021-05-17 12:58:46,Canaccord Genuity,Hold,,init
+2021-05-17 13:03:16,JP Morgan,Neutral,,init
+2021-05-17 13:27:15,Truist Securities,Buy,,init
+2021-05-17 13:29:17,Mizuho,Buy,,init
+2021-05-17 13:44:37,B of A Securities,Buy,,init
+2021-05-17 13:48:13,SMBC Nikko,Outperform,,init
+2021-05-17 16:07:40,Macquarie,Neutral,,init
+2021-06-09 10:16:47,Keybanc,Overweight,,main
+2021-06-09 11:13:45,Barclays,Equal-Weight,,main
+2021-06-09 11:48:54,Morgan Stanley,Equal-Weight,,main
+2021-06-09 12:02:40,Truist Securities,Buy,,main
+2021-06-09 12:59:38,Canaccord Genuity,Hold,,main
+2021-06-09 13:26:27,BMO Capital,Market Perform,,main
+2021-07-12 15:35:01,Summit Insights Group,Sell,,init
+2021-09-08 10:38:47,Barclays,Equal-Weight,,main
+2021-09-08 11:25:48,Morgan Stanley,Equal-Weight,,main
+2021-09-08 12:29:04,Cowen & Co.,Outperform,,main
+2021-09-08 12:41:03,Wells Fargo,Equal-Weight,,main
+2021-09-08 13:39:28,BMO Capital,Market Perform,,main
+2021-09-17 11:36:26,Barclays,Overweight,Equal-Weight,up
+2021-10-07 12:11:52,RBC Capital,Sector Perform,,main
+2021-11-16 10:06:04,Credit Suisse,Outperform,,init
+2021-12-03 11:36:10,Morgan Stanley,Overweight,Equal-Weight,up
+2021-12-09 09:18:45,Keybanc,Overweight,,main
+2021-12-09 11:33:10,Berenberg,Buy,Hold,up
+2021-12-09 12:36:32,Barclays,Overweight,,main
+2021-12-09 12:53:44,Wells Fargo,Equal-Weight,,main
+2022-01-06 13:12:35,Wells Fargo,Overweight,Equal-Weight,up
+2022-01-20 11:37:05,Oppenheimer,Outperform,Perform,up
+2022-01-25 13:43:31,Macquarie,Outperform,Neutral,up
+2022-01-26 13:54:45,Macquarie,Outperform,Neutral,up

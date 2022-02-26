@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action
+2014-12-02 00:00:00,Keefe Bruyette & Woods,Market Perform,,init
+2014-12-18 00:00:00,Sandler O'Neill,Buy,Hold,up
+2015-07-28 07:27:12,Evercore ISI Group,Buy,Hold,up
+2015-08-21 04:01:13,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2016-03-31 06:58:55,FBR Capital,Outperform,,init
+2016-12-15 13:04:14,PiperJaffray,Overweight,,init
+2017-03-21 12:53:28,DA Davidson,Buy,,init
+2017-04-24 11:45:44,PiperJaffray,Neutral,Overweight,down
+2017-05-26 18:24:59,Wells Fargo,Outperform,Market Perform,up
+2017-07-21 11:13:31,PiperJaffray,Overweight,Neutral,up
+2017-07-21 13:10:39,FBR Capital,Market Perform,Outperform,down
+2017-10-06 10:38:13,PiperJaffray,Neutral,Overweight,down
+2017-10-20 12:49:20,Wells Fargo,Outperform,,main
+2018-01-23 11:47:57,PiperJaffray,Overweight,Neutral,up
+2018-05-05 14:00:39,B. Riley FBR,Buy,Neutral,up
+2018-06-19 12:33:58,B. Riley FBR,Buy,Buy,main
+2019-04-22 10:54:05,PiperJaffray,Neutral,Overweight,down
+2019-07-09 11:46:40,Stephens & Co.,Equal-Weight,Overweight,down
+2019-10-18 13:03:10,B. Riley,Buy,,main
+2020-01-09 18:52:55,B. Riley FBR,Buy,,main
+2020-01-22 15:40:58,Piper Sandler,Overweight,,main
+2020-02-10 12:04:33,DA Davidson,Neutral,Buy,down
+2020-03-09 10:20:55,B. Riley,Neutral,Buy,down
+2020-03-17 10:19:50,Stephens & Co.,Overweight,Equal-Weight,up
+2020-04-01 12:21:48,B. Riley FBR,Neutral,,main
+2020-04-22 10:18:54,Piper Sandler,Neutral,Overweight,down
+2020-04-22 14:50:19,B. Riley FBR,Neutral,,main
+2020-06-02 09:25:40,Wells Fargo,Underweight,Equal-Weight,down
+2020-06-18 13:21:56,Piper Sandler,Neutral,,main
+2020-07-10 10:58:49,DA Davidson,Buy,Neutral,up
+2020-07-22 16:17:56,Wells Fargo,Underweight,,main
+2020-07-27 13:47:29,Piper Sandler,Neutral,,main
+2020-09-30 13:27:50,Piper Sandler,Neutral,,main
+2020-10-01 09:09:53,Raymond James,Strong Buy,,init
+2020-10-08 11:11:01,Wells Fargo,Equal-Weight,Underweight,up
+2020-10-21 12:16:13,Raymond James,Outperform,Strong Buy,down
+2020-10-21 15:28:28,Stephens & Co.,Equal-Weight,Overweight,down
+2020-11-12 11:17:29,"Keefe, Bruyette & Woods",Market Perform,Outperform,down
+2021-01-25 13:05:40,Raymond James,Outperform,,main
+2021-02-18 12:20:20,Raymond James,Outperform,,main
+2021-04-05 10:33:55,Raymond James,Strong Buy,Outperform,up
+2021-04-05 15:45:22,B. Riley FBR,Buy,Neutral,up
+2021-07-26 16:17:56,Raymond James,Strong Buy,,main
+2021-07-27 12:11:45,Stephens & Co.,Equal-Weight,,main
+2021-09-29 12:07:16,B. Riley Securities,Buy,,main
+2021-10-07 11:42:58,Wells Fargo,Equal-Weight,,main
+2021-10-22 11:59:03,Raymond James,Strong Buy,,main
+2021-12-03 13:15:47,B. Riley Securities,Buy,,main
+2022-01-24 12:26:00,Raymond James,Strong Buy,,main
+2022-01-24 13:48:00,B. Riley Securities,Buy,,main

@@ -1,0 +1,47 @@
+Date,Firm,To Grade,From Grade,Action
+2016-05-23 06:51:46,JP Morgan,Overweight,,init
+2016-05-23 07:40:05,Wells Fargo,Outperform,,init
+2016-05-23 08:41:23,Bank of America,Buy,,init
+2016-05-23 08:41:57,Deutsche Bank,Buy,,init
+2016-05-23 10:50:13,Stifel Nicolaus,Buy,,init
+2016-05-23 10:50:25,Goldman Sachs,Neutral,,init
+2016-05-24 09:11:36,Citigroup,Buy,,init
+2016-09-26 06:20:09,Goldman Sachs,Neutral,,init
+2016-10-10 12:37:51,Macquarie,Outperform,,init
+2016-11-04 10:10:51,Imperial Capital,In-Line,,init
+2016-12-07 16:50:07,Deutsche Bank,Buy,,main
+2016-12-16 14:00:11,Goldman Sachs,Neutral,,init
+2017-02-13 15:16:09,Aegis Capital,Buy,,init
+2017-09-15 11:56:11,SunTrust Robinson Humphrey,Buy,,init
+2017-11-08 13:47:43,Deutsche Bank,Buy,,main
+2017-11-08 14:55:32,Bank of America,Buy,,main
+2018-02-23 12:17:16,Stifel Nicolaus,Hold,Buy,down
+2018-03-14 12:09:50,Telsey Advisory Group,Market Perform,,init
+2018-04-03 11:20:57,Macquarie,Neutral,Outperform,down
+2018-05-02 12:15:56,Citigroup,Buy,Buy,main
+2018-05-08 12:48:42,Nomura,Buy,,init
+2019-06-11 10:28:00,Goldman Sachs,Buy,Neutral,up
+2019-08-27 10:50:17,Nomura,Buy,,main
+2019-11-06 13:22:18,Union Gaming,Hold,Buy,down
+2020-01-06 16:22:52,Bank of America,Neutral,Buy,down
+2020-02-04 11:38:12,SunTrust Robinson Humphrey,Buy,Hold,up
+2020-02-05 12:02:45,Nomura Instinet,Buy,,main
+2020-02-05 13:40:58,Deutsche Bank,Buy,,main
+2020-04-17 17:52:15,SunTrust Robinson Humphrey,Buy,,main
+2020-05-20 11:54:14,Nomura Instinet,Buy,,main
+2020-05-20 11:54:32,Deutsche Bank,Buy,,main
+2020-05-20 13:41:27,Stifel,Hold,,main
+2020-08-05 11:57:05,Deutsche Bank,Buy,,main
+2020-09-02 15:56:14,Truist Securities,Buy,,main
+2020-10-15 14:47:08,B of A Securities,Neutral,,main
+2020-10-28 15:02:10,Stifel,Hold,,main
+2021-01-14 11:22:06,KeyBanc,Overweight,,init
+2021-04-08 10:11:17,Keybanc,Overweight,,main
+2021-04-21 12:25:18,Goldman Sachs,Neutral,Buy,down
+2021-05-06 10:15:17,Keybanc,Overweight,,main
+2021-05-27 10:06:59,Keybanc,Overweight,,main
+2021-09-15 09:13:14,Wells Fargo,Overweight,,init
+2021-10-06 08:35:26,Keybanc,Overweight,,main
+2022-01-10 11:50:40,B of A Securities,Underperform,Neutral,down
+2022-01-26 11:13:44,Macquarie,Neutral,Outperform,down
+2022-02-03 15:11:13,Deutsche Bank,Buy,,main

@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,Invesco Solar ETF
+longName,Invesco Solar ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,TAN
+messageBoardId,finmb_43532813
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.45
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1208217600
+annualReportExpenseRatio,
+totalAssets,2728788736
+bookValue,
+fundFamily,Invesco
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.001
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.52900004
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Miscellaneous Sector
+fiveYearAverageReturn,0.3314
+phone,800-983-0903
+longBusinessSummary,"The fund will generally invest at least 90% of its total assets in the securities that comprise the underlying index.Strictly in accordance with its guidelines and mandated procedures, MAC Indexing LLC, has contracted with S&P DJI Netherlands B.V. to calculate and administer the underlying index, which is a rules-based index that seeks to track the performance of companies in global solar energy businesses. The fund is non-diversified."
+companyOfficers,[]
+previousClose,63.96
+regularMarketOpen,63.66
+twoHundredDayAverage,81.23265
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,64.32
+navPrice,76.58
+averageDailyVolume10Day,706920
+regularMarketPreviousClose,63.96
+fiftyDayAverage,70.4034
+trailingAnnualDividendRate,
+open,63.66
+toCurrency,
+averageVolume10days,706920
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,62.28
+currency,USD
+regularMarketVolume,833096
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,1394964
+dayLow,62.28
+ask,62.6
+askSize,900
+volume,833096
+fiftyTwoWeekHigh,107.25
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,58.05
+bid,61.3
+tradeable,False
+dividendYield,
+bidSize,800
+dayHigh,64.32
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0.024}, {'consumer_cyclical': 0}, {'basic_materials': 0.026199998}, {'consumer_defensive': 0}, {'technology': 0.7357}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0.19}, {'industrials': 0.0241}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'ENPH', 'holdingName': 'Enphase Energy Inc', 'holdingPercent': 0.113400005}, {'symbol': 'SEDG', 'holdingName': 'SolarEdge Technologies Inc', 'holdingPercent': 0.1001}, {'symbol': 'RUN', 'holdingName': 'Sunrun Inc', 'holdingPercent': 0.0718}, {'symbol': '00968', 'holdingName': 'Xinyi Solar Holdings Ltd', 'holdingPercent': 0.0688}, {'symbol': 'FSLR', 'holdingName': 'First Solar Inc', 'holdingPercent': 0.0621}, {'symbol': 'DQ', 'holdingName': 'Daqo New Energy Corp ADR', 'holdingPercent': 0.0353}, {'symbol': 'SHLS', 'holdingName': 'Shoals Technologies Group Inc Ordinary Shares - Class A', 'holdingPercent': 0.0293}, {'symbol': '03800', 'holdingName': 'GCL-Poly Energy Holdings Ltd', 'holdingPercent': 0.026300002}, {'symbol': '009830.KS', 'holdingName': 'Hanwha Solutions Corp', 'holdingPercent': 0.026099999}, {'symbol': 'NOVA', 'holdingName': 'Sunnova Energy International Inc', 'holdingPercent': 0.0256}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 18.94, 'priceToSales': 4.28, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 32.73, 'priceToBook': 3.36, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9982
+regularMarketPrice,62.48
+preMarketPrice,
+logo_url,

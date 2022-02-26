@@ -1,0 +1,121 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-04 07:48:00,The Oxen Group,Sell,,main
+2012-05-03 07:24:00,Wedbush,Underperform,,main
+2012-07-26 08:35:00,Wedbush,Neutral,Underperform,up
+2013-04-22 08:20:06,BB&T Capital,Buy,Hold,up
+2013-07-16 07:56:28,Susquehanna,Positive,,main
+2013-07-22 10:04:24,Wedbush,Neutral,,main
+2013-10-30 16:00:00,Brean Capital,Buy,,init
+2013-12-05 16:00:00,Sterne Agee,Buy,,main
+2014-01-21 16:00:00,BB&T Capital,Hold,Buy,down
+2014-04-10 08:45:10,Buckingham Research,Underperform,,init
+2014-05-19 06:14:27,Citigroup,Buy,,init
+2014-05-30 20:37:20,Citigroup,Buy,,main
+2014-07-24 06:32:49,Sidoti & Co.,Buy,Neutral,up
+2014-08-20 09:00:00,Citigroup,Buy,,main
+2014-10-23 09:00:00,Citigroup,Buy,,main
+2014-10-30 07:53:12,Morgan Stanley,Overweight,,init
+2015-02-12 08:57:26,Buckingham Research,Neutral,Underperform,up
+2015-02-12 09:00:00,Wunderlich,Buy,,main
+2015-04-15 09:00:00,Susquehanna,Positive,,main
+2015-04-20 09:00:00,Wunderlich,Buy,,main
+2015-04-23 09:00:00,Citigroup,Buy,,main
+2015-04-23 09:06:08,Buckingham Research,Buy,Neutral,up
+2015-05-07 09:00:00,Citigroup,Buy,,main
+2015-06-09 07:28:22,Susquehanna,Positive,,main
+2015-07-21 11:00:00,Citigroup,Buy,,main
+2016-01-04 12:20:10,Cowen & Co.,Market Perform,,init
+2016-01-22 06:44:36,Susquehanna,Neutral,Positive,down
+2016-04-07 06:58:00,Macquarie,Outperform,,init
+2016-07-22 07:35:01,Monness Crespi Hardt,Neutral,Buy,down
+2016-08-12 06:25:24,Susquehanna,Neutral,,init
+2016-08-23 04:49:19,Citigroup,Buy,,main
+2016-09-21 04:35:12,Morgan Stanley,Equal-Weight,Overweight,down
+2016-09-30 06:37:37,Susquehanna,Positive,Neutral,up
+2016-10-03 15:11:22,Standpoint Research,Buy,,init
+2016-10-21 09:39:52,Citigroup,Neutral,Buy,down
+2016-11-01 23:42:45,Wedbush,Neutral,,init
+2016-12-01 13:15:04,Buckingham,Buy,Neutral,up
+2016-12-06 17:08:25,Wells Fargo,Outperform,,init
+2016-12-23 12:39:01,Monness Crespi Hardt,Buy,Neutral,up
+2017-03-16 17:43:04,Standpoint Research,Hold,Buy,down
+2017-03-24 14:15:23,Cowen & Co.,Outperform,Market Perform,up
+2017-03-29 12:18:17,Susquehanna,Negative,Positive,down
+2017-04-10 11:23:29,Susquehanna,Neutral,Negative,up
+2017-06-01 10:32:42,Citigroup,Buy,Neutral,up
+2017-06-05 10:22:33,Susquehanna,Positive,Neutral,up
+2017-07-18 15:47:43,OTR Global,Positive,Mixed,up
+2017-07-21 17:24:05,Citigroup,Buy,,main
+2017-09-25 15:41:02,Buckingham,Buy,,main
+2017-10-20 11:43:15,Wedbush,Outperform,Neutral,up
+2017-10-20 12:45:15,Wells Fargo,Market Perform,,main
+2017-10-20 14:53:36,Buckingham,Buy,,main
+2017-10-20 19:19:06,Morgan Stanley,Equal-Weight,,main
+2017-12-19 10:56:44,Argus,Buy,Hold,up
+2018-02-09 13:24:12,Citigroup,Buy,Buy,main
+2018-04-20 11:18:17,Wedbush,Neutral,Outperform,down
+2018-05-05 13:32:15,Argus,Hold,Buy,down
+2018-05-05 13:32:15,Argus,Buy,,init
+2018-05-05 14:00:38,B. Riley FBR,Buy,,main
+2018-05-05 14:00:38,B. Riley FBR,Neutral,Buy,down
+2018-05-05 14:00:38,B. Riley FBR,Buy,,main
+2018-05-05 14:00:38,B. Riley FBR,Neutral,Buy,down
+2018-05-05 14:00:38,B. Riley FBR,Buy,,main
+2018-05-05 14:00:38,B. Riley FBR,Buy,Neutral,up
+2018-05-05 14:00:38,B. Riley FBR,Buy,Neutral,up
+2018-05-05 14:00:39,B. Riley FBR,Buy,Buy,main
+2018-05-05 14:00:39,B. Riley FBR,Buy,Buy,main
+2018-06-08 11:43:58,Wedbush,Neutral,Neutral,main
+2018-06-21 11:09:43,UBS,Buy,,init
+2018-07-20 11:37:06,Wells Fargo,Market Perform,Outperform,down
+2018-07-20 11:44:57,Susquehanna,Neutral,Positive,down
+2018-07-20 12:00:08,Buckingham,Buy,Buy,main
+2018-07-20 12:10:27,Wedbush,Neutral,Neutral,main
+2018-07-20 13:01:45,UBS,Buy,Buy,main
+2018-07-20 13:24:52,B. Riley FBR,Buy,Buy,main
+2018-07-20 14:26:07,Standpoint Research,Buy,Hold,up
+2018-07-23 13:45:42,Citigroup,Buy,Buy,main
+2018-07-26 12:20:50,Argus,Hold,Buy,down
+2018-08-02 11:49:16,Morgan Stanley,Equal-Weight,,init
+2018-08-16 12:34:16,Buckingham,Buy,Buy,main
+2018-09-20 10:09:34,Cowen & Co.,Market Perform,Outperform,down
+2018-10-02 11:22:03,Citigroup,Neutral,Buy,down
+2018-10-17 12:49:39,Buckingham,Buy,Buy,main
+2018-10-19 13:29:37,Buckingham,Buy,Buy,main
+2018-10-22 15:50:37,Citigroup,Neutral,Neutral,main
+2018-12-17 13:33:59,Stifel Nicolaus,Buy,,init
+2019-01-02 14:21:22,Wells Fargo,Market Perform,Market Perform,main
+2019-02-08 16:16:30,CFRA,Sell,Hold,down
+2019-03-27 10:38:14,Susquehanna,Positive,Neutral,up
+2019-07-11 13:37:57,OTR Global,Positive,Mixed,up
+2019-07-19 12:37:54,Morgan Stanley,Equal-Weight,,main
+2019-07-19 13:27:06,Wedbush,Outperform,Neutral,up
+2019-07-19 15:54:25,Stifel,Buy,,main
+2019-10-23 15:44:59,Morgan Stanley,Equal-Weight,,main
+2019-12-18 12:02:22,Deutsche Bank,Buy,,init
+2020-01-28 16:08:03,UBS,Buy,,main
+2020-02-04 13:11:43,Morgan Stanley,Equal-Weight,,main
+2020-02-07 14:08:31,Wells Fargo,Equal-Weight,,main
+2020-02-07 14:47:27,Deutsche Bank,Buy,,main
+2020-03-10 11:09:51,B. Riley FBR,Buy,,main
+2020-03-16 13:58:36,Wells Fargo,Equal-Weight,,main
+2020-03-19 11:43:20,Deutsche Bank,Buy,,main
+2020-03-30 10:38:24,Wells Fargo,Overweight,Equal-Weight,up
+2020-04-06 19:55:34,Susquehanna,Positive,,main
+2020-04-15 13:48:59,UBS,Buy,,main
+2020-04-24 15:42:29,Morgan Stanley,Equal-Weight,,main
+2020-04-24 16:05:35,Deutsche Bank,Buy,,main
+2020-10-14 13:23:25,Morgan Stanley,Equal-Weight,,main
+2020-10-30 13:24:51,Morgan Stanley,Equal-Weight,,main
+2020-11-03 12:15:37,Susquehanna,Neutral,Positive,down
+2021-01-26 13:49:30,Morgan Stanley,Equal-Weight,,main
+2021-04-19 16:30:42,"Monness, Crespi, Hardt",Neutral,Buy,down
+2021-04-20 14:06:41,Morgan Stanley,Equal-Weight,,main
+2021-04-23 10:56:09,Morgan Stanley,Overweight,Equal-Weight,up
+2021-07-16 13:08:52,Morgan Stanley,Overweight,,main
+2021-07-20 15:34:24,"Monness, Crespi, Hardt",Buy,Neutral,up
+2021-07-23 13:58:35,Morgan Stanley,Overweight,,main
+2021-10-05 12:23:27,Wedbush,Neutral,,init
+2021-11-02 11:47:02,Argus Research,Hold,Buy,down
+2022-01-04 13:21:56,Wedbush,Outperform,Neutral,up
+2022-01-13 14:43:48,OTR Global,Mixed,Positive,down

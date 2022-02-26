@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action
+2012-10-08 07:28:00,Credit Suisse,Neutral,Outperform,down
+2012-12-06 16:12:12,Credit Suisse,Outperform,Neutral,up
+2013-02-21 09:18:53,Bank of America,Buy,Underperform,up
+2013-04-14 12:20:30,Morgan Stanley,Equal-Weight,Overweight,down
+2014-12-08 08:39:06,Bank of America,Buy,Neutral,up
+2015-01-08 00:00:00,Credit Suisse,Neutral,Buy,down
+2015-03-09 07:05:50,Pacific Crest,Underperform,Sector Perform,down
+2015-03-26 10:53:28,Citigroup,Neutral,,down
+2015-12-01 12:10:18,HSBC,Buy,,up
+2016-02-18 08:05:19,Morgan Stanley,Overweight,Equal-Weight,up
+2016-07-12 06:44:29,JP Morgan,Neutral,Overweight,down
+2016-07-12 09:25:41,Nomura,Neutral,Buy,down
+2016-10-04 10:57:31,Susquehanna,Neutral,Negative,up
+2016-10-14 15:08:55,Pacific Crest,Sector Weight,Underweight,up
+2017-11-27 16:49:52,Morgan Stanley,Equal-Weight,Overweight,down
+2018-01-19 10:37:48,HSBC,Buy,Buy,up
+2018-01-22 18:52:03,Goldman Sachs,Buy,Neutral,up
+2018-07-02 14:15:25,Susquehanna,Positive,Neutral,up
+2018-11-16 12:13:29,Morgan Stanley,Equal-Weight,Underweight,up
+2019-05-07 14:00:06,Goldman Sachs,Buy,,init
+2019-07-19 12:34:29,CLSA,Buy,Underperform,up
+2019-09-05 10:28:24,Morgan Stanley,Overweight,Equal-Weight,up
+2019-09-30 10:47:52,Goldman Sachs,Buy,,reit
+2019-12-17 11:37:27,China Renaissance,Buy,Hold,up
+2020-07-24 15:42:20,Macquarie,Outperform,Neutral,up
+2020-08-28 16:26:46,New Street,Buy,,init
+2021-04-12 11:54:32,Atlantic Equities,Neutral,,init
+2021-06-22 14:39:51,Argus Research,Buy,,init
+2021-06-30 12:56:48,Susquehanna,Neutral,Negative,up
+2021-07-13 09:48:02,Needham,Buy,,init
+2021-10-11 15:41:05,Cowen & Co.,Market Perform,,init
+2022-01-13 15:06:56,Atlantic Equities,Overweight,Neutral,up

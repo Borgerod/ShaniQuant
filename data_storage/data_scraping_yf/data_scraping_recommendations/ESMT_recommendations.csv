@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action
+2021-10-18 09:05:34,Keybanc,Overweight,,init
+2021-10-18 09:43:44,JP Morgan,Neutral,,init
+2021-10-18 10:00:58,Needham,Buy,,init
+2021-10-18 11:12:34,Raymond James,Outperform,,init
+2021-10-18 11:21:59,Goldman Sachs,Buy,,init
+2021-10-18 11:59:27,B of A Securities,Neutral,,init
+2021-10-18 12:55:23,Deutsche Bank,Hold,,init
+2021-10-18 13:14:37,William Blair,Outperform,,init
+2021-10-18 13:17:25,Truist Securities,Buy,,init
+2021-11-15 12:15:08,B of A Securities,Buy,Neutral,up
+2021-11-30 12:23:45,Raymond James,Strong Buy,Outperform,up
+2021-12-09 12:01:18,Citigroup,Buy,Neutral,up
+2021-12-13 12:19:01,Goldman Sachs,Buy,,main
+2021-12-14 16:39:38,JP Morgan,Neutral,,main
+2022-01-11 12:38:19,Raymond James,Strong Buy,,main
+2022-01-25 10:08:07,Keybanc,Overweight,,main
+2022-01-26 15:20:37,Citigroup,Buy,,main
+2022-02-16 09:32:01,Keybanc,Overweight,,main
+2022-02-16 12:15:46,Raymond James,Strong Buy,,main

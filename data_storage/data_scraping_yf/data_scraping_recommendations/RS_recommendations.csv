@@ -1,0 +1,92 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-10 09:10:00,Longbow Research,Buy,,init
+2012-08-23 08:09:00,UBS,Buy,,init
+2012-09-17 05:53:00,JP Morgan,Neutral,Overweight,down
+2012-09-18 06:01:00,Jefferies,Hold,Buy,down
+2012-10-11 11:54:00,UBS,Buy,,main
+2013-01-14 07:54:21,KeyBanc,Hold,Buy,down
+2013-02-22 07:53:51,Jefferies,Hold,,main
+2013-03-21 12:22:25,Wells Fargo,Outperform,,init
+2013-06-11 16:18:04,Topeka,Hold,,init
+2013-09-25 06:30:29,Bank of America,Neutral,Buy,down
+2013-10-22 08:00:00,UBS,Neutral,Buy,down
+2013-10-25 09:56:35,Davenport,Neutral,Buy,down
+2013-11-04 06:16:34,Goldman Sachs,Neutral,Buy,down
+2014-06-23 20:30:28,Jefferies,Hold,,main
+2014-10-17 06:15:09,Topeka,Buy,Hold,up
+2015-02-20 06:47:07,KeyBanc,Buy,Hold,up
+2015-02-20 09:00:00,JP Morgan,Neutral,,main
+2015-03-16 09:00:00,Jefferies,Buy,,main
+2015-03-31 04:42:23,Credit Suisse,Outperform,Neutral,up
+2015-04-14 08:13:15,KeyBanc,Sector Weight,Overweight,down
+2015-04-14 10:50:39,Clarksons Platou,Hold,,init
+2015-06-15 07:55:39,Jefferies,Buy,,main
+2015-09-08 09:35:54,Bank of America,Buy,,up
+2015-09-16 09:20:55,Jefferies,Buy,,main
+2015-10-20 07:55:41,Deutsche Bank,Buy,,init
+2016-01-13 10:11:17,Jefferies,Buy,,main
+2016-02-19 07:06:17,Bank of America,Neutral,Buy,down
+2016-03-21 05:39:39,Jefferies,Hold,Buy,down
+2016-03-23 06:23:06,Deutsche Bank,Hold,Buy,down
+2016-04-19 06:26:24,Bank of America,Underperform,Neutral,down
+2016-04-22 07:18:50,CLSA,Underperform,Buy,down
+2016-04-22 08:55:07,Macquarie,Outperform,,main
+2016-04-28 09:48:55,Rosenblatt,Neutral,Sell,up
+2016-06-10 12:06:30,Jefferies,Hold,,main
+2016-07-28 06:32:04,Bank of America,Neutral,Underperform,up
+2016-10-18 13:33:41,Clarksons Platou,Buy,Neutral,up
+2016-11-09 16:31:21,Deutsche Bank,Buy,Hold,up
+2016-11-29 12:57:55,Macquarie,Neutral,Outperform,down
+2016-12-05 14:25:40,Deutsche Bank,Buy,,main
+2017-01-09 13:32:29,KeyBanc,Overweight,Sector Weight,up
+2017-03-14 13:03:01,Macquarie,Outperform,Neutral,up
+2017-04-20 16:18:10,Longbow Research,Neutral,,init
+2017-05-23 11:30:46,Bank of America,Buy,Neutral,up
+2017-09-05 16:00:35,Bank of America,Buy,,main
+2017-09-07 12:06:17,Macquarie,Outperform,,init
+2018-02-07 15:03:17,Longbow Research,Buy,Neutral,up
+2018-02-16 18:06:18,KeyBanc,Overweight,Overweight,main
+2018-03-20 12:48:34,Goldman Sachs,Neutral,,init
+2018-03-29 12:09:23,Deutsche Bank,Buy,Buy,main
+2018-06-14 10:48:51,KeyBanc,Overweight,Overweight,main
+2018-07-10 11:28:13,Jefferies,Buy,Hold,up
+2018-07-27 12:24:55,JP Morgan,Neutral,Neutral,main
+2018-09-07 13:39:26,Bank of America,Underperform,Buy,down
+2018-09-10 09:56:40,KeyBanc,Overweight,Overweight,main
+2018-09-17 11:53:29,Citigroup,Neutral,,init
+2018-10-02 12:50:24,Deutsche Bank,Hold,Buy,down
+2018-10-22 12:49:02,Longbow Research,Neutral,Buy,down
+2018-12-13 12:55:42,Bank of America,Neutral,Underperform,up
+2019-01-09 13:33:45,Cowen & Co.,Outperform,,init
+2019-04-18 11:10:59,Longbow Research,Underperform,Neutral,down
+2019-04-26 11:05:36,Jefferies,Hold,Buy,down
+2019-05-30 11:12:53,Deutsche Bank,Buy,Hold,up
+2019-07-26 10:11:38,KeyBanc,Overweight,,main
+2019-08-27 10:05:13,KeyBanc,Overweight,,main
+2019-09-06 10:02:20,KeyBanc,Overweight,,main
+2019-09-06 11:13:05,Longbow Research,Neutral,Underperform,up
+2019-10-30 10:53:47,Deutsche Bank,Hold,Buy,down
+2019-11-13 11:03:04,KeyBanc,Overweight,,main
+2020-01-21 14:42:44,Cowen & Co.,Market Perform,Outperform,down
+2020-02-21 10:03:25,KeyBanc,Overweight,,main
+2020-03-24 10:41:27,KeyBanc,Overweight,,main
+2020-03-30 09:44:30,Goldman Sachs,Buy,Neutral,up
+2020-04-17 15:02:36,JP Morgan,Neutral,,main
+2020-04-24 16:47:33,Citigroup,Neutral,,main
+2020-05-13 09:49:13,KeyBanc,Sector Weight,Overweight,down
+2020-08-04 09:26:23,Deutsche Bank,Buy,Hold,up
+2021-01-08 13:26:11,Deutsche bank,Hold,Buy,down
+2021-04-09 10:34:20,Goldman Sachs,Neutral,,init
+2021-04-23 14:55:46,Deutsche Bank,Hold,,main
+2021-06-16 11:19:43,JP Morgan,Overweight,,init
+2021-07-01 11:19:41,Deutsche Bank,Hold,,main
+2021-07-26 09:53:13,Citigroup,Buy,Neutral,up
+2021-08-24 08:47:31,Seaport Global,Buy,,init
+2021-09-15 11:02:32,Deutsche Bank,Hold,,main
+2021-10-06 12:31:14,Goldman Sachs,Neutral,,main
+2021-10-14 08:32:07,Keybanc,Overweight,Sector Weight,up
+2021-11-04 09:08:44,Goldman Sachs,Buy,Neutral,up
+2021-11-17 10:26:35,Wolfe Research,Underperform,,init
+2021-11-23 10:34:07,Keybanc,Overweight,,main
+2022-01-19 11:05:55,Keybanc,Overweight,,main
+2022-01-28 14:25:24,Wolfe Research,Peer Perform,Underperform,up

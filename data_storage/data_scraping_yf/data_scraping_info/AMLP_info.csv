@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,Alerian MLP ETF
+longName,Alerian MLP ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,AMLP
+messageBoardId,finmb_112317754
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,2.05
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1282694400
+annualReportExpenseRatio,
+totalAssets,5040728576
+bookValue,
+fundFamily,ALPS
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0775
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.0058999998
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Energy Limited Partnership
+fiveYearAverageReturn,-0.0359
+phone,877-398-8461
+longBusinessSummary,"The fund will normally invest at least 90% of its total assets in securities that comprise the underlying index. The underlying index is comprised of energy infrastructure MLPs that earn a majority of their cash flow from the transportation, storage and processing of energy commodities. It is non-diversified."
+companyOfficers,[]
+previousClose,36.75
+regularMarketOpen,36.54
+twoHundredDayAverage,34.50505
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,37.06
+navPrice,34.4
+averageDailyVolume10Day,3058730
+regularMarketPreviousClose,36.75
+fiftyDayAverage,34.8048
+trailingAnnualDividendRate,
+open,36.54
+toCurrency,
+averageVolume10days,3058730
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,36.175
+currency,USD
+regularMarketVolume,1780871
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,2801664
+dayLow,36.175
+ask,36.74
+askSize,900
+volume,1780871
+fiftyTwoWeekHigh,38.92
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,27.31
+bid,36.32
+tradeable,False
+dividendYield,
+bidSize,1300
+dayHigh,37.06
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 1}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'MPLX', 'holdingName': 'MPLX LP Partnership Units', 'holdingPercent': 0.102299996}, {'symbol': 'EPD', 'holdingName': 'Enterprise Products Partners LP', 'holdingPercent': 0.1005}, {'symbol': 'ET', 'holdingName': 'Energy Transfer LP', 'holdingPercent': 0.1004}, {'symbol': 'WES', 'holdingName': 'Western Midstream Partners LP', 'holdingPercent': 0.098500006}, {'symbol': 'PAA', 'holdingName': 'Plains All American Pipeline LP', 'holdingPercent': 0.0979}, {'symbol': 'MMP', 'holdingName': 'Magellan Midstream Partners LP', 'holdingPercent': 0.0953}, {'symbol': 'PSXP', 'holdingName': 'Phillips 66 Partners LP', 'holdingPercent': 0.0657}, {'symbol': 'DCP', 'holdingName': 'DCP Midstream LP', 'holdingPercent': 0.063200004}, {'symbol': 'SHLX', 'holdingName': 'Shell Midstream Partners LP', 'holdingPercent': 0.0421}, {'symbol': 'CQP', 'holdingName': 'Cheniere Energy Partners LP', 'holdingPercent': 0.0417}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 5.88, 'priceToSales': 1.4, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 13.21, 'priceToBook': 1.7, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9987
+regularMarketPrice,36.35
+preMarketPrice,
+logo_url,

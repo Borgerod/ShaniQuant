@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action
+2019-06-05 11:14:54,Goldman Sachs,Buy,,init
+2019-06-05 11:50:46,Morgan Stanley,Equal-Weight,,init
+2019-06-05 12:02:09,Credit Suisse,Outperform,,init
+2019-09-09 13:52:41,Renaissance Capital,Outperform,,init
+2020-03-11 14:42:11,JP Morgan,Underweight,,main
+2020-03-31 13:06:34,Credit Suisse,Outperform,,main
+2020-04-17 16:59:52,Credit Suisse,Outperform,,main
+2020-08-28 12:47:46,Credit Suisse,Outperform,,main
+2020-11-23 14:32:21,Credit Suisse,Outperform,,main
+2021-03-19 10:26:05,JP Morgan,Neutral,Underweight,up
+2021-05-28 13:02:47,Credit Suisse,Outperform,,main
+2021-08-17 12:23:31,Credit Suisse,Outperform,,main
+2021-11-16 13:50:00,Credit Suisse,Outperform,,main
+2021-11-29 12:33:30,UBS,Buy,Neutral,up
+2021-11-30 12:00:38,B of A Securities,Buy,Neutral,up
+2022-02-10 11:53:33,Morgan Stanley,Overweight,Equal-Weight,up

@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,iShares Inc iShares MSCI South 
+longName,iShares MSCI South Korea ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,EWY
+messageBoardId,finmb_6456995
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.2
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,957830400
+annualReportExpenseRatio,
+totalAssets,4539244032
+bookValue,
+fundFamily,iShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0070999996
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.1183
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Miscellaneous Region
+fiveYearAverageReturn,0.088999994
+phone,800-474-2737
+longBusinessSummary,The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The index is a free float-adjusted market capitalization-weighted index that is designed to measure the performance of the large- and mid-capitalization segments of the Korean equity market. The fund is non-diversified.
+companyOfficers,[]
+previousClose,69.21
+regularMarketOpen,70.21
+twoHundredDayAverage,84.8027
+trailingAnnualDividendYield,0.009102731
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,70.655
+navPrice,78.06
+averageDailyVolume10Day,5467560
+regularMarketPreviousClose,69.21
+fiftyDayAverage,77.5462
+trailingAnnualDividendRate,0.63
+open,70.21
+toCurrency,
+averageVolume10days,5467560
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,69.855
+currency,USD
+trailingPE,2.2113638
+regularMarketVolume,4582959
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,4372178
+dayLow,69.855
+ask,70.99
+askSize,2200
+volume,4582959
+fiftyTwoWeekHigh,94.86
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,69.14
+bid,70.45
+tradeable,False
+dividendYield,
+bidSize,3200
+dayHigh,70.655
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0.1021}, {'basic_materials': 0.1013}, {'consumer_defensive': 0.0464}, {'technology': 0.3721}, {'communication_services': 0.122}, {'financial_services': 0.0876}, {'utilities': 0.0061000003}, {'industrials': 0.0832}, {'energy': 0.0186}, {'healthcare': 0.060700003}]"
+holdings,"[{'symbol': '005930.KS', 'holdingName': 'Samsung Electronics Co Ltd', 'holdingPercent': 0.2178}, {'symbol': '000660.KS', 'holdingName': 'SK Hynix Inc', 'holdingPercent': 0.053000003}, {'symbol': '035420.KS', 'holdingName': 'NAVER Corp', 'holdingPercent': 0.0471}, {'symbol': '006400.KS', 'holdingName': 'Samsung SDI Co Ltd', 'holdingPercent': 0.037}, {'symbol': '035720.KS', 'holdingName': 'Kakao Corp', 'holdingPercent': 0.0356}, {'symbol': '051910.KS', 'holdingName': 'LG Chem Ltd', 'holdingPercent': 0.0346}, {'symbol': '005380.KS', 'holdingName': 'Hyundai Motor Co', 'holdingPercent': 0.0279}, {'symbol': '005490.KS', 'holdingName': 'POSCO', 'holdingPercent': 0.0255}, {'symbol': '068270.KS', 'holdingName': 'Celltrion Inc', 'holdingPercent': 0.0216}, {'symbol': '000270.KS', 'holdingName': 'Kia Corp', 'holdingPercent': 0.020499999}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 7.19, 'priceToSales': 0.96, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 16.99, 'priceToBook': 1.32, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9958
+regularMarketPrice,70.6
+preMarketPrice,
+logo_url,

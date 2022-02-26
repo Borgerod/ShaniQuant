@@ -1,0 +1,75 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-16 06:26:00,PiperJaffray,Overweight,,main
+2012-05-04 09:06:00,Dougherty,Buy,,main
+2012-08-09 08:53:00,Lazard,Buy,,init
+2012-08-27 10:30:00,PiperJaffray,Overweight,,main
+2012-08-31 08:51:00,Wells Fargo,Market Perform,,init
+2012-12-18 11:26:36,Lazard,Neutral,Buy,down
+2013-02-06 06:39:57,JP Morgan,Neutral,Overweight,down
+2013-06-27 09:05:49,Lazard,Buy,Neutral,up
+2013-07-12 11:18:06,PiperJaffray,Overweight,,main
+2013-07-22 09:34:08,Craig-Hallum,Buy,,init
+2013-09-05 09:10:16,Baird,Outperform,,init
+2013-10-28 08:40:29,Needham,Neutral,,down
+2013-11-12 08:57:22,MKM Partners,Buy,,init
+2014-01-06 16:00:00,Craig-Hallum,Hold,Buy,down
+2014-03-05 08:00:00,JP Morgan,Overweight,Neutral,up
+2014-05-05 22:02:04,MKM Partners,Buy,,main
+2014-07-02 06:40:28,Janney Capital,Neutral,Buy,down
+2014-08-06 22:42:21,JP Morgan,Overweight,,main
+2015-01-07 00:00:00,Baird,Neutral,Outperform,down
+2015-01-28 06:52:48,Boenning & Scattergood,Neutral,,init
+2015-02-11 09:00:00,JP Morgan,Overweight,,main
+2015-03-20 06:00:19,Goldman Sachs,Neutral,,init
+2015-06-12 08:23:05,PiperJaffray,Overweight,,main
+2015-08-05 07:25:24,MKM Partners,Neutral,Buy,down
+2015-09-21 04:07:25,Morgan Stanley,Equal-Weight,,init
+2015-09-25 06:05:09,JP Morgan,Overweight,,main
+2015-10-30 07:22:23,Baird,Outperform,Neutral,up
+2015-10-30 12:01:11,PiperJaffray,Overweight,,main
+2015-11-20 05:31:42,Goldman Sachs,Buy,Neutral,up
+2015-12-01 16:26:50,Wedbush,Outperform,,init
+2015-12-10 08:09:42,Oppenheimer,Outperform,,init
+2016-02-10 07:36:53,Needham,Buy,Hold,up
+2016-02-10 12:34:00,JP Morgan,Overweight,,main
+2016-02-26 10:11:17,Goldman Sachs,Buy,,main
+2016-05-11 07:39:13,FBR Capital,Outperform,,init
+2016-06-14 07:15:20,Raymond James,Outperform,,init
+2016-06-28 06:30:55,JP Morgan,Neutral,Overweight,down
+2017-01-30 14:13:47,Dougherty,Neutral,Buy,down
+2017-08-17 18:57:16,Morgan Stanley,Equal-Weight,,main
+2017-08-23 13:45:29,Berenberg,Hold,,init
+2017-09-22 14:56:05,Baird,Outperform,,main
+2017-10-27 13:36:50,Wells Fargo,Market Perform,,main
+2017-10-27 17:47:44,Oppenheimer,Outperform,,main
+2018-01-31 16:56:36,Oppenheimer,Outperform,Outperform,main
+2018-04-17 10:18:03,Berenberg,Buy,Hold,up
+2018-11-02 18:00:29,Baird,Outperform,Outperform,main
+2019-01-10 12:16:23,JP Morgan,Overweight,Neutral,up
+2019-07-10 11:45:33,JP Morgan,Neutral,Overweight,down
+2020-01-09 16:01:08,KeyBanc,Sector Weight,,init
+2020-02-13 12:40:08,Oppenheimer,Outperform,,main
+2020-03-24 10:53:16,Needham,Buy,,main
+2020-03-24 14:54:16,Morgan Stanley,Equal-Weight,,main
+2020-03-27 14:25:22,Goldman Sachs,Buy,,main
+2020-05-07 13:01:37,Morgan Stanley,Equal-Weight,,main
+2020-05-07 14:36:53,Oppenheimer,Outperform,,main
+2020-05-07 16:20:24,Baird,Outperform,,main
+2020-05-11 15:10:11,Needham,Buy,,main
+2020-05-29 14:04:52,Craig-Hallum,Hold,Buy,down
+2020-08-06 10:36:18,Needham,Buy,,main
+2020-08-10 13:37:38,Morgan Stanley,Equal-Weight,,main
+2020-08-10 14:13:46,Raymond James,Outperform,,main
+2020-09-23 10:15:04,Bernstein,Outperform,,init
+2020-11-05 10:58:00,Needham,Buy,,main
+2020-11-05 13:31:30,Morgan Stanley,Equal-Weight,,main
+2021-01-26 14:01:52,Morgan Stanley,Equal-Weight,,main
+2021-02-11 14:28:55,Morgan Stanley,Equal-Weight,,main
+2021-05-06 13:11:47,Morgan Stanley,Equal-Weight,,main
+2021-05-06 14:15:44,Baird,Outperform,,main
+2021-09-23 10:22:29,Morgan Stanley,Underweight,Equal-Weight,down
+2021-10-15 08:57:21,Piper Sandler,Overweight,,init
+2021-12-15 15:16:58,Morgan Stanley,Underweight,,main
+2022-01-25 15:10:59,Morgan Stanley,Underweight,,main
+2022-02-10 09:42:36,Piper Sandler,Overweight,,main
+2022-02-10 09:46:31,Raymond James,Outperform,,main

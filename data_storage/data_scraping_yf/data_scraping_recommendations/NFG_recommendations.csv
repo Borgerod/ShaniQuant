@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-04 10:47:00,UBS,Buy,,main
+2012-05-07 08:26:00,Pritchard Capital Partners,Neutral,,main
+2012-05-07 08:42:00,Raymond James,Market Perform,,down
+2012-07-17 14:26:00,Barclays,Equal-Weight,,main
+2012-08-08 12:49:00,Barclays,Equal-Weight,,main
+2012-11-05 08:15:00,BMO Capital,Market Perform,,main
+2013-01-07 13:13:12,Scotia Howard Weil,Sector Perform,,down
+2013-02-11 08:28:21,BMO Capital,Market Perform,,main
+2013-04-24 07:48:35,BMO Capital,Outperform,Market Perform,up
+2013-04-24 08:49:44,BMO Capital,Outperform,Market Perform,up
+2013-07-29 17:19:45,ISI Group,Neutral,,init
+2013-07-30 09:28:34,Raymond James,Outperform,,up
+2013-08-12 07:50:15,Raymond James,Outperform,,up
+2013-11-13 08:40:04,Maxim Group,Buy,,init
+2013-11-21 07:17:52,Raymond James,Market Perform,Outperform,down
+2014-04-02 07:09:44,Jefferies,Buy,,init
+2014-11-19 09:00:00,Citigroup,Buy,,main
+2015-01-09 00:00:00,Jefferies,Hold,Buy,down
+2015-03-13 09:00:00,Jefferies,Hold,,main
+2015-04-24 09:00:00,Jefferies,Hold,,main
+2015-07-23 07:13:57,Jefferies,Buy,Hold,up
+2016-01-14 14:08:59,Jefferies,Buy,,main
+2016-04-18 06:51:36,Jefferies,Hold,Buy,down
+2016-07-25 12:23:12,Jefferies,Hold,,main
+2016-08-10 08:24:19,Barclays,Equal-Weight,,main
+2016-10-13 11:06:30,Jefferies,Buy,Hold,up
+2017-04-10 14:12:47,Jefferies,Underperform,Buy,down
+2017-04-19 10:23:30,Jefferies,Hold,Underperform,up
+2018-01-02 13:56:19,Sidoti & Co.,Buy,Neutral,up
+2018-02-05 11:59:03,Jefferies,Buy,Hold,up
+2018-04-25 10:21:06,Jefferies,Hold,Buy,down
+2019-10-15 10:47:02,Jefferies,Buy,Hold,up
+2019-10-17 14:00:02,Citigroup,Neutral,,main
+2020-04-28 12:41:40,Citigroup,Neutral,,main
+2020-05-07 10:29:56,ScotiaBank,Sector Outperform,Sector Perform,up
+2020-05-07 11:34:20,Raymond James,Outperform,Market Perform,up
+2020-06-01 11:32:34,Raymond James,Outperform,,main
+2020-06-19 10:03:29,Stifel,Buy,,init
+2020-07-24 13:05:50,Jefferies,Buy,,main
+2020-08-12 11:27:21,B of A Securities,Buy,,init
+2020-09-24 10:27:50,Goldman Sachs,Neutral,,init
+2021-04-27 12:22:51,JP Morgan,Neutral,,init
+2021-07-27 13:09:44,Raymond James,Outperform,,main
+2021-10-26 12:36:29,Raymond James,Outperform,,main

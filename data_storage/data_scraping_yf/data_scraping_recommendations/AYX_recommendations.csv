@@ -1,0 +1,97 @@
+Date,Firm,To Grade,From Grade,Action
+2017-04-18 11:16:36,KeyBanc,Overweight,,init
+2017-04-18 13:17:59,Goldman Sachs,Buy,,init
+2017-04-18 13:18:17,William Blair,Outperform,,init
+2017-04-18 13:19:04,JMP Securities,Market Outperform,,init
+2017-04-18 13:19:47,Cowen & Co.,Outperform,,init
+2017-04-18 13:20:34,Raymond James,Outperform,,init
+2017-10-16 19:20:54,Bank of America,Buy,,init
+2017-11-10 09:08:32,KeyBanc,Overweight,,main
+2017-11-10 16:27:19,Bank of America,Buy,,main
+2018-01-31 13:08:39,Goldman Sachs,Neutral,Buy,down
+2018-02-22 13:45:40,Bank of America,Buy,Buy,main
+2018-02-22 15:22:52,Cowen & Co.,Outperform,Outperform,main
+2018-03-13 10:41:17,KeyBanc,Sector Weight,Overweight,down
+2018-04-10 16:28:58,Needham,Buy,,init
+2018-05-21 10:09:36,KeyBanc,Overweight,Sector Weight,up
+2018-06-22 16:11:19,Oppenheimer,Outperform,,init
+2018-06-28 11:32:05,Citigroup,Buy,,init
+2018-07-20 11:23:00,KeyBanc,Overweight,Overweight,main
+2018-07-24 10:21:28,DA Davidson,Neutral,,init
+2018-08-09 10:59:58,KeyBanc,Overweight,Overweight,main
+2018-08-09 11:42:32,JMP Securities,Market Outperform,Market Outperform,main
+2018-08-09 14:06:45,Oppenheimer,Outperform,Outperform,main
+2018-10-30 13:07:47,Citigroup,Buy,Buy,main
+2018-10-30 13:07:47,Citigroup,Buy,Buy,main
+2018-11-08 12:30:34,KeyBanc,Overweight,Overweight,main
+2018-11-08 17:12:29,Raymond James,Outperform,Outperform,main
+2018-12-07 12:24:31,Wedbush,Outperform,,init
+2019-01-29 11:09:38,Raymond James,Market Perform,Outperform,down
+2019-02-11 12:29:46,Wedbush,Neutral,Outperform,down
+2019-02-28 13:13:00,Wedbush,Neutral,Neutral,main
+2019-02-28 14:16:05,KeyBanc,Overweight,Overweight,main
+2019-03-01 13:24:28,Citigroup,Buy,Buy,main
+2019-05-02 12:22:17,KeyBanc,Overweight,Overweight,main
+2019-05-02 12:52:17,Wedbush,Neutral,Neutral,main
+2019-05-02 15:03:12,JMP Securities,Market Outperform,Market Outperform,main
+2019-06-07 11:13:13,Goldman Sachs,Buy,,init
+2019-06-12 13:46:43,Needham,Buy,,reit
+2019-06-14 10:57:44,KeyBanc,Overweight,,main
+2019-06-17 13:30:14,Oppenheimer,Outperform,,main
+2019-06-28 10:56:17,Guggenheim,Buy,,init
+2019-08-01 10:24:06,KeyBanc,Overweight,,main
+2019-08-01 15:38:57,Bank of America,Buy,,main
+2019-08-13 13:11:26,Compass Point,Buy,,init
+2019-08-22 10:42:42,Rosenblatt,Neutral,,init
+2019-10-07 11:16:43,Wedbush,Outperform,Neutral,up
+2019-10-30 11:30:56,Citigroup,Buy,,main
+2019-11-01 11:27:13,Bank of America,Buy,,main
+2019-11-01 12:33:35,DA Davidson,Neutral,,main
+2019-11-26 11:15:03,Piper Jaffray,Neutral,,init
+2020-02-03 08:27:26,Piper Sandler,Neutral,,main
+2020-02-11 10:57:36,Needham,Buy,,main
+2020-02-14 10:00:40,Piper Sandler,Neutral,,main
+2020-02-14 11:56:43,Cowen & Co.,Outperform,,reit
+2020-02-14 12:30:37,Rosenblatt,Neutral,,main
+2020-02-14 12:53:04,Wedbush,Outperform,,main
+2020-02-14 13:08:15,Needham,Buy,,main
+2020-02-19 13:13:33,Citigroup,Buy,,main
+2020-03-27 19:20:31,Citigroup,Buy,,main
+2020-03-31 10:20:41,Piper Sandler,Neutral,,main
+2020-04-23 09:19:24,JP Morgan,Underweight,Neutral,down
+2020-04-27 11:27:41,Needham,Buy,,main
+2020-04-29 15:15:39,Citigroup,Buy,,main
+2020-05-04 11:01:02,Rosenblatt,Neutral,,main
+2020-05-07 11:09:36,Needham,Buy,,main
+2020-05-07 11:24:49,Cowen & Co.,Outperform,,main
+2020-05-19 10:30:47,Piper Sandler,Overweight,Neutral,up
+2020-05-22 09:18:22,Needham,Buy,,main
+2020-07-27 09:21:20,Needham,Buy,,main
+2020-07-29 08:53:16,Piper Sandler,Overweight,,main
+2020-08-07 09:40:06,Piper Sandler,Overweight,,main
+2020-08-07 11:05:55,Needham,Buy,,main
+2020-09-16 09:49:32,Loop Capital,Hold,,init
+2020-11-06 09:49:02,Piper Sandler,Overweight,,main
+2020-11-06 11:54:27,Needham,Buy,,main
+2020-11-24 08:52:59,KeyBanc,Sector Weight,,init
+2021-01-06 11:13:55,Rosenblatt,Buy,,init
+2021-01-20 11:24:41,Truist Securities,Buy,,init
+2021-02-10 11:58:10,Needham,Buy,,main
+2021-02-10 13:10:51,Rosenblatt,Buy,,main
+2021-04-01 11:45:43,Morgan Stanley,Equal-Weight,,init
+2021-05-05 10:06:28,Needham,Buy,,main
+2021-05-05 11:59:17,Morgan Stanley,Equal-Weight,,main
+2021-05-19 11:37:03,Morgan Stanley,Equal-Weight,,main
+2021-05-19 13:42:24,Truist Securities,Buy,,main
+2021-05-19 14:01:08,Piper Sandler,Overweight,,main
+2021-05-27 12:13:48,B of A Securities,Buy,,main
+2021-08-04 10:38:05,Needham,Buy,,main
+2021-08-04 11:16:29,Rosenblatt,Buy,,main
+2021-10-29 08:58:12,JP Morgan,Neutral,Underweight,up
+2021-11-04 16:35:53,Needham,Buy,,main
+2022-01-12 11:22:22,Piper Sandler,Overweight,,main
+2022-01-27 12:58:02,Berenberg,Buy,,init
+2022-02-01 12:36:52,B of A Securities,Neutral,Buy,down
+2022-02-16 09:59:20,Piper Sandler,Overweight,,main
+2022-02-16 12:21:32,Needham,Buy,,main
+2022-02-16 13:11:55,Morgan Stanley,Equal-Weight,,main

@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action
+2020-10-30 09:14:53,DA Davidson,Buy,,main
+2020-11-20 12:09:15,Citigroup,Buy,,main
+2020-11-25 09:37:11,DA Davidson,Neutral,Buy,down
+2020-11-25 09:37:11,SunTrust Robinson Humphrey,Hold,,main
+2020-11-25 09:37:12,B. Riley,Buy,,main
+2020-11-25 09:37:13,Goldman Sachs,Buy,Neutral,up
+2020-11-25 09:37:14,DA Davidson,Buy,Neutral,up
+2020-11-25 09:37:14,DA Davidson,Buy,,main
+2020-11-25 09:37:14,Citigroup,Buy,Neutral,up
+2020-11-25 09:37:16,Morgan Stanley,Overweight,Equal-Weight,up
+2020-11-25 09:37:16,Goldman Sachs,Neutral,Buy,down
+2020-11-25 09:37:16,B. Riley FBR,Buy,,main
+2020-11-25 09:37:18,DA Davidson,Buy,,main
+2020-11-25 09:37:18,Morgan Stanley,Overweight,,main
+2020-11-25 09:37:18,UBS,Neutral,,main
+2020-11-25 09:37:18,B. Riley FBR,Buy,,main
+2020-11-25 09:37:18,DA Davidson,Buy,,main
+2020-11-25 09:37:18,SunTrust Robinson Humphrey,Hold,,main
+2020-11-25 09:37:19,Jefferies,Buy,,init
+2020-11-25 09:37:20,Morgan Stanley,Overweight,,main
+2020-11-25 09:37:20,Guggenheim,Buy,,init
+2020-11-25 09:37:22,Morgan Stanley,Overweight,,main
+2020-11-25 09:37:23,Morgan Stanley,Overweight,,main
+2020-12-09 13:39:06,DA Davidson,Buy,,main
+2020-12-15 15:07:42,Wolfe Research,Outperform,,init
+2021-01-15 16:08:05,Morgan Stanley,Overweight,,main
+2021-02-26 14:48:36,DA Davidson,Buy,,main
+2021-04-08 11:03:28,Morgan Stanley,Equal-Weight,Overweight,down
+2021-05-06 16:03:24,DA Davidson,Buy,,main
+2021-08-11 10:14:25,Jefferies,Hold,Buy,down
+2022-01-11 14:47:44,Craig-Hallum,Hold,Buy,down
+2022-01-20 09:42:34,Keybanc,Underweight,Sector Weight,down

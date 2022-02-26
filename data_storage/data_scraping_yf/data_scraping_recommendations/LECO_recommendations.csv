@@ -1,0 +1,68 @@
+Date,Firm,To Grade,From Grade,Action
+2013-02-19 08:59:04,Stifel Nicolaus,Buy,,main
+2013-07-30 09:05:41,Stifel Nicolaus,Buy,,main
+2013-09-27 08:54:21,Janney Capital,Neutral,Buy,down
+2014-02-26 08:00:00,Great Lakes,Hold,,down
+2014-06-16 06:18:47,BB&T Capital,Buy,Hold,up
+2014-07-28 14:30:45,Great Lakes,,,up
+2014-10-09 08:30:00,Wunderlich,Buy,,init
+2014-12-09 00:00:00,Longbow Research,Buy,Neutral,up
+2015-01-22 09:10:24,Gabelli & Co.,Hold,,init
+2015-03-10 06:56:11,BB&T Capital,Hold,Buy,down
+2015-04-07 07:16:48,RBC Capital,Sector Perform,,init
+2015-06-23 06:25:44,RBC Capital,Sector Perform,,main
+2015-09-24 16:12:10,Baird,Neutral,,init
+2015-09-25 06:16:30,Barclays,Equal-Weight,,init
+2015-10-08 06:10:32,Longbow Research,Neutral,Buy,down
+2015-11-02 13:08:47,Barclays,Equal-Weight,,main
+2016-01-19 13:01:02,Barclays,Equal-Weight,,main
+2016-04-04 07:06:43,KeyBanc,Overweight,Sector Weight,up
+2016-04-14 06:36:40,William Blair,Market Perform,,init
+2016-04-20 09:15:16,Seaport Global,Buy,Neutral,up
+2016-04-27 07:10:01,Oppenheimer,Market Perform,,init
+2016-07-11 21:30:34,Barclays,Equal-Weight,,main
+2016-08-24 23:02:29,Wellington Shields,Hold,Gradually Accumulate,down
+2016-09-07 06:27:36,Deutsche Bank,Hold,,init
+2016-10-12 13:28:30,Barclays,Equal-Weight,,main
+2016-10-24 12:30:14,Longbow Research,Underperform,Neutral,down
+2016-11-15 14:33:21,Northcoast Research,Neutral,Buy,down
+2016-11-21 13:10:47,KeyBanc,Sector Weight,Overweight,down
+2016-12-08 11:02:45,Stifel Nicolaus,Hold,Buy,down
+2017-02-15 13:29:04,Longbow Research,Neutral,Underperform,up
+2017-10-30 15:22:14,Stifel Nicolaus,Hold,,main
+2017-12-20 14:15:21,Barclays,Equal-Weight,,init
+2018-01-04 15:12:08,Oppenheimer,Outperform,Perform,up
+2018-01-16 12:11:15,Stifel Nicolaus,Buy,Hold,up
+2018-01-24 17:03:07,Barclays,Equal-Weight,Equal-Weight,main
+2018-03-13 10:41:03,KeyBanc,Overweight,Sector Weight,up
+2018-04-24 11:14:29,Stifel Nicolaus,Buy,Buy,main
+2018-10-26 13:16:28,Gabelli & Co.,Buy,Hold,up
+2018-10-26 13:44:54,KeyBanc,Overweight,Overweight,main
+2019-01-25 12:22:48,Jefferies,Buy,,init
+2019-06-27 10:09:40,KeyBanc,Sector Weight,Overweight,down
+2019-07-12 10:27:24,Baird,Outperform,Neutral,up
+2019-09-18 11:52:27,Seaport global,Neutral,Buy,down
+2019-10-08 10:21:25,Oppenheimer,Perform,Outperform,down
+2019-10-09 10:34:34,Stifel Nicolaus,Hold,Buy,down
+2020-03-02 15:51:59,Vertical Research,Hold,Sell,up
+2020-04-07 12:51:50,Baird,Outperform,,main
+2020-06-26 11:29:58,Morgan Stanley,Equal-Weight,,init
+2020-07-08 13:10:45,Baird,Outperform,,main
+2020-07-28 12:00:57,Morgan Stanley,Equal-Weight,,main
+2020-10-19 11:29:36,Barclays,Overweight,Equal-Weight,up
+2020-10-28 11:57:16,Morgan Stanley,Equal-Weight,,main
+2020-10-28 14:53:19,Stifel,Hold,,main
+2020-12-15 17:25:06,Morgan Stanley,Equal-Weight,,main
+2021-04-12 13:53:18,Morgan Stanley,Equal-Weight,,main
+2021-04-28 10:20:12,Vertical Research,Hold,Sell,up
+2021-04-28 11:33:15,Barclays,Overweight,,main
+2021-04-28 13:05:00,Morgan Stanley,Equal-Weight,,main
+2021-06-22 10:23:42,Oppenheimer,Outperform,Perform,up
+2021-07-13 12:20:22,Morgan Stanley,Equal-Weight,,main
+2021-07-14 11:52:14,Barclays,Overweight,,main
+2021-07-28 11:58:45,Oppenheimer,Outperform,,main
+2021-07-28 13:01:24,Morgan Stanley,Equal-Weight,,main
+2021-10-13 14:21:59,Morgan Stanley,Equal-Weight,,main
+2021-10-29 11:43:33,Oppenheimer,Outperform,,main
+2021-12-09 14:05:18,Morgan Stanley,Equal-Weight,,main
+2022-01-06 13:24:38,Loop Capital,Buy,,init

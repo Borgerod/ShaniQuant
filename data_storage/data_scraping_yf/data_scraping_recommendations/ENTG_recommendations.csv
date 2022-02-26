@@ -1,0 +1,61 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-09 10:36:00,DA Davidson,Buy,,up
+2012-10-24 14:33:00,Bank of America,Neutral,,main
+2013-07-24 10:43:07,Craig-Hallum,Hold,Buy,down
+2013-08-28 07:37:05,Northland Securities,Market Perform,,init
+2013-12-05 16:00:00,Needham,Buy,,init
+2014-01-06 16:00:00,Sidoti & Co.,Neutral,Buy,down
+2014-02-04 16:00:00,Sidoti & Co.,Buy,Neutral,up
+2014-02-05 06:27:44,DA Davidson,Buy,,main
+2014-02-05 08:00:00,Craig-Hallum,Buy,Hold,up
+2014-04-22 23:32:28,Citigroup,Neutral,,main
+2014-07-30 22:16:08,Citigroup,Neutral,,main
+2015-02-24 09:00:00,Stifel Nicolaus,Buy,,main
+2015-06-28 04:21:37,Pacific Crest,Sector Weight,,init
+2015-06-29 07:03:00,Pacific Crest,Sector Weight,,init
+2015-07-01 09:44:45,Sidoti & Co.,Neutral,Buy,down
+2015-07-15 07:44:01,Craig-Hallum,Buy,Hold,up
+2015-07-31 13:48:02,Citigroup,Neutral,,main
+2016-01-25 07:18:59,Pacific Crest,Overweight,Sector Weight,up
+2016-07-28 06:02:02,Dougherty,Neutral,Buy,down
+2016-07-28 10:48:44,Citigroup,Neutral,,main
+2016-07-28 12:53:10,Pacific Crest,Overweight,,main
+2017-02-10 13:10:10,Goldman Sachs,Buy,,init
+2017-03-13 17:51:43,Needham,Buy,Hold,up
+2017-03-17 15:25:29,Aegis Capital,Buy,,init
+2017-04-28 17:59:16,Craig-Hallum,Hold,Buy,down
+2017-07-06 19:42:40,Deutsche Bank,Hold,,init
+2017-07-13 16:59:33,Stifel Nicolaus,Buy,,main
+2017-09-29 17:15:55,Loop Capital,Buy,,init
+2017-10-27 12:51:23,Citigroup,Neutral,,main
+2017-10-27 17:51:14,Loop Capital,Buy,,main
+2017-12-19 10:56:53,Seaport Global,Buy,,init
+2018-02-06 18:54:52,Craig-Hallum,Buy,Hold,up
+2018-02-15 14:41:43,Citigroup,Buy,Neutral,up
+2018-03-19 13:35:55,Stifel Nicolaus,Buy,Buy,main
+2018-03-21 11:18:13,KeyBanc,Overweight,Overweight,main
+2018-07-02 11:26:22,Stifel Nicolaus,Buy,Buy,main
+2018-10-01 13:12:54,Deutsche Bank,Buy,Hold,up
+2019-01-08 12:00:09,Goldman Sachs,Neutral,Buy,down
+2019-03-01 12:04:00,Seaport Global,Neutral,Buy,down
+2019-05-10 11:44:34,Citigroup,Neutral,Buy,down
+2019-06-21 11:07:44,CL King,Buy,,init
+2019-10-07 10:46:55,Deutsche Bank,Hold,Buy,down
+2020-03-27 13:55:21,Deutsche Bank,Hold,,main
+2020-07-20 13:07:29,Citigroup,Buy,,main
+2020-07-24 15:50:14,Craig-Hallum,Hold,Buy,down
+2020-11-18 08:53:50,KeyBanc,Overweight,,main
+2020-11-18 12:22:00,Deutsche Bank,Hold,,main
+2021-02-03 16:53:55,Craig-Hallum,Hold,,main
+2021-04-16 14:22:30,Deutsche Bank,Hold,,main
+2021-04-21 16:04:33,UBS,Neutral,,init
+2021-06-10 10:49:00,Wolfe Research,Outperform,,init
+2021-10-13 09:43:47,Mizuho,Neutral,,init
+2021-10-27 14:18:01,Craig-Hallum,Buy,Hold,up
+2021-12-02 13:33:32,Citigroup,Buy,,main
+2021-12-02 15:10:11,Mizuho,Neutral,,main
+2021-12-02 15:32:03,Deutsche Bank,Hold,,main
+2021-12-14 09:50:42,Keybanc,Overweight,,init
+2022-01-18 13:10:06,Seaport Global,Buy,Neutral,up
+2022-01-19 11:18:21,Deutsche Bank,Buy,Hold,up
+2022-02-02 11:15:46,Mizuho,Buy,Neutral,up

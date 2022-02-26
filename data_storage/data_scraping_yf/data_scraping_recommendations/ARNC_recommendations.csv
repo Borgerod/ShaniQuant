@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-25 09:36:44,Macquarie,Neutral,,init
+2020-11-25 09:36:44,Goldman Sachs,Neutral,,init
+2020-11-25 09:36:44,Morgan Stanley,Equal-Weight,,init
+2020-11-25 09:36:46,Cowen & Co.,Market Perform,,init
+2020-11-25 09:36:46,Longbow Research,Neutral,,init
+2020-11-25 09:36:47,JP Morgan,Neutral,,init
+2020-11-25 09:36:48,JP Morgan,Overweight,Neutral,up
+2020-11-25 09:36:48,Seaport Global,Buy,Neutral,up
+2020-11-25 09:36:49,Longbow Research,Buy,Neutral,up
+2020-11-25 09:36:53,Wells Fargo,Outperform,,init
+2020-11-25 09:36:55,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2020-11-25 09:36:56,Barclays,Equal-Weight,,init
+2020-11-25 09:36:56,Goldman Sachs,Neutral,Neutral,init
+2020-11-25 09:36:57,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2020-11-25 09:36:57,Longbow Research,Neutral,Buy,down
+2020-11-25 09:36:57,Wells Fargo,Outperform,Outperform,main
+2020-11-25 09:36:57,Credit Suisse,Outperform,Outperform,main
+2020-11-25 09:36:57,JP Morgan,Overweight,Overweight,main
+2020-11-25 09:36:57,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2020-11-25 09:36:57,Longbow Research,Buy,Neutral,up
+2020-11-25 09:36:58,Argus,Hold,Buy,down
+2020-11-25 09:36:59,Jefferies,Buy,,init
+2020-11-25 09:37:01,Longbow Research,Neutral,Buy,down
+2020-11-25 09:37:03,Longbow Research,Buy,Neutral,up
+2020-11-25 09:37:04,JP Morgan,Neutral,Overweight,down
+2020-11-25 09:37:06,Goldman Sachs,Buy,Neutral,up
+2020-11-25 09:37:07,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:07,Longbow Research,Neutral,Buy,down
+2020-11-25 09:37:08,Barclays,Overweight,Equal-Weight,up
+2020-11-25 09:37:10,JP Morgan,Overweight,Neutral,up
+2020-11-25 09:37:10,Berenberg,Buy,,init
+2020-11-25 09:37:10,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:37:10,Cowen & Co.,Outperform,Market Perform,up
+2020-11-25 09:37:10,Credit Suisse,Outperform,,main
+2020-11-25 09:37:11,JP Morgan,Overweight,,main
+2020-11-25 09:37:13,Longbow Research,Underperform,Neutral,down
+2020-11-25 09:37:13,Benchmark,Hold,,init
+2020-11-25 09:37:14,Argus Research,Buy,Hold,up
+2020-11-25 09:37:15,Barclays,Equal-Weight,Overweight,down
+2020-11-25 09:37:19,Credit Suisse,Outperform,,init
+2020-11-25 09:37:23,Deutsche Bank,Buy,,init
+2021-04-23 13:05:45,JP Morgan,Neutral,,init
+2021-09-10 09:11:37,Goldman Sachs,Neutral,,init
+2021-11-17 10:29:31,Wolfe Research,Outperform,,init
+2021-12-10 12:49:24,JP Morgan,Overweight,Neutral,up

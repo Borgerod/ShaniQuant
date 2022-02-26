@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action
+2017-05-22 12:13:34,Deutsche Bank,Buy,,init
+2017-06-19 11:43:15,RBC Capital,Outperform,,init
+2017-08-07 18:31:40,Citigroup,Buy,,main
+2017-08-15 17:08:53,Bank of America,Neutral,Buy,down
+2017-10-02 19:16:24,JP Morgan,Neutral,Overweight,down
+2017-10-03 11:54:59,JP Morgan,Neutral,Overweight,down
+2018-05-14 10:43:10,Deutsche Bank,Hold,Buy,down
+2018-06-14 11:18:37,Morgan Stanley,Equal-Weight,Overweight,down
+2018-07-18 11:21:45,Citigroup,Sell,Neutral,down
+2018-12-12 12:22:05,Morgan Stanley,Underweight,Equal-Weight,down
+2019-01-08 12:19:45,Wells Fargo,Market Perform,Outperform,down
+2019-02-19 12:14:42,Cowen & Co.,Market Perform,Outperform,down
+2019-02-19 13:05:33,Raymond James,Market Perform,Strong Buy,down
+2019-02-19 14:22:22,JP Morgan,Underweight,Neutral,down
+2019-02-20 11:43:26,RBC Capital,Sector Perform,Outperform,down
+2019-02-26 14:25:12,Morgan Stanley,Underweight,Underweight,reit
+2019-03-05 11:31:14,Wells Fargo,Underperform,Market Perform,down
+2019-03-22 13:18:01,Deutsche Bank,Hold,Hold,main
+2020-03-02 18:07:39,Cowen & Co.,Outperform,Market Perform,up
+2020-03-03 09:53:08,Raymond James,Outperform,Market Perform,up
+2020-05-12 11:04:33,Raymond James,Strong Buy,Outperform,up
+2020-08-11 12:23:40,Raymond James,Strong Buy,,main
+2020-08-12 09:32:34,Wells Fargo,Equal-Weight,Underweight,up
+2020-11-10 13:25:52,Raymond James,Strong Buy,,main
+2020-11-16 14:20:54,Citigroup,Neutral,Sell,up
+2021-04-27 11:56:52,Morgan Stanley,Underweight,,main

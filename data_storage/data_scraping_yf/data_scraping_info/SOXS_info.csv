@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,Direxion Daily Semiconductor Be
+longName,Direxion Daily Semiconductor Bear 3X Shares
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,SOXS
+messageBoardId,finmb_99490869
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,-2.53
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1268265600
+annualReportExpenseRatio,
+totalAssets,140071760
+bookValue,
+fundFamily,Direxion Funds
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0
+mostRecentQuarter,
+enterpriseValue,
+priceHint,4
+threeYearAverageReturn,-0.86230004
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Trading--Inverse Equity
+fiveYearAverageReturn,-0.7726
+phone,866-476-7523
+longBusinessSummary,"The fund, under normal circumstances, invests in swap agreements, futures contracts, short positions or other financial instruments that, in combination, provide inverse (opposite) or short leveraged exposure to the index equal to at least 80% of the fund's net assets (plus borrowing for investment purposes). The index measures the performance of domestic companies engaged in the design, distribution, manufacture and sale of semiconductors. The fund is non-diversified."
+companyOfficers,[]
+previousClose,4.38
+regularMarketOpen,4.36
+twoHundredDayAverage,6.16775
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,4.71
+navPrice,3.26
+averageDailyVolume10Day,68798170
+regularMarketPreviousClose,4.38
+fiftyDayAverage,4.0582
+trailingAnnualDividendRate,
+open,4.36
+toCurrency,
+averageVolume10days,68798170
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,4.32
+currency,USD
+regularMarketVolume,80781392
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,43564103
+dayLow,4.32
+ask,4.64
+askSize,800
+volume,80781392
+fiftyTwoWeekHigh,15.75
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,3.12
+bid,4.62
+tradeable,False
+dividendYield,
+bidSize,3200
+dayHigh,4.71
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'FTIXX', 'holdingName': 'Goldman Sachs FS Treasury Intms Instl', 'holdingPercent': 0.5839}, {'symbol': '', 'holdingName': 'Phila Semiconductor Index Swap', 'holdingPercent': 0.2611}, {'symbol': 'DAPXX', 'holdingName': 'Dreyfus Government Secs Cash Mgmt Admin', 'holdingPercent': 0.15619999}, {'symbol': 'FGTXX', 'holdingName': 'Goldman Sachs FS Government Instl', 'holdingPercent': 0.0855}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0
+regularMarketPrice,4.5
+preMarketPrice,
+logo_url,

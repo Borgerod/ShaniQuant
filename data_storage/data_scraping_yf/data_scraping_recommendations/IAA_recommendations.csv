@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action
+2019-07-01 11:05:44,SunTrust Robinson Humphrey,Buy,,init
+2019-07-02 11:03:39,Stephens & Co.,Overweight,,init
+2019-07-31 11:13:50,Jefferies,Buy,,init
+2019-11-13 15:00:44,Stephens & Co.,Overweight,,main
+2019-12-04 13:35:08,Northcoast Research,Buy,Neutral,up
+2020-03-11 13:49:50,Baird,Outperform,,main
+2020-03-19 10:37:24,Stephens & Co.,Overweight,,main
+2020-03-19 12:58:27,Baird,Outperform,,main
+2020-04-16 18:57:58,Stephens & Co.,Overweight,,main
+2020-05-07 16:02:55,Baird,Outperform,,main
+2021-02-05 13:03:09,Northcoast Research,Buy,Neutral,up
+2022-02-14 12:09:19,Guggenheim,Neutral,Buy,down
+2022-02-14 15:35:42,Truist Securities,Buy,,main

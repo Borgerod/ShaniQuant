@@ -1,0 +1,51 @@
+Date,Firm,To Grade,From Grade,Action
+2017-05-08 11:30:39,Raymond James,Outperform,,init
+2017-05-08 12:21:45,JP Morgan,Overweight,,init
+2017-05-08 12:40:17,SunTrust Robinson Humphrey,Hold,,init
+2017-05-08 12:40:45,Goldman Sachs,Neutral,,init
+2017-05-10 11:46:17,Baird,Outperform,,init
+2017-05-31 10:47:46,Keefe Bruyette & Woods,Market Perform,,init
+2017-09-06 17:17:18,RBC Capital,Outperform,,init
+2018-03-28 16:02:10,PiperJaffray,Overweight,,init
+2018-06-15 11:35:37,Raymond James,Strong Buy,Outperform,up
+2018-07-24 13:36:31,Raymond James,Strong Buy,Strong Buy,main
+2018-09-25 11:15:28,Morgan Stanley,Equal-Weight,,init
+2018-10-23 12:07:29,Raymond James,Strong Buy,Strong Buy,main
+2018-11-09 11:11:26,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2018-12-11 12:10:29,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2019-03-05 13:17:01,Raymond James,Strong Buy,Strong Buy,main
+2019-04-30 14:57:18,Raymond James,Strong Buy,,reit
+2019-07-09 11:23:04,Stephens & Co.,Equal-Weight,Overweight,down
+2019-07-23 10:48:53,Goldman Sachs,Neutral,Buy,down
+2019-07-23 10:56:25,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2019-08-27 12:36:05,SunTrust Robinson Humphrey,Hold,,main
+2019-08-29 11:09:44,Raymond James,Outperform,Strong Buy,down
+2019-10-08 11:16:48,Raymond James,Market Perform,Outperform,down
+2019-10-24 10:24:59,JP Morgan,Neutral,Overweight,down
+2019-10-24 10:31:27,Piper Jaffray,Neutral,Overweight,down
+2020-01-02 15:03:45,SunTrust Robinson Humphrey,Hold,,main
+2020-03-17 13:27:12,Morgan Stanley,Equal-Weight,,main
+2020-04-07 11:55:09,Morgan Stanley,Equal-Weight,,main
+2020-05-06 12:31:57,Morgan Stanley,Equal-Weight,,main
+2020-06-08 12:07:58,Morgan Stanley,Equal-Weight,,main
+2020-06-17 12:58:32,Raymond James,Strong Buy,Market Perform,up
+2020-07-23 13:17:41,Piper Sandler,Neutral,,main
+2020-08-14 11:15:09,Truist Securities,Buy,Hold,up
+2020-08-19 09:36:16,"Keefe, Bruyette & Woods",Outperform,Market Perform,up
+2020-09-30 12:27:00,Piper Sandler,Neutral,,main
+2020-11-03 13:08:37,Morgan Stanley,Equal-Weight,,main
+2020-11-23 12:41:09,Raymond James,Strong Buy,,main
+2020-12-07 13:21:37,Morgan Stanley,Equal-Weight,,main
+2021-01-07 16:07:30,Morgan Stanley,Equal-Weight,,main
+2021-01-28 13:45:16,Morgan Stanley,Equal-Weight,,main
+2021-02-24 12:39:22,Morgan Stanley,Equal-Weight,,main
+2021-03-18 12:04:38,Morgan Stanley,Equal-Weight,,main
+2021-04-13 11:30:07,Raymond James,Market Perform,Strong Buy,down
+2021-04-13 11:59:07,RBC Capital,Sector Perform,Outperform,down
+2021-04-13 12:16:08,Truist Securities,Hold,Buy,down
+2021-04-19 14:00:46,"Keefe, Bruyette & Woods",Market Perform,Outperform,down
+2021-05-14 10:31:27,Raymond James,Outperform,Market Perform,up
+2021-08-31 08:58:49,Raymond James,Strong Buy,Outperform,up
+2021-11-04 11:10:49,Piper Sandler,Overweight,Neutral,up
+2021-12-09 13:54:56,Janney Montgomery Scott,Buy,Neutral,up
+2022-01-27 10:28:07,Raymond James,Strong Buy,,main

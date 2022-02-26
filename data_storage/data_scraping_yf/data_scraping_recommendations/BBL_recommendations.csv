@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-16 06:05:00,Barclays,Overweight,,init
+2014-10-21 08:30:00,Jefferies,Hold,Buy,down
+2015-01-09 09:00:00,Jefferies,Hold,,main
+2015-03-10 09:00:00,Jefferies,Hold,,main
+2016-08-23 07:07:49,Jefferies,Buy,Hold,up
+2017-08-23 19:05:54,Jefferies,Buy,,main
+2018-11-01 10:41:12,Investec,Buy,Hold,up
+2019-02-12 11:52:12,Goldman Sachs,Neutral,Buy,down
+2019-03-07 12:23:51,Societe Generale,Hold,Buy,down
+2019-08-06 10:37:44,Jefferies,Hold,Buy,down
+2020-04-22 14:55:42,CFRA,Hold,,main
+2021-03-24 13:25:02,Morgan Stanley,Equal-Weight,Overweight,down
+2021-09-29 10:23:03,RBC Capital,Sector Perform,Outperform,down
+2021-10-20 15:52:23,Jefferies,Hold,Buy,down

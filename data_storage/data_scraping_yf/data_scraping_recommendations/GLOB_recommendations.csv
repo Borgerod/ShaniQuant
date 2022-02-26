@@ -1,0 +1,68 @@
+Date,Firm,To Grade,From Grade,Action
+2014-08-12 06:16:53,Cowen & Co.,Outperform,,init
+2014-08-12 06:16:54,JP Morgan,Overweight,,init
+2014-08-12 09:18:34,William Blair,Outperform,,init
+2014-11-10 19:07:19,Credit Suisse,Neutral,,main
+2014-11-11 09:00:00,Citigroup,Buy,,main
+2015-01-07 00:00:00,Credit Suisse,Underperform,Neutral,down
+2015-01-09 09:00:00,Citigroup,Buy,,main
+2015-04-23 09:00:00,Citigroup,Buy,,main
+2015-07-27 07:43:13,Citigroup,Neutral,Buy,down
+2015-08-12 06:13:05,Jefferies,Hold,,init
+2015-12-17 10:18:32,Sterne Agee CRT,Buy,,init
+2015-12-21 08:15:56,SunTrust Robinson Humphrey,Buy,,init
+2016-02-08 07:22:15,Citigroup,Buy,Neutral,up
+2016-02-08 14:09:11,BWS Financial,Sell,,init
+2016-05-16 12:27:50,Jefferies,Hold,,main
+2016-07-12 06:52:11,Pacific Crest,Sector Weight,,init
+2016-08-11 04:39:57,Citigroup,Buy,,main
+2016-08-11 12:12:33,JP Morgan,Overweight,,main
+2016-09-09 03:47:04,Wedbush,Outperform,,init
+2017-01-12 14:03:06,Pacific Crest,Overweight,Sector Weight,up
+2017-07-07 12:54:41,KeyBanc,Sector Weight,Overweight,down
+2017-07-19 13:15:32,Citigroup,Buy,,main
+2017-07-27 11:25:05,SunTrust Robinson Humphrey,Hold,Buy,down
+2017-11-17 13:54:11,Cantor Fitzgerald,Neutral,,main
+2018-02-20 14:01:53,JP Morgan,Overweight,Overweight,main
+2018-04-04 11:49:57,SunTrust Robinson Humphrey,Buy,Hold,up
+2018-04-20 11:32:41,HSBC,Hold,,init
+2018-06-19 11:23:37,Wedbush,Outperform,Outperform,main
+2018-08-24 13:11:16,JP Morgan,Overweight,Overweight,main
+2018-08-24 14:00:25,Citigroup,Buy,Buy,main
+2018-10-24 13:50:01,JP Morgan,Overweight,Overweight,main
+2019-02-13 13:26:34,Wedbush,Outperform,Outperform,main
+2019-04-10 14:38:39,Morgan Stanley,Overweight,,init
+2019-06-21 10:46:17,Itau BBA,Outperform,Market Perform,up
+2019-07-17 12:38:47,Citigroup,Neutral,Buy,down
+2019-09-10 10:25:21,HSBC,Reduce,Hold,down
+2019-10-21 09:54:07,KeyBanc,Overweight,Sector Weight,up
+2020-01-13 11:02:32,KeyBanc,Overweight,,main
+2020-01-15 12:58:08,Citigroup,Neutral,,main
+2020-02-18 13:26:59,JP Morgan,Overweight,,main
+2020-02-20 13:46:05,Wedbush,Outperform,,main
+2020-02-21 10:02:13,KeyBanc,Overweight,,main
+2020-02-21 11:51:42,Cantor Fitzgerald,Neutral,,main
+2020-02-21 12:42:52,Citigroup,Neutral,,main
+2020-03-10 15:02:13,KeyBanc,Sector Weight,Overweight,down
+2020-05-15 13:38:52,Citigroup,Neutral,,main
+2020-05-22 10:01:55,Piper Sandler,Overweight,,init
+2020-08-14 09:13:22,Piper Sandler,Overweight,,main
+2020-09-21 10:24:46,Itau BBA,Outperform,Market Perform,up
+2021-01-11 11:06:03,Goldman Sachs,Neutral,Buy,down
+2021-01-14 12:14:09,Piper Sandler,Neutral,Overweight,down
+2021-02-19 10:21:30,Piper Sandler,Neutral,,main
+2021-02-19 12:43:13,Wedbush,Outperform,,main
+2021-05-14 10:39:04,Piper Sandler,Neutral,,main
+2021-05-14 15:47:54,Citigroup,Buy,Neutral,up
+2021-07-14 12:58:43,Citigroup,Buy,,main
+2021-07-16 13:27:05,Cowen & Co.,Outperform,,main
+2021-07-28 09:22:02,Piper Sandler,Overweight,Neutral,up
+2021-08-03 10:09:40,Jefferies,Buy,Hold,up
+2021-08-13 09:46:09,Piper Sandler,Overweight,,main
+2021-08-17 12:38:52,JP Morgan,Overweight,,main
+2021-08-26 14:48:50,Jefferies,Buy,,main
+2021-09-21 10:10:54,Goldman Sachs,Buy,Neutral,up
+2021-11-19 09:52:31,Piper Sandler,Overweight,,main
+2021-11-19 12:55:56,Wedbush,Outperform,,main
+2021-11-19 14:06:26,Citigroup,Buy,,main
+2022-02-18 10:31:51,Piper Sandler,Overweight,,main

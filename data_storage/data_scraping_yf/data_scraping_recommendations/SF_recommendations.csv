@@ -1,0 +1,63 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-10 09:07:00,Bank oferica,Neutral,,main
+2012-10-29 06:00:00,Goldman Sachs,Sell,Neutral,down
+2012-12-12 15:45:38,Wells Fargo,Underperform,Market Perform,down
+2013-05-21 07:52:15,Wells Fargo,Market Perform,Underperform,up
+2013-06-13 08:54:57,Davenport,Neutral,Buy,down
+2013-08-19 09:14:20,Sidoti & Co.,Buy,,main
+2013-08-28 07:26:14,Raymond James,Outperform,Market Perform,up
+2013-11-01 07:25:47,Susquehanna,Negative,,down
+2014-01-09 07:27:54,Nomura,Neutral,,init
+2014-01-15 06:36:57,Credit Suisse,Neutral,,init
+2014-04-14 08:00:00,Susquehanna,Neutral,Negative,up
+2014-11-25 00:00:00,Macquarie,Outperform,,init
+2015-02-10 05:59:37,Goldman Sachs,Buy,,init
+2015-03-19 07:28:30,MKM Partners,Buy,,init
+2015-06-09 09:00:00,Macquarie,Outperform,,main
+2015-06-25 08:43:16,Goldman Sachs,Sell,Neutral,down
+2015-07-15 11:00:00,Susquehanna,Neutral,,main
+2015-11-05 13:30:29,Macquarie,Outperform,,main
+2015-11-09 05:28:34,Nomura,Buy,Neutral,up
+2016-01-12 06:16:23,Goldman Sachs,Buy,,up
+2016-02-22 05:40:48,Credit Suisse,Underperform,Neutral,down
+2016-02-24 07:15:58,Nomura,Buy,,main
+2016-02-24 07:47:18,Macquarie,Outperform,,main
+2016-04-04 13:06:51,Nomura,Buy,,main
+2016-07-11 22:36:55,Nomura,Buy,,main
+2016-09-09 11:13:17,Macquarie,Outperform,,main
+2016-09-30 10:37:49,Nomura,Buy,,main
+2017-03-20 14:23:22,Goldman Sachs,Neutral,Buy,down
+2017-05-23 12:37:25,Nomura,Neutral,Buy,down
+2017-10-31 16:05:14,Nomura,Neutral,,main
+2017-12-01 14:32:44,Wells Fargo,Outperform,Market Perform,up
+2018-01-03 11:47:56,Instinet,Buy,Neutral,up
+2018-01-08 14:25:13,Goldman Sachs,Buy,Neutral,up
+2018-01-31 14:19:04,Wells Fargo,Outperform,Outperform,main
+2018-01-31 14:33:02,Nomura,Buy,Buy,main
+2018-02-01 15:37:46,Nomura,Buy,Buy,main
+2018-10-03 10:37:19,JMP Securities,Market Outperform,Market Perform,up
+2018-10-31 13:53:50,Wells Fargo,Outperform,Outperform,main
+2018-12-19 12:43:41,Wells Fargo,Market Perform,Outperform,down
+2019-04-05 13:18:56,Wells Fargo,Market Perform,Market Perform,main
+2019-04-08 13:48:39,JMP Securities,Market Outperform,Market Outperform,main
+2019-05-09 15:57:27,Goldman Sachs,Buy,Neutral,up
+2019-05-30 11:42:42,Compass Point,Buy,,init
+2020-01-09 14:51:28,Wells Fargo,Equal-Weight,,main
+2020-01-13 14:24:20,JMP Securities,Market Outperform,,main
+2020-04-06 16:36:47,Wells Fargo,Equal-Weight,,main
+2020-04-09 15:41:12,JMP Securities,Market Outperform,,main
+2020-05-18 10:27:08,Wells Fargo,Underweight,Equal-Weight,down
+2020-06-23 09:49:50,Credit Suisse,Neutral,,init
+2020-07-10 14:06:40,Wells Fargo,Underweight,,main
+2020-10-09 14:04:48,JMP Securities,Market Outperform,,main
+2021-01-05 13:47:30,Goldman Sachs,Neutral,Buy,down
+2021-01-15 12:37:06,Wells Fargo,Equal-Weight,Underweight,up
+2021-04-28 12:16:48,JMP Securities,Market Outperform,,main
+2021-04-28 12:38:51,Wells Fargo,Equal-Weight,,main
+2021-04-28 13:24:59,Credit Suisse,Neutral,,main
+2021-06-23 15:08:04,Wolfe Research,Outperform,Underperform,up
+2021-07-12 11:34:58,JMP Securities,Market Outperform,,main
+2021-07-29 11:35:37,JMP Securities,Market Outperform,,main
+2021-10-05 11:54:12,JMP Securities,Market Outperform,,main
+2021-10-28 11:18:46,JMP Securities,Market Outperform,,main
+2022-01-27 14:19:42,JMP Securities,Market Outperform,,main

@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action
+2015-07-20 08:04:52,Sandler O'Neill,Hold,Buy,down
+2016-02-18 09:33:34,Sandler O'Neill,Buy,Hold,up
+2016-04-05 06:58:23,Janney Capital,Buy,,init
+2016-05-09 09:43:34,Sandler O'Neill,Hold,Buy,down
+2016-08-10 07:07:56,Janney Capital,Neutral,Buy,down
+2017-08-03 18:11:16,Raymond James,Strong Buy,Market Perform,up
+2018-11-02 13:59:59,Keefe Bruyette & Woods,Market Perform,,init
+2019-01-08 12:18:55,JMP Securities,Outperform,Market Perform,up
+2019-02-12 13:43:42,JMP Securities,Market Outperform,Market Outperform,main
+2019-08-23 10:29:45,William Blair,Market Perform,Outperform,down
+2019-09-09 11:29:17,UBS,Buy,,init
+2019-09-10 11:47:05,UBS,Buy,,init
+2020-04-03 12:29:31,Raymond James,Strong Buy,,main
+2020-04-06 17:05:37,Piper Sandler,Overweight,,main
+2020-04-16 18:46:56,JMP Securities,Market Outperform,,main
+2020-04-24 16:06:46,Raymond James,Strong Buy,,main
+2020-08-06 12:08:40,Raymond James,Strong Buy,,main
+2020-10-19 11:22:07,Raymond James,Strong Buy,,main
+2021-03-11 13:00:29,Raymond James,Strong Buy,,main
+2021-05-04 11:43:43,Raymond James,Strong Buy,,main
+2021-07-19 12:42:38,Raymond James,Outperform,Strong Buy,down
+2021-08-02 11:44:02,Raymond James,Outperform,,main
+2021-11-01 09:11:19,Piper Sandler,Neutral,Overweight,down
+2022-02-01 12:19:28,Raymond James,Market Perform,Outperform,down

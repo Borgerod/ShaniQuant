@@ -1,0 +1,65 @@
+Date,Firm,To Grade,From Grade,Action
+2015-02-23 07:28:43,Leerink Swann,Outperform,,init
+2015-02-23 07:45:08,Wells Fargo,Outperform,,init
+2015-02-23 10:07:48,Bank of America,Buy,,init
+2016-09-26 06:29:07,Wedbush,Outperform,,init
+2017-02-09 15:21:59,Credit Suisse,Outperform,,init
+2017-03-09 14:36:31,Leerink Swann,Market Perform,Outperform,down
+2017-03-24 16:58:46,Wedbush,Outperform,,reit
+2017-05-11 14:51:00,JP Morgan,Overweight,,init
+2017-09-22 12:00:40,Credit Suisse,Outperform,,main
+2017-11-17 14:22:31,Bank of America,Buy,,main
+2018-01-25 17:57:47,Bank of America,Buy,Buy,main
+2018-03-20 13:27:03,Credit Suisse,Outperform,Outperform,main
+2018-06-26 10:43:35,Stifel Nicolaus,Buy,,init
+2018-08-07 12:16:36,Canaccord Genuity,Buy,,init
+2018-08-30 11:23:23,Stifel Nicolaus,Buy,Buy,main
+2019-01-24 11:42:59,Leerink Swann,Outperform,Market Perform,up
+2019-01-24 12:38:39,Cantor Fitzgerald,Overweight,,init
+2019-03-29 12:35:12,Credit Suisse,Outperform,Outperform,main
+2019-04-05 13:53:02,Canaccord Genuity,Buy,Buy,main
+2019-05-31 14:20:22,Canaccord Genuity,Buy,,main
+2019-06-03 13:42:24,Wedbush,Outperform,,main
+2019-08-29 11:46:14,JP Morgan,Overweight,,main
+2019-10-11 12:16:17,Morgan Stanley,Overweight,,init
+2019-10-22 12:06:07,Wedbush,Outperform,,main
+2019-11-20 15:03:16,Morgan Stanley,Overweight,,main
+2019-12-17 13:58:23,Morgan Stanley,Overweight,,main
+2020-01-17 13:19:45,Morgan Stanley,Overweight,,main
+2020-02-26 13:19:02,Morgan Stanley,Overweight,,main
+2020-03-20 08:53:01,Oppenheimer,Outperform,,init
+2020-04-02 18:07:51,Morgan Stanley,Overweight,,main
+2020-04-20 15:51:53,Cantor Fitzgerald,Overweight,,reit
+2020-04-20 16:39:39,Oppenheimer,Outperform,,main
+2020-04-20 19:10:31,Stifel,Buy,,main
+2020-04-20 19:20:45,Credit Suisse,Outperform,,main
+2020-04-20 19:30:27,SVB Leerink,Outperform,,main
+2020-05-20 12:22:59,Oppenheimer,Outperform,,main
+2020-05-20 12:23:58,Credit Suisse,Outperform,,main
+2020-05-20 13:50:07,SVB Leerink,Outperform,,main
+2020-05-21 11:58:22,Morgan Stanley,Overweight,,main
+2020-08-28 13:12:39,Credit Suisse,Outperform,,main
+2020-08-31 12:50:15,Morgan Stanley,Overweight,,main
+2020-10-13 12:21:32,Morgan Stanley,Overweight,,main
+2020-11-12 09:57:01,SVB Leerink,Outperform,,main
+2020-11-12 13:34:53,Credit Suisse,Outperform,,main
+2020-11-13 12:34:55,Morgan Stanley,Overweight,,main
+2020-12-17 14:57:28,Berenberg,Buy,,init
+2021-03-11 16:24:39,Credit Suisse,Outperform,,main
+2021-03-12 14:19:05,Canaccord Genuity,Buy,,main
+2021-03-30 12:14:55,Oppenheimer,Perform,Outperform,down
+2021-05-28 11:19:09,Morgan Stanley,Overweight,,main
+2021-05-28 13:22:08,Credit Suisse,Outperform,,main
+2021-06-01 12:36:54,Canaccord Genuity,Buy,,main
+2021-06-14 11:52:27,Morgan Stanley,Overweight,,main
+2021-06-14 13:49:42,SVB Leerink,Outperform,,main
+2021-06-14 14:01:47,Wedbush,Outperform,,main
+2021-07-21 10:54:47,SVB Leerink,Outperform,,main
+2021-08-26 08:56:01,SVB Leerink,Outperform,,main
+2021-08-26 11:01:07,Credit Suisse,Outperform,,main
+2021-08-26 13:48:20,Morgan Stanley,Overweight,,main
+2021-10-20 11:28:29,B of A Securities,Neutral,Buy,down
+2021-11-11 12:54:58,Credit Suisse,Outperform,,main
+2021-11-15 10:36:16,SVB Leerink,Outperform,,main
+2021-12-08 12:26:54,Wells Fargo,Overweight,,init
+2022-01-06 13:58:23,Cowen & Co.,Market Perform,,init

@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,iShares Core S&P 500 ETF
+longName,iShares Core S&P 500 ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,IVV
+messageBoardId,finmb_8797798
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,958348800
+annualReportExpenseRatio,
+totalAssets,334712504320
+bookValue,
+fundFamily,iShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0125
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.2499
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Large Blend
+fiveYearAverageReturn,0.1768
+phone,800-474-2737
+longBusinessSummary,"The index measures the performance of the large-capitalization sector of the U.S. equity market, as determined by SPDJI. The fund generally will invest at least 80% of its assets in the component securities of its index and in investments that have economic characteristics that are substantially identical to the component securities of its index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents."
+companyOfficers,[]
+previousClose,439.1
+regularMarketOpen,439.34
+twoHundredDayAverage,446.5307
+trailingAnnualDividendYield,0.012953769
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,440.5889
+navPrice,479.6
+averageDailyVolume10Day,7114850
+regularMarketPreviousClose,439.1
+fiftyDayAverage,459.343
+trailingAnnualDividendRate,5.688
+open,439.34
+toCurrency,
+averageVolume10days,7114850
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,433.74
+currency,USD
+trailingPE,3.1296515
+regularMarketVolume,8059103
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,7803608
+dayLow,433.74
+ask,434.52
+askSize,800
+volume,8059103
+fiftyTwoWeekHigh,482.07
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,373.26
+bid,433.02
+tradeable,False
+dividendYield,
+bidSize,800
+dayHigh,440.5889
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0.026300002}, {'consumer_cyclical': 0.1168}, {'basic_materials': 0.0222}, {'consumer_defensive': 0.0619}, {'technology': 0.2502}, {'communication_services': 0.114700004}, {'financial_services': 0.1387}, {'utilities': 0.025}, {'industrials': 0.0853}, {'energy': 0.0241}, {'healthcare': 0.1348}]"
+holdings,"[{'symbol': 'AAPL', 'holdingName': 'Apple Inc', 'holdingPercent': 0.062}, {'symbol': 'MSFT', 'holdingName': 'Microsoft Corp', 'holdingPercent': 0.0592}, {'symbol': 'AMZN', 'holdingName': 'Amazon.com Inc', 'holdingPercent': 0.0387}, {'symbol': 'FB', 'holdingName': 'Facebook Inc Class A', 'holdingPercent': 0.023699999}, {'symbol': 'GOOGL', 'holdingName': 'Alphabet Inc Class A', 'holdingPercent': 0.0227}, {'symbol': 'GOOG', 'holdingName': 'Alphabet Inc Class C', 'holdingPercent': 0.0216}, {'symbol': 'TSLA', 'holdingName': 'Tesla Inc', 'holdingPercent': 0.0148}, {'symbol': 'NVDA', 'holdingName': 'NVIDIA Corp', 'holdingPercent': 0.0145000005}, {'symbol': 'BRK.B', 'holdingName': 'Berkshire Hathaway Inc Class B', 'holdingPercent': 0.014099999}, {'symbol': 'JPM', 'holdingName': 'JPMorgan Chase & Co', 'holdingPercent': 0.0126}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 18.14, 'priceToSales': 2.87, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 25.32, 'priceToBook': 4.48, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9976
+regularMarketPrice,436.07
+preMarketPrice,
+logo_url,

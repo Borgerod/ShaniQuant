@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action
+2021-11-08 16:04:20,Arete Research,Sell,,init
+2021-11-09 11:21:50,Susquehanna,Positive,,init
+2021-11-22 09:58:10,Jefferies,Buy,,init
+2021-11-22 10:11:00,Credit Suisse,Outperform,,init
+2021-11-22 10:12:30,JP Morgan,Overweight,,init
+2021-11-22 10:28:08,Needham,Buy,,init
+2021-11-22 11:08:44,Baird,Outperform,,init
+2021-11-22 11:12:59,Citigroup,Buy,,init
+2021-11-22 11:17:49,Cowen & Co.,Outperform,,init
+2021-11-22 12:24:38,Raymond James,Outperform,,init
+2021-11-22 12:39:28,Wedbush,Outperform,,init
+2021-11-22 12:54:59,Deutsche Bank,Buy,,init
+2021-11-22 13:05:22,Morgan Stanley,Equal-Weight,,init
+2021-11-22 13:43:56,B of A Securities,Buy,,init
+2021-11-22 13:55:53,HSBC,Hold,,init
+2021-12-01 11:58:19,Needham,Buy,,main
+2021-12-01 12:06:06,Credit Suisse,Outperform,,main
+2021-12-01 13:10:25,Morgan Stanley,Equal-Weight,,main
+2021-12-01 13:26:44,Deutsche Bank,Buy,,main
+2022-02-09 14:58:24,Morgan Stanley,Equal-Weight,,main

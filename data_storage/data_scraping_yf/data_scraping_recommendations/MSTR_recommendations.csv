@@ -1,0 +1,49 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-03 12:41:00,UBS,Neutral,,main
+2012-07-31 12:23:00,UBS,Neutral,,main
+2012-08-06 06:39:00,Drexel Hamilton,Sell,,main
+2012-10-23 10:39:00,BMO Capital,Market Perform,Outperform,down
+2012-11-05 11:09:00,Drexel Hamilton,Hold,Sell,up
+2013-01-29 12:36:27,UBS,Neutral,,main
+2013-04-30 10:02:25,UBS,Neutral,,main
+2013-05-01 09:15:32,Raymond James,Underperform,Market Perform,down
+2013-05-20 09:12:32,JMP Securities,Market Perform,Outperform,down
+2013-08-05 16:00:00,Roth Capital,Buy,Neutral,up
+2014-01-23 16:00:00,Deutsche Bank,Hold,,init
+2014-04-24 08:00:00,Deutsche Bank,Buy,Hold,up
+2014-04-30 16:00:00,First Analysis,Equal-Weight,Overweight,down
+2014-07-29 06:17:56,JMP Securities,Market Outperform,Market Perform,up
+2014-08-11 08:33:48,Drexel Hamilton,Sell,Hold,down
+2014-10-10 09:00:00,Deutsche Bank,Buy,,main
+2014-10-28 09:00:00,JMP Securities,Market Outperform,,main
+2014-11-14 09:00:00,Deutsche Bank,Buy,,main
+2015-04-29 09:00:00,JMP Securities,Market Outperform,,main
+2015-05-01 06:14:38,SunTrust Robinson Humphrey,Neutral,,init
+2015-07-28 11:00:00,JMP Securities,Market Outperform,,main
+2015-08-04 07:22:04,SunTrust Robinson Humphrey,Buy,Neutral,up
+2015-09-11 15:12:13,Deutsche Bank,Buy,,main
+2015-12-11 06:01:17,Mizuho,Buy,,init
+2016-01-11 14:19:25,Deutsche Bank,Buy,,main
+2016-04-11 07:02:19,Citigroup,Buy,,init
+2016-07-29 06:34:53,JMP Securities,Market Perform,Outperform,down
+2016-07-29 11:08:13,Citigroup,Buy,,main
+2017-01-24 13:00:53,Citigroup,Neutral,Buy,down
+2017-04-27 19:52:36,Benchmark,Hold,,init
+2017-07-28 14:09:47,Deutsche Bank,Hold,Buy,down
+2017-09-21 14:19:51,Citigroup,Neutral,,main
+2018-05-05 14:00:37,B. Riley FBR,Neutral,,init
+2018-05-05 14:00:37,B. Riley FBR,Neutral,,main
+2019-02-11 14:49:43,BWS Financial,Buy,,init
+2020-04-30 13:43:37,Citigroup,Neutral,,main
+2020-07-30 12:56:55,Citigroup,Neutral,,main
+2020-11-17 16:04:54,BWS Financial,Buy,,main
+2020-12-08 13:24:19,Citigroup,Sell,Neutral,down
+2021-01-29 18:24:54,Citigroup,Sell,,main
+2021-04-01 11:57:18,Jefferies,Hold,,init
+2021-04-01 13:30:57,BTIG,Buy,,init
+2021-04-09 10:22:29,Canaccord Genuity,Buy,,init
+2021-05-04 10:20:21,William Blair,Market Outperform,,init
+2021-05-18 13:12:32,Jefferies,Hold,,main
+2021-06-22 11:44:14,Citigroup,Sell,,main
+2021-07-30 14:01:59,Canaccord Genuity,Buy,,main
+2021-07-30 14:50:19,BTIG,Buy,,main

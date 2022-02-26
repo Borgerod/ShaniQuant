@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,Direxion Small Cap Bull 3X Shar
+longName,Direxion Daily Small Cap Bull 3X Shares
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,TNA
+messageBoardId,finmb_51234851
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,3.76
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1225843200
+annualReportExpenseRatio,
+totalAssets,1948741504
+bookValue,
+fundFamily,Direxion Funds
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0001
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.1784
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Trading--Leveraged Equity
+fiveYearAverageReturn,0.0868
+phone,866-476-7523
+longBusinessSummary,"The fund invests at least 80% of its net assets in financial instruments, such as swap agreements, securities of the index, and ETFs that track the index and other financial instruments that provide daily leveraged exposure to the index or ETFs that track the index. The index measures the performance of approximately 2,000 small-capitalization companies in the Russell 3000Â® Index, based on a combination of their market capitalization and current index membership. The fund is non-diversified."
+companyOfficers,[]
+previousClose,60.68
+regularMarketOpen,60.44
+twoHundredDayAverage,85.82805
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,62.0167
+navPrice,87.43
+averageDailyVolume10Day,12206740
+regularMarketPreviousClose,60.68
+fiftyDayAverage,71.1416
+trailingAnnualDividendRate,
+open,60.44
+toCurrency,
+averageVolume10days,12206740
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,58.45
+currency,USD
+regularMarketVolume,11438983
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,15151729
+dayLow,58.45
+ask,58.46
+askSize,1100
+volume,11438983
+fiftyTwoWeekHigh,114.31
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,50.2
+bid,58.1
+tradeable,False
+dividendYield,
+bidSize,1100
+dayHigh,62.0167
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0.080699995}, {'consumer_cyclical': 0.1105}, {'basic_materials': 0.0363}, {'consumer_defensive': 0.0359}, {'technology': 0.14109999}, {'communication_services': 0.041300002}, {'financial_services': 0.1356}, {'utilities': 0.0229}, {'industrials': 0.1434}, {'energy': 0.040700004}, {'healthcare': 0.2116}]"
+holdings,"[{'symbol': 'IWM', 'holdingName': 'iShares Russell 2000 ETF', 'holdingPercent': 0.6618}, {'symbol': '', 'holdingName': 'Russ 2000 Indx Small Swap', 'holdingPercent': 0.1692}, {'symbol': 'FTIXX', 'holdingName': 'Goldman Sachs FS Treasury Intms Instl', 'holdingPercent': 0.1391}, {'symbol': 'DAPXX', 'holdingName': 'Dreyfus Government Secs Cash Mgmt Admin', 'holdingPercent': 0.108}, {'symbol': 'FGTXX', 'holdingName': 'Goldman Sachs FS Government Instl', 'holdingPercent': 0.0039}, {'symbol': '', 'holdingName': 'Goldman Finl Sq Trsry Ins', 'holdingPercent': 0}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 10.7, 'priceToSales': 1.53, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 2.56, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.6914
+regularMarketPrice,59.08
+preMarketPrice,
+logo_url,

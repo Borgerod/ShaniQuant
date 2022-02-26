@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action
+2012-08-01 07:57:00,ThinkEquity,Sell,Hold,down
+2012-08-23 11:01:00,UBS,Buy,,init
+2012-11-12 15:38:00,PiperJaffray,Neutral,,main
+2013-02-12 08:26:14,Raymond James,Underperform,Market Perform,down
+2013-02-21 08:47:12,Raymond James,Market Perform,Underperform,up
+2014-01-02 16:00:00,Cowen & Co.,Underperform,Market Perform,down
+2014-02-26 08:00:00,Cowen & Co.,Market Perform,Underperform,up
+2014-05-28 06:11:56,Stifel Nicolaus,Hold,,init
+2015-11-10 07:16:48,H.C. Wainwright,Buy,,init
+2016-03-10 08:56:27,Cowen & Co.,Market Perform,,main
+2016-09-27 12:04:13,Singular Research,Buy,,init
+2018-05-05 14:00:39,B. Riley FBR,Buy,Buy,main
+2019-12-12 11:52:41,Oppenheimer,Outperform,,init
+2020-11-25 13:20:24,Jefferies,Buy,,init
+2020-11-25 14:45:42,Cowen & Co.,Market Perform,,init
+2021-01-06 12:22:42,Cowen & Co.,Outperform,Market Perform,up
+2021-02-26 14:43:32,Roth Capital,Buy,,init
+2021-03-03 13:59:54,H.C. Wainwright,Buy,,main
+2021-03-03 17:28:39,Roth Capital,Buy,,main
+2021-06-01 10:23:23,HSBC,Buy,,init
+2021-08-06 10:00:23,HC Wainwright & Co.,Buy,,main
+2021-08-06 11:48:49,Oppenheimer,Outperform,,main
+2021-08-06 13:06:42,Roth Capital,Buy,,main

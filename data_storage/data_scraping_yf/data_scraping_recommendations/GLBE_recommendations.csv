@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action
+2021-06-07 10:15:15,Piper Sandler,Overweight,,init
+2021-06-07 10:35:04,JMP Securities,Market Outperform,,init
+2021-06-07 10:36:16,Keybanc,Overweight,,init
+2021-06-07 10:41:30,Goldman Sachs,Buy,,init
+2021-06-07 10:44:06,Jefferies,Buy,,init
+2021-06-07 11:11:38,Raymond James,Outperform,,init
+2021-06-07 11:47:36,Morgan Stanley,Overweight,,init
+2021-07-28 08:35:40,Keybanc,Overweight,,main
+2021-08-17 08:31:15,Keybanc,Overweight,,main
+2021-08-17 08:33:41,Piper Sandler,Overweight,,main
+2021-08-17 11:13:00,Raymond James,Outperform,,main
+2021-08-17 12:13:23,Morgan Stanley,Overweight,,main
+2021-08-17 13:22:43,Jefferies,Buy,,main
+2021-10-22 10:23:33,Needham,Buy,,init
+2021-11-11 11:04:03,Raymond James,Outperform,,main
+2021-11-11 13:46:40,Morgan Stanley,Overweight,,main
+2021-12-08 12:44:30,B of A Securities,Buy,,init
+2021-12-10 11:36:13,Goldman Sachs,Buy,,init
+2022-01-20 13:05:40,Morgan Stanley,Overweight,,main
+2022-01-25 10:12:14,Keybanc,Overweight,,main
+2022-02-17 09:30:23,Keybanc,Overweight,,main
+2022-02-17 12:20:04,Raymond James,Outperform,,main

@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action
+2018-11-26 12:26:02,JP Morgan,Neutral,,init
+2018-11-26 14:37:31,Cowen & Co.,Outperform,,init
+2018-11-26 14:47:16,Baird,Outperform,,init
+2019-05-31 11:50:24,Evercore ISI Group,Outperform,,init
+2020-10-20 12:30:23,SVB Leerink,Market Perform,,init
+2020-11-24 09:14:19,SVB Leerink,Market Perform,,main
+2021-01-04 16:12:12,Evercore ISI Group,In-Line,Outperform,down
+2021-02-05 11:27:52,JP Morgan,Underweight,Neutral,down
+2021-02-05 17:31:47,Baird,Outperform,,main
+2021-04-12 10:00:43,Piper Sandler,Overweight,,init
+2021-06-04 10:30:27,Goldman Sachs,Neutral,,init
+2021-06-29 14:52:44,William Blair,Outperform,,init
+2022-02-07 09:30:48,SVB Leerink,Market Perform,,main
+2022-02-07 11:54:45,Barclays,Overweight,,main

@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action
+2021-08-23 08:46:29,Piper Sandler,Overweight,,init
+2021-08-23 09:24:25,Jefferies,Buy,,init
+2021-08-23 09:57:23,RBC Capital,Outperform,,init
+2021-08-23 10:24:51,Barclays,Overweight,,init
+2021-08-23 11:14:41,Raymond James,Market Perform,,init
+2021-08-23 11:29:39,Baird,Outperform,,init
+2021-08-23 11:36:22,William Blair,Outperform,,init
+2021-08-23 11:53:55,B of A Securities,Neutral,,init
+2021-08-23 12:43:33,Macquarie,Outperform,,init
+2021-08-23 13:47:40,UBS,Neutral,,init
+2021-09-10 08:33:23,Piper Sandler,Overweight,,main
+2021-09-10 12:22:19,RBC Capital,Outperform,,main
+2021-10-13 12:50:45,Barclays,Overweight,,main
+2021-11-11 09:54:34,Piper Sandler,Overweight,,main
+2021-12-13 11:47:32,Goldman Sachs,Sell,,init
+2022-01-13 13:53:10,Piper Sandler,Overweight,,main

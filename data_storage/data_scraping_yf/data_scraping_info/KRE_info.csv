@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,SPDR S&P Regional Banking ETF
+longName,SPDR S&P Regional Banking ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,KRE
+messageBoardId,finmb_27776900
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.54
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1150675200
+annualReportExpenseRatio,
+totalAssets,4878612480
+bookValue,
+fundFamily,SPDR State Street Global Advisors
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0216
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.19450001
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Financial
+fiveYearAverageReturn,0.0907
+phone,866-787-2257
+longBusinessSummary,"In seeking to track the performance of the S&P Regional Banks Select Industry Index (the ""index""), the fund employs a sampling strategy. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the regional banks segment of the S&P Total Market Index (""S&P TMI"")."
+companyOfficers,[]
+previousClose,73.41
+regularMarketOpen,73.13
+twoHundredDayAverage,69.1742
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,74.34
+navPrice,74.22
+averageDailyVolume10Day,9670530
+regularMarketPreviousClose,73.41
+fiftyDayAverage,72.8728
+trailingAnnualDividendRate,
+open,73.13
+toCurrency,
+averageVolume10days,9670530
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,73.13
+currency,USD
+regularMarketVolume,9580684
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,11164277
+dayLow,73.13
+ask,73.25
+askSize,1800
+volume,9580684
+fiftyTwoWeekHigh,78.81
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,59.3
+bid,72.92
+tradeable,False
+dividendYield,
+bidSize,800
+dayHigh,74.34
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0.0001}, {'communication_services': 0}, {'financial_services': 0.9999}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'SI', 'holdingName': 'Silvergate Capital Corp Class A', 'holdingPercent': 0.0195}, {'symbol': 'PNC', 'holdingName': 'PNC Financial Services Group Inc', 'holdingPercent': 0.0168}, {'symbol': 'EWBC', 'holdingName': 'East West Bancorp Inc', 'holdingPercent': 0.0165}, {'symbol': 'PNFP', 'holdingName': 'Pinnacle Financial Partners Inc', 'holdingPercent': 0.0165}, {'symbol': 'HBAN', 'holdingName': 'Huntington Bancshares Inc', 'holdingPercent': 0.0164}, {'symbol': 'SBNY', 'holdingName': 'Signature Bank', 'holdingPercent': 0.0164}, {'symbol': 'SIVB', 'holdingName': 'SVB Financial Group', 'holdingPercent': 0.0164}, {'symbol': 'FRC', 'holdingName': 'First Republic Bank', 'holdingPercent': 0.0163}, {'symbol': 'CIT', 'holdingName': 'CIT Group Inc', 'holdingPercent': 0.0162}, {'symbol': 'FCNCA', 'holdingName': 'First Citizens BancShares Inc Class A', 'holdingPercent': 0.0162}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 3.6, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 14.36, 'priceToBook': 1.36, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9993
+regularMarketPrice,73.54
+preMarketPrice,
+logo_url,

@@ -1,0 +1,57 @@
+Date,Firm,To Grade,From Grade,Action
+2012-08-01 10:21:00,S&P Capital IQ,Hold,Buy,down
+2012-08-07 14:01:00,Barclays,Overweight,,main
+2012-10-22 12:51:00,Barclays,Overweight,,main
+2014-02-06 07:03:16,Bank of America,Buy,,main
+2014-03-06 08:00:00,JP Morgan,Overweight,,main
+2014-05-06 23:45:14,Barclays,Overweight,,main
+2014-06-16 20:45:43,JMP Securities,Market Outperform,,main
+2014-07-17 22:24:07,JP Morgan,Overweight,,main
+2014-07-21 21:30:46,Barclays,Overweight,,main
+2014-07-30 02:12:32,Jefferies,Market Outperform,,main
+2014-10-14 09:00:00,JP Morgan,Overweight,,main
+2014-12-04 09:00:00,Barclays,Overweight,,main
+2014-12-18 09:00:00,JP Morgan,Overweight,,main
+2015-01-22 09:00:00,Barclays,Overweight,,main
+2015-03-04 09:00:00,JP Morgan,Overweight,,main
+2015-04-01 09:00:00,JMP Securities,Market Outperform,,main
+2015-08-26 08:20:50,Sterne Agee CRT,Buy,,init
+2015-09-03 06:09:41,Barclays,Overweight,,main
+2015-10-20 12:48:57,Barclays,Overweight,,main
+2016-05-16 04:15:02,Keefe Bruyette & Woods,Market Perform,,init
+2016-10-06 10:39:48,Wedbush,Outperform,,init
+2017-07-18 16:06:49,Barclays,Overweight,,main
+2017-07-26 16:23:41,UBS,Neutral,,init
+2017-08-15 15:31:38,Barclays,Overweight,,main
+2017-11-06 15:45:17,Bank of America,Buy,,main
+2018-01-22 18:52:10,Evercore ISI Group,In-Line,,init
+2018-01-24 17:17:19,JMP Securities,Market Perform,Market Outperform,down
+2018-01-30 17:23:13,Barclays,Overweight,Overweight,main
+2018-02-06 14:35:14,Raymond James,Outperform,,init
+2018-03-06 13:03:37,JP Morgan,Overweight,Overweight,main
+2018-03-15 16:06:21,Barclays,Overweight,Overweight,main
+2018-04-03 12:44:55,Goldman Sachs,Buy,,init
+2018-05-10 11:48:16,Raymond James,Strong Buy,Outperform,up
+2018-05-14 18:12:27,Barclays,Overweight,Overweight,main
+2018-08-30 11:39:25,Barclays,Overweight,Overweight,main
+2018-11-02 18:07:18,Bank of America,Buy,Buy,main
+2019-01-03 13:02:25,Bank of America,Neutral,Buy,down
+2019-07-11 12:11:19,Compass Point,Neutral,,init
+2019-08-02 16:28:26,Raymond James,Strong Buy,,main
+2019-08-12 13:25:14,UBS,Neutral,,main
+2020-01-24 12:20:08,Raymond James,Outperform,Strong Buy,down
+2020-02-28 12:49:04,UBS,Neutral,,main
+2020-04-09 10:02:52,JP Morgan,Neutral,Overweight,down
+2020-05-13 13:33:39,UBS,Neutral,,main
+2020-07-29 14:25:41,Raymond James,Outperform,,main
+2020-08-11 14:39:13,UBS,Neutral,,main
+2020-10-30 11:49:54,Raymond James,Outperform,,main
+2020-11-02 15:49:50,UBS,Neutral,,main
+2021-01-22 14:09:52,Raymond James,Outperform,,main
+2021-04-27 11:24:59,Raymond James,Outperform,,main
+2021-04-30 12:06:10,Raymond James,Outperform,,main
+2021-06-15 10:37:48,Wolfe Research,Outperform,,init
+2021-07-30 09:29:14,Raymond James,Outperform,,main
+2021-10-22 12:02:58,Raymond James,Outperform,,main
+2021-11-23 14:22:52,"Keefe, Bruyette & Woods",Outperform,Market Perform,up
+2022-01-21 13:19:01,Raymond James,Outperform,,main

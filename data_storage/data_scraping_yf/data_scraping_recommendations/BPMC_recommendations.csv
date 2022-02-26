@@ -1,0 +1,64 @@
+Date,Firm,To Grade,From Grade,Action
+2015-05-26 05:52:30,JMP Securities,Market Outperform,,init
+2015-05-26 06:01:34,Cowen & Co.,Outperform,,init
+2015-05-26 06:37:34,Wedbush,Outperform,,init
+2016-03-09 12:39:33,JMP Securities,Market Outperform,,main
+2016-05-27 09:02:27,Raymond James,Outperform,,init
+2016-08-05 06:27:22,Canaccord Genuity,Buy,,init
+2016-08-05 10:54:10,Canaccord Genuity,Buy,,init
+2017-02-15 14:36:23,Morgan Stanley,Overweight,,init
+2017-03-13 14:26:42,Goldman Sachs,Buy,Neutral,up
+2017-08-03 17:59:56,Canaccord Genuity,Buy,,main
+2017-09-20 16:18:08,Canaccord Genuity,Buy,,main
+2017-09-29 10:15:55,DA Davidson,Buy,,init
+2017-10-23 14:12:33,Morgan Stanley,Overweight,,main
+2018-04-16 11:46:58,Wedbush,Outperform,Outperform,main
+2018-06-04 12:48:43,JMP Securities,Market Outperform,Market Outperform,main
+2018-09-25 12:49:38,Leerink Swann,Outperform,,init
+2019-04-03 12:23:13,Morgan Stanley,Overweight,,init
+2019-07-18 10:55:25,Deutsche Bank,Buy,,init
+2019-07-19 10:39:14,Baird,Outperform,,init
+2019-08-29 10:12:11,Piper Jaffray,Neutral,,init
+2019-09-12 10:21:50,Raymond James,Outperform,Market Perform,up
+2019-10-03 11:41:40,H.C. Wainwright,Buy,,init
+2019-10-11 12:48:37,Morgan Stanley,Overweight,,main
+2019-10-29 14:13:33,Deutsche Bank,Hold,Buy,down
+2019-11-06 11:07:59,Raymond James,Strong Buy,Outperform,up
+2019-11-06 14:01:10,Morgan Stanley,Overweight,,main
+2019-12-10 13:47:18,Deutsche Bank,Hold,,main
+2020-01-28 11:30:20,BMO Capital,Market Perform,,init
+2020-02-18 12:46:17,Morgan Stanley,Overweight,,main
+2020-03-17 10:17:48,BMO Capital,Outperform,Market Perform,up
+2020-03-17 15:29:01,Deutsche Bank,Buy,Hold,up
+2020-04-29 10:34:13,SVB Leerink,Outperform,,main
+2020-04-29 11:52:02,HC Wainwright & Co.,Buy,,reit
+2020-04-29 14:53:26,BMO Capital,Outperform,,main
+2020-04-29 15:07:43,JMP Securities,Market Outperform,,main
+2020-04-30 12:39:16,Morgan Stanley,Overweight,,main
+2020-04-30 16:37:09,Canaccord Genuity,Buy,,main
+2020-05-05 10:48:25,Barclays,Equal-Weight,,init
+2020-06-08 12:05:32,Deutsche Bank,Buy,,main
+2020-07-15 10:25:21,HC Wainwright & Co.,Buy,,main
+2020-07-27 12:17:16,SVB Leerink,Outperform,,main
+2020-10-13 12:31:13,Morgan Stanley,Overweight,,main
+2020-10-16 11:26:01,Raymond James,Strong Buy,,main
+2020-10-30 10:16:04,Morgan Stanley,Equal-Weight,Overweight,down
+2020-11-02 11:18:47,Jefferies,Hold,Buy,down
+2020-12-03 11:32:37,Stifel,Hold,,init
+2021-01-12 12:08:21,SVB Leerink,Outperform,,main
+2021-02-18 13:04:06,Morgan Stanley,Equal-Weight,,main
+2021-02-18 14:47:18,Barclays,Equal-Weight,,main
+2021-03-31 11:13:18,Credit Suisse,Neutral,,init
+2021-04-13 14:55:26,Wedbush,Outperform,,main
+2021-04-30 11:49:38,Morgan Stanley,Equal-Weight,,main
+2021-06-17 10:43:56,SVB Leerink,Outperform,,main
+2021-06-17 12:35:19,Wedbush,Outperform,,main
+2021-06-17 13:00:35,Baird,Outperform,,main
+2021-07-30 15:50:50,Morgan Stanley,Equal-Weight,,main
+2021-10-29 13:40:47,Morgan Stanley,Equal-Weight,,main
+2021-11-10 10:04:53,Raymond James,Strong Buy,,main
+2022-01-12 13:05:20,SVB Leerink,Outperform,,main
+2022-01-25 09:59:51,Stifel,Buy,Hold,up
+2022-02-01 13:37:53,Morgan Stanley,Equal-Weight,,main
+2022-02-17 11:20:46,HC Wainwright & Co.,Buy,,main
+2022-02-17 16:16:49,SVB Leerink,Market Perform,Outperform,down

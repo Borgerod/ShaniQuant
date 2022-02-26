@@ -1,0 +1,83 @@
+Date,Firm,To Grade,From Grade,Action
+2014-05-12 06:08:05,JP Morgan,Overweight,,init
+2014-05-12 06:08:08,Morgan Stanley,Overweight,,init
+2014-05-12 06:35:26,UBS,Buy,,init
+2014-05-13 08:38:58,Bernstein,Outperform,,init
+2014-05-21 09:39:27,Rafferty,Hold,,init
+2014-06-05 06:15:40,Susquehanna,Neutral,,init
+2014-06-18 06:12:03,Moelis,Neutral,Buy,down
+2014-07-11 21:41:41,JMP Securities,Market Outperform,,main
+2015-01-12 09:00:00,JMP Securities,Market Outperform,,main
+2015-01-13 00:00:00,Goldman Sachs,Neutral,Buy,down
+2015-02-02 04:08:53,Credit Suisse,Underperform,,init
+2015-04-13 09:00:00,Susquehanna,Positive,,main
+2015-04-30 06:38:38,Susquehanna,Neutral,Positive,down
+2015-05-01 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-08-11 03:54:57,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2015-09-08 04:29:05,Credit Suisse,Neutral,Underperform,up
+2015-10-07 11:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-10-08 14:01:06,JMP Securities,Market Outperform,,main
+2015-10-29 14:26:31,Susquehanna,Neutral,,main
+2015-11-30 09:26:04,Sandler O'Neill,Buy,,init
+2016-02-11 12:30:57,Credit Suisse,Neutral,,main
+2016-02-16 08:41:24,Morgan Stanley,Overweight,,main
+2016-08-04 12:29:14,UBS,Neutral,,main
+2016-12-14 13:27:19,Bank of America,Buy,,init
+2017-07-25 15:29:46,Bank of America,Buy,,main
+2017-07-25 15:53:45,JMP Securities,Market Outperform,,main
+2017-07-25 16:07:01,Morgan Stanley,Overweight,,main
+2017-10-26 12:17:34,JMP Securities,Market Outperform,,main
+2017-10-26 19:09:23,Morgan Stanley,Overweight,,main
+2018-02-08 15:57:47,Bank of America,Buy,Buy,main
+2018-02-09 16:09:01,Morgan Stanley,Overweight,Overweight,main
+2018-04-24 12:17:45,JMP Securities,Market Outperform,Market Outperform,main
+2018-04-24 13:04:47,Morgan Stanley,Overweight,Overweight,main
+2018-06-04 12:59:36,Buckingham,Buy,Buy,main
+2018-06-21 11:15:11,Morgan Stanley,Equal-Weight,Overweight,down
+2018-07-16 18:44:02,Bank of America,Buy,Buy,main
+2018-07-24 15:02:03,Bank of America,Buy,Buy,main
+2018-10-08 14:21:35,UBS,Neutral,Neutral,main
+2018-10-23 12:24:40,UBS,Neutral,Neutral,main
+2018-11-06 16:12:11,Goldman Sachs,Buy,,init
+2019-01-08 15:29:30,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2019-04-08 13:49:21,JMP Securities,Market Outperform,Market Outperform,main
+2019-04-11 11:15:19,Bank of America,Underperform,Buy,down
+2019-07-08 13:04:31,Morgan Stanley,Equal-Weight,,main
+2019-07-11 12:18:37,Buckingham Research,Buy,,main
+2019-07-31 11:03:11,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2019-10-08 12:23:41,Morgan Stanley,Equal-Weight,,main
+2019-10-09 11:54:17,Buckingham,Buy,,main
+2019-11-20 15:04:03,Morgan Stanley,Equal-Weight,,main
+2019-12-11 13:02:08,Morgan Stanley,Equal-Weight,,main
+2020-02-06 12:40:21,Buckingham,Buy,,main
+2020-02-06 13:37:32,JP Morgan,Overweight,,main
+2020-03-25 18:30:56,UBS,Neutral,,main
+2020-04-09 12:34:42,Morgan Stanley,Equal-Weight,,main
+2020-04-09 15:38:53,JMP Securities,Market Outperform,,main
+2020-07-07 09:40:00,JP Morgan,Underweight,Neutral,down
+2020-07-10 10:09:11,Piper Sandler,Neutral,Overweight,down
+2020-07-13 12:36:11,Goldman Sachs,Neutral,Buy,down
+2020-07-30 10:54:25,Morgan Stanley,Equal-Weight,,main
+2020-07-30 18:05:05,Piper Sandler,Neutral,,main
+2020-08-05 10:36:43,Goldman Sachs,Sell,Neutral,down
+2020-10-09 09:20:33,"Keefe, Bruyette & Woods",Market Perform,Outperform,down
+2020-10-09 13:55:11,JMP Securities,Market Outperform,,main
+2020-10-12 12:15:59,Morgan Stanley,Equal-Weight,,main
+2020-10-27 12:34:35,Piper Sandler,Neutral,,main
+2020-12-14 15:15:29,Morgan Stanley,Equal-Weight,,main
+2020-12-16 11:16:15,Seaport Global,Neutral,,init
+2021-01-05 14:38:49,UBS,Buy,Neutral,up
+2021-01-07 10:34:07,JP Morgan,Neutral,Underweight,up
+2021-01-11 14:20:31,Morgan Stanley,Equal-Weight,,main
+2021-02-11 13:52:44,Morgan Stanley,Equal-Weight,,main
+2021-04-07 12:32:41,Morgan Stanley,Equal-Weight,,main
+2021-04-09 11:17:51,JMP Securities,Market Perform,Market Outperform,down
+2021-06-17 10:32:16,Wolfe Research,Peer Perform,Underperform,up
+2021-07-22 12:18:57,Morgan Stanley,Equal-Weight,,main
+2021-10-11 12:23:11,Morgan Stanley,Equal-Weight,,main
+2021-12-08 13:35:08,Morgan Stanley,Equal-Weight,,main
+2021-12-17 10:08:47,"Keefe, Bruyette & Woods",Outperform,Market Perform,up
+2022-01-04 16:29:52,UBS,Buy,,main
+2022-01-06 09:56:14,Goldman Sachs,Neutral,Sell,up
+2022-02-10 13:53:44,Morgan Stanley,Equal-Weight,,main
+2022-02-11 11:07:36,Piper Sandler,Overweight,Neutral,up

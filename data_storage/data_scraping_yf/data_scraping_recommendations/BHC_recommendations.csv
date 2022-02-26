@@ -1,0 +1,41 @@
+Date,Firm,To Grade,From Grade,Action
+2018-08-13 12:39:34,BMO Capital,Market Perform,Market Perform,main
+2018-09-13 14:38:34,PiperJaffray,Neutral,Underweight,up
+2018-10-08 11:12:35,RBC Capital,Sector Perform,Sector Perform,main
+2018-11-05 11:09:31,Morgan Stanley,Overweight,Equal-Weight,up
+2018-11-30 14:43:03,Mizuho,Buy,Buy,main
+2018-12-14 13:27:54,H.C. Wainwright,Buy,Neutral,up
+2019-01-02 15:36:34,PiperJaffray,Overweight,Neutral,up
+2019-03-20 11:20:38,SunTrust Robinson Humphrey,Buy,,init
+2019-05-13 10:32:47,JP Morgan,Neutral,Underweight,up
+2019-08-07 12:08:10,H.C. Wainwright,Buy,,main
+2019-08-15 11:50:41,TD Securities,Buy,Hold,up
+2019-09-12 11:17:11,Guggenheim Securities,Buy,,init
+2019-10-25 10:47:31,Cowen & Co.,Outperform,,init
+2019-12-02 11:21:52,Goldman Sachs,Neutral,,init
+2019-12-02 12:17:51,H.C. Wainwright,Buy,,reit
+2019-12-12 11:27:40,JP Morgan,Overweight,Neutral,up
+2019-12-30 11:24:34,PiperJaffray,Overweight,,main
+2020-01-29 15:18:39,Wolfe Research,Peer Perform,Outperform,down
+2020-02-11 12:56:43,Morgan Stanley,Overweight,,main
+2020-02-12 14:19:53,Morgan Stanley,Overweight,,main
+2020-02-20 13:27:57,SunTrust Robinson Humphrey,Buy,,main
+2020-03-23 11:31:45,Wells Fargo,Equal-Weight,,main
+2020-03-24 14:58:17,HC Wainwright & Co.,Buy,,main
+2020-04-23 13:14:58,Jefferies,Buy,,main
+2020-04-28 11:38:41,RBC Capital,Sector Perform,,main
+2020-04-30 15:03:48,Wells Fargo,Equal-Weight,,main
+2020-05-08 12:58:05,RBC Capital,Sector Perform,,main
+2020-06-17 10:07:04,HC Wainwright & Co.,Buy,,main
+2020-07-07 16:09:21,B of A Securities,Underperform,,main
+2020-08-10 10:56:36,Citigroup,Buy,,main
+2020-08-19 12:25:04,Piper Sandler,Overweight,,main
+2020-08-24 10:07:31,HC Wainwright & Co.,Buy,,main
+2020-09-17 10:51:13,B of A Securities,Neutral,Underperform,up
+2020-11-05 14:30:43,Piper Sandler,Overweight,,main
+2020-11-25 09:37:25,Wells Fargo,Equal-Weight,,main
+2021-02-17 12:18:40,RBC Capital,Outperform,Sector Perform,up
+2021-02-26 13:34:04,Morgan Stanley,Equal-Weight,,main
+2021-03-16 11:02:30,HC Wainwright & Co.,Buy,,main
+2021-03-24 11:49:15,B of A Securities,Underperform,Neutral,down
+2021-11-03 11:10:52,RBC Capital,Outperform,,main

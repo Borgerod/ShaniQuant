@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action
+2016-08-22 06:15:55,RBC Capital,Outperform,,init
+2016-08-22 06:16:11,SunTrust Robinson Humphrey,Buy,,init
+2016-08-22 07:59:19,JP Morgan,Overweight,,init
+2019-05-06 15:56:48,RBC Capital,Outperform,Outperform,main
+2019-07-01 13:17:03,SunTrust Robinson Humphrey,Buy,,main
+2019-09-06 11:23:25,JMP Securities,Market Perform,,init
+2020-02-24 13:12:38,SunTrust Robinson Humphrey,Buy,,main
+2020-04-08 14:22:33,RBC Capital,Outperform,,main
+2020-09-18 10:33:31,Compass Point,Neutral,,init
+2020-10-05 16:01:36,Truist Securities,Buy,,main
+2021-02-26 12:16:29,Compass Point,Buy,Neutral,up
+2021-04-13 15:03:48,Truist Securities,Buy,,main
+2021-09-30 11:05:00,RBC Capital,Outperform,,main

@@ -1,0 +1,54 @@
+Date,Firm,To Grade,From Grade,Action
+2019-11-04 12:10:36,Berenberg,Buy,,init
+2019-11-04 12:11:43,SVB Leerink,Outperform,,init
+2019-11-04 12:12:25,UBS,Buy,,init
+2019-11-04 12:13:50,Bank of America,Buy,,init
+2019-11-04 12:53:18,JP Morgan,Overweight,,init
+2019-11-04 14:47:57,Canaccord Genuity,Buy,,init
+2019-11-05 14:47:03,Wolfe Research,Outperform,,init
+2020-01-22 13:27:51,UBS,Neutral,Buy,down
+2020-01-24 12:56:15,SVB Leerink,Market Perform,Outperform,down
+2020-03-09 14:55:24,H.C. Wainwright,Neutral,,init
+2020-03-18 09:34:34,JP Morgan,Neutral,Overweight,down
+2020-04-03 16:18:36,Canaccord Genuity,Buy,,reit
+2020-04-13 11:29:43,H.C. Wainwright,Neutral,,reit
+2020-04-28 11:44:33,B of A Securities,Neutral,Buy,down
+2020-05-19 10:58:06,HC Wainwright & Co.,Buy,Neutral,up
+2020-06-25 10:51:02,HC Wainwright & Co.,Buy,,main
+2020-06-30 10:59:14,HC Wainwright & Co.,Neutral,Buy,down
+2020-07-02 10:50:21,SVB Leerink,Market Perform,,main
+2020-07-13 13:44:25,Canaccord Genuity,Buy,,main
+2020-07-21 12:48:59,B of A Securities,Buy,Neutral,up
+2020-07-21 14:36:51,Canaccord Genuity,Buy,,main
+2020-08-06 11:22:41,SVB Leerink,Market Perform,,main
+2020-08-07 09:42:53,SVB Leerink,Market Perform,,main
+2020-10-14 10:23:14,SVB Leerink,Market Perform,,main
+2020-10-29 10:40:21,Commerzbank,Buy,,init
+2020-11-10 15:54:15,Canaccord Genuity,Buy,,main
+2020-11-12 15:07:47,Canaccord Genuity,Buy,,main
+2020-11-24 12:31:44,SVB Leerink,Market Perform,,main
+2020-12-01 10:57:02,B of A Securities,Neutral,Buy,down
+2020-12-14 15:26:15,Canaccord Genuity,Buy,,main
+2020-12-15 15:25:59,SVB Leerink,Market Perform,,main
+2021-02-04 12:35:19,SVB Leerink,Market Perform,,main
+2021-04-06 11:39:39,SVB Leerink,Market Perform,,main
+2021-04-15 10:55:47,SVB Leerink,Market Perform,,main
+2021-05-11 11:12:01,Bryan Garnier,Neutral,Buy,down
+2021-05-11 12:39:22,SVB Leerink,Market Perform,,main
+2021-05-13 14:52:58,Canaccord Genuity,Buy,,main
+2021-05-18 10:50:06,Goldman Sachs,Neutral,,init
+2021-06-16 10:51:18,Redburn Partners,Sell,Neutral,down
+2021-08-11 10:26:51,HC Wainwright & Co.,Neutral,,main
+2021-08-11 11:41:09,Bryan Garnier,Buy,Neutral,up
+2021-08-13 12:03:11,SVB Leerink,Market Perform,,main
+2021-08-20 14:00:09,Canaccord Genuity,Buy,,main
+2021-08-27 13:51:49,UBS,Neutral,,main
+2021-10-05 11:31:07,SVB Leerink,Market Perform,,main
+2021-10-07 09:00:03,Jefferies,Hold,,init
+2021-10-22 09:49:52,Deutsche Bank,Hold,,init
+2021-11-10 13:23:38,HC Wainwright & Co.,Buy,Neutral,up
+2021-12-16 10:57:58,Morgan Stanley,Equal-Weight,,init
+2021-12-21 11:13:41,HC Wainwright & Co.,Buy,,main
+2022-01-18 14:04:34,Morgan Stanley,Equal-Weight,,main
+2022-02-01 11:11:19,Redburn Partners,Neutral,Sell,up
+2022-02-01 13:31:00,Morgan Stanley,Equal-Weight,,main

@@ -1,0 +1,29 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-09 13:25:00,Ladenburg Thalmann,Neutral,,main
+2012-03-12 09:03:00,Morgan Keegan,Market Perform,,down
+2013-03-11 06:44:39,Baird,Outperform,Neutral,up
+2013-06-05 06:31:03,Wunderlich,Buy,,init
+2013-06-07 08:16:37,Raymond James,Outperform,Market Perform,up
+2013-10-21 08:19:53,National Securities,Neutral,,init
+2013-10-21 10:50:33,National Securities,Neutral,,init
+2014-01-17 16:00:00,Raymond James,Market Perform,Outperform,down
+2014-01-21 16:00:00,MLV & Co.,Buy,,init
+2014-04-22 08:00:00,Raymond James,Outperform,Market Perform,up
+2014-06-26 06:26:53,SunTrust Robinson Humphrey,Neutral,,init
+2016-12-13 15:16:46,National Securities,Sell,Neutral,down
+2017-01-09 13:36:31,Baird,Neutral,Outperform,down
+2017-02-27 13:48:19,Raymond James,Market Perform,Outperform,down
+2017-05-10 10:08:01,Raymond James,Underperform,Market Perform,down
+2017-11-07 13:39:58,Raymond James,Market Perform,Underperform,up
+2018-02-26 17:35:48,National Securities,Neutral,Sell,up
+2018-05-05 14:00:39,B. Riley FBR,Buy,,init
+2018-11-05 11:32:05,Raymond James,Outperform,Market Perform,up
+2019-10-22 10:53:16,Raymond James,Market Perform,Outperform,down
+2020-05-11 17:49:35,SunTrust Robinson Humphrey,Hold,,main
+2020-08-12 11:36:34,Truist Securities,Hold,,main
+2021-03-26 11:27:08,Raymond James,Outperform,Market Perform,up
+2021-05-10 13:59:18,Raymond James,Outperform,,main
+2021-08-09 13:12:24,Raymond James,Outperform,,main
+2021-10-05 11:21:21,Oppenheimer,Perform,,init
+2021-11-08 12:29:20,Raymond James,Outperform,,main
+2021-11-09 13:02:48,RBC Capital,Outperform,,main

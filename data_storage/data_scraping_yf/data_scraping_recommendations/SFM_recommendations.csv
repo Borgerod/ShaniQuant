@@ -1,0 +1,143 @@
+Date,Firm,To Grade,From Grade,Action
+2013-09-10 06:42:14,Bank of America,Underperform,,init
+2013-09-10 06:47:40,Goldman Sachs,Neutral,,init
+2013-09-10 07:51:00,Credit Suisse,Neutral,,init
+2013-09-10 13:54:58,Guggenheim,Neutral,,init
+2013-09-11 14:54:40,Wolfe Research,Outperform,,init
+2013-09-25 16:22:35,Deutsche Bank,Buy,,init
+2013-09-27 08:19:56,Susquehanna,Neutral,,init
+2013-10-15 17:55:07,BMO Capital,Market Perform,,init
+2013-12-11 07:41:55,Credit Suisse,Neutral,,init
+2013-12-11 16:00:00,Wolfe Research,Outperform,Peer Perform,up
+2013-12-16 12:30:09,Deutsche Bank,Buy,,main
+2013-12-20 16:00:00,SunTrust Robinson Humphrey,Neutral,,init
+2014-02-20 16:00:00,Oppenheimer,Market Perform,,init
+2014-04-08 08:00:00,UBS,Buy,Neutral,up
+2014-05-02 01:40:15,Deutsche Bank,Buy,,main
+2014-05-07 09:51:45,Deutsche Bank,Hold,Buy,down
+2014-05-08 01:57:28,Credit Suisse,Neutral,,main
+2014-06-25 06:23:12,Morgan Stanley,Overweight,,init
+2014-07-11 07:34:06,Longbow Research,Neutral,,init
+2014-07-11 08:50:27,Imperial Capital,In-Line,,init
+2014-08-11 16:00:00,Imperial Capital,In-Line,,main
+2014-08-28 06:12:37,Wedbush,Outperform,,init
+2014-09-18 17:53:02,PiperJaffray,Neutral,,init
+2014-09-19 05:33:48,Barclays,Overweight,,init
+2014-12-05 00:00:00,Longbow Research,Underperform,,init
+2015-01-21 10:34:36,Bank of America,Buy,Neutral,up
+2015-01-22 06:45:47,Cowen & Co.,Outperform,,init
+2015-02-25 05:58:37,BB&T Capital,Buy,,init
+2015-02-26 09:00:00,Deutsche Bank,Hold,,main
+2015-03-20 06:08:36,Sterne Agee,Neutral,,init
+2015-05-08 09:00:00,Deutsche Bank,Hold,,main
+2015-05-11 06:18:37,BMO Capital,Outperform,Market Perform,up
+2015-06-08 14:06:53,Wolfe Research,Peer Perform,,down
+2015-06-09 06:27:35,Macquarie,Outperform,,init
+2015-06-17 09:15:25,Cleveland Research,Neutral,,init
+2015-07-29 07:46:47,Longbow Research,Neutral,Underperform,up
+2015-08-07 08:46:22,Stephens & Co.,Equal-Weight,Overweight,down
+2015-08-07 11:00:00,Barclays,Overweight,,main
+2015-08-07 15:03:55,Oppenheimer,Perform,,main
+2015-08-25 07:45:12,Deutsche Bank,Buy,Hold,up
+2015-08-26 07:29:45,Jefferies,Hold,,init
+2015-11-06 09:45:10,Deutsche Bank,Buy,,main
+2016-01-22 07:11:34,Wells Fargo,Outperform,,init
+2016-02-03 09:43:36,OTR Global,Mixed,Neutral,up
+2016-02-12 07:19:04,Stifel Nicolaus,Buy,,init
+2016-02-26 08:18:10,Stifel Nicolaus,Buy,,main
+2016-03-21 11:39:33,Deutsche Bank,Buy,,main
+2016-04-12 09:36:45,Wolfe Research,Outperform,Peer Perform,up
+2016-05-10 03:28:52,Goldman Sachs,Sell,Neutral,down
+2016-07-14 11:52:32,Deutsche Bank,Buy,,main
+2016-07-18 02:19:37,JP Morgan,Neutral,,init
+2016-07-20 09:35:01,OTR Global,Negative,Mixed,down
+2016-07-26 06:35:02,Goldman Sachs,Buy,Sell,up
+2016-08-05 09:36:49,Deutsche Bank,Buy,,main
+2016-08-05 11:38:54,JP Morgan,Neutral,,main
+2016-08-08 09:39:12,Northcoast Research,Neutral,Buy,down
+2016-08-08 11:17:29,Citigroup,Buy,,main
+2016-09-08 04:56:50,Deutsche Bank,Hold,Buy,down
+2016-09-08 07:23:26,Citigroup,Buy,,main
+2016-09-08 07:53:12,Macquarie,Outperform,,main
+2016-09-08 07:53:13,SunTrust Robinson Humphrey,Buy,,main
+2016-09-23 06:06:39,Barclays,Overweight,,init
+2016-09-30 06:13:05,Jefferies,Buy,Hold,up
+2017-01-19 13:06:29,Goldman Sachs,Neutral,Buy,down
+2017-01-20 14:33:09,William Blair,Outperform,,init
+2017-03-21 12:32:49,BMO Capital,Market Perform,Outperform,down
+2017-03-23 16:38:19,UBS,Buy,,init
+2017-05-09 16:48:43,Gordon Haskett,Accumulate,,init
+2017-05-16 12:18:06,Loop Capital,Hold,,init
+2017-06-15 10:29:12,Morgan Stanley,Equal-Weight,Overweight,down
+2017-06-16 14:53:27,Oppenheimer,Outperform,Perform,up
+2017-07-27 11:22:31,Jefferies,Hold,Buy,down
+2017-08-04 12:06:50,JP Morgan,Overweight,Neutral,up
+2017-08-11 12:23:26,Stephens & Co.,Equal-Weight,,init
+2017-10-17 10:12:04,Susquehanna,Positive,,init
+2017-10-30 13:39:05,Jefferies,Hold,,main
+2017-10-30 16:47:25,UBS,Buy,,main
+2017-11-03 16:17:51,Loop Capital,Hold,,main
+2017-11-03 17:33:14,Jefferies,Hold,,main
+2017-11-03 18:21:36,BMO Capital,Market Perform,,main
+2017-11-03 18:44:37,UBS,Buy,,main
+2017-11-20 19:18:49,Northcoast Research,Buy,Neutral,up
+2018-01-31 12:26:22,Gordon Haskett,Buy,Accumulate,up
+2018-02-23 14:11:03,Deutsche Bank,Hold,Hold,main
+2018-02-27 13:39:00,BMO Capital,Market Perform,Market Perform,main
+2018-02-27 14:56:01,Citigroup,Buy,Buy,main
+2018-04-18 09:54:00,Credit Suisse,Neutral,,init
+2018-05-04 12:57:34,BMO Capital,Market Perform,Market Perform,main
+2018-05-04 13:20:00,Deutsche Bank,Hold,Hold,main
+2018-05-04 14:48:31,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-08-03 12:21:33,UBS,Buy,Buy,main
+2018-08-06 13:09:32,BMO Capital,Market Perform,Market Perform,main
+2018-08-08 12:02:18,Citigroup,Buy,Buy,main
+2018-09-10 12:27:39,UBS,Buy,Buy,main
+2018-09-17 12:18:01,Barclays,Equal-Weight,Overweight,down
+2018-09-21 12:02:31,Oppenheimer,Outperform,Outperform,main
+2018-09-24 11:16:34,Wells Fargo,Market Perform,Outperform,down
+2018-11-30 12:46:18,Bank of America,Underperform,Buy,down
+2019-02-08 12:00:56,Buckingham,Neutral,,init
+2019-03-21 11:45:34,Gordon Haskett,Reduce,Hold,down
+2019-04-29 12:20:05,Deutsche Bank,Buy,Hold,up
+2019-06-24 11:23:10,Bernstein,Market Perform,Underperform,up
+2019-07-23 10:50:49,Oppenheimer,Perform,Outperform,down
+2019-08-02 11:53:59,JP Morgan,Neutral,Overweight,down
+2019-08-02 11:56:13,BMO Capital,Underperform,Market Perform,down
+2019-08-15 11:51:56,Northcoast Research,Buy,Neutral,up
+2020-01-17 12:36:22,Wells Fargo,Underweight,Equal-Weight,down
+2020-01-30 12:04:13,UBS,Neutral,Buy,down
+2020-02-11 11:57:45,Gordon Haskett,Hold,Reduce,up
+2020-02-21 11:10:06,Bernstein,Outperform,Market Perform,up
+2020-02-21 13:43:48,Deutsche Bank,Buy,,main
+2020-02-21 16:07:36,CFRA,Buy,,main
+2020-02-26 13:05:14,JP Morgan,Neutral,,main
+2020-03-17 08:53:58,Gordon Haskett,Buy,Hold,up
+2020-03-18 09:19:52,BMO Capital,Market Perform,Underperform,up
+2020-04-06 13:52:21,Deutsche Bank,Buy,,main
+2020-04-17 15:20:12,JP Morgan,Neutral,,main
+2020-04-21 09:35:20,Oppenheimer,Outperform,Perform,up
+2020-04-24 16:01:13,CFRA,Buy,,main
+2020-05-01 13:14:30,UBS,Neutral,,main
+2020-05-01 14:44:07,Wells Fargo,Underweight,,main
+2020-05-06 11:44:23,Deutsche Bank,Buy,,reit
+2020-05-06 12:16:10,B of A Securities,Underperform,,reit
+2020-05-06 12:41:46,Credit Suisse,Neutral,,main
+2020-05-06 13:31:17,UBS,Neutral,,main
+2020-05-06 14:27:02,JP Morgan,Neutral,,main
+2020-05-06 16:51:39,CFRA,Buy,,reit
+2020-05-07 17:13:19,BMO Capital,Market Perform,,main
+2020-05-13 12:20:09,B of A Securities,Underperform,,main
+2020-05-14 09:28:18,Oppenheimer,Perform,Outperform,down
+2020-07-08 14:42:05,Barclays,Underweight,Equal-Weight,down
+2020-07-27 14:49:39,UBS,Neutral,,main
+2020-07-30 16:39:47,MKM Partners,Buy,,init
+2020-10-27 12:44:25,Credit Suisse,Neutral,,main
+2020-10-29 11:28:43,B of A Securities,Underperform,,main
+2020-10-29 15:05:40,BMO Capital,Market Perform,,main
+2020-10-29 15:20:05,Deutsche Bank,Buy,,main
+2020-10-29 15:41:38,UBS,Neutral,,main
+2020-11-03 15:22:56,MKM Partners,Buy,,main
+2020-12-10 12:38:42,Goldman Sachs,Sell,Neutral,down
+2021-10-05 09:55:25,BMO Capital,Underperform,Market Perform,down
+2021-11-11 15:40:39,Gordon Haskett,Reduce,Hold,down

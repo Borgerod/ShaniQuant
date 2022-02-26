@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action
+2020-01-06 11:48:58,Goldman Sachs,Neutral,,init
+2020-01-06 14:44:59,JP Morgan,Neutral,,init
+2020-01-06 17:06:29,Morgan Stanley,Overweight,,init
+2020-04-03 11:42:23,Citigroup,Buy,Neutral,up
+2020-04-27 11:09:36,B of A Securities,Underperform,Neutral,down
+2020-06-01 15:19:31,JP Morgan,Neutral,Overweight,down
+2020-06-24 09:31:23,Credit Suisse,Underperform,Neutral,down
+2020-10-16 15:03:38,B of A Securities,Neutral,Underperform,up
+2021-04-29 10:10:01,HSBC,Buy,,init
+2021-05-25 10:37:59,Credit Suisse,Neutral,Underperform,up
+2021-10-15 10:08:33,JP Morgan,Overweight,Neutral,up

@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action
+2019-04-15 10:49:07,Guggenheim,Buy,,init
+2019-04-15 11:28:49,JP Morgan,Overweight,,init
+2019-04-15 11:31:29,Goldman Sachs,Neutral,,init
+2019-04-15 11:39:49,Citigroup,Buy,,init
+2019-04-15 12:11:33,Morgan Stanley,Equal-Weight,,init
+2019-04-15 12:14:50,Telsey Advisory Group,Outperform,,init
+2019-04-15 13:41:55,Bank of America,Neutral,,init
+2019-07-17 11:23:40,Goldman Sachs,Sell,Neutral,down
+2019-08-15 11:53:24,Bank of America,Buy,Neutral,up
+2019-10-09 13:53:18,Bank of America,Buy,,main
+2019-10-22 11:10:13,Macquarie,Outperform,,init
+2020-04-08 14:53:15,Citigroup,Buy,,main
+2020-04-08 18:00:53,Morgan Stanley,Equal-Weight,,main
+2020-04-09 15:52:24,UBS,Buy,,main
+2020-07-08 12:11:20,Morgan Stanley,Equal-Weight,,main
+2020-10-12 13:31:45,Morgan Stanley,Overweight,Equal-Weight,up
+2020-11-10 12:41:30,B of A Securities,Buy,Neutral,up
+2020-12-10 12:33:22,Goldman Sachs,Buy,Sell,up
+2021-02-04 13:56:19,Morgan Stanley,Overweight,,main
+2021-04-01 10:14:45,Telsey Advisory Group,Outperform,,main
+2021-04-09 11:37:46,Telsey Advisory Group,Outperform,,main
+2021-04-12 13:56:04,Morgan Stanley,Overweight,,main
+2021-07-09 11:50:06,Telsey Advisory Group,Outperform,,main
+2021-07-12 11:58:45,Morgan Stanley,Overweight,,main
+2021-07-14 09:30:35,Goldman Sachs,Buy,,init
+2021-08-02 10:14:06,Stifel,Buy,,init
+2021-08-30 09:08:45,Wells Fargo,Overweight,,init
+2022-01-27 12:31:56,JP Morgan,Overweight,,main
+2022-01-27 14:03:18,Telsey Advisory Group,Outperform,,main

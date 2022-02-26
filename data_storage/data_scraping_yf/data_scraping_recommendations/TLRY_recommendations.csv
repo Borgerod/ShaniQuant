@@ -1,0 +1,53 @@
+Date,Firm,To Grade,From Grade,Action
+2018-08-13 11:05:23,Cowen & Co.,Outperform,,init
+2018-08-14 13:12:44,Roth Capital,Buy,,init
+2018-09-06 12:12:01,Northland Securities,Market Perform,Outperform,down
+2018-10-09 15:53:36,Cowen & Co.,Outperform,Outperform,main
+2018-10-16 11:40:53,Benchmark,Buy,,init
+2019-01-09 12:40:40,PiperJaffray,Overweight,,init
+2019-02-21 13:03:21,Seaport Global,Neutral,,init
+2019-03-08 11:32:39,Jefferies,Underperform,,init
+2019-04-12 13:24:13,Vertical Research,Sell,,init
+2019-05-03 12:10:16,Jefferies,Hold,Underperform,up
+2019-05-13 13:33:36,Alliance Global Partners,Hold,,init
+2019-05-15 11:45:15,BMO Capital,Market Perform,Underperform,up
+2019-06-05 10:34:59,Oppenheimer,Perform,,init
+2019-06-06 11:06:11,Stifel Nicolaus,Hold,,init
+2019-06-11 11:14:04,Compass Point,Neutral,,init
+2019-06-28 12:18:41,Consumer Edge Research,Overweight,,init
+2019-07-17 11:21:45,Ladenburg Thalmann,Neutral,,init
+2019-09-20 10:53:33,MKM Partners,Neutral,,init
+2019-10-22 12:23:34,Piper Jaffray,Overweight,,main
+2019-11-05 12:09:37,Cantor Fitzgerald,Neutral,,init
+2019-11-14 14:09:52,MKM Partners,Neutral,,main
+2020-01-13 16:14:41,B of A Securities,Neutral,,init
+2020-02-24 10:48:24,Cowen & Co.,Market Perform,Outperform,down
+2020-02-27 14:06:32,B of A Securities,Neutral,,reit
+2020-03-02 12:07:18,Cantor Fitzgerald,Neutral,,main
+2020-03-03 11:22:26,Cantor Fitzgerald,Neutral,,main
+2020-03-03 13:03:43,Eight Capital,Neutral,Buy,down
+2020-03-16 10:29:20,Cantor Fitzgerald,Neutral,,main
+2020-04-16 09:30:31,Jefferies,Underperform,Hold,down
+2020-05-11 10:10:51,Cantor Fitzgerald,Neutral,,main
+2020-05-12 14:05:58,Cantor Fitzgerald,Neutral,,main
+2020-05-12 14:15:05,Stifel,Hold,,main
+2020-08-11 09:09:37,Cantor Fitzgerald,Neutral,,main
+2020-09-21 09:43:17,Jefferies,Hold,Underperform,up
+2020-11-10 09:56:07,Cantor Fitzgerald,Neutral,,main
+2020-11-11 15:41:03,Stifel,Sell,Hold,down
+2020-11-16 10:26:39,Jefferies,Underperform,Hold,down
+2020-12-17 15:07:08,Stifel,Hold,Sell,up
+2021-01-15 13:00:21,Cantor Fitzgerald,Neutral,,main
+2021-02-16 12:12:35,Cantor Fitzgerald,Neutral,,main
+2021-02-18 11:38:02,Piper Sandler,Neutral,Overweight,down
+2021-02-18 12:32:31,Benchmark,Hold,Buy,down
+2021-05-06 10:23:09,Canaccord Genuity,Buy,,init
+2021-05-07 10:24:17,Jefferies,Buy,Underperform,up
+2021-06-11 11:08:52,CIBC,Neutral,Outperformer,down
+2021-07-27 10:41:15,Cantor Fitzgerald,Overweight,,main
+2021-09-17 08:46:49,Cantor Fitzgerald,Overweight,,main
+2021-10-08 11:29:44,CIBC,Neutral,,main
+2021-11-01 12:08:13,Cantor Fitzgerald,Neutral,Overweight,down
+2021-11-18 10:10:40,Barclays,Underweight,,init
+2022-01-07 09:43:45,Cantor Fitzgerald,Neutral,,main
+2022-01-11 09:40:45,Cantor Fitzgerald,Neutral,,main

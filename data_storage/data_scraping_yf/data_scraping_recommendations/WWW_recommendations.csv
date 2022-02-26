@@ -1,0 +1,96 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-27 10:28:00,DA Davidson,Neutral,,init
+2012-04-23 15:48:00,DA Davidson,Neutral,,main
+2012-04-24 08:37:00,Sterne Agee,Underperform,,down
+2012-05-02 06:03:00,Jefferies,Buy,,up
+2012-05-02 08:20:00,Stifel Nicolaus,Buy,,main
+2012-05-02 08:24:00,DA Davidson,Buy,,up
+2012-07-06 07:58:00,DA Davidson,Buy,,main
+2012-09-06 11:54:00,Citigroup,Neutral,,main
+2012-09-10 06:00:00,DA Davidson,Buy,,main
+2012-10-17 14:40:00,Citigroup,Neutral,,main
+2012-11-27 07:17:00,Goldman Sachs,Neutral,,init
+2013-04-16 15:02:26,DA Davidson,Buy,,main
+2013-04-19 07:28:33,Credit Suisse,Outperform,Neutral,up
+2013-06-06 16:09:43,PiperJaffray,Neutral,,init
+2013-07-02 07:52:47,DA Davidson,Neutral,Buy,down
+2013-07-09 12:42:48,PiperJaffray,Neutral,,main
+2013-07-09 12:42:56,DA Davidson,Neutral,,main
+2013-07-10 08:30:43,Sterne Agee,Underperform,,main
+2013-07-10 08:56:52,KeyBanc,Hold,Buy,down
+2013-10-08 13:35:40,DA Davidson,Neutral,,main
+2014-02-18 14:27:17,DA Davidson,Neutral,,main
+2014-02-18 16:00:00,Citigroup,Sell,Neutral,down
+2014-02-19 07:10:28,Citigroup,Sell,Neutral,down
+2014-04-10 08:44:03,Buckingham Research,Neutral,,init
+2014-04-29 09:55:31,DA Davidson,Neutral,,main
+2014-04-30 00:28:29,Citigroup,Sell,,main
+2014-07-16 20:20:17,Citigroup,Sell,,main
+2014-08-19 06:26:41,KeyBanc,Buy,Hold,up
+2014-08-26 08:12:48,Macquarie,Neutral,,init
+2014-09-02 09:34:46,CL King,Buy,Neutral,up
+2014-09-04 07:22:32,Wunderlich,Buy,,init
+2014-10-15 09:00:00,Macquarie,Neutral,,main
+2014-11-04 08:00:00,DA Davidson,Neutral,,main
+2014-11-21 08:47:26,DA Davidson,Buy,Neutral,up
+2015-01-05 09:00:00,Citigroup,Sell,,main
+2015-01-13 08:35:15,Wunderlich,Hold,Buy,down
+2015-01-13 09:00:00,Citigroup,Sell,,main
+2015-02-18 09:49:25,Sterne Agee,Neutral,Underperform,up
+2015-03-30 06:06:51,Baird,Outperform,Neutral,up
+2015-04-14 06:07:48,RBC Capital,Sector Perform,Outperform,down
+2015-04-15 09:00:00,Susquehanna,Neutral,,main
+2015-08-10 07:24:56,Stifel Nicolaus,Buy,Hold,up
+2015-09-17 13:48:57,DA Davidson,Neutral,,down
+2015-09-18 06:33:03,Baird,Neutral,,down
+2015-09-18 13:43:43,Susquehanna,Neutral,,main
+2015-09-23 10:16:25,Citigroup,Neutral,Sell,up
+2015-10-21 05:57:12,Sterne Agee CRT,Underperform,Neutral,down
+2015-10-21 15:15:09,Citigroup,Neutral,,main
+2015-10-21 15:54:20,Stifel Nicolaus,Buy,,main
+2015-11-11 10:10:57,KeyBanc,Overweight,,main
+2016-01-05 08:10:52,Sterne Agee CRT,Neutral,Underperform,up
+2016-01-05 09:50:20,PiperJaffray,Neutral,,main
+2016-04-27 07:16:01,Sterne Agee CRT,Underperform,Neutral,down
+2016-07-07 07:27:07,Susquehanna,Positive,Neutral,up
+2016-08-12 06:28:52,Susquehanna,Negative,,init
+2016-11-01 23:43:09,Wedbush,Outperform,,init
+2017-05-17 15:58:16,Baird,Outperform,Neutral,up
+2017-09-25 19:30:07,Morgan Stanley,Equal-Weight,,main
+2017-10-05 18:14:04,Pivotal Research,Hold,,init
+2017-11-09 13:14:53,Buckingham,Neutral,,main
+2018-02-22 11:35:02,DA Davidson,Buy,Neutral,up
+2018-02-22 14:31:50,Citigroup,Neutral,Neutral,main
+2018-05-05 13:32:15,Argus,Hold,Buy,down
+2018-05-05 14:00:38,B. Riley FBR,Neutral,,init
+2018-05-05 14:00:38,B. Riley FBR,Neutral,,main
+2018-05-05 14:00:38,B. Riley FBR,Neutral,,main
+2018-05-10 10:57:34,Susquehanna,Neutral,Negative,up
+2018-05-30 11:53:40,Argus,Buy,Hold,up
+2018-07-17 13:26:29,CL King,Strong Buy,Buy,up
+2018-08-01 10:27:38,Susquehanna,Positive,Neutral,up
+2018-08-06 12:06:37,Wedbush,Outperform,Outperform,main
+2018-08-16 12:37:01,Buckingham,Neutral,Neutral,main
+2018-08-17 13:29:59,Argus,Buy,Buy,main
+2018-08-30 11:51:53,Citigroup,Neutral,Neutral,main
+2018-11-08 17:10:07,Baird,Outperform,Outperform,main
+2019-05-17 12:32:25,Argus,Hold,Buy,down
+2019-11-08 13:19:36,Stifel Nicolaus,Buy,,main
+2019-11-18 13:33:52,Argus Research,Buy,Hold,up
+2020-04-06 19:51:28,Susquehanna,Positive,,main
+2020-04-14 14:46:39,Stifel,Buy,,main
+2020-04-23 11:26:04,Susquehanna,Neutral,Positive,down
+2020-05-01 10:47:49,KeyBanc,Overweight,Sector Weight,up
+2020-05-21 15:23:59,Stifel,Buy,,main
+2020-06-04 08:47:40,KeyBanc,Overweight,,main
+2020-07-27 10:01:35,Pivotal Research,Buy,Hold,up
+2020-09-30 14:06:27,Piper Sandler,Neutral,,main
+2020-10-26 13:43:39,Wedbush,Outperform,,main
+2020-10-27 08:50:04,KeyBanc,Overweight,,main
+2020-12-07 09:39:59,KeyBanc,Overweight,,main
+2021-05-06 12:10:25,Telsey Advisory Group,Market Perform,,main
+2021-07-30 09:21:27,Telsey Advisory Group,Market Perform,,main
+2021-08-04 09:49:16,Telsey Advisory Group,Market Perform,,main
+2021-08-10 13:10:24,Exane BNP Paribas,Outperform,Neutral,up
+2022-01-04 11:39:56,Baird,Neutral,Outperform,down
+2022-01-18 12:39:32,Seaport Global,Neutral,,init

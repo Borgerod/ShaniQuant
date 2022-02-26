@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action
+2015-05-07 09:00:00,Barclays,Overweight,,main
+2015-05-12 07:02:14,Credit Suisse,Underperform,Neutral,down
+2015-05-13 09:20:57,FirstEnergy Capital,Outperform,Market Perform,up
+2015-07-15 03:51:43,Credit Suisse,Neutral,Underperform,up
+2015-10-12 04:12:37,Barclays,Equal-Weight,Overweight,down
+2016-01-04 15:35:42,Barclays,Equal-Weight,,main
+2016-01-22 10:09:13,Barclays,Equal-Weight,,main
+2016-02-05 04:18:24,Barclays,Equal-Weight,,main
+2016-05-03 17:57:23,Guggenheim,Neutral,,init
+2016-07-20 07:29:46,Guggenheim,Buy,Neutral,up
+2017-08-07 16:58:04,Barclays,Equal-Weight,,main
+2017-11-02 19:43:24,CIBC,Neutral,Outperformer,down
+2018-06-13 11:39:05,BMO Capital,Market Perform,Market Perform,main
+2018-09-28 13:49:10,Deutsche Bank,Sell,,init
+2019-07-11 12:00:36,Barclays,Overweight,,init
+2019-07-25 12:21:30,Credit Suisse,Neutral,Outperform,down
+2019-09-30 11:27:09,TD Securities,Buy,,main
+2019-09-30 11:37:37,Barclays,Overweight,,main
+2019-11-12 12:18:30,RBC Capital,Sector Perform,,main
+2019-11-12 12:47:44,Wells Fargo,Outperform,,main
+2020-02-03 13:02:26,Credit Suisse,Underperform,Neutral,down
+2020-02-07 13:50:56,Wells Fargo,Overweight,,main
+2020-02-07 15:00:01,TD Securities,Hold,,main
+2020-03-03 14:55:25,RF Lafferty,Buy,,init
+2020-04-01 13:18:25,Credit Suisse,Neutral,,main
+2020-04-02 14:03:09,Barclays,Overweight,,main
+2020-05-15 11:04:27,Mizuho,Neutral,,init
+2020-07-22 11:39:30,National Bank Financial,Sector Perform,Outperform,down
+2020-09-25 12:56:45,BMO Capital,Market Perform,,main
+2020-09-25 12:59:50,ScotiaBank,Sector Perform,,main
+2020-10-08 10:47:53,Wells Fargo,Equal-Weight,Overweight,down
+2020-11-05 12:49:20,BMO Capital,Market Perform,,main
+2020-11-05 13:15:26,TD Securities,Hold,Buy,down
+2020-11-19 10:42:44,Piper Sandler,Neutral,,init
+2021-01-06 16:53:38,Wells Fargo,Underweight,Equal-Weight,down
+2021-03-04 12:11:53,Wells Fargo,Equal-Weight,Underweight,up
+2021-04-26 11:25:37,Wells Fargo,Overweight,Equal-Weight,up
+2021-05-04 15:48:10,RF Lafferty,Hold,Buy,down
+2021-06-28 11:47:29,Credit Suisse,Outperform,Neutral,up
+2021-08-06 11:47:22,Barclays,Overweight,,main
+2021-09-22 15:46:35,Raymond James,Outperform,Market Perform,up
+2021-12-09 10:21:11,JP Morgan,Overweight,Neutral,up
+2021-12-16 12:59:44,TD Securities,Buy,Hold,up
+2022-01-07 14:41:18,Scotiabank,Sector Outperform,Sector Perform,up
+2022-01-18 10:52:05,National Bank Of Canada,Outperform,Sector Perform,up

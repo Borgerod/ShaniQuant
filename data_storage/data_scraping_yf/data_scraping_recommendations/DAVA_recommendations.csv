@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action
+2018-08-22 14:08:33,Deutsche Bank,Hold,,init
+2018-10-12 11:16:36,Citigroup,Neutral,Neutral,main
+2018-11-30 12:33:35,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2019-05-22 13:47:00,Morgan Stanley,Equal-Weight,,main
+2019-06-06 11:21:25,KeyBanc,Sector Weight,,init
+2019-09-27 13:04:12,Citigroup,Neutral,,main
+2019-10-11 10:57:42,Cantor Fitzgerald,Neutral,,init
+2019-10-23 11:08:04,Susquehanna,Positive,,init
+2019-11-20 14:17:07,Citi,Neutral,,main
+2019-11-20 14:56:52,Cantor Fitzgerald,Neutral,,main
+2020-01-15 12:44:59,Citigroup,Neutral,,main
+2020-02-13 18:27:14,Needham,Buy,,reit
+2020-02-14 11:55:21,Cantor Fitzgerald,Neutral,,main
+2020-03-20 12:29:04,Needham,Buy,,main
+2020-04-29 15:32:16,Citigroup,Neutral,,main
+2020-05-21 17:14:14,Needham,Buy,,main
+2020-05-27 08:49:19,Wedbush,Outperform,,init
+2020-09-15 16:41:54,Needham,Buy,,main
+2020-09-16 09:11:34,Citigroup,Buy,Neutral,up
+2020-09-16 11:48:07,Morgan Stanley,Equal-Weight,,main
+2020-11-13 11:53:16,Needham,Buy,,main
+2020-11-13 12:38:54,Morgan Stanley,Equal-Weight,,main
+2021-01-29 14:48:01,Morgan Stanley,Equal-Weight,,main
+2021-02-18 13:13:24,Morgan Stanley,Equal-Weight,,main
+2021-02-18 17:02:36,Deutsche Bank,Hold,,main
+2021-03-03 13:09:58,Morgan Stanley,Equal-Weight,,main
+2021-05-20 11:37:53,Morgan Stanley,Equal-Weight,,main
+2021-05-20 12:51:23,Susquehanna,Positive,,main
+2021-07-14 13:01:08,Citigroup,Buy,,main
+2021-08-27 10:18:05,Needham,Buy,,main
+2021-09-29 12:14:40,Deutsche Bank,Hold,,main
+2021-09-30 12:01:57,Morgan Stanley,Equal-Weight,,main
+2021-11-17 11:07:30,Needham,Buy,,main
+2022-01-10 13:17:07,Morgan Stanley,Overweight,Equal-Weight,up
+2022-02-17 13:44:21,Citigroup,Buy,,main
+2022-02-17 14:11:36,Morgan Stanley,Overweight,,main

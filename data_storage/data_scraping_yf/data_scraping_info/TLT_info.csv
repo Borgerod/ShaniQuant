@@ -1,0 +1,114 @@
+,info
+exchange,NGM
+shortName,iShares 20+ Year Treasury Bond 
+longName,iShares 20+ Year Treasury Bond ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,TLT
+messageBoardId,finmb_8797414
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,3.36
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1027296000
+annualReportExpenseRatio,
+totalAssets,19755933696
+bookValue,
+fundFamily,iShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.015
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.0738
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Long Government
+fiveYearAverageReturn,0.056500003
+phone,800-474-2737
+longBusinessSummary,The fund generally invests at least 90% of its assets in the bonds of the underlying index and at least 95% of its assets in U.S. government bonds. The underlying index measures the performance of public obligations of the U.S. Treasury that have a remaining maturity greater than or equal to twenty years.
+companyOfficers,[]
+previousClose,136.79
+regularMarketOpen,137.52
+twoHundredDayAverage,145.2309
+trailingAnnualDividendYield,0.016814096
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,138.37
+navPrice,143.62
+averageDailyVolume10Day,21754420
+regularMarketPreviousClose,136.79
+fiftyDayAverage,143.5042
+trailingAnnualDividendRate,2.3
+open,137.52
+toCurrency,
+averageVolume10days,21754420
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,137.16
+currency,USD
+regularMarketVolume,17522577
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,19714451
+dayLow,137.16
+ask,138.8
+askSize,800
+volume,17522577
+fiftyTwoWeekHigh,155.12
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,133.19
+bid,138.4
+tradeable,False
+dividendYield,
+bidSize,800
+dayHigh,138.37
+preferredPosition,
+bondPosition,0.9986
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': '', 'holdingName': 'United States Treasury Bonds 1.88%', 'holdingPercent': 0.0866}, {'symbol': '', 'holdingName': 'United States Treasury Bonds 2.38%', 'holdingPercent': 0.0736}, {'symbol': '', 'holdingName': 'United States Treasury Bonds 2.88%', 'holdingPercent': 0.0587}, {'symbol': '', 'holdingName': 'United States Treasury Bonds 3.13%', 'holdingPercent': 0.055}, {'symbol': '', 'holdingName': 'United States Treasury Bonds 3%', 'holdingPercent': 0.0542}, {'symbol': '', 'holdingName': 'United States Treasury Bonds 2%', 'holdingPercent': 0.0466}, {'symbol': '', 'holdingName': 'United States Treasury Bonds 3.38%', 'holdingPercent': 0.0463}, {'symbol': '', 'holdingName': 'United States Treasury Bonds 2.5%', 'holdingPercent': 0.044899996}]"
+bondHoldings,"{'maturity': 26.28, 'duration': 18.9, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 1}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0
+regularMarketPrice,138.23
+preMarketPrice,
+logo_url,

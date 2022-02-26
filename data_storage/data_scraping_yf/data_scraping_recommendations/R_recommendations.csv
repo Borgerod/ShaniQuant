@@ -1,0 +1,88 @@
+Date,Firm,To Grade,From Grade,Action
+2012-06-22 07:18:00,Jefferies,Buy,,main
+2012-06-22 07:55:00,Stifel Nicolaus,Buy,,main
+2012-06-22 08:31:00,Raymond James,Outperform,Strong Buy,down
+2012-07-25 05:59:00,Jefferies,Buy,,main
+2012-08-09 08:53:00,Longbow Research,Buy,,init
+2012-10-04 09:45:00,SunTrust Robinson Humphrey,Buy,Neutral,up
+2012-10-24 08:13:00,Stifel Nicolaus,Buy,,main
+2012-10-31 05:46:00,Goldman Sachs,Neutral,,init
+2012-12-14 10:41:14,RBC Capital,Top Pick,Outperform,up
+2013-01-10 06:23:51,Goldman Sachs,Buy,Neutral,up
+2013-02-01 08:44:10,Jefferies,Buy,,main
+2013-03-22 08:29:10,Raymond James,Strong Buy,Outperform,up
+2013-03-28 08:10:01,Stifel Nicolaus,Buy,,main
+2013-04-24 07:40:41,Wells Fargo,Outperform,Market Perform,up
+2013-07-02 06:24:08,Wunderlich,Buy,,init
+2013-07-09 07:55:23,BB&T Capital,Hold,Buy,down
+2013-07-11 09:11:12,Buckingham Research,Neutral,,init
+2013-07-24 09:22:50,Stifel Nicolaus,Buy,,main
+2013-07-24 09:29:39,Jefferies,Buy,,main
+2013-09-03 09:26:54,Buckingham Research,Buy,Neutral,up
+2013-10-23 08:38:14,Stifel Nicolaus,Buy,,main
+2013-12-19 07:31:45,Wunderlich,Buy,,main
+2013-12-23 16:00:00,Stephens & Co.,Overweight,Equal-Weight,up
+2014-02-21 16:00:00,Avondale Partners,Market Perform,,init
+2014-03-06 08:00:00,KeyBanc,Buy,,main
+2014-04-17 07:14:06,Stifel Nicolaus,Hold,Buy,down
+2014-06-13 20:03:55,KeyBanc,Buy,,main
+2014-07-23 14:20:51,Raymond James,Outperform,Strong Buy,down
+2014-09-04 06:19:54,BMO Capital,Market Perform,,init
+2014-10-01 18:28:07,Wells Fargo,Outperform,,init
+2015-04-29 04:31:44,Goldman Sachs,Neutral,Buy,down
+2015-06-29 06:50:11,Stifel Nicolaus,Buy,Hold,up
+2015-08-28 06:39:18,Raymond James,Strong Buy,Outperform,up
+2016-01-07 06:28:28,RBC Capital,Sector Perform,Top Pick,down
+2016-02-03 10:57:38,Stifel Nicolaus,Buy,,main
+2016-02-29 06:06:38,JP Morgan,Neutral,,init
+2016-09-30 07:29:20,CLSA,Buy,,init
+2016-10-24 14:27:25,Aegis Capital,Buy,,init
+2016-11-15 09:24:34,Stifel Nicolaus,Hold,Buy,down
+2016-12-16 13:28:34,Wolfe Research,Peer Perform,Outperform,down
+2017-04-21 16:50:55,Seaport Global,Neutral,,init
+2017-08-21 12:17:17,Buckingham,Buy,,init
+2017-09-14 11:19:56,KeyBanc,Overweight,Sector Weight,up
+2017-10-02 17:00:30,Baird,Outperform,,main
+2017-10-12 12:39:52,JP Morgan,Neutral,,main
+2017-10-25 17:58:17,Buckingham,Buy,,main
+2018-02-20 13:08:33,KeyBanc,Overweight,Overweight,main
+2018-02-20 14:15:06,JP Morgan,Neutral,Neutral,main
+2018-02-20 15:17:12,Buckingham,Buy,Buy,main
+2018-04-10 19:50:06,Goldman Sachs,Neutral,,init
+2018-04-25 11:56:02,Stifel Nicolaus,Hold,Hold,main
+2018-04-25 12:36:24,Baird,Outperform,Outperform,main
+2018-06-22 11:04:43,KeyBanc,Overweight,Overweight,main
+2018-06-29 10:12:17,Mizuho,Buy,,init
+2018-07-26 11:53:30,Stifel Nicolaus,Hold,Hold,main
+2018-09-04 13:14:02,Deutsche Bank,Buy,,init
+2018-10-02 16:38:46,Loop Capital,Hold,,init
+2018-10-12 12:42:34,Buckingham,Buy,Buy,main
+2018-10-25 11:53:17,Loop Capital,Buy,Hold,up
+2018-10-29 13:41:57,KeyBanc,Overweight,Overweight,main
+2018-11-29 11:07:30,Stifel Nicolaus,Buy,Hold,up
+2018-12-03 14:23:17,Deutsche Bank,Buy,Buy,main
+2018-12-13 14:43:17,SunTrust Robinson Humphrey,Buy,,init
+2019-07-02 11:59:19,Loop Capital,Hold,Buy,down
+2019-07-18 12:51:49,KeyBanc,Overweight,,main
+2019-07-31 10:22:16,KeyBanc,Sector Weight,Overweight,down
+2019-10-30 12:59:01,SunTrust Robinson Humphrey,Buy,,main
+2019-10-31 10:48:11,Stifel Nicolaus,Hold,Buy,down
+2020-01-13 13:13:22,Loop Capital,Buy,Hold,up
+2020-02-14 11:30:44,Stephens & Co.,Equal-Weight,,main
+2020-02-14 16:51:45,CFRA,Hold,,main
+2020-03-10 09:41:53,Stifel,Buy,Hold,up
+2020-04-30 16:25:09,SunTrust Robinson Humphrey,Buy,,main
+2020-09-24 12:35:39,Wells Fargo,Underweight,,init
+2020-10-09 09:12:53,JP Morgan,Neutral,Underweight,up
+2020-10-29 14:02:38,Wells Fargo,Underweight,,main
+2021-01-14 16:28:16,Goldman Sachs,Buy,,init
+2021-03-26 12:10:27,Vertical Research,Buy,,init
+2021-04-15 12:56:34,Truist Securities,Buy,,main
+2021-07-13 11:43:09,Wells Fargo,Equal-Weight,,main
+2021-07-29 11:39:44,Wells Fargo,Equal-Weight,,main
+2021-10-14 12:32:46,Wells Fargo,Equal-Weight,,main
+2021-10-28 12:17:11,Wells Fargo,Equal-Weight,,main
+2021-10-28 12:59:50,Stephens & Co.,Equal-Weight,,main
+2022-01-05 12:04:49,Baird,Neutral,Outperform,down
+2022-02-17 12:25:02,Stephens & Co.,Equal-Weight,,main
+2022-02-17 12:37:19,Wells Fargo,Equal-Weight,,main

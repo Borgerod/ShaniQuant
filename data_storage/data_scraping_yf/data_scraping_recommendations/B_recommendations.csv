@@ -1,0 +1,41 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-30 08:52:00,Jefferies,Buy,,main
+2012-08-28 06:48:00,Jefferies,Hold,,main
+2013-02-25 06:37:08,Jefferies,Hold,,main
+2013-02-25 11:03:12,Oppenheimer,Perform,,main
+2013-03-11 08:37:19,KeyBanc,Buy,Hold,up
+2013-04-29 09:03:46,Jefferies,Hold,,main
+2013-07-10 07:43:32,Drexel Hamilton,Buy,,init
+2013-09-12 07:54:50,Deutsche Bank,Buy,,init
+2013-09-27 11:04:36,Sidoti & Co.,Neutral,Buy,down
+2013-10-28 07:33:32,Deutsche Bank,Buy,,main
+2013-11-20 07:37:46,Jefferies,Hold,,main
+2014-07-29 06:17:58,Deutsche Bank,Hold,Buy,down
+2015-01-05 09:00:00,Deutsche Bank,Buy,,main
+2015-04-27 09:00:00,Jefferies,Buy,,main
+2015-07-27 11:00:00,Jefferies,Buy,,main
+2015-08-07 07:20:43,Oppenheimer,Outperform,Perform,up
+2016-02-04 04:02:42,Jefferies,Buy,,main
+2016-02-12 12:22:54,Oppenheimer,Outperform,,main
+2016-02-22 06:34:59,Deutsche Bank,Hold,,main
+2016-04-07 06:56:29,Deutsche Bank,Buy,Hold,up
+2016-08-01 15:45:29,Jefferies,Buy,,main
+2016-12-05 14:12:15,Deutsche Bank,Buy,,main
+2017-01-19 13:32:15,SunTrust Robinson Humphrey,Hold,,init
+2017-09-08 15:16:29,Deutsche Bank,Buy,,main
+2018-05-18 10:12:37,DA Davidson,Neutral,,init
+2018-07-30 13:51:38,Baird,Neutral,Neutral,main
+2018-08-16 11:49:59,UBS,Buy,,init
+2018-10-29 15:28:10,SunTrust Robinson Humphrey,Hold,Hold,main
+2019-02-15 12:26:50,UBS,Neutral,Buy,down
+2019-05-17 11:16:51,Alembic Global,Overweight,,init
+2019-06-14 12:02:53,SunTrust Robinson Humphrey,Sell,Hold,down
+2019-07-30 13:48:56,UBS,Neutral,,main
+2019-10-28 12:07:16,UBS,Neutral,,main
+2020-01-08 12:49:45,SunTrust Robinson Humphrey,Hold,Sell,up
+2020-01-15 12:08:00,UBS,Buy,Neutral,up
+2020-01-23 14:36:53,Sidoti & Co.,Buy,,main
+2020-03-19 13:09:30,Sidoti & Co.,Buy,,main
+2020-04-07 20:22:19,DA Davidson,Neutral,,main
+2020-04-16 18:57:45,SunTrust Robinson Humphrey,Hold,,main
+2020-04-17 16:08:19,UBS,Buy,,main

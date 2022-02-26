@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action
+2021-02-08 11:01:04,Goldman Sachs,Buy,,init
+2021-02-08 11:03:33,Baird,Outperform,,init
+2021-02-08 12:24:05,Citigroup,Buy,,init
+2021-02-08 12:39:51,B of A Securities,Neutral,,init
+2021-02-08 12:40:52,Guggenheim,Neutral,,init
+2021-02-08 12:47:05,Wells Fargo,Overweight,,init
+2021-02-08 15:45:36,Evercore ISI Group,Outperform,,init
+2021-02-08 16:30:39,UBS,Neutral,,init
+2021-03-19 12:27:08,B of A Securities,Buy,Neutral,up
+2021-07-16 09:49:47,BNP Paribas,Underperform,,init
+2021-08-06 12:31:50,Jefferies,Buy,,init
+2021-08-20 15:47:35,Credit Suisse,Outperform,Neutral,up
+2021-11-15 11:55:38,Jefferies,Hold,Buy,down
+2021-11-19 14:44:37,Citigroup,Buy,,main
+2021-12-06 13:17:16,Wedbush,Outperform,Neutral,up
+2021-12-16 12:50:29,Needham,Buy,,init

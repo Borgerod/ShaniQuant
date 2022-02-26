@@ -1,0 +1,54 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-08 06:15:00,JP Morgan,Buy,,up
+2012-06-29 06:45:00,ThinkEquity,Buy,,init
+2012-07-18 06:38:00,Canaccord Genuity,Buy,,main
+2012-07-20 12:41:00,Wedbush,Neutral,,main
+2012-11-01 10:59:00,Capstone,Buy,,init
+2012-12-20 10:46:09,JP Morgan,Overweight,,main
+2012-12-21 06:33:56,Wedbush,Underperform,Neutral,down
+2013-01-02 17:05:39,Janney Capital,Buy,,init
+2013-10-24 09:36:34,Leerink Swann,Market Perform,,down
+2013-11-21 06:24:16,JP Morgan,Neutral,Overweight,down
+2014-06-30 09:43:38,JP Morgan,Overweight,,up
+2014-07-01 08:18:01,Janney Capital,Buy,Neutral,up
+2014-07-01 08:18:28,Leerink Swann,Outperform,Market Perform,up
+2014-11-17 09:00:00,JP Morgan,Overweight,,main
+2015-03-04 09:00:00,Leerink Swann,Outperform,,main
+2015-05-29 08:09:17,Chardan Capital,Buy,,init
+2015-09-08 11:00:00,JP Morgan,Overweight,,main
+2015-09-16 04:35:37,Chardan Capital,Neutral,Buy,down
+2015-10-05 01:55:20,Chardan Capital,Buy,Neutral,up
+2015-10-05 11:07:59,Leerink Swann,Outperform,,main
+2016-02-23 12:05:45,JP Morgan,Overweight,,main
+2016-03-08 08:01:56,Janney Capital,Buy,Neutral,up
+2016-03-30 06:50:51,Goldman Sachs,Neutral,,init
+2016-04-14 06:35:40,Baird,Neutral,,init
+2016-05-18 07:09:59,Bank of America,Buy,,init
+2017-01-24 12:59:33,Baird,Outperform,Neutral,up
+2017-07-12 16:35:35,Baird,Outperform,,main
+2018-02-08 14:28:22,Leerink Swann,Outperform,Outperform,main
+2018-05-05 14:00:37,B. Riley FBR,Buy,,main
+2018-08-17 18:06:39,Chardan Capital,Neutral,Buy,down
+2018-10-29 11:28:39,Citigroup,Neutral,,init
+2018-12-18 12:09:28,Guggenheim,Buy,,init
+2019-01-17 11:50:38,Citigroup,Buy,Neutral,up
+2019-01-30 12:03:05,Cantor Fitzgerald,Overweight,,init
+2019-04-05 11:01:40,Janney Capital,Buy,,init
+2020-06-17 10:25:12,BTIG,Buy,,init
+2020-08-11 11:24:25,Citigroup,Buy,,main
+2020-11-06 10:23:41,SVB Leerink,Outperform,,main
+2020-11-11 15:51:21,Berenberg,Hold,,init
+2020-12-14 10:12:24,SVB Leerink,Outperform,,main
+2021-02-12 11:08:36,SVB Leerink,Market Perform,Outperform,down
+2021-02-12 11:09:28,JP Morgan,Neutral,Overweight,down
+2021-02-12 16:10:54,Cantor Fitzgerald,Neutral,Overweight,down
+2021-03-02 18:08:04,Stifel,Hold,,init
+2021-03-22 10:02:35,SVB Leerink,Market Perform,,main
+2021-04-14 10:54:24,Cantor Fitzgerald,Overweight,Neutral,up
+2021-05-21 10:40:07,UBS,Buy,,init
+2021-05-27 10:18:14,Needham,Hold,,init
+2021-09-30 08:33:28,SVB Leerink,Market Perform,,main
+2021-09-30 09:05:23,JP Morgan,Overweight,Neutral,up
+2021-11-15 12:18:13,Stifel,Buy,Hold,up
+2022-01-13 12:27:11,Cantor Fitzgerald,Overweight,,main
+2022-01-14 10:05:00,SVB Leerink,Outperform,Market Perform,up

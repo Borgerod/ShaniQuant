@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,Direxion Daily Junior Gold Mine
+longName,Direxion Daily Junior Gold Miners Index Bear 2X Shares
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,JDST
+messageBoardId,finmb_246255807
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,-0.09
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1380758400
+annualReportExpenseRatio,
+totalAssets,62050036
+bookValue,
+fundFamily,Direxion Funds
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.77900004
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Trading--Inverse Equity
+fiveYearAverageReturn,-0.64589995
+phone,866-476-7523
+longBusinessSummary,"The fund invests in swap agreements, futures contracts, short positions or other financial instruments that, in combination, provide inverse (opposite) or short leveraged exposure to the index equal to at least 80% of the fund's net assets (plus borrowing for investment purposes). The index tracks the performance of foreign and domestic micro-, small- and mid-capitalization companies. The fund is non-diversified."
+companyOfficers,[]
+previousClose,9.34
+regularMarketOpen,9.4289
+twoHundredDayAverage,10.98545
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,9.8
+navPrice,11.11
+averageDailyVolume10Day,4129570
+regularMarketPreviousClose,9.34
+fiftyDayAverage,11.4644
+trailingAnnualDividendRate,
+open,9.4289
+toCurrency,
+averageVolume10days,4129570
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,9.385
+currency,USD
+regularMarketVolume,2882847
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,3377356
+dayLow,9.385
+ask,9.6
+askSize,3200
+volume,2882847
+fiftyTwoWeekHigh,15.06
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,7.5
+bid,9.5
+tradeable,False
+dividendYield,
+bidSize,2200
+dayHigh,9.8
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'DAPXX', 'holdingName': 'Dreyfus Government Secs Cash Mgmt Admin', 'holdingPercent': 0.85440004}, {'symbol': 'FTIXX', 'holdingName': 'Goldman Sachs FS Treasury Intms Instl', 'holdingPercent': 0.17459999}, {'symbol': '', 'holdingName': 'Vaneck Vectors Junior Gold Miners Etf Swap', 'holdingPercent': 0.040999997}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.2386
+regularMarketPrice,9.64
+preMarketPrice,
+logo_url,

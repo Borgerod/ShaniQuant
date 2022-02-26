@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action
+2012-10-09 08:14:00,Citigroup,Neutral,,main
+2013-02-06 06:18:20,DA Davidson,Neutral,,main
+2013-02-13 09:13:01,Williams Capital,Buy,Hold,up
+2013-05-02 09:59:46,DA Davidson,Buy,Neutral,up
+2013-07-29 17:19:29,ISI Group,Neutral,,init
+2013-07-31 09:06:25,DA Davidson,Neutral,Buy,down
+2013-10-07 16:00:00,Ameriprise Financial,Buy,,init
+2013-10-30 07:19:40,Citigroup,Neutral,Buy,down
+2014-02-05 06:28:47,DA Davidson,Buy,,main
+2014-05-02 06:31:58,DA Davidson,Buy,,main
+2014-07-10 06:27:35,Wells Fargo,Market Perform,,init
+2014-11-04 06:41:11,Evercore ISI Group,Sell,Neutral,down
+2014-11-05 09:25:50,Baird,Neutral,Outperform,down
+2014-12-19 09:00:00,Barclays,Equal-Weight,,main
+2015-02-02 07:36:06,DA Davidson,Neutral,Buy,down
+2015-02-04 05:48:03,Barclays,Underweight,Equal-Weight,down
+2015-06-01 09:00:00,Baird,Neutral,,main
+2015-11-12 14:19:11,KeyBanc,Overweight,,main
+2016-02-05 04:18:26,Barclays,Underweight,,main
+2016-12-20 11:00:48,UBS,Neutral,,init
+2018-05-05 13:32:15,Argus,Buy,Hold,up
+2018-05-05 13:32:15,Argus,Hold,Buy,down
+2018-05-05 13:32:16,Argus,Hold,Buy,down
+2018-07-19 11:51:58,KeyBanc,Overweight,Overweight,main
+2018-07-31 11:46:23,Citigroup,Neutral,Neutral,main
+2020-05-11 14:48:32,Wells Fargo,Equal-Weight,,main
+2020-06-16 11:20:59,Citigroup,Neutral,,main
+2020-08-06 18:30:13,Wells Fargo,Equal-Weight,,main
+2021-03-23 11:25:58,B of A Securities,Buy,,init

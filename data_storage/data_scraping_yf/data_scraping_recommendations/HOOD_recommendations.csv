@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action
+2021-07-29 12:10:46,Atlantic Equities,Overweight,,init
+2021-08-05 15:39:25,Wolfe Research,Peer Perform,,init
+2021-08-17 11:46:28,Redburn Partners,Buy,,init
+2021-08-23 08:46:55,Keybanc,Overweight,,init
+2021-08-23 09:19:20,Goldman Sachs,Neutral,,init
+2021-08-23 09:50:09,JP Morgan,Underweight,,init
+2021-08-23 09:54:33,Piper Sandler,Neutral,,init
+2021-08-23 10:31:31,Barclays,Equal-Weight,,init
+2021-08-23 10:54:41,Deutsche Bank,Hold,,init
+2021-08-23 10:55:58,JMP Securities,Market Outperform,,init
+2021-08-23 11:01:27,Mizuho,Buy,,init
+2021-08-23 11:06:12,Citigroup,Buy,,init
+2021-08-23 12:42:06,Rosenblatt,Buy,,init
+2021-08-24 11:05:04,Rosenblatt,Buy,,init
+2021-10-27 08:40:00,Keybanc,Overweight,,main
+2021-10-27 11:54:53,Rosenblatt,Buy,,main
+2021-10-27 12:28:16,Goldman Sachs,Neutral,,main
+2021-11-16 11:09:33,Atlantic Equities,Neutral,Overweight,down
+2021-12-13 12:25:23,Goldman Sachs,Neutral,,main
+2021-12-16 10:53:04,B of A Securities,Underperform,,init
+2021-12-16 16:43:23,JP Morgan,Underweight,,main
+2022-01-11 12:58:36,Goldman Sachs,Neutral,,main
+2022-01-14 09:40:41,Keybanc,Overweight,,main
+2022-01-25 20:04:24,Mizuho,Buy,,main
+2022-01-28 12:02:11,JMP Securities,Market Outperform,,main
+2022-01-28 12:26:53,Deutsche Bank,Hold,,main
+2022-01-28 12:27:48,Rosenblatt,Buy,,main
+2022-01-28 13:24:23,Barclays,Equal-Weight,,main
+2022-02-18 12:40:50,Deutsche Bank,Hold,,main

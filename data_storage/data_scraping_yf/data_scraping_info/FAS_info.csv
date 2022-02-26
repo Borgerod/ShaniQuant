@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,Direxion Financial Bull 3X Shar
+longName,Direxion Daily Financial Bull 3X Shares
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,FAS
+messageBoardId,finmb_51234518
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,3.37
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1225929600
+annualReportExpenseRatio,
+totalAssets,3568356352
+bookValue,
+fundFamily,Direxion Funds
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0036000002
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.48349997
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Trading--Leveraged Equity
+fiveYearAverageReturn,0.2922
+phone,866-476-7523
+longBusinessSummary,"The fund invests at least 80% of its net assets in financial instruments, such as swap agreements, securities of the index, and ETFs that track the index and other financial instruments that provide daily leveraged exposure to the index or to ETFs that track the index. The index is a subset of the Russell 1000Â® Index that measures the performance of the securities classified in the financial services sector of the large-capitalization U.S. equity market. It is non-diversified."
+companyOfficers,[]
+previousClose,126.45
+regularMarketOpen,126.13
+twoHundredDayAverage,124.62215
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,129.38
+navPrice,144.53
+averageDailyVolume10Day,1526210
+regularMarketPreviousClose,126.45
+fiftyDayAverage,133.284
+trailingAnnualDividendRate,
+open,126.13
+toCurrency,
+averageVolume10days,1526210
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,124.4
+currency,USD
+regularMarketVolume,1908290
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,1786048
+dayLow,124.4
+ask,124.37
+askSize,1000
+volume,1908290
+fiftyTwoWeekHigh,155.82
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,76.78
+bid,124.07
+tradeable,False
+dividendYield,
+bidSize,900
+dayHigh,129.38
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0.0073}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0.0042}, {'communication_services': 0}, {'financial_services': 0.9885}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': '', 'holdingName': 'Russ 1000 Finan Indx Swap', 'holdingPercent': 0.1774}, {'symbol': 'FTIXX', 'holdingName': 'Goldman Sachs FS Treasury Intms Instl', 'holdingPercent': 0.12100001}, {'symbol': 'BRK.B', 'holdingName': 'Berkshire Hathaway Inc Class B', 'holdingPercent': 0.088199995}, {'symbol': 'DAPXX', 'holdingName': 'Dreyfus Government Secs Cash Mgmt Admin', 'holdingPercent': 0.08140001}, {'symbol': 'JPM', 'holdingName': 'JPMorgan Chase & Co', 'holdingPercent': 0.0792}, {'symbol': 'BAC', 'holdingName': 'Bank of America Corp', 'holdingPercent': 0.052600004}, {'symbol': 'WFC', 'holdingName': 'Wells Fargo & Co', 'holdingPercent': 0.0317}, {'symbol': 'C', 'holdingName': 'Citigroup Inc', 'holdingPercent': 0.0248}, {'symbol': 'MS', 'holdingName': 'Morgan Stanley', 'holdingPercent': 0.0216}, {'symbol': 'GS', 'holdingName': 'Goldman Sachs Group Inc', 'holdingPercent': 0.0212}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 2.23, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 12.67, 'priceToBook': 1.64, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.78910005
+regularMarketPrice,126.06
+preMarketPrice,
+logo_url,

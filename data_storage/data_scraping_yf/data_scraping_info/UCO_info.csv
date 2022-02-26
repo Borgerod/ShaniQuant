@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,ProShares Ultra Bloomberg Crude
+longName,ProShares Ultra Bloomberg Crude Oil
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,UCO
+messageBoardId,finmb_51150698
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,5
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1227484800
+annualReportExpenseRatio,
+totalAssets,1103832576
+bookValue,
+fundFamily,ProShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.3685
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Trading--Leveraged Commodities
+fiveYearAverageReturn,-0.3073
+phone,240-497-6400
+longBusinessSummary,"The fund seeks to meet its investment objective by investing, under normal market conditions, in any one of, or combinations of, Financial Instruments (including swap agreements, futures contracts, forward contracts, and option contracts) based on WTI sweet, light crude oil. It will not invest directly in oil."
+companyOfficers,[]
+previousClose,117.8
+regularMarketOpen,114.15
+twoHundredDayAverage,83.93655
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,120.6904
+navPrice,91.13
+averageDailyVolume10Day,705950
+regularMarketPreviousClose,117.8
+fiftyDayAverage,99.9368
+trailingAnnualDividendRate,
+open,114.15
+toCurrency,
+averageVolume10days,705950
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,113.34
+currency,USD
+regularMarketVolume,802491
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,734540
+dayLow,113.34
+ask,121.5
+askSize,800
+volume,802491
+fiftyTwoWeekHigh,127.64
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,50.22
+bid,121.39
+tradeable,False
+dividendYield,
+bidSize,900
+dayHigh,120.6904
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'WBSN21.L', 'holdingName': 'WTI Crude Future June 21', 'holdingPercent': 0.4174}, {'symbol': '', 'holdingName': 'Wti Crude Future Dec21', 'holdingPercent': 0.4157}, {'symbol': '', 'holdingName': 'Wti Crude Future Nov21', 'holdingPercent': 0.3937}, {'symbol': '', 'holdingName': 'Bloomberg Wti Crude Oil Balanced Swap - Ms', 'holdingPercent': 0.2062}, {'symbol': '', 'holdingName': 'Bloomberg Wti Crude Oil Balanced Swap - Gs', 'holdingPercent': 0.1684}, {'symbol': '', 'holdingName': 'Bloomberg Wti Crude Oil Balanced Swap - Ubs', 'holdingPercent': 0.1673}, {'symbol': '', 'holdingName': 'Bloomberg Wti Crude Oil Balanced Swap - Cit', 'holdingPercent': 0.1191}, {'symbol': '', 'holdingName': 'Bloomberg Wti Crude Oil Balanced Swap - Sg', 'holdingPercent': 0.112399995}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0
+regularMarketPrice,120
+preMarketPrice,
+logo_url,

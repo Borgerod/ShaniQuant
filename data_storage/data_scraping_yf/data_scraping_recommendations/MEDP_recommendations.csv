@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action
+2016-09-06 01:27:59,Credit Suisse,Outperform,,init
+2016-09-06 01:41:45,Baird,Neutral,,init
+2016-09-06 01:43:04,Jefferies,Hold,,init
+2016-09-06 05:53:19,UBS,Buy,,init
+2016-09-06 07:52:50,William Blair,Outperform,,init
+2016-09-06 07:54:34,Wells Fargo,Outperform,,init
+2017-03-29 11:04:53,KeyBanc,Overweight,,init
+2017-05-03 13:48:14,Wells Fargo,Market Perform,Outperform,down
+2017-07-10 13:20:24,KeyBanc,Sector Weight,Overweight,down
+2017-09-29 17:27:36,Raymond James,Market Perform,,init
+2017-10-31 14:16:38,Baird,Neutral,,main
+2017-11-01 16:20:53,Jefferies,Hold,,main
+2017-11-01 17:53:12,William Blair,Market Perform,Outperform,down
+2018-02-27 13:27:04,Credit Suisse,Outperform,Outperform,main
+2018-02-28 14:53:04,Wells Fargo,Market Perform,Market Perform,main
+2018-04-20 12:31:39,Mitsubishi UFJ,Neutral,,init
+2018-07-31 11:47:06,William Blair,Outperform,Market Perform,up
+2018-07-31 12:59:26,Credit Suisse,Outperform,Outperform,main
+2018-08-02 12:07:41,Credit Suisse,Outperform,Outperform,main
+2018-10-31 11:35:54,SunTrust Robinson Humphrey,Buy,Hold,up
+2019-04-30 12:41:12,Baird,Neutral,Neutral,main
+2020-01-27 12:33:26,SunTrust Robinson Humphrey,Hold,Buy,down
+2020-02-25 14:09:29,Credit Suisse,Outperform,,main
+2020-03-17 16:04:08,SunTrust Robinson Humphrey,Sell,Hold,down
+2020-03-23 13:25:29,Jefferies,Hold,,main
+2020-04-06 19:51:35,SunTrust Robinson Humphrey,Sell,,main
+2020-04-20 10:16:08,Baird,Underperform,Neutral,down
+2020-04-29 13:17:57,Credit Suisse,Outperform,,main
+2020-04-30 11:08:08,SunTrust Robinson Humphrey,Hold,Sell,up
+2020-06-08 10:13:01,Baird,Neutral,Underperform,up
+2020-07-28 12:19:39,Credit Suisse,Outperform,,main
+2020-10-02 11:17:15,Truist Securities,Buy,Hold,up
+2021-02-16 12:29:56,Credit Suisse,Outperform,,main
+2021-02-17 17:25:37,Truist Securities,Buy,,main
+2021-03-17 12:40:29,Credit Suisse,Outperform,,main
+2021-07-20 12:20:49,Credit Suisse,Outperform,,main

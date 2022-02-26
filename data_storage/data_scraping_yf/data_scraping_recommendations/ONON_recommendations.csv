@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action
+2021-12-22 14:53:04,Williams Capital,Hold,Sell,up
+2021-12-22 14:53:06,Credit Suisse,Outperform,,main
+2021-12-22 14:53:07,Telsey Advisory Group,Outperform,,main
+2021-12-22 14:53:09,Stifel,Buy,,main
+2021-12-22 14:53:11,Credit Suisse,Outperform,,init
+2021-12-22 14:53:13,Baird,Outperform,,init
+2021-12-22 14:53:14,Stifel,Buy,,init
+2021-12-22 14:53:16,JP Morgan,Overweight,,init
+2021-12-22 14:53:18,Morgan Stanley,Overweight,,init
+2021-12-22 14:53:20,Telsey Advisory Group,Outperform,,init
+2021-12-22 14:53:21,Goldman Sachs,Neutral,,init
+2021-12-22 14:53:23,Williams Capital,Sell,,init

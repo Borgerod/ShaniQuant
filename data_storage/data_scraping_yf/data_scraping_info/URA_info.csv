@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,Global X Uranium ETF
+longName,Global X Uranium ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,URA
+messageBoardId,finmb_115488468
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.18
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1288828800
+annualReportExpenseRatio,
+totalAssets,1178214912
+bookValue,
+fundFamily,Global X Funds
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.006
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.2931
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Natural Resources
+fiveYearAverageReturn,0.1373
+phone,888-493-8631
+longBusinessSummary,"The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts (""ADRs"") and Global Depositary Receipts (""GDRs"") based on the securities in the underlying index. The underlying index is designed to measure broad based equity market performance of global companies involved in the uranium industry. The fund is non-diversified."
+companyOfficers,[]
+previousClose,21.19
+regularMarketOpen,21.28
+twoHundredDayAverage,23.1577
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,21.48
+navPrice,24.42
+averageDailyVolume10Day,1450790
+regularMarketPreviousClose,21.19
+fiftyDayAverage,22.5702
+trailingAnnualDividendRate,
+open,21.28
+toCurrency,
+averageVolume10days,1450790
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,20.79
+currency,USD
+regularMarketVolume,1011446
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,1974801
+dayLow,20.79
+ask,21
+askSize,2200
+volume,1011446
+fiftyTwoWeekHigh,31.6
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,16.76
+bid,20.65
+tradeable,False
+dividendYield,
+bidSize,1800
+dayHigh,21.48
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0.1108}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0.0167}, {'utilities': 0.0154}, {'industrials': 0.15020001}, {'energy': 0.7069}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'CCO.TO', 'holdingName': 'Cameco Corp', 'holdingPercent': 0.2343}, {'symbol': 'KAP', 'holdingName': 'National Atomic Co Kazatomprom JSC ADR', 'holdingPercent': 0.2281}, {'symbol': 'NXE.TO', 'holdingName': 'NexGen Energy Ltd', 'holdingPercent': 0.053600002}, {'symbol': 'DML.TO', 'holdingName': 'Denison Mines Corp', 'holdingPercent': 0.035}, {'symbol': 'EFR', 'holdingName': 'Energy Fuels Inc', 'holdingPercent': 0.0319}, {'symbol': 'PDN.AX', 'holdingName': 'Paladin Energy Ltd', 'holdingPercent': 0.030199999}, {'symbol': 'U.TO', 'holdingName': 'Uranium Participation Corp', 'holdingPercent': 0.025799999}, {'symbol': '034020.KS', 'holdingName': 'Doosan Heavy Industries & Construction Co Ltd', 'holdingPercent': 0.0251}, {'symbol': 'UEC', 'holdingName': 'Uranium Energy Corp', 'holdingPercent': 0.0212}, {'symbol': '047040.KS', 'holdingName': 'Daewoo Engineering & Construction Co Ltd', 'holdingPercent': 0.019299999}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 1.67, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 2.11, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9998
+regularMarketPrice,20.84
+preMarketPrice,
+logo_url,

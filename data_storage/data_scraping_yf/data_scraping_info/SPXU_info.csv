@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,ProShares UltraPro Short S&P500
+longName,ProShares UltraPro Short S&P500
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,SPXU
+messageBoardId,finmb_60517215
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,-2.31
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1245715200
+annualReportExpenseRatio,
+totalAssets,502273408
+bookValue,
+fundFamily,ProShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.6067
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Trading--Inverse Equity
+fiveYearAverageReturn,-0.48880002
+phone,866-776-5125
+longBusinessSummary,"The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the fund's investment objective. The index is a measure of large-cap U.S. stock market performance. The fund is non-diversified."
+companyOfficers,[]
+previousClose,15.41
+regularMarketOpen,15.39
+twoHundredDayAverage,15.95845
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,15.9884
+navPrice,12.22
+averageDailyVolume10Day,34926770
+regularMarketPreviousClose,15.41
+fiftyDayAverage,13.8576
+trailingAnnualDividendRate,
+open,15.39
+toCurrency,
+averageVolume10days,34926770
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,15.26
+currency,USD
+regularMarketVolume,40436765
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,24398162
+dayLow,15.26
+ask,15.98
+askSize,41800
+volume,40436765
+fiftyTwoWeekHigh,29.15
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,12.03
+bid,15.97
+tradeable,False
+dividendYield,
+bidSize,800
+dayHigh,15.9884
+preferredPosition,
+bondPosition,0.1346
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': '', 'holdingName': 'S&P 500 Index Swap Credit Suisse International', 'holdingPercent': 0.2237}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Societe Generale', 'holdingPercent': 0.20030001}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Ubs Ag', 'holdingPercent': 0.1823}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Goldman Sachs International', 'holdingPercent': 0.1418}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Bank Of America Na', 'holdingPercent': 0.12109999}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Bnp Paribas', 'holdingPercent': 0.111}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Citibank Na', 'holdingPercent': 0.0655}, {'symbol': '', 'holdingName': 'United States Treasury Bills', 'holdingPercent': 0.047399998}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0
+regularMarketPrice,15.75
+preMarketPrice,
+logo_url,

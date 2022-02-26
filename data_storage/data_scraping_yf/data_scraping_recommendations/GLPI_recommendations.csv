@@ -1,0 +1,81 @@
+Date,Firm,To Grade,From Grade,Action
+2013-11-04 06:31:47,Deutsche Bank,Buy,,init
+2013-11-08 06:33:49,Morgan Stanley,Equal-Weight,,init
+2013-11-11 09:25:18,Barclays,Equal-Weight,,init
+2013-11-14 06:29:31,JP Morgan,Neutral,,init
+2013-11-15 09:43:47,Stifel Nicolaus,Hold,,init
+2013-11-18 08:35:12,Credit Suisse,Neutral,,init
+2013-11-25 06:18:19,Bank of America,Neutral,,init
+2013-12-02 16:00:00,Wells Fargo,Outperform,,init
+2013-12-17 16:00:00,ISI Group,Sell,,init
+2014-05-02 07:53:20,Morgan Stanley,Equal-Weight,,main
+2014-10-29 05:49:26,Credit Suisse,Outperform,,main
+2014-10-30 09:00:00,Barclays,Equal-Weight,,main
+2015-01-09 00:00:00,JP Morgan,Overweight,Neutral,up
+2015-03-12 06:21:42,Union Gaming Research,Buy,,init
+2015-03-13 07:49:52,Susquehanna,Neutral,Positive,down
+2015-07-09 11:00:00,Susquehanna,Neutral,,main
+2015-12-15 07:29:25,JMP Securities,Market Outperform,,init
+2015-12-16 09:47:33,Deutsche Bank,Buy,,main
+2016-04-08 08:27:23,SunTrust Robinson Humphrey,Neutral,,init
+2016-08-10 08:55:29,Deutsche Bank,Buy,,main
+2016-09-07 06:30:16,Morgan Stanley,Overweight,Equal-Weight,up
+2016-09-26 06:23:28,UBS,Neutral,,init
+2016-11-22 14:10:44,Buckingham,Neutral,,init
+2016-12-07 16:46:12,Deutsche Bank,Buy,,main
+2016-12-13 12:49:01,Morgan Stanley,Equal-Weight,Overweight,down
+2016-12-15 16:05:06,Bank of America,Underperform,Buy,down
+2017-08-16 16:46:13,Barclays,Overweight,,main
+2018-01-11 18:59:33,SunTrust Robinson Humphrey,Buy,Hold,up
+2018-02-09 15:39:13,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-02-09 16:30:27,Bank of America,Underperform,Underperform,main
+2018-04-17 12:42:03,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-04-17 16:14:02,Bank of America,Underperform,Underperform,main
+2018-07-12 12:28:20,Barclays,Overweight,Overweight,main
+2018-07-24 11:12:40,Morgan Stanley,Overweight,Equal-Weight,up
+2018-08-14 10:34:31,Credit Suisse,Outperform,,init
+2018-09-26 12:09:22,Deutsche Bank,Buy,Buy,main
+2018-09-27 11:34:55,Nomura,Neutral,,init
+2018-11-16 16:58:08,Jefferies,Hold,Hold,main
+2018-11-19 14:26:04,Barclays,Overweight,Overweight,main
+2019-04-15 11:16:17,Stifel Nicolaus,Buy,Hold,up
+2019-10-25 10:58:14,Macquarie,Outperform,,init
+2019-11-04 14:13:48,Deutsche Bank,Buy,,main
+2020-01-21 14:57:11,Morgan Stanley,Overweight,,main
+2020-01-30 13:58:23,Deutsche Bank,Buy,,main
+2020-02-24 13:12:51,Deutsche Bank,Buy,,main
+2020-02-26 13:26:55,Morgan Stanley,Overweight,,main
+2020-03-25 10:00:21,Nomura,Buy,Neutral,up
+2020-03-30 19:17:53,Morgan Stanley,Overweight,,main
+2020-04-22 15:12:54,SunTrust Robinson Humphrey,Buy,,main
+2020-05-04 11:40:39,Deutsche Bank,Buy,,main
+2020-05-04 12:01:30,Morgan Stanley,Overweight,,main
+2020-05-12 12:12:34,Morgan Stanley,Overweight,,main
+2020-08-03 14:36:41,Deutsche Bank,Buy,,main
+2020-08-04 12:18:08,Morgan Stanley,Overweight,,main
+2020-10-15 14:46:25,B of A Securities,Buy,,main
+2020-10-28 14:49:23,Stifel,Buy,,main
+2020-10-29 12:01:06,Morgan Stanley,Overweight,,main
+2020-10-29 15:24:26,Deutsche Bank,Buy,,main
+2020-11-02 11:27:51,Jefferies,Buy,Hold,up
+2020-11-12 12:38:32,Raymond James,Strong Buy,,init
+2020-11-13 12:47:17,Morgan Stanley,Overweight,,main
+2020-11-17 11:40:27,Loop Capital,Buy,,init
+2020-12-14 14:55:00,Morgan Stanley,Overweight,,main
+2021-01-20 14:35:46,Morgan Stanley,Overweight,,main
+2021-02-22 14:10:38,Morgan Stanley,Overweight,,main
+2021-03-15 10:47:44,KeyBanc,Overweight,,init
+2021-04-01 10:54:29,Mizuho,Buy,,init
+2021-04-21 11:52:56,Citigroup,Buy,,init
+2021-05-03 12:06:30,Morgan Stanley,Overweight,,main
+2021-05-24 12:15:25,Mizuho,Buy,,main
+2021-06-07 10:07:51,Keybanc,Overweight,,main
+2021-06-15 10:55:08,Wolfe Research,Peer Perform,,init
+2021-08-04 12:12:32,UBS,Buy,Neutral,up
+2021-08-04 12:56:10,Morgan Stanley,Overweight,,main
+2021-12-08 12:22:00,Raymond James,Strong Buy,,main
+2021-12-15 12:47:26,Scotiabank,Sector Perform,Sector Outperform,down
+2021-12-15 14:30:47,Morgan Stanley,Overweight,,main
+2022-01-10 11:48:15,B of A Securities,Underperform,Buy,down
+2022-01-18 14:50:20,Morgan Stanley,Overweight,,main
+2022-01-20 12:27:26,Berenberg,Buy,,init

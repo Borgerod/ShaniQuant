@@ -1,0 +1,8 @@
+What this folder (data_scraping_ticker_list) contains: 
+
+Originally created for stock ticker lists, but now is a Collective list for all types of simple lists & lonely data:  
+- Ticker-lists (stock symbols from nyse and nasdaq)
+- cik_list (cik number to each stock)
+- fred_lists (symbols for fred data) 
+- industry_lists (for first analysis, Ev/Ebitda)
+- yahoo_lists (for first analysis, Ev/Ebitda

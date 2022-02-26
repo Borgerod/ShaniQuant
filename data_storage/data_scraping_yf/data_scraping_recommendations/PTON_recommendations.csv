@@ -1,0 +1,163 @@
+Date,Firm,To Grade,From Grade,Action
+2019-10-09 10:53:30,Baird,Outperform,,init
+2019-10-11 11:09:28,MKM Partners,Neutral,,init
+2019-10-21 10:07:37,KeyBanc,Overweight,,init
+2019-10-21 10:52:40,JMP Securities,Market Outperform,,init
+2019-10-21 10:54:15,Barclays,Overweight,,init
+2019-10-21 10:56:23,JP Morgan,Overweight,,init
+2019-10-21 11:10:28,Stifel,Buy,,init
+2019-10-21 11:13:50,Oppenheimer,Outperform,,init
+2019-10-21 11:17:19,SunTrust Robinson Humphrey,Buy,,init
+2019-10-21 11:18:49,Canaccord Genuity,Buy,,init
+2019-10-21 11:19:35,Cowen & Co.,Outperform,,init
+2019-10-21 11:20:27,Telsey Advisory Group,Outperform,,init
+2019-10-21 11:28:24,Raymond James,Outperform,,init
+2019-10-21 11:42:50,UBS,Buy,,init
+2019-10-21 11:46:51,Needham,Buy,,init
+2019-10-21 14:31:53,Goldman Sachs,Buy,,init
+2019-10-21 17:47:40,Bank of America,Buy,,init
+2019-10-24 11:01:22,Bernstein,Outperform,,init
+2019-11-06 14:00:08,JMP Securities,Market Outperform,,main
+2019-11-06 14:51:12,Baird,Outperform,,main
+2019-12-02 10:51:19,KeyBanc,Overweight,,main
+2019-12-05 13:46:15,JMP Securities,Market Outperform,,main
+2019-12-10 14:17:39,Oppenheimer,Outperform,,main
+2019-12-12 13:51:17,Argus Research,Buy,,init
+2020-01-15 11:54:04,Wedbush,Outperform,,init
+2020-01-28 15:40:53,B of A Securities,Buy,,reit
+2020-01-29 12:11:57,Raymond James,Outperform,,main
+2020-02-04 10:09:26,BMO Capital,Market Perform,,init
+2020-02-06 11:55:11,Needham,Buy,,main
+2020-02-06 12:17:40,BMO Capital,Market Perform,,main
+2020-02-06 12:20:05,Stifel,Buy,,main
+2020-02-06 14:28:52,MKM Partners,Neutral,,main
+2020-02-06 14:59:14,Canaccord Genuity,Buy,,main
+2020-03-17 15:29:06,Wedbush,Outperform,,main
+2020-03-18 16:35:56,JP Morgan,Overweight,,main
+2020-04-03 10:22:44,Rosenblatt,Buy,,init
+2020-04-15 10:36:20,Roth Capital,Buy,,init
+2020-04-17 17:40:21,SunTrust Robinson Humphrey,Buy,,main
+2020-04-20 09:34:41,BMO Capital,Underperform,Market Perform,down
+2020-04-30 12:08:36,JMP Securities,Market Outperform,,main
+2020-04-30 13:06:48,Stifel,Buy,,main
+2020-05-05 11:45:12,B of A Securities,Buy,,reit
+2020-05-07 10:13:24,KeyBanc,Overweight,,main
+2020-05-07 10:24:59,Needham,Buy,,main
+2020-05-07 12:17:12,Rosenblatt,Buy,,reit
+2020-05-07 12:48:26,MKM Partners,Neutral,,main
+2020-05-07 14:30:23,Oppenheimer,Outperform,,main
+2020-05-07 15:42:14,B of A Securities,Buy,,reit
+2020-05-07 16:04:31,UBS,Buy,,main
+2020-05-07 16:10:12,Baird,Outperform,,main
+2020-05-07 16:24:42,SunTrust Robinson Humphrey,Buy,,main
+2020-05-07 17:34:57,Canaccord Genuity,Buy,,main
+2020-05-07 17:52:35,CFRA,Buy,,main
+2020-05-13 14:24:20,JMP Securities,Market Outperform,,main
+2020-05-13 16:13:05,Argus Research,Buy,,main
+2020-05-19 15:08:01,SunTrust Robinson Humphrey,Buy,,main
+2020-05-27 12:06:39,Oppenheimer,Outperform,,main
+2020-06-03 15:58:58,B of A Securities,Buy,,main
+2020-06-24 08:48:51,KeyBanc,Overweight,,main
+2020-06-26 09:59:27,Needham,Buy,,main
+2020-07-01 11:10:44,Rosenblatt,Buy,,main
+2020-07-28 08:48:56,KeyBanc,Overweight,,main
+2020-08-27 13:03:59,Goldman Sachs,Buy,,main
+2020-09-02 15:47:29,JP Morgan,Overweight,,main
+2020-09-09 12:00:58,Wedbush,Outperform,,main
+2020-09-09 14:12:40,Goldman Sachs,Buy,,main
+2020-09-11 08:39:55,KeyBanc,Overweight,,main
+2020-09-11 10:56:05,Needham,Buy,,main
+2020-09-11 11:28:08,Rosenblatt,Buy,,main
+2020-09-11 11:30:08,Raymond James,Outperform,,main
+2020-09-11 12:02:31,Stifel,Buy,,main
+2020-09-11 12:20:53,Wedbush,Outperform,,main
+2020-09-11 12:29:39,MKM Partners,Neutral,,main
+2020-09-11 12:33:33,Truist Securities,Buy,,main
+2020-09-11 13:57:11,B of A Securities,Buy,,main
+2020-09-11 14:32:11,Canaccord Genuity,Buy,,main
+2020-09-15 15:48:31,Argus Research,Buy,,main
+2020-10-15 14:55:15,B of A Securities,Buy,,main
+2020-10-21 08:46:07,KeyBanc,Overweight,,main
+2020-10-22 09:24:47,Goldman Sachs,Neutral,Buy,down
+2020-11-02 12:02:30,Needham,Buy,,main
+2020-11-04 12:49:17,Rosenblatt,Buy,,reit
+2020-11-06 13:30:08,Rosenblatt,Buy,,main
+2020-11-06 15:01:44,Raymond James,Outperform,,main
+2020-11-06 15:49:37,Canaccord Genuity,Buy,,main
+2020-11-06 17:45:09,UBS,Neutral,,main
+2020-11-11 12:12:16,Rosenblatt,Buy,,main
+2020-11-13 11:41:11,Exane BNP Paribas,Outperform,,init
+2020-12-02 11:24:20,Needham,Buy,,main
+2020-12-22 11:09:43,KeyBanc,Overweight,,main
+2021-01-08 14:39:10,Gordon Haskett,Buy,,init
+2021-01-13 17:31:34,B of A Securities,Buy,,main
+2021-01-19 14:13:01,UBS,Sell,Neutral,down
+2021-02-01 16:12:25,Cowen & Co.,Outperform,,main
+2021-02-05 11:44:08,Raymond James,Market Perform,Outperform,down
+2021-02-05 17:26:44,Gordon Haskett,Buy,,main
+2021-02-05 17:27:37,JP Morgan,Overweight,,main
+2021-02-05 17:34:02,Truist Securities,Buy,,main
+2021-02-05 17:35:47,BMO Capital,Underperform,,main
+2021-02-05 17:41:27,MKM Partners,Neutral,,main
+2021-02-05 18:00:16,Needham,Buy,,main
+2021-02-05 18:07:26,Barclays,Overweight,,main
+2021-02-05 18:13:23,Roth Capital,Buy,,main
+2021-02-05 18:33:47,Cowen & Co.,Outperform,,main
+2021-02-05 18:38:11,Goldman Sachs,Neutral,,main
+2021-02-05 19:08:40,Rosenblatt,Buy,,main
+2021-02-17 16:56:24,Argus Research,Buy,,main
+2021-03-08 11:44:30,MKM Partners,Buy,Neutral,up
+2021-04-01 11:13:13,Wolfe Research,Peer Perform,,init
+2021-04-06 10:26:39,Evercore ISI Group,In-Line,Outperform,down
+2021-04-06 10:58:49,Credit Suisse,Outperform,,init
+2021-04-19 13:44:37,B of A Securities,Buy,,main
+2021-05-06 10:33:01,B of A Securities,Neutral,Buy,down
+2021-05-07 11:34:29,Telsey Advisory Group,Outperform,,main
+2021-05-07 13:32:41,Canaccord Genuity,Buy,,main
+2021-05-21 13:36:34,Argus Research,Buy,,main
+2021-06-07 10:39:23,Loop Capital,Buy,,init
+2021-06-23 08:47:29,Telsey Advisory Group,Outperform,,main
+2021-07-01 12:10:01,Truist Securities,Buy,,main
+2021-07-14 11:10:27,Wedbush,Neutral,Outperform,down
+2021-08-24 11:41:59,Credit Suisse,Outperform,,main
+2021-08-24 12:07:13,JP Morgan,Overweight,,main
+2021-08-24 13:09:30,Truist Securities,Buy,,main
+2021-08-26 12:19:09,Needham,Buy,,main
+2021-08-27 10:49:20,Needham,Buy,,main
+2021-08-27 10:55:38,Credit Suisse,Outperform,,main
+2021-08-27 12:38:59,Cowen & Co.,Outperform,,main
+2021-08-27 12:41:23,Roth Capital,Buy,,main
+2021-08-27 12:49:18,B of A Securities,Buy,Neutral,up
+2021-08-30 10:48:46,Citigroup,Neutral,,init
+2021-09-13 10:16:15,Goldman Sachs,Neutral,,init
+2021-10-06 13:02:11,Stifel,Buy,,main
+2021-10-11 08:37:29,Keybanc,Overweight,,main
+2021-11-05 08:46:10,Keybanc,Overweight,,main
+2021-11-05 09:18:07,Telsey Advisory Group,Market Perform,Outperform,down
+2021-11-05 09:24:13,Stifel,Hold,Buy,down
+2021-11-05 09:25:32,Truist Securities,Hold,Buy,down
+2021-11-05 09:27:36,Exane BNP Paribas,Neutral,Outperform,down
+2021-11-05 10:55:59,Needham,Buy,,main
+2021-11-05 11:46:52,Credit Suisse,Outperform,,main
+2021-11-05 12:36:42,MKM Partners,Neutral,Buy,down
+2021-11-05 12:55:24,Goldman Sachs,Neutral,,main
+2021-11-11 15:24:42,Citigroup,Neutral,,main
+2021-12-03 11:53:01,Deutsche Bank,Buy,,init
+2021-12-10 11:33:24,Credit Suisse,Neutral,Outperform,down
+2021-12-15 20:01:57,JP Morgan,Overweight,,main
+2021-12-20 13:59:40,UBS,Sell,,main
+2021-12-23 14:11:23,Citigroup,Neutral,,main
+2021-12-31 10:08:49,JMP Securities,Market Perform,Market Outperform,down
+2022-01-05 14:24:06,JP Morgan,Overweight,,main
+2022-01-20 11:08:41,Keybanc,Overweight,,main
+2022-01-21 10:10:30,Telsey Advisory Group,Outperform,,main
+2022-01-21 11:24:48,Needham,Buy,,main
+2022-01-21 12:31:01,Stifel,Buy,Hold,up
+2022-01-21 15:24:59,Deutsche Bank,Buy,,main
+2022-02-09 10:14:41,Telsey Advisory Group,Market Perform,,main
+2022-02-09 11:34:55,Loop Capital,Buy,,main
+2022-02-09 11:47:18,Barclays,Overweight,,main
+2022-02-09 11:58:35,Oppenheimer,Outperform,,main
+2022-02-09 13:12:21,Macquarie,Outperform,,main
+2022-02-09 13:26:20,Stifel,Buy,,main
+2022-02-09 14:00:24,Credit Suisse,Neutral,,main

@@ -1,0 +1,55 @@
+Date,Firm,To Grade,From Grade,Action
+2018-09-13 14:52:28,Goldman Sachs,Buy,,init
+2019-01-16 14:19:42,Morgan Stanley,Overweight,,init
+2019-04-15 12:14:08,Jefferies,Buy,,init
+2019-04-17 10:25:14,KeyBanc,Overweight,,init
+2019-05-07 11:22:57,86 Research,Hold,,init
+2019-05-15 12:58:12,Bank of America,Buy,,init
+2019-06-13 11:44:13,Benchmark,Buy,,init
+2019-07-05 15:07:38,Macquarie,Outperform,,init
+2019-07-10 10:41:34,JP Morgan,Underweight,,init
+2019-08-05 12:49:14,Jefferies,Buy,,init
+2019-08-06 11:55:19,86 Research,Sell,Hold,down
+2019-08-19 12:15:49,Barclays,Overweight,,init
+2019-08-22 10:15:12,KeyBanc,Overweight,,main
+2019-08-22 12:08:40,Benchmark,Buy,,main
+2019-08-22 12:38:29,Bank of America,Buy,,reit
+2019-08-30 14:27:49,Barclays,Overweight,,main
+2019-10-09 10:38:58,Nomura,Neutral,,init
+2019-11-06 10:48:01,KeyBanc,Overweight,,main
+2019-11-21 11:06:23,KeyBanc,Overweight,,main
+2019-11-22 12:49:40,Macquarie,Outperform,,init
+2019-11-22 14:44:47,Nomura,Neutral,,main
+2020-01-06 15:49:46,Credit Suisse,Outperform,Neutral,up
+2020-01-21 11:00:31,KeyBanc,Overweight,,main
+2020-02-04 10:59:32,Credit Suisse,Neutral,Outperform,down
+2020-03-20 12:02:07,Bernstein,Market Perform,,init
+2020-04-20 10:09:12,Credit Suisse,Outperform,Neutral,up
+2020-04-29 10:08:04,KeyBanc,Overweight,,main
+2020-05-20 11:46:03,B of A Securities,Neutral,Buy,down
+2020-05-26 09:20:43,KeyBanc,Overweight,,main
+2020-05-26 11:23:41,Benchmark,Buy,,main
+2020-05-26 16:16:40,B of A Securities,Neutral,,reit
+2020-05-27 10:17:36,Barclays,Equal-Weight,Overweight,down
+2020-06-08 10:07:48,Bernstein,Outperform,,init
+2020-07-14 09:00:22,KeyBanc,Overweight,,main
+2020-08-17 15:35:27,B of A Securities,Neutral,,main
+2020-08-24 11:41:31,CLSA,Outperform,Buy,down
+2020-08-24 11:43:11,BOCOM International,Neutral,Buy,down
+2020-10-20 10:37:11,Oppenheimer,Outperform,,init
+2020-11-02 09:03:13,KeyBanc,Overweight,,main
+2020-11-03 11:30:32,Goldman Sachs,Buy,Neutral,up
+2020-11-13 09:19:39,KeyBanc,Overweight,,main
+2020-11-13 14:05:45,B of A Securities,Buy,Neutral,up
+2020-11-13 16:19:40,JP Morgan,Overweight,Neutral,up
+2020-11-16 14:01:58,Nomura Instinet,Buy,Neutral,up
+2021-01-25 13:58:25,Bernstein,Outperform,,init
+2021-01-26 10:18:40,KeyBanc,Sector Weight,Overweight,down
+2021-03-18 10:17:18,Macquarie,Neutral,Outperform,down
+2021-04-20 13:13:21,China Renaissance,Hold,Buy,down
+2021-05-05 16:12:19,Daiwa Capital,Buy,,init
+2021-05-27 10:54:12,Citigroup,Buy,,main
+2021-08-06 10:14:16,China Renaissance,Buy,Hold,up
+2021-08-25 12:49:09,B of A Securities,Buy,,main
+2021-11-03 09:04:50,Barclays,Equal-Weight,,init
+2022-01-14 12:38:32,DBS Bank,Buy,Hold,up

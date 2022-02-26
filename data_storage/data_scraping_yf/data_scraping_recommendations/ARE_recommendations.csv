@@ -1,0 +1,77 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-09 09:17:00,Goldman Sachs,Buy,,main
+2012-05-02 07:28:00,ISI Group,Hold,,main
+2012-08-16 12:40:00,Barclays,Overweight,,main
+2012-10-22 12:45:00,Barclays,Overweight,,main
+2012-11-21 16:02:00,JP Morgan,Neutral,,main
+2012-12-06 09:34:23,UBS,Buy,Neutral,up
+2012-12-06 13:04:21,Barclays,Overweight,,main
+2013-03-05 08:33:08,JP Morgan,Neutral,,main
+2013-06-10 08:55:39,ISI Group,Buy,Neutral,up
+2013-12-13 08:19:22,Citigroup,Buy,,main
+2014-01-27 08:00:00,ISI Group,Neutral,Buy,down
+2014-04-01 07:40:04,Citigroup,Neutral,,down
+2014-04-22 21:08:30,Barclays,Overweight,,main
+2014-05-07 00:52:59,JMP Securities,Market Outperform,,main
+2014-07-21 21:30:40,Barclays,Overweight,,main
+2014-07-30 02:12:32,Jefferies,Market Outperform,,main
+2014-07-31 06:20:28,RBC Capital,Outperform,Sector Perform,up
+2014-09-29 09:25:11,ISI Group,Buy,Neutral,up
+2014-11-04 09:00:00,JMP Securities,Market Outperform,,main
+2014-11-18 09:00:00,Citigroup,Neutral,,main
+2014-12-04 09:00:00,Bank of America,Neutral,,main
+2014-12-16 09:00:00,Barclays,Overweight,,main
+2015-01-06 00:00:00,Mizuho,Neutral,,init
+2015-01-09 00:00:00,UBS,Neutral,Buy,down
+2015-01-22 09:00:00,Barclays,Overweight,,main
+2015-01-23 09:00:00,JMP Securities,Market Outperform,,main
+2015-02-09 09:00:00,Citigroup,Neutral,,main
+2015-02-20 09:00:00,Barclays,Overweight,,main
+2015-03-18 09:00:00,JP Morgan,Neutral,,main
+2015-04-20 09:00:00,Barclays,Overweight,,main
+2015-04-30 06:52:28,Mizuho,Buy,Neutral,up
+2015-05-11 09:00:00,Citigroup,Neutral,,main
+2015-06-01 09:00:00,Barclays,Overweight,,main
+2015-08-24 11:00:00,Barclays,Overweight,,main
+2015-09-08 11:07:23,Evercore ISI Group,Buy,,main
+2015-09-21 06:30:04,Mizuho,Buy,,main
+2015-10-13 06:26:43,JP Morgan,Overweight,Neutral,up
+2015-10-20 12:48:54,Barclays,Overweight,,main
+2016-07-07 12:43:00,Citigroup,Neutral,,main
+2016-07-19 11:46:52,Barclays,Overweight,,main
+2016-08-16 11:12:19,JP Morgan,Overweight,,main
+2016-08-25 04:07:28,BTIG Research,Buy,,init
+2016-09-08 07:53:10,UBS,Neutral,,main
+2017-03-21 12:48:14,Evercore ISI Group,Outperform,In-Line,up
+2017-07-18 16:03:40,Barclays,Overweight,,main
+2017-11-06 15:31:35,Bank of America,Neutral,,main
+2017-11-13 17:07:00,Citigroup,Neutral,,main
+2017-12-04 14:38:29,Bank of America,Buy,Neutral,up
+2018-01-30 17:18:04,Barclays,Overweight,Overweight,main
+2018-05-22 13:23:30,JP Morgan,Overweight,Overweight,main
+2018-07-17 17:01:13,Barclays,Overweight,Overweight,main
+2018-08-08 11:40:02,Citigroup,Neutral,Neutral,main
+2018-12-03 12:37:53,Citigroup,Buy,Neutral,up
+2018-12-03 14:39:07,Citigroup,Buy,Buy,main
+2018-12-03 15:12:34,Barclays,Overweight,Overweight,main
+2018-12-14 13:23:22,RBC Capital,Top Pick,Outperform,up
+2019-04-04 11:01:17,Barclays,Equal-Weight,Overweight,down
+2019-08-06 12:07:47,Citigroup,Buy,,main
+2019-08-13 12:32:47,JP Morgan,Neutral,,main
+2019-12-18 10:58:30,JP Morgan,Overweight,Neutral,up
+2019-12-18 12:49:46,RBC Capital,Outperform,Top Pick,down
+2020-01-14 13:40:29,Barclays,Equal-Weight,,main
+2020-02-04 11:32:50,Mizuho,Buy,,init
+2020-02-05 13:57:01,Baird,Neutral,,main
+2020-02-13 13:21:51,Citigroup,Buy,,main
+2020-04-07 14:04:03,Citigroup,Buy,,main
+2020-06-10 12:21:56,RBC Capital,Outperform,,main
+2020-07-20 15:45:05,Mizuho,Buy,,main
+2020-09-02 15:29:21,RBC Capital,Outperform,,main
+2020-10-02 11:22:58,Berenberg,Buy,,init
+2020-10-16 14:00:51,UBS,Neutral,,init
+2021-01-07 11:24:20,Baird,Outperform,Neutral,up
+2021-05-24 11:20:16,RBC Capital,Outperform,,main
+2021-06-16 11:35:29,RBC Capital,Outperform,,main
+2021-07-12 11:30:04,JMP Securities,Market Outperform,,main
+2021-08-17 13:03:40,RBC Capital,Outperform,,main

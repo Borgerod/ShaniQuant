@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-27 09:25:00,BMO Capital,Market Perform,,main
+2012-08-10 07:05:00,Oppenheimer,Outperform,Perform,up
+2013-01-30 07:57:48,Janney Capital,Neutral,Buy,down
+2013-01-30 08:24:48,BMO Capital,Market Perform,,main
+2013-01-30 09:28:24,Oppenheimer,Outperform,,main
+2013-04-15 12:35:21,Janney Capital,Neutral,Buy,down
+2013-06-24 06:35:21,Goldman Sachs,Neutral,Sell,up
+2013-07-26 08:49:07,BMO Capital,Market Perform,,main
+2013-10-28 06:56:16,Oppenheimer,Perform,Outperform,down
+2014-10-13 16:00:00,Oppenheimer,Outperform,Market Perform,up
+2014-10-14 08:30:00,Wunderlich,Buy,,init
+2014-10-16 16:00:00,William Blair,Outperform,,init
+2015-01-05 09:00:00,Wunderlich,Buy,,main
+2015-04-07 07:17:27,RBC Capital,Underperform,,init
+2015-04-24 09:00:00,BMO Capital,Market Perform,,main
+2015-07-15 09:15:37,Seaport Global,Accumulate,Buy,down
+2015-11-03 07:11:55,SunTrust Robinson Humphrey,Buy,,init
+2016-02-29 05:14:05,RBC Capital,Sector Perform,Underperform,up
+2016-03-22 08:03:50,Seaport Global,Neutral,Accumulate,down
+2016-04-04 08:45:56,Sidoti & Co.,Neutral,Buy,down
+2016-04-14 07:08:11,SunTrust Robinson Humphrey,Neutral,Buy,down
+2016-07-21 06:21:27,William Blair,Market Perform,Outperform,down
+2016-09-07 06:27:19,Deutsche Bank,Hold,,init
+2016-10-18 12:41:34,Alembic Global,Neutral,,init
+2017-02-01 13:26:30,Wunderlich,Hold,Buy,down
+2017-07-11 13:01:10,Wolfe Research,Underperform,,init
+2017-07-31 13:38:24,Wolfe Research,Peer Perform,Underperform,up
+2018-01-23 14:29:45,Deutsche Bank,Buy,Hold,up
+2018-04-12 10:49:29,DA Davidson,Neutral,,init
+2018-05-05 14:00:39,B. Riley FBR,Neutral,,main
+2019-01-25 12:23:38,Jefferies,Hold,,init
+2020-01-28 16:04:32,DA Davidson,Neutral,,main
+2020-01-29 12:54:17,RBC Capital,Sector Perform,,main
+2020-01-29 14:03:19,Baird,Neutral,,main
+2020-04-24 14:13:30,RBC Capital,Sector Perform,,main
+2020-04-24 16:24:40,Baird,Neutral,,main
+2020-07-27 12:33:42,Jefferies,Hold,,main
+2020-08-11 11:02:21,RBC Capital,Outperform,Sector Perform,up
+2021-01-19 11:53:56,Jefferies,Buy,Hold,up
+2021-03-31 11:51:23,Morgan Stanley,Equal-Weight,,init
+2021-04-23 12:01:55,Morgan Stanley,Equal-Weight,,main
+2021-04-23 13:46:49,RBC Capital,Outperform,,main
+2021-07-23 12:17:14,RBC Capital,Outperform,,main
+2021-10-22 13:17:03,RBC Capital,Outperform,,main
+2021-12-02 13:09:37,William Blair,Outperform,Market Perform,up

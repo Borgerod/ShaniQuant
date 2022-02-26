@@ -1,0 +1,63 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-03 08:13:00,Stifel Nicolaus,Hold,,init
+2012-04-24 15:06:00,DA Davidson,Buy,,main
+2012-04-26 14:06:00,Goldman Sachs,Neutral,,main
+2012-07-26 15:17:00,Canaccord Genuity,Buy,,main
+2012-10-02 08:17:00,Barclays,Underweight,Overweight,down
+2012-10-02 12:16:00,Barclays,Equal-Weight,Overweight,down
+2012-10-23 07:38:00,DA Davidson,Buy,,main
+2012-11-16 08:24:00,Stifel Nicolaus,Buy,Hold,up
+2013-01-03 12:17:18,Barclays,Equal-Weight,Underperform,up
+2013-01-08 07:34:12,Bank of America,Buy,Underperform,up
+2013-01-31 15:46:07,Bank of America,Buy,,main
+2013-11-26 13:04:12,Sidoti & Co.,Buy,,init
+2014-01-31 08:00:00,DA Davidson,Buy,,main
+2014-09-23 09:00:00,Canaccord Genuity,Buy,,main
+2014-11-24 00:00:00,Sidoti & Co.,Neutral,Buy,down
+2014-12-09 09:00:00,Stifel Nicolaus,Buy,,main
+2015-01-09 00:00:00,Bank of America,Underperform,,down
+2016-01-04 07:36:30,Pacific Crest,Overweight,,init
+2016-10-12 10:17:52,Citigroup,Buy,,init
+2017-01-24 12:15:38,Dougherty,Buy,Neutral,up
+2017-07-06 13:44:12,Deutsche Bank,Buy,,init
+2017-10-26 12:46:08,Deutsche Bank,Buy,,main
+2018-05-15 10:56:44,Cowen & Co.,Outperform,,init
+2018-06-18 17:04:11,Stifel Nicolaus,Buy,Buy,main
+2018-07-13 13:42:21,Citigroup,Buy,Buy,main
+2018-07-30 12:14:35,Citigroup,Buy,Buy,main
+2018-09-25 11:24:59,Citigroup,Buy,Buy,main
+2018-10-25 13:42:26,KeyBanc,Overweight,Overweight,main
+2019-04-17 14:46:17,Deutsche Bank,Buy,Buy,main
+2019-05-15 11:03:36,Susquehanna,Positive,,init
+2019-09-23 12:42:51,Citigroup,Buy,,main
+2019-10-25 12:04:00,Citi,Buy,,main
+2020-01-27 16:34:17,Deutsche Bank,Buy,,main
+2020-01-29 21:19:15,KeyBanc,Overweight,,main
+2020-01-30 13:27:00,Benchmark,Buy,,main
+2020-03-27 14:01:28,Deutsche Bank,Buy,,main
+2020-04-02 11:45:48,DA Davidson,Neutral,Buy,down
+2020-04-30 13:42:17,Citigroup,Neutral,,main
+2020-06-15 09:17:14,Needham,Buy,,init
+2020-06-18 12:48:32,DA Davidson,Buy,Neutral,up
+2020-06-25 10:25:12,Wells Fargo,Equal-Weight,,init
+2020-07-22 10:11:42,Rosenblatt,Buy,,init
+2020-07-28 09:51:12,Needham,Buy,,main
+2020-07-31 08:46:59,KeyBanc,Overweight,,main
+2020-07-31 10:12:29,Needham,Buy,,main
+2020-07-31 11:57:56,Rosenblatt,Buy,,main
+2020-10-29 14:16:29,Benchmark,Buy,,main
+2020-12-11 09:44:43,KeyBanc,Overweight,,main
+2020-12-11 11:18:54,Needham,Buy,,main
+2020-12-11 12:17:01,Rosenblatt,Buy,,main
+2021-01-22 12:00:36,Needham,Buy,,main
+2021-01-25 15:25:29,Citigroup,Neutral,,main
+2021-01-29 09:46:44,KeyBanc,Overweight,,main
+2021-04-28 11:12:00,Rosenblatt,Buy,,main
+2021-05-28 10:58:15,Rosenblatt,Buy,,main
+2021-07-02 09:51:16,Needham,Buy,,main
+2021-07-30 11:03:30,Needham,Buy,,main
+2021-10-29 11:24:17,Rosenblatt,Buy,,main
+2022-01-26 10:16:24,Keybanc,Sector Weight,,init
+2022-01-28 11:25:26,Needham,Buy,,main
+2022-01-28 12:24:03,Rosenblatt,Buy,,main
+2022-01-28 12:57:06,Deutsche Bank,Buy,,main

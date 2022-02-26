@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-05 08:05:00,Ladenburg Thalmann,Neutral,,init
+2012-05-03 08:33:00,Ladenburg Thalmann,Neutral,,main
+2012-08-02 15:55:00,DA Davidson,Neutral,,main
+2012-12-04 07:57:13,KeyBanc,Buy,,init
+2012-12-04 09:52:18,KeyBanc,Buy,,init
+2012-12-11 14:31:31,DA Davidson,Neutral,,main
+2013-01-04 11:09:15,DA Davidson,Buy,Neutral,up
+2013-01-04 11:21:11,DA Davidson,Buy,Neutral,up
+2013-03-04 06:42:36,DA Davidson,Buy,,main
+2013-08-02 06:56:12,DA Davidson,Buy,,main
+2013-12-10 06:41:39,Wunderlich,Buy,,init
+2014-03-17 06:42:01,Wunderlich,Buy,,main
+2014-06-12 06:19:13,JP Morgan,Neutral,,init
+2015-01-12 09:00:00,JP Morgan,Neutral,,main
+2015-04-22 09:00:00,KeyBanc,Overweight,,main
+2015-05-08 06:19:56,Baird,Neutral,Outperform,down
+2015-06-09 07:11:28,KeyBanc,Overweight,,main
+2015-06-25 06:36:26,JP Morgan,Underweight,Neutral,down
+2015-10-15 07:06:29,Wells Fargo,Market Perform,,init
+2015-10-19 06:16:59,Wunderlich,Hold,,down
+2015-12-08 06:18:50,Wunderlich,Buy,Hold,up
+2016-03-29 09:23:11,William Blair,Hold,Buy,down
+2016-03-30 13:10:10,JP Morgan,Underweight,,main
+2016-11-04 11:09:05,Macquarie,Neutral,,init
+2017-10-12 11:59:28,JP Morgan,Underweight,,main
+2017-10-12 17:30:40,Williams Capital,Hold,Buy,down
+2017-10-19 16:28:56,KeyBanc,Sector Weight,Overweight,down
+2017-11-15 13:08:13,JP Morgan,Underweight,,main
+2018-01-25 15:05:30,JP Morgan,Underweight,Underweight,main
+2018-02-28 12:25:41,Mizuho,Buy,,init
+2018-03-16 13:48:16,JP Morgan,Underweight,Underweight,main
+2018-04-10 13:25:09,JP Morgan,Underweight,Underweight,main
+2018-05-07 17:58:10,Mizuho,Neutral,Buy,down
+2018-09-17 13:24:13,Wells Fargo,Market Perform,Market Perform,main
+2019-02-11 12:00:57,Mizuho,Underperform,Neutral,down
+2020-01-08 11:17:46,Guggenheim,Buy,Neutral,up
+2020-03-03 11:55:14,Mizuho,Neutral,Underperform,up
+2020-05-07 13:17:14,Wells Fargo,Equal-Weight,,main
+2020-06-01 15:24:38,JP Morgan,Underweight,,main
+2020-08-26 12:13:48,Mizuho,Neutral,,main
+2021-01-21 11:30:40,Guggenheim,Neutral,Buy,down
+2021-04-28 12:08:29,Wells Fargo,Equal-Weight,,main

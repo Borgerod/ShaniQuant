@@ -1,0 +1,116 @@
+Date,Firm,To Grade,From Grade,Action
+2016-10-06 07:47:57,Cantor Fitzgerald,Buy,,init
+2016-10-17 11:57:50,Raymond James,Outperform,,init
+2017-05-12 12:17:58,Cantor Fitzgerald,Overweight,,up
+2017-08-11 16:09:53,Cantor Fitzgerald,Overweight,,main
+2017-08-11 18:31:50,Citigroup,Buy,,main
+2017-08-16 12:19:34,SunTrust Robinson Humphrey,Hold,,init
+2017-10-02 13:57:55,JMP Securities,Outperform,,init
+2017-10-13 15:43:39,Macquarie,Outperform,,init
+2017-12-11 12:24:15,SunTrust Robinson Humphrey,Buy,Hold,up
+2017-12-20 13:39:04,Wells Fargo,Outperform,,init
+2018-01-19 12:24:44,Stifel Nicolaus,Buy,,init
+2018-02-23 15:26:58,Stifel Nicolaus,Buy,Buy,main
+2018-02-26 13:09:06,Citigroup,Buy,Buy,main
+2018-03-09 13:45:10,Citigroup,Buy,Buy,main
+2018-04-05 15:29:57,PiperJaffray,Overweight,,init
+2018-05-10 12:35:34,Oppenheimer,Outperform,,init
+2018-05-11 19:52:20,Stifel Nicolaus,Buy,Buy,main
+2018-06-04 11:52:23,Wells Fargo,Market Perform,Outperform,down
+2018-06-08 11:08:02,Stifel Nicolaus,Buy,Buy,main
+2018-07-09 11:32:24,Citigroup,Buy,Buy,main
+2018-07-09 13:22:33,Pivotal Research,Sell,,init
+2018-07-11 11:49:56,Nomura,Neutral,,init
+2018-08-10 13:23:35,Nomura,Neutral,Neutral,main
+2018-08-10 14:10:54,Citigroup,Buy,Buy,main
+2018-08-10 14:28:40,RBC Capital,Outperform,Outperform,main
+2018-10-03 11:19:15,Stifel Nicolaus,Buy,Buy,main
+2018-10-08 20:50:06,DA Davidson,Buy,,init
+2018-10-17 12:57:05,Jefferies,Buy,Buy,main
+2019-02-20 12:58:11,Stifel Nicolaus,Hold,Buy,down
+2019-02-22 16:17:33,Citigroup,Buy,Buy,main
+2019-02-22 17:03:35,Jefferies,Buy,Buy,main
+2019-04-23 12:30:25,Needham,Hold,,init
+2019-04-30 11:50:53,JMP Securities,Market Perform,Market Outperform,down
+2019-05-09 16:25:13,SunTrust Robinson Humphrey,Buy,,main
+2019-05-10 13:44:01,Nomura,Neutral,,main
+2019-05-10 14:20:03,Susquehanna,Positive,,main
+2019-05-29 12:12:51,Pivotal Research,Buy,,init
+2019-06-12 10:48:10,Nomura,Reduce,Neutral,down
+2019-07-02 10:39:17,RBC Capital,Sector Perform,Outperform,down
+2019-07-18 11:06:20,Jefferies,Hold,Buy,down
+2019-07-24 10:21:40,Citi,Neutral,Buy,down
+2019-08-09 11:30:53,Raymond James,Market Perform,Outperform,down
+2019-08-09 11:39:07,Nomura,Reduce,,main
+2019-08-09 13:41:15,SunTrust Robinson Humphrey,Buy,,main
+2019-08-09 13:58:35,Oppenheimer,Outperform,,main
+2019-09-26 10:24:03,Nomura,Neutral,Reduce,up
+2019-10-11 10:35:04,RBC Capital,Outperform,Sector Perform,up
+2019-11-05 12:08:30,Stephens & Co.,Overweight,,init
+2019-11-08 13:16:22,Stifel Nicolaus,Hold,,main
+2019-12-06 12:04:59,Needham,Buy,Hold,up
+2020-01-22 15:47:29,Pivotal Research,Buy,,main
+2020-02-26 15:22:20,Stifel,Hold,,main
+2020-02-28 11:11:56,Stephens & Co.,Overweight,,main
+2020-02-28 12:22:55,Rosenblatt,Neutral,,reit
+2020-02-28 12:51:31,Wells Fargo,Overweight,Equal-Weight,up
+2020-02-28 14:21:31,SunTrust Robinson Humphrey,Buy,,main
+2020-02-28 14:30:29,Nomura,Neutral,,main
+2020-02-28 15:39:20,Stifel Nicolaus,Hold,,main
+2020-03-02 13:08:18,Citigroup,Neutral,,main
+2020-03-17 14:20:24,Oppenheimer,Outperform,,main
+2020-03-25 10:52:11,Needham,Buy,,main
+2020-03-26 11:45:34,Stephens & Co.,Overweight,,main
+2020-04-02 09:11:25,Citigroup,Neutral,,main
+2020-05-05 12:52:39,Oppenheimer,Outperform,,main
+2020-05-05 15:58:56,SunTrust Robinson Humphrey,Buy,,main
+2020-05-08 09:56:41,RBC Capital,Sector Perform,Outperform,down
+2020-05-08 11:19:04,Needham,Buy,,main
+2020-05-11 14:52:21,DA Davidson,Neutral,Buy,down
+2020-05-12 16:03:18,Citigroup,Neutral,,main
+2020-05-14 11:04:07,Rosenblatt,Neutral,,main
+2020-06-22 10:46:58,Needham,Buy,,main
+2020-07-02 14:33:57,Oppenheimer,Outperform,,main
+2020-08-06 14:48:59,Stifel,Hold,,main
+2020-08-07 11:06:39,Needham,Buy,,main
+2020-08-07 16:35:59,Stephens & Co.,Equal-Weight,Overweight,down
+2020-08-10 12:03:49,Citigroup,Neutral,,main
+2020-08-10 15:32:24,DA Davidson,Neutral,,main
+2020-08-10 17:24:56,Truist Securities,Hold,,main
+2020-09-15 09:00:16,KeyBanc,Overweight,,init
+2020-10-14 09:54:35,Needham,Buy,,main
+2020-10-15 09:48:08,KeyBanc,Sector Weight,Overweight,down
+2020-11-19 13:22:19,Berenberg,Buy,,init
+2020-11-23 11:13:07,Needham,Buy,,main
+2020-12-01 12:00:36,Rosenblatt,Neutral,,main
+2021-02-02 16:55:54,Macquarie,Outperform,,main
+2021-02-19 14:42:05,DA Davidson,Buy,Neutral,up
+2021-03-08 10:04:39,KeyBanc,Overweight,Sector Weight,up
+2021-04-06 10:44:42,Evercore ISI Group,Outperform,,init
+2021-04-21 15:56:47,Vertical Research,Positive,Mixed,up
+2021-05-11 10:12:52,Keybanc,Overweight,,main
+2021-05-11 11:07:53,Rosenblatt,Neutral,,main
+2021-05-11 11:47:34,Truist Securities,Buy,Hold,up
+2021-05-11 13:52:48,Oppenheimer,Outperform,,main
+2021-05-11 14:01:14,Stifel,Hold,,main
+2021-06-28 12:12:58,Oppenheimer,Outperform,,main
+2021-07-08 12:52:44,Evercore ISI Group,Outperform,,main
+2021-07-23 11:31:29,Stephens & Co.,Overweight,Equal-Weight,up
+2021-08-10 08:31:07,Keybanc,Overweight,,main
+2021-08-10 10:40:55,Oppenheimer,Outperform,,main
+2021-08-10 10:48:54,Stephens & Co.,Overweight,,main
+2021-08-10 11:15:35,Rosenblatt,Neutral,,main
+2021-08-10 12:07:00,DA Davidson,Buy,,main
+2021-08-10 14:46:28,Susquehanna,Positive,,main
+2021-08-10 14:56:59,Truist Securities,Buy,,main
+2021-08-17 11:02:32,Citigroup,Neutral,,main
+2021-11-09 08:36:16,Keybanc,Overweight,,main
+2021-11-09 08:42:56,DA Davidson,Buy,,main
+2021-11-09 12:42:06,Wells Fargo,Overweight,,main
+2021-11-09 12:59:39,Oppenheimer,Outperform,,main
+2021-11-09 13:06:22,Stephens & Co.,Overweight,,main
+2021-11-09 13:10:19,RBC Capital,Outperform,,main
+2021-11-19 14:40:55,Citigroup,Neutral,,main
+2021-12-02 10:26:56,Needham,Buy,,main
+2022-01-07 09:59:58,Jefferies,Buy,Hold,up
+2022-02-17 09:33:18,Keybanc,Overweight,,main

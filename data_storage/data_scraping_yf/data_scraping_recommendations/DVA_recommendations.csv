@@ -1,0 +1,77 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-17 06:42:00,Citigroup,Neutral,,main
+2012-02-17 09:50:00,Goldman Sachs,Buy,,main
+2012-04-05 10:16:00,Bank oferica,Buy,,main
+2012-05-03 08:29:00,Feltl & Co.,Buy,,down
+2012-07-03 06:08:00,Bank of America,Buy,,main
+2012-08-02 09:57:00,Feltl & Co.,Buy,,main
+2012-10-02 13:06:00,Bank of America,Buy,,main
+2012-10-11 06:37:00,Bank of America,Buy,,main
+2012-10-31 08:35:00,Feltl & Co.,Buy,,main
+2012-11-06 07:49:00,Deutsche Bank,Buy,,main
+2012-12-20 06:09:34,JP Morgan,Overweight,,init
+2013-01-28 07:54:35,Bernstein,Market Perform,,init
+2013-02-15 06:25:57,Goldman Sachs,Neutral,Buy,down
+2013-02-15 08:50:38,Bank of America,Buy,,main
+2013-03-07 06:12:17,Deutsche Bank,Hold,Buy,down
+2013-03-11 08:35:56,SunTrust Robinson Humphrey,Neutral,Buy,down
+2013-04-02 06:11:24,Deutsche Bank,Buy,Hold,up
+2013-07-02 07:46:30,Raymond James,Market Perform,Outperform,down
+2013-07-16 08:23:32,Goldman Sachs,Sell,Neutral,down
+2013-08-07 09:27:02,RBC Capital,Sector Perform,Outperform,down
+2013-10-10 09:09:21,Atlantic Equities,Overweight,,init
+2013-11-25 11:06:57,Deutsche Bank,Buy,,main
+2013-11-25 11:24:46,Citigroup,Neutral,,main
+2013-12-17 16:00:00,KeyBanc,Buy,,init
+2013-12-18 06:42:29,KeyBanc,Buy,,init
+2014-01-06 16:00:00,Raymond James,Outperform,Market Perform,up
+2014-04-17 22:54:49,Citigroup,Neutral,,main
+2014-05-02 01:40:16,Deutsche Bank,Buy,,main
+2014-06-30 06:26:01,Jefferies,Buy,,init
+2014-07-21 08:15:48,Raymond James,Market Perform,Outperform,down
+2014-08-15 07:46:40,Deutsche Bank,Hold,Buy,down
+2014-09-17 05:56:02,KeyBanc,Hold,Buy,down
+2014-11-07 09:00:00,JP Morgan,Overweight,,main
+2015-03-13 09:00:00,Deutsche Bank,Hold,,main
+2015-04-27 06:07:57,Baird,Outperform,Neutral,up
+2015-09-16 08:07:50,JP Morgan,Neutral,,init
+2016-03-02 06:32:33,Bernstein,Market Perform,,main
+2016-08-09 22:26:08,JP Morgan,Neutral,,main
+2016-09-06 06:02:43,Citigroup,Neutral,,init
+2016-09-06 07:28:44,Bank of America,Neutral,Buy,down
+2016-09-20 06:07:55,Raymond James,Outperform,Market Perform,up
+2016-12-13 11:44:51,Baird,Neutral,Outperform,down
+2017-06-26 12:46:03,Jefferies,Hold,Buy,down
+2017-10-09 11:56:02,JP Morgan,Underweight,Neutral,down
+2017-11-08 15:06:34,Bank of America,Neutral,,main
+2017-12-07 13:18:15,Raymond James,Strong Buy,Outperform,up
+2017-12-11 15:22:30,Citigroup,Buy,Neutral,up
+2018-01-04 11:24:34,Bank of America,Buy,Neutral,up
+2018-09-13 12:26:23,JP Morgan,Neutral,Underweight,up
+2018-11-08 13:04:08,Raymond James,Market Perform,Strong Buy,down
+2018-11-08 14:47:42,RBC Capital,Sector Perform,Sector Perform,main
+2018-11-16 14:06:19,UBS,Sell,,init
+2018-11-28 13:18:00,Raymond James,Outperform,Market Perform,up
+2018-12-14 11:43:31,Barclays,Overweight,,init
+2019-01-03 12:52:21,Deutsche Bank,Buy,,init
+2019-01-08 12:33:40,UBS,Neutral,Sell,up
+2019-05-09 13:25:49,Deutsche Bank,Buy,,main
+2019-07-26 10:59:56,Baird,Neutral,Outperform,down
+2019-08-22 12:46:31,UBS,Neutral,,main
+2019-09-11 15:05:09,William Blair,Market Perform,Outperform,down
+2019-11-06 13:49:22,Baird,Neutral,,main
+2019-11-07 11:38:11,Raymond James,Market Perform,Outperform,down
+2019-11-19 16:57:40,Barclays,Overweight,,main
+2019-12-18 14:44:00,SunTrust Robinson Humphrey,Hold,,main
+2019-12-20 14:31:31,JP Morgan,Neutral,,main
+2020-01-24 11:45:57,Goldman Sachs,Buy,Neutral,up
+2020-04-13 12:59:59,SunTrust Robinson Humphrey,Hold,,main
+2020-05-06 15:51:13,SunTrust Robinson Humphrey,Hold,,main
+2021-01-05 12:59:39,B of A Securities,Neutral,Buy,down
+2021-03-26 12:38:24,B of A Securities,Underperform,Neutral,down
+2021-07-19 13:50:35,Deutsche Bank,Buy,,main
+2021-08-12 10:21:21,Barclays,Equal-Weight,Overweight,down
+2021-09-10 09:13:00,Cowen & Co.,Market Perform,,init
+2021-10-13 14:18:34,Truist Securities,Hold,,main
+2021-10-29 13:26:11,RBC Capital,Sector Perform,,main
+2022-01-05 14:38:56,Truist Securities,Hold,,main

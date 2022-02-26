@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-03 11:58:00,Barclays,Equal-Weight,Overweight,down
+2012-07-26 13:35:00,Barclays,Equal-Weight,,main
+2012-10-25 14:10:00,Barclays,Equal-Weight,,main
+2012-11-05 13:27:00,M Partners,Buy,,main
+2012-12-06 10:18:55,Stephens & Co.,Equal-Weight,Overweight,down
+2013-02-27 09:17:28,M Partners,Buy,,main
+2013-04-10 10:08:44,William Blair,Market Perform,Outperform,down
+2013-07-05 08:35:42,M Partners,Buy,Hold,up
+2014-07-29 21:15:48,Barclays,Equal-Weight,,main
+2014-10-31 09:00:00,Barclays,Equal-Weight,,main
+2015-04-30 09:00:00,Barclays,Equal-Weight,,main
+2015-06-12 03:47:44,Barclays,Equal-Weight,,main
+2015-09-29 09:28:03,Sidoti & Co.,Buy,,init
+2015-10-09 13:52:04,Barclays,Equal-Weight,,main
+2015-11-11 10:29:31,Barclays,Equal-Weight,,main
+2016-01-05 09:50:18,Barclays,Equal-Weight,,main
+2016-09-09 08:01:18,Barclays,Equal-Weight,,main
+2016-09-23 09:18:03,Barclays,Equal-Weight,,main
+2016-10-05 12:22:00,Dougherty & Co.,Neutral,Buy,down
+2017-08-08 13:40:22,Sidoti & Co.,Buy,Neutral,up
+2018-02-23 14:26:50,Dougherty,Buy,Neutral,up
+2018-05-05 14:00:37,B. Riley FBR,Buy,,init
+2018-05-05 14:00:37,B. Riley FBR,Neutral,Buy,down
+2018-05-05 14:00:38,B. Riley FBR,Buy,Neutral,up
+2019-08-02 16:16:43,B. Riley FBR,Buy,,main
+2020-01-15 14:20:59,B. Riley,Buy,,reit

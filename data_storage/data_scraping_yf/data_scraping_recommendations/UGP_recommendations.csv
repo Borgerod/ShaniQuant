@@ -1,0 +1,16 @@
+Date,Firm,To Grade,From Grade,Action
+2012-12-14 09:59:07,JP Morgan,Neutral,,init
+2013-12-27 16:00:00,Credit Suisse,Neutral,,init
+2015-05-07 11:01:40,HSBC,Hold,,down
+2015-06-09 08:09:38,JP Morgan,Neutral,Overweight,down
+2015-09-24 08:58:16,Goldman Sachs,Neutral,,init
+2016-11-18 14:37:31,Citigroup,Buy,Neutral,up
+2017-08-10 13:19:05,Bank of America,Underperform,Neutral,down
+2018-05-18 13:34:49,HSBC,Buy,Hold,up
+2018-08-16 11:43:43,Goldman Sachs,Buy,Neutral,up
+2019-09-03 12:04:31,JP Morgan,Neutral,,main
+2019-10-03 10:49:14,Goldman Sachs,Neutral,,init
+2019-12-10 14:08:27,Santander,Buy,Hold,up
+2020-01-17 14:40:48,B of A Securities,Neutral,Underperform,up
+2020-03-31 11:22:59,B of A Securities,Buy,Neutral,up
+2021-12-14 15:55:12,Santander,Hold,Buy,down

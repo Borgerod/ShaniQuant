@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-25 09:35:58,BTIG Research,Buy,,init
+2020-11-25 09:35:58,Societe Generale,Hold,Buy,down
+2020-11-25 09:35:58,Bank of America,Neutral,Buy,down
+2020-11-25 09:35:58,Susquehanna,Neutral,,main
+2020-11-25 09:35:58,Goldman Sachs,Sell,,init
+2020-11-25 09:35:58,Johnson Rice,Accumulate,,init
+2020-11-25 09:35:58,Societe Generale,Buy,,init
+2020-11-25 09:35:58,Susquehanna,Neutral,,init
+2020-11-25 09:36:44,Morgan Stanley,Equal-Weight,Underweight,up
+2020-11-25 09:36:48,Bank of America,Underperform,Neutral,down
+2020-11-25 09:36:50,Imperial Capital,In-Line,,init
+2020-11-25 09:36:51,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:36:52,Morgan Stanley,Overweight,Equal-Weight,up
+2020-11-25 09:36:52,Imperial Capital,In-Line,,main
+2020-11-25 09:36:53,Bank of America,Neutral,Underperform,up
+2020-11-25 09:36:53,Societe Generale,Hold,Buy,down
+2020-11-25 09:36:53,Bank of America,Buy,Neutral,up
+2020-11-25 09:36:54,Goldman Sachs,Neutral,Sell,up
+2020-11-25 09:36:54,Imperial Capital,Outperform,In-Line,up
+2020-11-25 09:36:57,Bank of America,Buy,Buy,main
+2020-11-25 09:36:57,Societe Generale,Hold,Buy,down
+2020-11-25 09:36:58,Imperial Capital,Outperform,Outperform,main
+2020-11-25 09:37:01,Evercore ISI Group,Outperform,,init
+2020-11-25 09:37:05,Mizuho,Buy,,init
+2020-11-25 09:37:05,Goldman Sachs,Sell,Neutral,down
+2020-11-25 09:37:06,Raymond James,Outperform,Market Perform,up
+2020-11-25 09:37:07,Bank of America,Neutral,,main
+2020-11-25 09:37:15,Raymond James,Market Perform,Outperform,down
+2020-11-25 09:37:16,Imperial Capital,In-Line,Outperform,down
+2021-05-28 10:36:32,RBC Capital,Outperform,,init
+2021-09-08 11:07:54,RBC Capital,Outperform,,main
+2021-09-09 08:57:09,Keybanc,Overweight,,init
+2021-09-16 08:34:29,Keybanc,Overweight,,main
+2021-09-22 09:09:21,MKM Partners,Buy,,init
+2021-10-19 08:53:46,Keybanc,Overweight,,main
+2021-11-03 08:34:40,Keybanc,Overweight,,main
+2022-01-20 10:45:52,Keybanc,Overweight,,main

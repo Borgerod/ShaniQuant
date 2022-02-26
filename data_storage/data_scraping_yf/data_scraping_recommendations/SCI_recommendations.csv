@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-03 12:41:00,UBS,Buy,,init
+2012-10-01 05:53:00,Bank of America,Buy,,main
+2013-02-13 10:50:28,UBS,Buy,,main
+2014-08-01 01:38:54,UBS,Buy,,main
+2014-12-29 04:10:34,Bank of America,Buy,,main
+2015-11-11 05:24:31,Oppenheimer,Outperform,,init
+2016-02-11 11:28:10,UBS,Buy,,main
+2016-02-12 13:01:56,Oppenheimer,Outperform,,main
+2016-03-15 16:18:17,Credit Suisse,Neutral,,init
+2016-04-28 06:06:13,Credit Suisse,Outperform,Neutral,up
+2016-07-28 12:53:12,Oppenheimer,Outperform,,main
+2016-08-02 07:15:21,Wells Fargo,Market Perform,,init
+2017-05-01 18:45:38,Deutsche Bank,Buy,,init
+2018-02-05 14:33:58,Credit Suisse,Outperform,Outperform,main
+2018-02-15 14:15:47,Deutsche Bank,Buy,Buy,main
+2018-02-21 15:37:00,Bank of America,Buy,Buy,main
+2018-09-17 13:06:42,Credit Suisse,Outperform,Outperform,main
+2018-10-26 15:49:50,Oppenheimer,Outperform,Outperform,main
+2018-10-31 15:14:06,Raymond James,Strong Buy,Strong Buy,main
+2019-02-20 11:39:45,Raymond James,Outperform,Strong Buy,down
+2019-07-31 11:57:52,Raymond James,Outperform,,main
+2020-02-18 12:18:56,Credit Suisse,Outperform,,main
+2020-02-19 12:18:37,Raymond James,Outperform,,main
+2020-03-31 12:59:10,Oppenheimer,Outperform,,main
+2020-04-21 14:25:21,Raymond James,Outperform,,reit
+2020-04-30 13:14:29,Credit Suisse,Outperform,,main
+2020-06-18 12:20:27,Oppenheimer,Outperform,,main
+2020-07-31 13:21:08,Credit Suisse,Outperform,,main
+2020-07-31 14:59:19,Raymond James,Outperform,,main
+2020-10-30 12:06:43,Raymond James,Outperform,,main
+2020-11-02 15:27:33,Credit Suisse,Outperform,,main
+2021-07-30 12:29:32,Credit Suisse,Outperform,,main
+2021-08-02 09:10:26,Raymond James,Outperform,,main
+2021-10-29 12:08:21,Credit Suisse,Outperform,,main
+2021-10-29 14:34:00,Raymond James,Outperform,,main
+2022-01-19 12:52:49,Oppenheimer,Outperform,,main
+2022-02-16 13:24:03,Credit Suisse,Outperform,,main

@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action
+2014-05-06 06:57:17,Stifel Nicolaus,Buy,,init
+2014-05-06 07:34:44,Morgan Stanley,Overweight,,init
+2014-05-06 07:43:25,Deutsche Bank,Buy,,init
+2014-05-06 07:44:05,JP Morgan,Overweight,,init
+2014-05-06 07:44:47,Jefferies,Hold,,init
+2014-05-06 07:45:52,Stifel Nicolaus,Buy,,init
+2014-08-05 22:51:57,Deutsche Bank,Buy,,main
+2014-08-12 09:00:00,Jefferies,Hold,,main
+2014-08-13 09:00:00,JP Morgan,Overweight,,main
+2014-10-08 09:00:00,Deutsche Bank,Buy,,main
+2014-11-05 09:00:00,Stifel Nicolaus,Buy,,main
+2015-03-02 09:00:00,Jefferies,Hold,,main
+2015-05-06 09:00:00,Deutsche Bank,Buy,,main
+2015-05-08 09:00:00,Jefferies,Hold,,main
+2015-05-22 06:26:27,PiperJaffray,Neutral,,init
+2015-08-04 07:38:31,William Blair,Market Perform,Outperform,down
+2015-08-04 14:06:37,Stifel Nicolaus,Buy,,main
+2015-08-04 15:06:14,PiperJaffray,Neutral,,main
+2015-11-03 10:37:11,PiperJaffray,Neutral,,main
+2016-08-04 06:19:01,Morgan Stanley,Equal-Weight,Overweight,down
+2016-08-05 10:55:05,Jefferies,Hold,,main
+2016-12-01 14:31:44,Stifel Nicolaus,Buy,,main
+2016-12-09 13:26:12,JP Morgan,Neutral,Overweight,down
+2017-04-19 14:39:16,Deutsche Bank,Hold,Buy,down
+2017-08-17 11:16:33,JP Morgan,Underweight,Neutral,down
+2017-08-22 17:47:54,Morgan Stanley,Underweight,Equal-Weight,down
+2017-11-03 18:01:20,Morgan Stanley,Underweight,,main
+2018-02-28 16:15:40,Stifel Nicolaus,Buy,Buy,main
+2018-04-04 11:14:47,Morgan Stanley,Equal-Weight,Underweight,up
+2018-04-12 11:00:52,Stifel Nicolaus,Buy,Buy,main
+2018-05-01 12:04:06,Stifel Nicolaus,Buy,Buy,main
+2018-05-01 15:54:10,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-07-31 11:25:21,Stifel Nicolaus,Buy,Buy,main
+2018-07-31 13:50:13,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-08-10 13:41:29,Credit Suisse,Neutral,,init
+2018-10-30 14:38:58,Credit Suisse,Neutral,Neutral,main
+2019-02-12 12:17:52,William Blair,Outperform,Market Perform,up
+2019-02-15 13:02:05,JP Morgan,Neutral,Underweight,up
+2020-04-29 13:13:56,Credit Suisse,Neutral,,main
+2020-07-28 12:25:25,Credit Suisse,Neutral,,main
+2020-10-27 12:48:43,Credit Suisse,Neutral,,main
+2021-02-17 13:21:45,Credit Suisse,Neutral,,main
+2021-04-27 14:53:40,Credit Suisse,Neutral,,main
+2021-08-17 12:54:58,JP Morgan,Neutral,,main
+2021-10-26 12:12:30,Credit Suisse,Neutral,,main

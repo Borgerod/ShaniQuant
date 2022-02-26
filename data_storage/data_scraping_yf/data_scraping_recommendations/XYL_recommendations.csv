@@ -1,0 +1,122 @@
+Date,Firm,To Grade,From Grade,Action
+2012-06-21 06:47:00,Janney Capital,Buy,Neutral,up
+2012-08-03 14:25:00,Barclays,Equal-Weight,,main
+2012-09-05 06:54:00,Citigroup,Neutral,,main
+2012-10-17 08:03:00,DA Davidson,Neutral,,init
+2012-10-18 07:44:00,Ladenburg Thalmann,Neutral,Buy,down
+2013-01-09 10:20:30,CL King,Buy,,init
+2013-03-18 06:36:50,Citigroup,Neutral,,main
+2013-04-15 09:34:07,CL King,Neutral,Buy,down
+2013-07-30 09:58:48,Brean Capital,Hold,Buy,down
+2013-07-30 13:26:08,BB&T Capital,Hold,Buy,down
+2013-07-31 07:15:17,Wedbush,Neutral,Outperform,down
+2013-07-31 07:55:04,DA Davidson,Underperform,Neutral,down
+2013-09-26 07:51:58,Barclays,Overweight,Equal-Weight,up
+2013-10-14 12:11:00,Gabelli & Co.,Buy,,init
+2013-10-29 12:15:37,Brean Capital,Buy,Hold,up
+2013-10-30 07:06:07,KeyBanc,Hold,Buy,down
+2013-10-30 16:00:00,DA Davidson,Neutral,Underperform,up
+2013-11-19 08:00:00,Cowen & Co.,Outperform,,init
+2013-11-20 08:11:28,Stifel Nicolaus,Hold,,init
+2013-12-19 16:00:00,Sterne Agee,Neutral,,init
+2014-01-21 16:00:00,Oppenheimer,Outperform,,init
+2014-04-30 00:28:29,Citigroup,Hold,,main
+2014-04-30 08:00:00,Wedbush,Outperform,Neutral,up
+2014-06-23 20:24:13,Citigroup,Neutral,,main
+2014-10-28 09:41:13,Stifel Nicolaus,Buy,,main
+2014-10-28 09:52:48,Barclays,Overweight,,main
+2014-10-29 09:00:00,Stifel Nicolaus,Buy,,main
+2014-10-29 14:09:42,DA Davidson,Neutral,,main
+2014-11-25 00:00:00,RBC Capital,Sector Perform,,init
+2015-01-05 05:27:34,Stifel Nicolaus,Hold,Buy,down
+2015-01-12 09:00:00,Barclays,Overweight,,main
+2015-01-16 06:24:31,Susquehanna,Neutral,,init
+2015-01-28 06:52:49,Boenning & Scattergood,Neutral,,init
+2015-03-17 09:00:00,Barclays,Overweight,,main
+2015-03-23 06:04:26,Barclays,Equal-Weight,Overweight,down
+2015-04-01 06:17:14,Boenning & Scattergood,Outperform,Neutral,up
+2015-07-08 08:36:58,Seaport Global,,,init
+2015-07-31 15:56:34,Barclays,Equal-Weight,,main
+2015-09-03 06:38:25,Stifel Nicolaus,Buy,,up
+2015-10-05 11:00:00,Barclays,Equal-Weight,,main
+2015-10-30 04:06:10,Barclays,Equal-Weight,,main
+2015-10-30 10:38:19,Oppenheimer,Outperform,,main
+2015-11-02 13:20:21,Barclays,Equal-Weight,,main
+2016-01-06 06:37:06,RBC Capital,Outperform,Sector Perform,up
+2016-01-19 13:15:44,Barclays,Equal-Weight,,main
+2016-01-21 09:02:45,Seaport Global,Buy,Accumulate,up
+2016-02-19 05:17:21,Janney Capital,Neutral,,init
+2016-03-21 06:12:48,Stifel Nicolaus,Hold,Buy,down
+2016-04-05 07:13:43,Sterne Agee CRT,Buy,Neutral,up
+2016-04-11 10:21:02,Wedbush,Neutral,Outperform,down
+2016-07-18 11:43:40,Barclays,Equal-Weight,,main
+2016-08-16 10:56:18,Canaccord Genuity,Hold,,main
+2016-08-22 07:28:51,Atlantic Equities,Overweight,Neutral,up
+2016-11-02 10:15:59,Janney Capital,Buy,Neutral,up
+2016-11-17 13:24:06,Northcoast Research,Buy,,init
+2016-11-28 13:09:22,Boenning & Scattergood,Neutral,Outperform,down
+2017-03-08 15:47:12,Goldman Sachs,Neutral,,init
+2017-05-15 14:40:48,Barclays,Overweight,Equal-Weight,up
+2017-06-21 11:20:29,BMO Capital,Outperform,,init
+2017-07-12 15:07:35,Oppenheimer,Outperform,,main
+2017-08-02 16:58:34,BMO Capital,Outperform,,main
+2017-11-01 16:39:02,BMO Capital,Outperform,,main
+2017-11-01 17:57:07,Oppenheimer,Outperform,,main
+2018-04-25 14:33:13,Canaccord Genuity,Hold,Hold,main
+2018-05-02 11:54:02,Stifel Nicolaus,Hold,Hold,main
+2018-05-02 13:55:20,BMO Capital,Outperform,Outperform,main
+2018-08-01 11:51:43,Stifel Nicolaus,Hold,Hold,main
+2018-08-01 13:42:44,BMO Capital,Outperform,Outperform,main
+2018-09-05 11:58:18,Raymond James,Outperform,,init
+2018-10-12 12:56:19,Credit Suisse,Outperform,,init
+2018-10-18 17:04:33,Vertical Research,Hold,Sell,up
+2018-10-31 14:49:23,BMO Capital,Outperform,Outperform,main
+2018-10-31 15:33:38,Credit Suisse,Outperform,Outperform,main
+2018-12-19 12:47:44,Stifel Nicolaus,Buy,Hold,up
+2019-04-16 13:08:26,Stifel Nicolaus,Buy,Buy,main
+2019-05-03 12:17:43,Janney Capital,Buy,Neutral,up
+2019-05-03 12:59:23,Stifel Nicolaus,Buy,Buy,main
+2019-05-14 11:03:44,Cowen & Co.,Market Perform,Outperform,down
+2019-08-02 12:08:07,Credit Suisse,Neutral,Outperform,down
+2019-09-20 10:57:30,Jefferies,Buy,,init
+2019-11-04 12:50:36,Seaport Global,Neutral,Buy,down
+2019-12-05 11:35:49,Jefferies,Hold,Buy,down
+2019-12-17 12:10:28,Citigroup,Neutral,,init
+2020-02-07 16:12:04,Canaccord Genuity,Hold,,main
+2020-02-14 12:24:02,Rosenblatt,Neutral,,init
+2020-03-10 09:47:35,Credit Suisse,Underperform,Neutral,down
+2020-03-31 11:09:30,Atlantic Equities,Neutral,Overweight,down
+2020-04-02 09:11:26,Citigroup,Neutral,,main
+2020-04-14 15:18:11,Janney Capital,Neutral,,main
+2020-04-21 16:26:51,Stifel,Buy,,main
+2020-05-06 11:46:49,Citigroup,Neutral,,main
+2020-05-06 12:23:16,Credit Suisse,Underperform,,main
+2020-05-06 16:13:09,Baird,Neutral,,main
+2020-06-03 14:50:19,Janney Capital,Neutral,,main
+2020-06-19 12:15:31,Baird,Neutral,,main
+2020-07-14 15:06:04,Rosenblatt,Buy,Neutral,up
+2020-07-27 12:34:54,Jefferies,Hold,,main
+2020-07-31 11:58:41,Rosenblatt,Buy,,main
+2020-07-31 13:23:18,Credit Suisse,Underperform,,main
+2020-10-08 11:49:36,Raymond James,Outperform,,main
+2020-10-30 12:41:59,Credit Suisse,Underperform,,main
+2020-12-15 13:41:28,Stifel,Hold,Buy,down
+2021-01-08 14:06:26,Raymond James,Market Perform,Outperform,down
+2021-01-08 14:09:43,Cowen & Co.,Underperform,Market Perform,down
+2021-02-05 14:55:24,Credit Suisse,Underperform,,main
+2021-02-05 16:55:56,Citigroup,Neutral,,main
+2021-03-31 11:54:55,Morgan Stanley,Overweight,,init
+2021-05-05 14:27:47,Credit Suisse,Underperform,,main
+2021-05-05 14:31:53,Goldman Sachs,Neutral,Sell,up
+2021-06-18 12:30:03,Argus Research,Buy,,init
+2021-08-04 12:10:52,RBC Capital,Outperform,,main
+2021-08-04 14:15:31,Credit Suisse,Underperform,,main
+2021-08-05 12:34:35,Rosenblatt,Buy,,main
+2021-10-01 11:03:49,Rosenblatt,Hold,Buy,down
+2021-10-01 12:05:44,RBC Capital,Outperform,,main
+2021-10-01 12:10:26,Credit Suisse,Underperform,,main
+2021-11-03 13:21:31,Credit Suisse,Underperform,,main
+2021-11-23 09:42:32,Loop Capital,Hold,,init
+2021-12-17 10:41:20,Mizuho,Neutral,,init
+2022-01-04 10:11:29,Raymond James,Underperform,Market Perform,down
+2022-02-04 13:52:17,Credit Suisse,Underperform,,main

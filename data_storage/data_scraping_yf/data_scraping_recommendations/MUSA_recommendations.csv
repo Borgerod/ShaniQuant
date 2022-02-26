@@ -1,0 +1,40 @@
+Date,Firm,To Grade,From Grade,Action
+2012-08-23 11:01:00,UBS,Neutral,,init
+2012-09-07 05:41:00,Deutsche Bank,Buy,,init
+2012-09-10 05:47:00,Goldman Sachs,Buy,Neutral,up
+2012-09-17 05:53:00,JP Morgan,Neutral,Overweight,down
+2012-09-18 06:05:00,Jefferies,Buy,,main
+2012-10-24 07:18:00,JP Morgan,Neutral,,main
+2012-11-05 10:47:00,Wells Fargo,Outperform,,init
+2013-01-09 06:51:51,Deutsche Bank,Hold,Buy,down
+2013-02-07 06:38:58,Jefferies,Hold,Buy,down
+2013-02-07 11:00:42,Wells Fargo,Market Perform,Outperform,down
+2013-02-07 11:00:54,Dahlman Rose,Hold,Buy,down
+2013-11-25 06:33:53,JP Morgan,Neutral,,init
+2014-01-28 16:00:00,Raymond James,Market Perform,,init
+2015-06-29 07:16:14,Wells Fargo,Market Perform,,init
+2015-09-08 04:10:01,JP Morgan,Overweight,Neutral,up
+2015-10-26 05:57:21,Wells Fargo,Outperform,Market Perform,up
+2016-04-07 23:41:17,Jefferies,Buy,,init
+2016-06-09 13:06:37,Jefferies,Buy,,main
+2016-07-12 08:27:21,Stephens & Co.,Equal-Weight,Overweight,down
+2016-07-27 12:35:37,Jefferies,Buy,,main
+2016-08-01 03:55:07,JP Morgan,Neutral,Overweight,down
+2016-09-30 09:14:28,Jefferies,Buy,,main
+2016-11-17 11:49:02,Stephens & Co.,Overweight,Equal-Weight,up
+2017-04-19 14:26:32,Wells Fargo,Market Perform,Outperform,down
+2017-07-12 12:50:32,William Blair,Market Perform,,init
+2017-07-17 16:17:26,Jefferies,Buy,,main
+2017-08-04 12:25:26,Stephens & Co.,Equal-Weight,Overweight,down
+2017-11-07 15:05:26,JP Morgan,Underweight,Neutral,down
+2018-01-11 18:20:15,Gabelli & Co.,Hold,Buy,down
+2018-04-13 10:02:29,Jefferies,Hold,Buy,down
+2018-11-06 15:18:16,Jefferies,Hold,Hold,main
+2019-10-15 12:38:23,Stephens & Co.,Overweight,Equal-Weight,up
+2019-10-23 17:22:47,Wells Fargo,Market Perform,,main
+2020-02-03 10:25:38,JP Morgan,Neutral,Underweight,up
+2020-12-01 11:17:37,Goldman Sachs,Sell,,init
+2021-07-26 12:23:50,Raymond James,Outperform,Market Perform,up
+2021-07-30 12:38:51,Raymond James,Outperform,,main
+2021-10-29 14:25:11,Raymond James,Outperform,,main
+2022-01-28 12:23:43,Raymond James,Outperform,,main

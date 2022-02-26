@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action
+2021-04-12 09:58:31,Goldman Sachs,Neutral,,init
+2021-04-12 10:47:53,Piper Sandler,Overweight,,init
+2021-04-12 10:50:13,RBC Capital,Outperform,,init
+2021-04-12 11:19:54,Stifel,Hold,,init
+2021-04-12 13:24:27,William Blair,Outperform,,init
+2021-04-12 13:29:18,JP Morgan,Overweight,,init
+2021-04-12 13:34:28,Truist Securities,Buy,,init
+2021-08-09 13:32:52,RBC Capital,Outperform,,main
+2021-08-11 09:10:04,Piper Sandler,Overweight,,main
+2021-08-11 10:27:52,Stifel,Buy,Hold,up
+2022-01-12 11:28:47,Piper Sandler,Overweight,,main

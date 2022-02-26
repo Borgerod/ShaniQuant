@@ -1,0 +1,10 @@
+Date,Firm,To Grade,From Grade,Action
+2021-07-06 09:05:06,Goldman Sachs,Neutral,,init
+2021-07-06 09:19:43,JP Morgan,Overweight,,init
+2021-07-06 10:11:52,Morgan Stanley,Overweight,,init
+2021-07-06 11:20:39,William Blair,Outperform,,init
+2021-07-06 13:20:41,UBS,Buy,,init
+2021-08-16 12:16:15,Morgan Stanley,Equal-Weight,Overweight,down
+2021-09-10 08:50:11,Cowen & Co.,Outperform,,init
+2021-11-09 14:02:59,JP Morgan,Neutral,Overweight,down
+2021-12-17 14:22:54,Morgan Stanley,Equal-Weight,,main

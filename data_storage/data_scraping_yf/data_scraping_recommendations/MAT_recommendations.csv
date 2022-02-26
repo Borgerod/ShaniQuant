@@ -1,0 +1,127 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-18 07:23:00,SunTrust Robinson Humphrey,Buy,,init
+2012-07-17 12:59:00,Sterne Agee,Buy,,main
+2012-08-13 11:32:00,Sterne Agee,Buy,,main
+2012-08-31 10:22:00,UBS,Buy,,main
+2012-10-17 12:15:00,Barclays,Equal-Weight,,main
+2012-10-19 06:01:00,Goldman Sachs,Neutral,,main
+2013-01-09 08:39:26,MKM Partners,Buy,Neutral,up
+2013-02-04 13:37:15,Barclays,Equal-Weight,,main
+2013-02-19 08:26:20,BMO Capital,Outperform,,main
+2013-04-18 13:00:58,Barclays,Equal-Weight,,main
+2013-05-20 16:19:59,PiperJaffray,Overweight,,init
+2013-07-19 07:56:36,BMO Capital,Market Perform,Outperform,down
+2013-10-31 06:15:01,PiperJaffray,Neutral,Overweight,down
+2014-01-07 16:00:00,Goldman Sachs,Sell,Neutral,down
+2014-01-31 08:00:00,Wells Fargo,Market Perform,Outperform,down
+2014-02-03 16:00:00,SunTrust Robinson Humphrey,Neutral,Buy,down
+2014-02-28 08:00:00,SunTrust Robinson Humphrey,Neutral,Buy,down
+2014-04-07 08:00:00,BMO Capital,Underperform,Market Perform,down
+2014-04-21 21:19:42,Barclays,Equal-Weight,,main
+2014-07-18 06:33:15,Needham,Hold,Buy,down
+2014-09-29 05:39:00,MKM Partners,Neutral,Buy,down
+2014-10-02 05:52:02,BMO Capital,Market Perform,Underperform,up
+2014-10-17 09:00:00,Barclays,Equal-Weight,,main
+2014-11-04 09:00:00,Citigroup,Buy,,main
+2015-02-03 09:00:00,Barclays,Equal-Weight,,main
+2015-02-23 09:00:00,Citigroup,Buy,,main
+2015-04-06 09:00:00,BMO Capital,Market Perform,,main
+2015-04-16 09:08:43,Wells Fargo,Outperform,Market Perform,up
+2015-04-17 09:00:00,Barclays,Equal-Weight,,main
+2015-04-24 06:21:14,Goldman Sachs,Buy,Neutral,up
+2015-04-24 06:25:02,Goldman Sachs,Buy,Neutral,up
+2015-04-27 09:00:00,SunTrust Robinson Humphrey,Neutral,,main
+2015-06-17 09:00:00,PiperJaffray,Neutral,,main
+2015-07-27 11:00:00,Citigroup,Buy,,main
+2015-08-12 11:00:00,PiperJaffray,Neutral,,main
+2015-08-20 07:26:58,Oppenheimer,Outperform,,init
+2015-09-24 13:35:24,SunTrust Robinson Humphrey,Neutral,,main
+2015-10-16 07:49:04,SunTrust Robinson Humphrey,Neutral,,main
+2015-12-04 06:27:49,Jefferies,Buy,,init
+2015-12-14 08:59:57,BMO Capital,Outperform,Market Perform,up
+2016-01-25 07:22:56,Goldman Sachs,Buy,,main
+2016-02-02 07:37:58,Stifel Nicolaus,Buy,,up
+2016-02-04 12:35:14,Citigroup,Buy,,main
+2016-02-17 11:47:12,SunTrust Robinson Humphrey,Neutral,,main
+2016-03-04 03:43:12,Barclays,Equal-Weight,,main
+2016-03-24 04:05:01,UBS,Buy,,init
+2016-04-05 07:24:50,MKM Partners,Neutral,,main
+2016-04-06 05:52:28,Stifel Nicolaus,Hold,Buy,down
+2016-04-07 04:24:07,JP Morgan,Overweight,,init
+2016-08-15 10:41:25,Citigroup,Buy,,main
+2016-09-19 07:34:55,Monness Crespi Hardt,Buy,Neutral,up
+2016-10-10 11:40:56,MKM Partners,Buy,Buy,up
+2017-01-26 15:18:14,MKM Partners,Neutral,Buy,down
+2017-02-13 11:39:16,Goldman Sachs,Neutral,,init
+2017-05-23 20:53:19,DA Davidson,Buy,,init
+2017-06-09 12:18:18,Jefferies,Hold,,init
+2017-06-15 13:30:29,DA Davidson,Neutral,Buy,down
+2017-07-31 15:55:46,BMO Capital,Outperform,,main
+2017-08-03 11:16:09,DA Davidson,Underperform,Neutral,down
+2017-10-16 15:28:45,Stifel Nicolaus,Hold,,main
+2017-10-30 15:22:43,Stifel Nicolaus,Hold,,main
+2017-10-30 17:11:27,BMO Capital,Outperform,,main
+2017-10-31 12:13:36,UBS,Buy,,main
+2017-11-03 10:52:14,DA Davidson,Neutral,Underperform,up
+2018-02-05 13:13:33,Barclays,Equal-Weight,Equal-Weight,main
+2018-02-06 13:47:58,Citigroup,Buy,Buy,main
+2018-02-26 11:35:38,Jefferies,Underperform,Hold,down
+2018-03-09 13:27:51,Barclays,Underweight,Equal-Weight,down
+2018-03-20 13:36:59,BMO Capital,Outperform,Outperform,main
+2018-03-29 11:48:19,UBS,Buy,Buy,main
+2018-04-04 11:48:57,Stifel Nicolaus,Hold,Hold,main
+2018-04-11 11:13:25,Jefferies,Hold,Underperform,up
+2018-04-30 11:21:44,BMO Capital,Outperform,Outperform,main
+2018-05-05 13:32:15,Argus,Hold,Buy,down
+2018-05-05 13:32:15,Argus,Buy,Sell,up
+2018-05-05 13:32:15,Argus,Hold,Buy,down
+2018-05-05 13:32:16,Argus,Hold,Buy,down
+2018-05-05 14:00:36,B. Riley FBR,Buy,,main
+2018-05-05 14:00:37,B. Riley FBR,Buy,Neutral,up
+2018-05-05 14:00:39,B. Riley FBR,Neutral,,init
+2018-06-14 10:58:21,Citigroup,Buy,Buy,main
+2018-06-19 12:22:29,UBS,Neutral,Buy,down
+2018-06-28 12:09:35,DA Davidson,Underperform,Neutral,down
+2018-07-10 12:32:40,Stifel Nicolaus,Hold,Hold,main
+2018-07-27 11:26:03,DA Davidson,Neutral,Underperform,up
+2018-08-02 14:55:32,Jefferies,Hold,Hold,main
+2018-08-08 11:57:22,Citigroup,Buy,Buy,main
+2018-08-16 13:42:27,UBS,Neutral,Neutral,main
+2018-10-26 15:10:26,DA Davidson,Neutral,Neutral,main
+2018-10-30 13:47:35,Citigroup,Buy,Buy,main
+2018-11-14 16:14:50,Barclays,Underweight,Underweight,main
+2018-12-04 14:15:01,Wells Fargo,Outperform,Outperform,main
+2019-02-26 13:21:30,BMO Capital,Outperform,Outperform,main
+2019-04-26 16:17:45,MKM Partners,Neutral,,main
+2019-09-05 12:18:11,UBS,Neutral,,main
+2019-10-01 12:43:44,Stifel Nicolaus,Hold,,main
+2020-01-14 14:02:05,Stifel Nicolaus,Hold,,main
+2020-01-27 13:38:31,JP Morgan,Overweight,,init
+2020-02-14 18:06:40,CFRA,Hold,,main
+2020-02-18 13:57:37,SunTrust Robinson Humphrey,Hold,,main
+2020-03-04 09:54:06,KeyBanc,Overweight,Sector Weight,up
+2020-04-07 13:34:10,MKM Partners,Neutral,,main
+2020-04-17 16:16:41,Wells Fargo,Overweight,,main
+2020-05-06 14:26:39,Jefferies,Hold,,main
+2020-05-06 17:47:11,CFRA,Hold,,main
+2020-05-18 12:09:24,MKM Partners,Neutral,,main
+2020-07-24 08:45:00,KeyBanc,Overweight,,main
+2020-07-24 12:20:20,MKM Partners,Neutral,,main
+2020-07-24 13:31:45,Jefferies,Buy,,main
+2020-10-23 08:41:03,KeyBanc,Overweight,,main
+2020-10-23 13:26:57,Truist Securities,Hold,,main
+2020-10-23 14:30:57,DA Davidson,Buy,Neutral,up
+2020-10-23 15:08:25,MKM Partners,Neutral,,main
+2020-10-26 14:23:56,Stifel,Hold,,main
+2020-11-09 11:28:55,Jefferies,Hold,Buy,down
+2020-11-23 09:24:57,KeyBanc,Overweight,,main
+2020-12-09 14:30:31,Citigroup,Neutral,,init
+2021-02-10 09:58:46,KeyBanc,Overweight,,main
+2021-04-21 13:50:09,Berenberg,Buy,Hold,up
+2021-04-23 12:38:08,DA Davidson,Buy,,main
+2021-07-28 09:17:14,DA Davidson,Buy,,main
+2021-07-29 10:00:59,Keybanc,Overweight,,main
+2021-10-04 12:34:24,Stifel,Hold,,main
+2021-10-22 12:48:49,DA Davidson,Buy,,main
+2022-01-13 11:41:54,MKM Partners,Buy,Neutral,up
+2022-01-27 10:21:51,DA Davidson,Buy,,main

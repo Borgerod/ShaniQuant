@@ -1,0 +1,41 @@
+Date,Firm,To Grade,From Grade,Action
+2013-01-25 06:52:49,Citigroup,Neutral,Buy,down
+2013-02-15 10:11:10,UBS,Neutral,Buy,down
+2013-02-15 11:44:55,UBS,Neutral,Buy,down
+2013-09-04 06:39:04,Jefferies,Hold,,init
+2014-04-10 09:10:51,Bank of America,Buy,,init
+2014-04-17 23:55:13,Jefferies,Hold,,main
+2014-04-23 08:00:00,Barclays,Equal-Weight,,init
+2014-10-07 09:00:00,Jefferies,Hold,,main
+2014-11-03 09:00:00,Jefferies,Hold,,main
+2015-01-27 09:00:00,Barclays,Equal-Weight,,main
+2015-02-02 09:00:00,Citigroup,Neutral,,main
+2015-04-23 10:54:32,Janney Capital,Buy,,init
+2016-04-29 07:37:16,Janney Capital,Neutral,Buy,down
+2016-05-04 06:50:19,Citigroup,Neutral,,main
+2016-06-20 06:57:55,Barclays,Underweight,Equal-Weight,down
+2016-07-25 12:47:11,Jefferies,Hold,,main
+2016-11-14 12:36:22,Janney Capital,Buy,Neutral,up
+2016-12-20 11:01:44,UBS,Neutral,,init
+2017-11-10 17:30:27,Barclays,Underweight,,main
+2018-03-27 13:03:44,Citigroup,Neutral,Neutral,main
+2018-03-28 12:40:24,Citigroup,Neutral,Neutral,main
+2018-04-20 17:41:50,UBS,Buy,Neutral,up
+2018-06-05 12:45:30,Bank of America,Neutral,Buy,down
+2018-07-11 12:18:37,Barclays,Underweight,Underweight,main
+2018-07-30 14:05:22,Bank of America,Neutral,Neutral,main
+2018-10-12 12:31:14,Barclays,Underweight,Underweight,main
+2018-12-14 11:28:13,UBS,Neutral,Buy,down
+2019-02-25 11:43:34,UBS,Buy,Neutral,up
+2019-04-05 11:22:59,Jefferies,Buy,Hold,up
+2019-10-17 12:44:11,UBS,Buy,,main
+2019-11-12 12:59:26,UBS,Buy,,main
+2019-12-04 13:07:17,UBS,Buy,,main
+2020-03-30 13:41:56,UBS,Buy,,main
+2020-04-01 15:30:43,UBS,Buy,,main
+2020-05-07 15:11:13,Barclays,Underweight,,main
+2020-05-07 16:40:54,UBS,Buy,,main
+2020-05-11 14:10:17,UBS,Buy,,main
+2020-07-24 13:25:50,Jefferies,Buy,,main
+2021-06-23 12:58:57,B of A Securities,Buy,Neutral,up
+2021-10-20 11:12:04,Wells Fargo,Equal-Weight,,init

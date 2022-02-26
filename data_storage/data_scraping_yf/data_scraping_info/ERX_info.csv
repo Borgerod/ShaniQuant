@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,Direxion Energy Bull 2X Shares
+longName,Direxion Daily Energy Bull 2X Shares
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,ERX
+messageBoardId,finmb_51234297
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,4.48
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1225929600
+annualReportExpenseRatio,
+totalAssets,492019200
+bookValue,
+fundFamily,Direxion Funds
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.020599999
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.401
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Trading--Leveraged Equity
+fiveYearAverageReturn,-0.3732
+phone,866-476-7523
+longBusinessSummary,"The fund invests at least 80% of its net assets in financial instruments, such as swap agreements, securities of the index, and ETFs that track the index and other financial instruments that provide daily leveraged exposure to the index or to ETFs that track the index. The index is provided by S&P Dow Jones Indices and includes domestic companies from the energy sector which includes the following industries: oil, gas and consumable fuels; and energy equipment and services. The fund is non-diversified."
+companyOfficers,[]
+previousClose,44.57
+regularMarketOpen,43.47
+twoHundredDayAverage,29.6413
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,44.71
+navPrice,33.64
+averageDailyVolume10Day,6798660
+regularMarketPreviousClose,44.57
+fiftyDayAverage,37.1438
+trailingAnnualDividendRate,
+open,43.47
+toCurrency,
+averageVolume10days,6798660
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,43.15
+currency,USD
+regularMarketVolume,5222589
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,5095969
+dayLow,43.15
+ask,44.16
+askSize,3000
+volume,5222589
+fiftyTwoWeekHigh,47.29
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,19.53
+bid,43.66
+tradeable,False
+dividendYield,
+bidSize,1400
+dayHigh,44.71
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 1}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'DAPXX', 'holdingName': 'Dreyfus Government Secs Cash Mgmt Admin', 'holdingPercent': 0.2459}, {'symbol': 'XOM', 'holdingName': 'Exxon Mobil Corp', 'holdingPercent': 0.18010001}, {'symbol': 'CVX', 'holdingName': 'Chevron Corp', 'holdingPercent': 0.1627}, {'symbol': '', 'holdingName': 'Energy Select Sector Index Swap', 'holdingPercent': 0.044299997}, {'symbol': 'COP', 'holdingName': 'ConocoPhillips', 'holdingPercent': 0.0372}, {'symbol': 'FGTXX', 'holdingName': 'Goldman Sachs FS Government Instl', 'holdingPercent': 0.036}, {'symbol': 'MPC', 'holdingName': 'Marathon Petroleum Corp', 'holdingPercent': 0.036}, {'symbol': 'SLB', 'holdingName': 'Schlumberger Ltd', 'holdingPercent': 0.0341}, {'symbol': 'PXD', 'holdingName': 'Pioneer Natural Resources Co', 'holdingPercent': 0.033099998}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 8.43, 'priceToSales': 1.22, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 35.31, 'priceToBook': 1.62, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.7275
+regularMarketPrice,43.99
+preMarketPrice,
+logo_url,

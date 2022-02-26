@@ -1,0 +1,62 @@
+Date,Firm,To Grade,From Grade,Action
+2012-11-27 11:36:00,JMP Securities,Market Perform,Market Outperform,down
+2013-04-09 06:48:43,McNicoll Lewis Vlak,Buy,,up
+2013-07-19 07:49:01,JMP Securities,Market Outperform,Market Perform,up
+2013-07-23 13:49:03,Noble Financial,Buy,Hold,up
+2013-07-31 06:17:10,Bank of America,Underperform,Neutral,down
+2013-08-28 14:17:37,JMP Securities,Market Outperform,,main
+2013-11-12 07:36:33,Bank of America,Neutral,Underperform,up
+2014-01-21 16:00:00,Roth Capital,Buy,,init
+2014-01-27 08:00:00,Wells Fargo,Market Perform,Outperform,down
+2014-01-28 16:00:00,Bank of America,Underperform,Neutral,down
+2014-02-18 16:00:00,Needham,Buy,,init
+2014-02-20 16:00:00,PiperJaffray,Overweight,,init
+2014-02-27 08:00:00,Oppenheimer,Perform,,init
+2014-03-04 14:14:19,McNicoll Lewis Vlak,Buy,,main
+2014-03-10 08:00:00,H.C. Wainwright,Buy,,init
+2014-04-14 08:00:00,Brinson Patrick,Market Outperform,,init
+2014-06-23 06:14:37,Wells Fargo,Outperform,Market Perform,up
+2014-08-08 06:25:36,JP Morgan,Overweight,,init
+2014-12-04 04:05:59,Bank of America,Underperform,,main
+2014-12-09 09:00:00,JP Morgan,Overweight,,main
+2015-04-20 07:34:48,Bank of America,Neutral,Underperform,up
+2015-04-21 05:59:36,FBR Capital,Outperform,,init
+2015-06-30 05:13:18,Bank of America,Buy,,up
+2015-09-09 05:46:36,Jefferies,Hold,,init
+2015-10-15 10:57:34,Jefferies,Hold,,main
+2015-11-11 07:17:51,Bank of America,Underperform,Neutral,down
+2016-01-06 06:23:21,Jefferies,Buy,Hold,up
+2016-02-08 11:14:05,PiperJaffray,Neutral,Overweight,down
+2016-02-09 06:17:05,JP Morgan,Neutral,Outperform,down
+2016-02-09 07:06:39,Rodman & Renshaw,Buy,,main
+2016-02-09 07:31:55,Jefferies,Buy,Hold,down
+2016-08-04 09:51:55,JMP Securities,Market Perform,Outperform,down
+2016-08-05 10:28:03,Jefferies,Hold,,main
+2016-08-12 07:25:54,PiperJaffray,Overweight,Neutral,up
+2016-12-16 11:26:31,JMP Securities,Market Outperform,Market Perform,up
+2017-02-16 19:49:39,Ladenburg Thalmann,Buy,,init
+2017-09-06 11:39:27,JP Morgan,Overweight,Neutral,up
+2017-09-06 13:38:54,Jefferies,Buy,Hold,up
+2017-09-15 11:51:32,RBC Capital,Sector Perform,,init
+2017-12-20 13:25:37,Barclays,Equal-Weight,,init
+2018-01-02 11:27:29,RBC Capital,Outperform,Sector Perform,up
+2018-06-22 13:49:40,Seaport Global,Neutral,,init
+2019-04-02 12:14:40,JMP Securities,Market Outperform,Market Outperform,main
+2019-04-02 12:15:26,Barclays,Equal-Weight,Equal-Weight,main
+2019-05-24 11:34:17,RBC Capital,Sector Perform,Outperform,down
+2019-11-15 13:20:36,Bank of America,Buy,Neutral,up
+2020-05-05 10:59:35,Barclays,Overweight,Equal-Weight,up
+2020-06-17 10:28:50,BTIG,Neutral,,init
+2020-11-24 10:41:50,Evercore ISI Group,Outperform,,init
+2020-12-07 11:46:37,HC Wainwright & Co.,Buy,,main
+2021-01-22 12:06:35,RBC Capital,Sector Perform,,main
+2021-03-24 10:38:33,HC Wainwright & Co.,Buy,,main
+2021-08-03 11:50:09,Cantor Fitzgerald,Overweight,,init
+2021-08-06 10:19:01,HC Wainwright & Co.,Buy,,main
+2021-08-06 11:41:58,Barclays,Overweight,,main
+2021-08-06 13:29:38,JMP Securities,Market Outperform,,main
+2021-08-06 14:04:18,RBC Capital,Sector Perform,,main
+2021-08-06 15:46:29,Jefferies,Hold,Buy,down
+2021-11-04 11:23:56,Barclays,Overweight,,main
+2021-11-04 12:33:37,RBC Capital,Sector Perform,,main
+2021-12-10 10:07:59,Oppenheimer,Outperform,,init

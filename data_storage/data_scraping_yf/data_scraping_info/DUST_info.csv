@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,Direxion Daily Gold Miners Inde
+longName,Direxion Daily Gold Miners Index Bear 2X Shares
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,DUST
+messageBoardId,finmb_116840433
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,0.01
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1291766400
+annualReportExpenseRatio,
+totalAssets,55105740
+bookValue,
+fundFamily,Direxion Funds
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.6635
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Trading--Inverse Equity
+fiveYearAverageReturn,-0.5287
+phone,866-476-7523
+longBusinessSummary,"The fund invests in swap agreements, futures contracts, short positions or other financial instruments that, in combination, provide inverse or short leveraged exposure to the index equal to at least 80% of the fund's net assets. The index is a modified market capitalization weighted index comprised of publicly traded companies that operate globally in both developed and emerging markets, and are involved primarily in mining for gold and, to a lesser extent, in mining for silver. It is non-diversified."
+companyOfficers,[]
+previousClose,15.01
+regularMarketOpen,15.01
+twoHundredDayAverage,19.34395
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,15.52
+navPrice,19.69
+averageDailyVolume10Day,3301630
+regularMarketPreviousClose,15.01
+fiftyDayAverage,19.699
+trailingAnnualDividendRate,
+open,15.01
+toCurrency,
+averageVolume10days,3301630
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,15.01
+currency,USD
+regularMarketVolume,3494885
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,2245001
+dayLow,15.01
+ask,15.2
+askSize,1200
+volume,3494885
+fiftyTwoWeekHigh,25.47
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,14.04
+bid,15.01
+tradeable,False
+dividendYield,
+bidSize,1400
+dayHigh,15.52
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'DAPXX', 'holdingName': 'Dreyfus Government Secs Cash Mgmt Admin', 'holdingPercent': 0.7413}, {'symbol': 'FTIXX', 'holdingName': 'Goldman Sachs FS Treasury Intms Instl', 'holdingPercent': 0.3166}, {'symbol': '', 'holdingName': 'Vaneck Vectors Gold Miners Etf Swap', 'holdingPercent': 0.028399998}, {'symbol': '', 'holdingName': 'Goldman Finl Sq Trsry Ins', 'holdingPercent': 0.0039}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0
+regularMarketPrice,15.26
+preMarketPrice,
+logo_url,

@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action
+2020-08-31 10:25:10,Goldman Sachs,Buy,,init
+2020-08-31 10:26:47,BMO Capital,Outperform,,init
+2020-08-31 10:27:59,Barclays,Overweight,,init
+2020-08-31 10:30:29,RBC Capital,Outperform,,init
+2020-08-31 10:31:57,JP Morgan,Overweight,,init
+2020-08-31 11:04:12,Citigroup,Buy,,init
+2020-08-31 11:56:21,Credit Suisse,Outperform,,init
+2020-08-31 13:17:34,Deutsche Bank,Buy,,init
+2021-04-01 11:50:29,William Blair,Outperform,,init
+2021-04-20 10:40:46,Raymond James,Outperform,,init
+2021-05-12 10:32:05,Raymond James,Strong Buy,Outperform,up
+2021-08-12 10:51:47,Raymond James,Market Perform,Strong Buy,down
+2021-08-12 11:42:13,Credit Suisse,Outperform,,main
+2021-08-13 09:12:23,Barclays,Equal-Weight,Overweight,down
+2021-08-17 09:37:06,JP Morgan,Neutral,Overweight,down
+2021-11-16 13:43:06,Credit Suisse,Outperform,,main

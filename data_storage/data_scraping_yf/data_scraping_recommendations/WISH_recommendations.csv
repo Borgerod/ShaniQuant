@@ -1,0 +1,25 @@
+Date,Firm,To Grade,From Grade,Action
+2021-01-11 12:06:29,Goldman Sachs,Neutral,,init
+2021-01-11 12:07:52,JP Morgan,Overweight,,init
+2021-01-11 12:09:00,Oppenheimer,Outperform,,init
+2021-01-11 12:46:31,B of A Securities,Buy,,init
+2021-01-11 12:47:27,Deutsche bank,Buy,,init
+2021-01-11 12:48:22,Cowen & Co.,Outperform,,init
+2021-01-11 12:50:41,Citigroup,Neutral,,init
+2021-01-11 12:57:28,Credit Suisse,Outperform,,init
+2021-01-11 17:23:53,UBS,Buy,,init
+2021-01-11 17:27:58,Loop Capital,Hold,,init
+2021-01-11 17:29:43,William Blair,Outperform,,init
+2021-02-16 12:09:40,Loop Capital,Buy,Hold,up
+2021-04-06 10:50:08,Evercore ISI Group,Outperform,,init
+2021-07-02 09:16:00,Evercore ISI Group,In-Line,Outperform,down
+2021-07-21 10:27:45,B of A Securities,Neutral,Buy,down
+2021-08-13 09:55:24,JP Morgan,Underweight,Overweight,down
+2021-08-13 09:56:54,Cowen & Co.,Market Perform,Outperform,down
+2021-08-13 11:39:03,Credit Suisse,Outperform,,main
+2021-08-13 12:22:29,William Blair,Market Perform,Outperform,down
+2021-08-13 12:24:05,Oppenheimer,Perform,Outperform,down
+2021-08-13 12:25:22,B of A Securities,Underperform,Neutral,down
+2021-10-04 13:11:25,Oppenheimer,Underperform,Perform,down
+2021-11-09 13:48:21,Credit Suisse,Outperform,,main
+2021-11-11 12:34:04,Credit Suisse,Outperform,,main

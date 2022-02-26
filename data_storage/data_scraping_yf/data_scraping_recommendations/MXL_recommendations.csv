@@ -1,0 +1,62 @@
+Date,Firm,To Grade,From Grade,Action
+2012-12-06 09:39:37,JMP Securities,Market Perform,,init
+2013-09-06 06:43:41,Benchmark,Buy,,init
+2013-09-18 07:00:00,Chardan Capital,Neutral,,init
+2013-10-07 06:50:49,JMP Securities,Market Outperform,Market Perform,up
+2013-10-31 08:28:39,Stifel Nicolaus,Buy,,main
+2014-09-09 09:00:00,Stifel Nicolaus,Buy,,main
+2014-09-09 10:29:51,Needham,Buy,Strong Buy,down
+2014-09-12 09:00:00,Deutsche Bank,Buy,,main
+2014-10-31 09:00:00,Benchmark,Buy,,main
+2014-12-29 00:00:00,Needham,Hold,Buy,down
+2015-02-04 09:00:00,Stifel Nicolaus,Buy,,main
+2015-02-10 09:00:00,Deutsche Bank,Buy,,main
+2015-06-03 09:00:00,Stifel Nicolaus,Buy,,main
+2015-06-09 07:08:15,Stifel Nicolaus,Buy,,main
+2015-06-09 07:14:34,Deutsche Bank,Buy,,main
+2015-06-09 08:57:39,Chardan Capital,Buy,Neutral,up
+2015-06-10 08:07:45,Chardan Capital,Buy,,up
+2015-07-13 11:00:00,JMP Securities,Market Outperform,,main
+2015-09-17 07:22:45,Needham,Buy,Hold,up
+2015-09-30 05:20:50,Roth Capital,Buy,,init
+2015-11-04 12:34:27,Stifel Nicolaus,Buy,,main
+2015-11-04 14:39:43,Deutsche Bank,Buy,,main
+2016-02-09 11:24:32,Stifel Nicolaus,Buy,,main
+2016-02-26 07:58:34,Topeka,Buy,,init
+2016-07-25 12:23:11,Deutsche Bank,Buy,,main
+2016-08-09 21:57:49,Deutsche Bank,Buy,,main
+2016-12-21 11:28:07,Susquehanna,Positive,,init
+2017-07-21 15:50:40,Deutsche Bank,Buy,,main
+2017-08-09 14:58:39,Deutsche Bank,Buy,,main
+2018-05-09 11:46:35,Deutsche Bank,Hold,Buy,down
+2018-05-09 12:10:43,Stifel Nicolaus,Buy,Buy,main
+2018-06-11 17:10:45,Roth Capital,Neutral,Buy,down
+2018-07-19 11:55:08,Stifel Nicolaus,Buy,Buy,main
+2018-10-25 11:03:51,Susquehanna,Neutral,Positive,down
+2019-01-04 13:08:00,JP Morgan,Neutral,,init
+2019-05-02 13:17:34,Needham,Hold,Buy,down
+2019-05-15 11:12:19,Wells Fargo,Market Perform,,init
+2019-11-19 12:39:36,Needham,Buy,Hold,up
+2019-12-16 14:58:31,Northland Capital Markets,Outperform,,init
+2020-02-06 12:21:37,Needham,Buy,,main
+2020-04-07 12:53:24,Wells Fargo,Overweight,Equal-Weight,up
+2020-04-07 20:02:31,Northland Capital Markets,Outperform,,main
+2020-04-30 12:59:50,Stifel,Buy,,main
+2020-04-30 14:54:29,Susquehanna,Neutral,,main
+2020-05-04 13:41:34,Craig-Hallum,Buy,,init
+2020-07-07 09:20:39,Needham,Buy,,main
+2020-07-23 13:37:00,Loop Capital,Hold,,init
+2020-07-24 10:17:03,Roth Capital,Buy,Neutral,up
+2020-07-24 15:14:43,Stifel,Buy,,main
+2020-11-06 11:57:14,Needham,Buy,,main
+2020-11-06 14:25:48,Roth Capital,Buy,,main
+2021-01-04 14:25:33,Roth Capital,Buy,,main
+2021-01-11 13:26:59,Wells Fargo,Equal-Weight,Overweight,down
+2021-02-08 12:22:09,Loop Capital,Buy,Hold,up
+2021-04-29 11:26:05,Needham,Buy,,main
+2021-07-29 11:24:14,Wells Fargo,Equal-Weight,,main
+2021-07-29 13:45:30,Needham,Buy,,main
+2021-09-02 13:00:58,Roth Capital,Buy,,main
+2021-10-28 10:30:19,Needham,Buy,,main
+2021-12-21 12:01:28,Wells Fargo,Equal-Weight,,main
+2022-02-03 13:35:54,Needham,Buy,,main

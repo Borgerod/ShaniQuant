@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action
+2019-04-01 10:47:14,Morgan Stanley,Equal-Weight,,init
+2019-04-01 11:42:12,Wells Fargo,Market Perform,,init
+2019-10-21 11:02:23,Piper Jaffray,Overweight,,init
+2019-10-22 11:12:02,Oppenheimer,Perform,,init
+2019-11-08 16:37:41,Morgan Stanley,Equal-Weight,,main
+2019-12-12 11:59:23,Wells Fargo,Overweight,Equal-Weight,up
+2019-12-17 14:19:50,Morgan Stanley,Equal-Weight,,main
+2020-03-27 18:59:45,Morgan Stanley,Equal-Weight,,main
+2020-04-01 12:58:43,Oppenheimer,Underperform,Perform,down
+2020-05-13 12:44:42,Wells Fargo,Overweight,,main
+2020-05-13 15:49:52,Morgan Stanley,Equal-Weight,,main
+2020-06-09 16:32:05,Canaccord Genuity,Buy,,main
+2020-06-11 11:33:50,Oppenheimer,Perform,Underperform,up
+2020-08-12 13:21:10,Morgan Stanley,Equal-Weight,,main
+2020-08-12 14:19:36,Piper Sandler,Overweight,,main
+2020-10-16 12:01:46,Wells Fargo,Overweight,,main
+2020-10-19 12:29:25,Morgan Stanley,Equal-Weight,,main
+2020-11-11 13:23:12,Morgan Stanley,Equal-Weight,,main
+2020-12-15 17:57:47,Morgan Stanley,Equal-Weight,,main
+2021-01-20 10:19:38,Piper Sandler,Neutral,Overweight,down
+2021-02-02 16:47:35,Canaccord Genuity,Buy,,main
+2021-02-18 14:29:33,Piper Sandler,Neutral,,main
+2021-02-19 14:52:40,Morgan Stanley,Equal-Weight,,main
+2021-02-22 14:46:10,Morgan Stanley,Equal-Weight,,main
+2021-03-31 13:32:23,Canaccord Genuity,Buy,,main
+2021-04-19 15:19:50,Morgan Stanley,Equal-Weight,,main
+2021-05-11 11:57:23,B of A Securities,Buy,Neutral,up
+2021-05-11 13:36:37,Wells Fargo,Overweight,,main
+2021-05-11 14:14:07,Morgan Stanley,Equal-Weight,,main
+2021-05-11 14:44:00,Canaccord Genuity,Buy,,main
+2021-06-07 11:29:24,Wells Fargo,Overweight,,main
+2021-06-18 10:52:19,Wells Fargo,Equal-Weight,Overweight,down
+2021-07-12 11:30:18,B of A Securities,Neutral,Buy,down
+2021-07-15 10:11:57,SVB Leerink,Outperform,,init
+2021-08-10 08:43:01,SVB Leerink,Outperform,,main
+2021-08-10 12:29:10,Morgan Stanley,Equal-Weight,,main
+2021-11-09 08:44:40,SVB Leerink,Outperform,,main
+2021-11-09 12:34:56,Wells Fargo,Equal-Weight,,main
+2021-12-06 11:07:53,Wells Fargo,Overweight,Equal-Weight,up
+2022-01-07 15:58:06,Morgan Stanley,Equal-Weight,,main
+2022-02-18 13:34:38,SVB Leerink,Outperform,,main
+2022-02-18 14:57:35,Morgan Stanley,Equal-Weight,,main

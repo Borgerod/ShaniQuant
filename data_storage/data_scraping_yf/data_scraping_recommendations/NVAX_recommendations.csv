@@ -1,0 +1,74 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-17 12:12:03,HC Wainwright & Co.,Buy,,main
+2020-11-25 09:36:20,Lazard,Buy,,main
+2020-11-25 09:36:20,Chardan Capital,Neutral,,main
+2020-11-25 09:36:20,Citigroup,Neutral,,main
+2020-11-25 09:36:20,Citigroup,Neutral,Buy,down
+2020-11-25 09:36:20,Ladenburg Thalmann,Neutral,Buy,down
+2020-11-25 09:36:20,Wedbush,Neutral,Buy,down
+2020-11-25 09:36:20,PiperJaffray,Neutral,Overweight,down
+2020-11-25 09:36:20,JP Morgan,Neutral,Overweight,down
+2020-11-25 09:36:20,McNicoll Lewis Vlak,Buy,,main
+2020-11-25 09:36:20,Chardan Capital,Neutral,,init
+2020-11-25 09:36:20,JP Morgan,Overweight,,main
+2020-11-25 09:36:20,PiperJaffray,Overweight,,main
+2020-11-25 09:36:20,Citigroup,Buy,,main
+2020-11-25 09:36:20,JP Morgan,Overweight,,init
+2020-11-25 09:36:20,Wedbush,Outperform,,init
+2020-11-25 09:36:20,Citigroup,Buy,,init
+2020-11-25 09:36:20,Citigroup,Buy,,main
+2020-11-25 09:36:45,Cantor Fitzgerald,Neutral,,init
+2020-11-25 09:36:49,Ladenburg Thalmann,Buy,Neutral,up
+2020-11-25 09:36:50,Seaport Global,Neutral,,init
+2020-11-25 09:36:51,Citigroup,Buy,Neutral,up
+2020-11-25 09:36:53,B. Riley FBR,Buy,Buy,main
+2020-11-25 09:36:53,Citigroup,Neutral,Buy,down
+2020-11-25 09:36:53,B. Riley FBR,Buy,,init
+2020-11-25 09:36:55,Citigroup,Neutral,Neutral,main
+2020-11-25 09:36:56,JP Morgan,Underweight,Neutral,down
+2020-11-25 09:36:56,Seaport Global,Buy,Neutral,up
+2020-11-25 09:37:01,JP Morgan,Overweight,Underweight,up
+2020-11-25 09:37:03,Oppenheimer,Outperform,,init
+2020-11-25 09:37:03,PiperJaffray,Overweight,Neutral,up
+2020-11-25 09:37:04,H.C. Wainwright,Buy,,init
+2020-11-25 09:37:05,PiperJaffray,Underweight,Overweight,down
+2020-11-25 09:37:05,JP Morgan,Underweight,Overweight,down
+2020-11-25 09:37:05,B. Riley FBR,Buy,Buy,main
+2020-11-25 09:37:09,Citi,Buy,,main
+2020-11-25 09:37:09,Oppenheimer,Outperform,,main
+2020-11-25 09:37:09,Citigroup,Buy,,main
+2020-11-25 09:37:14,B. Riley FBR,Buy,,main
+2020-11-25 09:37:15,Cantor Fitzgerald,Overweight,Neutral,up
+2020-11-25 09:37:16,Cantor Fitzgerald,Overweight,,reit
+2020-11-25 09:37:16,B. Riley FBR,Buy,,main
+2020-11-25 09:37:16,H.C. Wainwright,Buy,,reit
+2020-11-25 09:37:17,B. Riley FBR,Buy,,main
+2020-11-25 09:37:18,HC Wainwright & Co.,Buy,,reit
+2020-11-25 09:37:19,H.C. Wainwright,Buy,,reit
+2020-11-25 09:37:19,B. Riley FBR,Buy,,main
+2020-11-25 09:37:19,Cantor Fitzgerald,Overweight,,main
+2020-11-25 09:37:19,Cantor Fitzgerald,Overweight,,reit
+2020-11-25 09:37:19,B. Riley FBR,Buy,,main
+2020-11-25 09:37:19,Oppenheimer,Outperform,,main
+2020-11-25 09:37:20,B. Riley FBR,Buy,,main
+2020-11-25 09:37:20,B. Riley FBR,Buy,,main
+2020-11-25 09:37:20,JP Morgan,Neutral,Underweight,up
+2020-11-25 09:37:20,Cantor Fitzgerald,Overweight,,main
+2020-11-25 09:37:20,HC Wainwright & Co.,Buy,,main
+2020-11-25 09:37:21,Ladenburg Thalmann,Neutral,Buy,down
+2020-11-25 09:37:21,HC Wainwright & Co.,Buy,,main
+2020-11-25 09:37:22,JP Morgan,Overweight,Neutral,up
+2020-11-25 09:37:22,Ladenburg Thalmann,Sell,Neutral,down
+2020-11-25 09:37:22,B. Riley FBR,Buy,,main
+2020-11-25 09:37:22,HC Wainwright & Co.,Buy,,main
+2020-12-14 13:56:07,Jefferies,Buy,,init
+2021-02-01 17:01:34,B. Riley FBR,Buy,,main
+2021-02-05 18:44:04,Cantor Fitzgerald,Overweight,,main
+2021-02-18 17:05:26,B. Riley FBR,Buy,,main
+2021-03-12 13:03:58,HC Wainwright & Co.,Buy,,main
+2021-05-12 10:43:07,JP Morgan,Neutral,Overweight,down
+2021-05-12 11:05:24,HC Wainwright & Co.,Buy,,main
+2021-05-12 12:22:29,Cantor Fitzgerald,Overweight,,main
+2021-06-15 11:44:09,Cantor Fitzgerald,Overweight,,main
+2021-12-21 14:57:36,JP Morgan,Neutral,,main
+2022-01-21 12:07:13,Cowen & Co.,Outperform,,init

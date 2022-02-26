@@ -1,0 +1,116 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-17 07:39:00,Wedbush,Outperform,,main
+2012-05-22 07:28:00,SunTrust Robinson Humphrey,Buy,,init
+2012-10-29 08:44:00,BMO Capital,Market Perform,,main
+2013-01-02 12:03:16,BMO Capital,Outperform,Market Perform,up
+2013-01-28 09:22:10,BMO Capital,Outperform,,main
+2013-04-09 09:06:46,Longbow Research,Neutral,Buy,down
+2013-04-26 09:29:12,B. Riley,Neutral,,down
+2013-05-07 10:05:15,Longbow Research,Buy,Neutral,up
+2013-05-15 07:37:19,Raymond James,Market Perform,Strong Buy,down
+2013-10-08 07:02:18,Citigroup,Buy,,init
+2014-04-29 21:28:44,Citigroup,Buy,,main
+2014-06-24 16:13:53,RBC Capital,Sector Perform,,init
+2014-06-25 06:23:08,KeyBanc,Buy,Hold,up
+2014-08-11 09:00:00,Citigroup,Buy,,main
+2014-08-12 06:16:55,Raymond James,Strong Buy,Market Perform,up
+2014-09-26 06:40:36,Wunderlich,Buy,,init
+2014-11-07 09:00:00,Citigroup,Buy,,main
+2014-12-04 00:00:00,Northcoast Research,Buy,,init
+2014-12-12 00:00:00,Wedbush,Outperform,,init
+2015-01-30 09:00:00,Wunderlich,Buy,,main
+2015-02-09 09:00:00,Citigroup,Buy,,main
+2015-03-25 16:49:44,Stifel Nicolaus,Buy,,init
+2015-04-28 06:21:04,Jefferies,Hold,,init
+2015-05-05 09:00:00,Citigroup,Buy,,main
+2015-06-17 07:09:31,Sterne Agee CRT,Buy,,init
+2015-07-08 07:22:55,RBC Capital,Outperform,Sector Perform,up
+2015-08-11 11:00:00,Citigroup,Buy,,main
+2015-09-24 13:35:23,SunTrust Robinson Humphrey,Buy,,main
+2015-12-16 06:34:05,JP Morgan,Overweight,,init
+2016-02-01 11:45:47,BMO Capital,Outperform,,main
+2016-02-04 12:30:43,Citigroup,Buy,,main
+2016-09-27 03:45:27,Imperial Capital,Outperform,,init
+2016-12-22 11:16:34,CL King,Buy,,init
+2017-07-28 15:20:49,BMO Capital,Outperform,,main
+2017-08-18 11:59:19,Wedbush,Neutral,Outperform,down
+2017-10-27 12:16:33,Stifel Nicolaus,Buy,,main
+2017-10-27 17:26:26,BMO Capital,Outperform,,main
+2017-11-13 17:08:41,Citigroup,Buy,,main
+2018-02-02 10:51:50,KeyBanc,Overweight,Overweight,main
+2018-02-02 15:04:36,CL King,Neutral,Buy,down
+2018-02-06 13:30:47,Citigroup,Buy,Buy,main
+2018-02-14 13:55:49,Wedbush,Outperform,Neutral,up
+2018-03-02 14:08:13,Baird,Outperform,,main
+2018-03-02 14:21:25,KeyBanc,Overweight,Overweight,main
+2018-03-05 13:38:51,CL King,Buy,Neutral,up
+2018-05-05 14:00:36,B. Riley FBR,Buy,,main
+2018-05-05 14:00:36,B. Riley FBR,Buy,,main
+2018-06-14 10:52:43,Citigroup,Buy,Buy,main
+2018-07-27 11:17:19,KeyBanc,Overweight,Overweight,main
+2018-08-13 12:31:41,Wedbush,Outperform,Outperform,main
+2018-08-15 12:18:10,Citigroup,Buy,Buy,main
+2018-11-06 14:33:27,Citigroup,Buy,Buy,main
+2019-01-11 12:52:17,JP Morgan,Neutral,,init
+2019-02-25 11:41:45,JP Morgan,Overweight,Neutral,up
+2019-06-27 11:37:15,Northcoast Research,Neutral,Buy,down
+2019-07-01 11:17:38,RBC Capital,Sector Perform,Outperform,down
+2019-07-22 10:03:29,KeyBanc,Overweight,,main
+2019-07-22 11:47:25,JP Morgan,Neutral,Overweight,down
+2019-07-30 11:38:57,Citigroup,Buy,,main
+2019-09-04 10:15:11,Jefferies,Buy,Hold,up
+2019-09-09 10:03:37,KeyBanc,Overweight,,main
+2019-09-12 12:20:55,Wedbush,Outperform,,main
+2019-10-17 10:58:08,Longbow Research,Neutral,Buy,down
+2019-10-25 13:13:47,Wedbush,Outperform,,main
+2019-10-28 09:51:40,KeyBanc,Overweight,,main
+2019-10-30 09:47:29,Imperial Capital,Outperform,,main
+2019-12-20 11:16:23,RBC Capital,Outperform,Sector Perform,up
+2020-01-23 14:13:41,Stifel Nicolaus,Buy,,main
+2020-02-12 13:24:01,B. Riley,Buy,,main
+2020-02-18 10:22:38,Raymond James,Outperform,Market Perform,up
+2020-03-23 10:56:37,B. Riley FBR,Buy,,main
+2020-04-02 09:23:09,BMO Capital,Market Perform,Outperform,down
+2020-04-03 15:23:54,SunTrust Robinson Humphrey,Buy,,main
+2020-04-06 12:25:13,B. Riley FBR,Buy,,main
+2020-04-14 10:24:30,KeyBanc,Overweight,,main
+2020-04-15 14:03:44,Stifel,Buy,,main
+2020-04-24 13:56:52,B. Riley FBR,Buy,,main
+2020-05-01 11:43:31,Raymond James,Outperform,,main
+2020-05-01 12:33:31,Stifel,Buy,,main
+2020-05-01 15:04:24,B. Riley FBR,Buy,,main
+2020-05-01 17:01:05,SunTrust Robinson Humphrey,Buy,,main
+2020-05-04 10:06:46,KeyBanc,Overweight,,main
+2020-05-18 10:04:26,KeyBanc,Overweight,,main
+2020-05-18 11:27:08,B. Riley FBR,Buy,,main
+2020-05-27 11:40:03,Raymond James,Outperform,,main
+2020-06-03 11:27:08,Raymond James,Outperform,,main
+2020-06-11 08:43:08,KeyBanc,Overweight,,main
+2020-07-06 10:46:57,KeyBanc,Overweight,,main
+2020-07-31 08:44:57,KeyBanc,Overweight,,main
+2020-07-31 14:09:04,Raymond James,Outperform,,main
+2020-09-15 11:18:09,Citigroup,Neutral,,init
+2020-10-20 09:18:57,JP Morgan,Overweight,Neutral,up
+2020-10-30 11:46:48,Raymond James,Outperform,,main
+2021-01-04 14:18:17,Raymond James,Outperform,,main
+2021-01-29 09:49:33,KeyBanc,Overweight,,main
+2021-01-29 16:32:09,Raymond James,Outperform,,main
+2021-01-29 17:19:58,B. Riley FBR,Buy,,main
+2021-02-01 15:30:26,Citigroup,Neutral,,main
+2021-02-01 17:08:42,BMO Capital,Market Perform,,main
+2021-03-22 11:55:54,Raymond James,Outperform,,main
+2021-04-26 10:13:26,Citigroup,Buy,Neutral,up
+2021-04-30 10:09:34,Keybanc,Overweight,,main
+2021-04-30 12:04:58,Raymond James,Outperform,,main
+2021-04-30 13:37:00,Truist Securities,Buy,,main
+2021-04-30 14:21:05,BMO Capital,Market Perform,,main
+2021-04-30 14:30:57,B. Riley FBR,Buy,,main
+2021-06-17 12:42:07,Truist Securities,Buy,,main
+2021-06-18 13:07:49,JP Morgan,Overweight,,main
+2021-07-30 12:23:08,Raymond James,Outperform,,main
+2021-07-30 13:46:48,RBC Capital,Sector Perform,,main
+2021-08-02 13:58:53,BMO Capital,Market Perform,,main
+2021-10-29 09:40:26,RBC Capital,Outperform,Sector Perform,up
+2021-10-29 14:00:31,Raymond James,Outperform,,main
+2022-01-26 14:00:02,Truist Securities,Buy,,main
+2022-01-28 12:19:47,Raymond James,Outperform,,main

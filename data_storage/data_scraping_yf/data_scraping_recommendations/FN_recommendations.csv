@@ -1,0 +1,72 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-07 06:39:00,Morgan Stanley,Overweight,,up
+2012-05-08 06:32:00,Morgan Stanley,Overweight,,main
+2012-05-08 07:24:00,PiperJaffray,Overweight,,main
+2012-08-21 05:57:00,Deutsche Bank,Buy,,main
+2012-08-21 06:15:00,PiperJaffray,Overweight,,main
+2012-11-06 09:53:00,Needham,Buy,Hold,up
+2012-11-08 05:56:00,JP Morgan,Neutral,Overweight,down
+2013-01-18 06:26:36,JP Morgan,Overweight,Neutral,up
+2013-02-05 08:35:13,Deutsche Bank,Buy,,main
+2013-05-23 07:15:26,Deutsche Bank,,Buy,down
+2013-09-26 07:45:54,Stifel Nicolaus,Buy,Hold,up
+2013-12-11 08:16:24,Stifel Nicolaus,Buy,,main
+2014-02-04 07:11:40,Stifel Nicolaus,Buy,,main
+2014-05-06 00:41:27,PiperJaffray,Overweight,,main
+2014-05-06 01:23:51,JP Morgan,Overweight,,main
+2014-05-06 08:18:10,Needham,Hold,Buy,down
+2014-11-04 09:00:00,Deutsche Bank,Hold,,main
+2015-02-03 09:00:00,Deutsche Bank,Hold,,main
+2015-04-29 09:00:00,JP Morgan,Overweight,,main
+2015-05-05 09:00:00,Stifel Nicolaus,Buy,,main
+2015-07-10 06:49:44,Needham,Buy,Hold,up
+2015-08-18 11:25:45,PiperJaffray,Overweight,,main
+2015-11-03 09:52:24,Northland Securities,Outperform,,main
+2016-01-04 08:22:53,PiperJaffray,Overweight,,main
+2016-02-02 11:32:24,JP Morgan,Overweight,,main
+2016-02-02 12:01:33,Stifel Nicolaus,Buy,,main
+2016-03-31 05:54:49,JP Morgan,Overweight,,main
+2016-05-03 08:13:43,Stifel Nicolaus,Buy,,main
+2016-05-27 11:59:56,JP Morgan,Overweight,,main
+2016-08-16 11:12:19,JP Morgan,Overweight,,main
+2017-01-17 15:48:20,Needham,Strong Buy,Buy,up
+2017-11-07 15:05:12,JP Morgan,Neutral,Overweight,down
+2018-01-24 16:19:13,Stifel Nicolaus,Buy,Buy,main
+2018-05-05 14:00:37,B. Riley FBR,Buy,,main
+2018-05-05 14:00:37,B. Riley FBR,Neutral,Buy,down
+2018-05-05 14:00:37,B. Riley FBR,Buy,Neutral,up
+2018-05-05 14:00:37,B. Riley FBR,Buy,,main
+2018-05-05 14:00:37,B. Riley FBR,Buy,,init
+2018-05-05 14:00:39,B. Riley FBR,Buy,,main
+2018-05-08 13:07:42,B. Riley FBR,Buy,Buy,main
+2018-08-16 13:26:59,B. Riley FBR,Buy,Buy,main
+2018-08-21 11:41:54,Needham,Buy,Strong Buy,down
+2018-08-21 14:48:16,B. Riley FBR,Buy,Buy,main
+2018-09-04 12:36:48,B. Riley FBR,Neutral,Buy,down
+2018-09-05 12:53:44,Needham,Buy,Buy,main
+2018-11-09 14:09:36,William O'Neil & Co,Buy,,init
+2019-05-06 14:57:24,Needham,Buy,,main
+2019-05-07 15:26:32,Needham,Buy,,main
+2019-05-28 14:19:45,Needham,Buy,,main
+2019-07-29 11:14:32,JP Morgan,Neutral,,init
+2019-08-20 13:03:15,Stifel Nicolaus,Buy,,main
+2019-09-30 15:01:27,Northland,Outperform,Market Perform,up
+2020-02-04 14:09:52,B. Riley FBR,Neutral,,main
+2020-05-05 11:47:50,B. Riley FBR,Neutral,,main
+2020-05-05 13:49:48,JP Morgan,Neutral,,main
+2020-06-08 10:27:01,Needham,Buy,,main
+2020-08-18 10:01:57,Needham,Buy,,main
+2020-08-18 15:17:39,Northland Capital Markets,Market Perform,Outperform,down
+2020-08-18 15:38:47,JP Morgan,Neutral,,main
+2021-02-02 13:38:38,Needham,Buy,,main
+2021-02-02 16:29:09,B. Riley FBR,Neutral,,main
+2021-02-02 16:50:44,Stifel,Buy,,main
+2021-07-19 10:06:53,Needham,Buy,,main
+2021-07-21 09:15:13,MKM Partners,Neutral,,init
+2021-08-17 10:28:47,Needham,Buy,,main
+2021-08-17 13:34:20,B. Riley Securities,Neutral,,main
+2021-08-17 13:37:36,MKM Partners,Neutral,,main
+2021-11-02 10:33:26,Needham,Buy,,main
+2021-11-02 13:56:49,B. Riley Securities,Neutral,,main
+2022-01-20 13:57:48,JP Morgan,Neutral,,main
+2022-02-01 14:36:46,B. Riley Securities,Neutral,,main

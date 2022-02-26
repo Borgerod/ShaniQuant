@@ -1,0 +1,87 @@
+Date,Firm,To Grade,From Grade,Action
+2019-12-13 15:24:58,Argus Research,Hold,,init
+2019-12-18 16:53:25,Needham,Buy,,init
+2020-01-06 12:51:51,Imperial Capital,Outperform,,main
+2020-01-07 13:32:11,BMO Capital,Market Perform,,init
+2020-01-15 16:20:25,Moffett Nathanson,Neutral,,init
+2020-01-30 11:17:56,Rosenblatt,Neutral,,init
+2020-02-03 11:30:32,Credit Suisse,Neutral,Outperform,down
+2020-02-21 12:56:21,Benchmark,Buy,,main
+2020-02-21 13:20:18,UBS,Neutral,,main
+2020-02-21 14:21:49,JP Morgan,Overweight,,main
+2020-02-24 11:59:44,Rosenblatt,Neutral,,reit
+2020-02-24 17:03:35,Barclays,Equal-Weight,,main
+2020-03-03 15:47:09,Barrington Research,Outperform,,main
+2020-03-05 11:18:11,Imperial Capital,Outperform,,main
+2020-03-18 09:51:10,Imperial Capital,Outperform,,main
+2020-03-30 10:47:03,Needham,Buy,,main
+2020-04-03 20:58:10,Credit Suisse,Neutral,,main
+2020-04-09 09:36:46,Imperial Capital,Outperform,,main
+2020-04-13 12:05:16,Deutsche Bank,Buy,,main
+2020-04-15 12:13:05,Citigroup,Buy,,main
+2020-04-20 19:30:23,UBS,Neutral,,main
+2020-04-23 11:27:45,Evercore ISI Group,In-Line,Outperform,down
+2020-04-28 09:51:01,RBC Capital,Sector Perform,,init
+2020-05-05 12:58:27,Morgan Stanley,Equal-Weight,,main
+2020-05-08 10:50:34,Imperial Capital,Outperform,,main
+2020-05-08 12:18:35,Benchmark,Buy,,main
+2020-05-11 14:02:32,Barrington Research,Outperform,Market Perform,up
+2020-06-08 09:22:49,Imperial Capital,Outperform,,main
+2020-06-23 11:18:52,Citigroup,Buy,,main
+2020-06-26 10:19:38,Needham,Buy,,main
+2020-07-13 11:58:31,Goldman Sachs,Buy,,init
+2020-07-13 12:47:00,B of A Securities,Neutral,Buy,down
+2020-07-23 12:44:22,Morgan Stanley,Equal-Weight,,main
+2020-08-07 14:18:36,Morgan Stanley,Equal-Weight,,main
+2020-08-27 10:39:21,Wells Fargo,Equal-Weight,Underweight,up
+2020-10-01 11:38:27,Loop Capital,Hold,,init
+2020-10-09 10:51:50,Needham,Buy,,main
+2020-10-15 13:51:54,Barclays,Overweight,Equal-Weight,up
+2020-11-02 14:06:36,Morgan Stanley,Equal-Weight,,main
+2020-11-16 12:04:57,Rosenblatt,Neutral,,main
+2020-11-24 12:43:57,Deutsche Bank,Hold,Buy,down
+2020-12-09 09:43:27,KeyBanc,Underweight,,init
+2020-12-18 13:42:57,B of A Securities,Underperform,Neutral,down
+2021-01-19 12:36:45,Barclays,Underweight,Overweight,down
+2021-01-21 11:13:21,Needham,Buy,,main
+2021-01-28 11:17:04,Credit Suisse,Underperform,Neutral,down
+2021-02-01 11:18:27,Citigroup,Neutral,Buy,down
+2021-02-04 12:41:15,Deutsche Bank,Sell,Hold,down
+2021-02-08 14:29:50,UBS,Sell,Neutral,down
+2021-02-19 15:03:23,Morgan Stanley,Equal-Weight,,main
+2021-02-22 14:59:26,Morgan Stanley,Equal-Weight,,main
+2021-02-25 10:32:15,Needham,Buy,,main
+2021-03-05 12:14:17,Rosenblatt,Neutral,,main
+2021-03-15 11:43:53,BMO Capital,Underperform,Market Perform,down
+2021-03-22 11:20:04,Benchmark,Buy,,main
+2021-03-22 13:22:10,Credit Suisse,Underperform,,main
+2021-03-25 11:43:59,MoffettNathanson,Sell,Neutral,down
+2021-03-26 12:06:07,Wells Fargo,Underweight,Equal-Weight,down
+2021-03-29 10:42:22,BMO Capital,Market Perform,Underperform,up
+2021-03-29 11:44:06,Loop Capital,Hold,Sell,up
+2021-03-30 11:26:06,Credit Suisse,Neutral,Underperform,up
+2021-03-30 13:33:31,Gabelli & Co.,Buy,Hold,up
+2021-04-07 11:14:49,Wolfe Research,Outperform,Peer Perform,up
+2021-04-12 15:09:58,Morgan Stanley,Equal-Weight,,main
+2021-04-28 10:07:15,Citigroup,Buy,Neutral,up
+2021-04-30 11:38:10,Macquarie,Neutral,Underperform,up
+2021-05-07 10:28:58,RBC Capital,Outperform,Sector Perform,up
+2021-05-07 11:05:56,Keybanc,Underweight,,main
+2021-05-07 11:26:20,Wells Fargo,Equal-Weight,Underweight,up
+2021-05-10 13:26:28,BMO Capital,Market Perform,,main
+2021-05-10 13:46:10,Barrington Research,Outperform,Market Perform,up
+2021-05-12 11:24:48,Rosenblatt,Neutral,,main
+2021-05-20 11:12:21,B of A Securities,Buy,Neutral,up
+2021-08-06 11:16:19,Deutsche Bank,Hold,Sell,up
+2021-08-18 10:13:39,Wells Fargo,Overweight,Equal-Weight,up
+2021-11-05 08:51:53,Keybanc,Underweight,,main
+2021-11-05 12:05:00,Credit Suisse,Neutral,,main
+2021-11-05 13:10:01,RBC Capital,Outperform,,main
+2021-11-05 13:20:23,Goldman Sachs,Buy,,main
+2021-11-10 17:23:02,Rosenblatt,Neutral,,main
+2021-12-14 13:45:44,Macquarie,Neutral,,main
+2022-01-10 12:19:48,Deutsche Bank,Buy,Hold,up
+2022-01-21 13:48:08,Needham,Buy,,main
+2022-01-25 09:34:02,Keybanc,Sector Weight,Underweight,up
+2022-02-16 12:31:51,Loop Capital,Hold,,main
+2022-02-16 13:34:10,B of A Securities,Neutral,Buy,down

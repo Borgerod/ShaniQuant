@@ -1,0 +1,47 @@
+Date,Firm,To Grade,From Grade,Action
+2018-03-05 12:39:14,Credit Suisse,Outperform,,init
+2018-03-05 12:45:02,JP Morgan,Overweight,,init
+2018-03-05 12:52:33,Barclays,Overweight,,init
+2018-03-05 13:28:39,PiperJaffray,Overweight,,init
+2018-03-05 14:12:11,Bank of America,Buy,,init
+2018-04-06 12:47:11,RBC Capital,Outperform,,init
+2018-05-15 15:57:00,Barclays,Overweight,Overweight,main
+2018-09-14 11:33:18,Citigroup,Buy,Buy,main
+2018-09-17 11:51:03,JP Morgan,Overweight,Overweight,main
+2018-09-19 11:21:44,Morgan Stanley,Overweight,,init
+2019-01-04 15:35:57,Citigroup,Buy,Buy,main
+2019-01-10 12:49:06,Stephens & Co.,Overweight,,init
+2019-02-07 11:59:42,Raymond James,Strong Buy,,init
+2019-03-08 13:59:10,Raymond James,Strong Buy,Strong Buy,main
+2019-03-08 14:05:24,RBC Capital,Outperform,Outperform,main
+2019-03-12 13:38:38,Citigroup,Buy,Buy,main
+2019-08-02 16:26:33,Raymond James,Strong Buy,,reit
+2019-09-23 13:17:52,Citigroup,Buy,,main
+2019-10-07 12:32:53,Morgan Stanley,Overweight,,main
+2019-11-21 14:39:19,Wolfe Research,Peer Perform,,init
+2020-02-28 12:48:43,Raymond James,Strong Buy,,main
+2020-02-28 17:58:35,B of A Securities,Buy,,main
+2020-03-02 13:41:13,Piper Sandler,Overweight,,main
+2020-03-31 13:46:58,Morgan Stanley,Overweight,,main
+2020-04-09 11:33:24,Raymond James,Strong Buy,,reit
+2020-04-15 12:59:18,Piper Sandler,Overweight,,main
+2020-04-16 10:49:59,Stephens & Co.,Overweight,,main
+2020-05-01 12:42:50,Credit Suisse,Outperform,,main
+2020-05-01 15:35:31,Stephens & Co.,Overweight,,main
+2020-05-05 12:27:44,Citigroup,Neutral,,main
+2020-05-14 10:03:15,Barclays,Equal-Weight,Overweight,down
+2020-05-28 11:39:18,B of A Securities,Neutral,Underperform,up
+2020-06-05 10:22:02,Stifel,Hold,,init
+2020-07-08 11:54:43,Morgan Stanley,Overweight,,main
+2020-07-13 11:52:19,Raymond James,Strong Buy,,main
+2020-07-31 12:29:34,Credit Suisse,Outperform,,main
+2020-07-31 14:10:49,Raymond James,Strong Buy,,main
+2020-09-16 09:24:11,ScotiaBank,Sector Perform,,init
+2020-11-06 17:32:29,Credit Suisse,Outperform,,main
+2020-11-10 12:57:21,Morgan Stanley,Equal-Weight,Overweight,down
+2020-12-22 13:09:28,Goldman Sachs,Neutral,,init
+2021-03-09 11:53:48,Piper Sandler,Neutral,Overweight,down
+2021-03-25 10:59:52,Morgan Stanley,Overweight,Equal-Weight,up
+2021-05-03 11:22:28,Barclays,Overweight,Equal-Weight,up
+2021-10-25 13:23:05,Barclays,Overweight,,main
+2021-11-11 15:21:41,Citigroup,Buy,,main

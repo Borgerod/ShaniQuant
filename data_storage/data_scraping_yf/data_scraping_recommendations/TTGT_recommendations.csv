@@ -1,0 +1,30 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-13 06:31:00,Benchmark,Buy,,main
+2012-02-16 06:59:00,Benchmark,Buy,,main
+2012-05-09 09:04:00,B. Riley,Neutral,,down
+2014-07-01 06:24:26,Jefferies,Buy,,init
+2014-07-07 08:37:18,Craig-Hallum,Buy,,init
+2015-03-10 07:24:51,Stephens & Co.,Overweight,,init
+2016-07-20 09:09:19,Sidoti & Co.,Buy,,init
+2016-08-10 07:52:14,Craig-Hallum,Hold,Buy,down
+2017-08-10 12:54:05,Craig-Hallum,Buy,Hold,up
+2017-08-17 11:16:20,Jefferies,Hold,Buy,down
+2018-08-09 11:35:01,Craig-Hallum,Hold,Buy,down
+2018-09-28 13:50:57,Raymond James,Outperform,,init
+2020-02-13 12:22:00,Raymond James,Outperform,,main
+2020-05-07 13:21:20,Raymond James,Outperform,,main
+2020-08-06 12:12:08,Raymond James,Outperform,,main
+2020-11-05 14:21:32,Raymond James,Outperform,,main
+2020-12-23 12:22:31,Raymond James,Outperform,,reit
+2021-02-11 12:39:51,Raymond James,Outperform,,main
+2021-02-18 10:50:24,Needham,Buy,,init
+2021-03-16 11:14:44,Cowen & Co.,Market Perform,,init
+2021-04-08 09:54:27,Keybanc,Overweight,,init
+2021-05-06 12:19:17,Raymond James,Outperform,,main
+2021-06-23 11:50:23,Deutsche Bank,Buy,,init
+2021-06-30 09:12:24,JP Morgan,Neutral,,init
+2021-09-23 13:11:34,Lake Street,Buy,,main
+2021-11-04 08:41:22,Keybanc,Overweight,,main
+2021-11-04 12:17:03,Raymond James,Outperform,,main
+2022-02-11 10:24:24,Raymond James,Outperform,,main
+2022-02-11 15:28:16,Deutsche Bank,Buy,,main

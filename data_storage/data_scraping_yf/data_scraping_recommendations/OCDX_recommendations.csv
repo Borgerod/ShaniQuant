@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action
+2021-02-22 11:08:23,Piper Sandler,Overweight,,init
+2021-02-22 11:08:26,HC Wainwright & Co.,Buy,,init
+2021-02-22 12:22:53,Credit Suisse,Outperform,,init
+2021-02-22 13:00:45,Morgan Stanley,Overweight,,init
+2021-02-22 15:58:12,UBS,Buy,,init
+2021-03-03 11:38:35,Barclays,Overweight,,init
+2021-05-06 12:49:07,Morgan Stanley,Overweight,,main
+2021-05-06 14:19:12,Credit Suisse,Outperform,,main
+2021-07-13 12:57:53,Barclays,Overweight,,main
+2021-08-05 10:44:25,HC Wainwright & Co.,Buy,,main
+2021-12-23 15:24:52,Evercore ISI Group,In-Line,Outperform,down
+2021-12-27 10:12:17,Barclays,Equal-Weight,Overweight,down
+2021-12-27 11:05:24,HC Wainwright & Co.,Neutral,Buy,down
+2022-02-17 11:14:12,Evercore ISI Group,Outperform,In-Line,up

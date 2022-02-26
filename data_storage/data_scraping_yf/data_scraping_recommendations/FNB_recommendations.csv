@@ -1,0 +1,37 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-10 06:46:00,Guggenheim,Neutral,,main
+2012-11-20 08:36:00,BGB Securities,Hold,,init
+2013-06-26 08:13:45,Guggenheim,Buy,Neutral,up
+2013-07-25 07:00:00,Guggenheim,Neutral,Buy,down
+2013-10-03 16:00:00,FIG Partners,Market Perform,,init
+2014-01-07 08:30:08,BMO Capital,Outperform,Market Perform,up
+2014-01-13 08:30:00,Jefferies,Buy,,init
+2014-04-28 22:45:00,Jefferies,Buy,,main
+2014-05-08 09:37:02,Sandler O'Neill,Buy,Hold,up
+2014-07-24 22:15:09,Macquarie,Neutral,,main
+2014-10-14 16:00:00,SunTrust Robinson Humphrey,Buy,,init
+2014-10-23 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2014-12-16 00:00:00,JP Morgan,Neutral,,init
+2015-06-29 09:00:00,SunTrust Robinson Humphrey,Buy,,main
+2015-07-27 11:00:00,SunTrust Robinson Humphrey,Buy,,main
+2016-07-07 13:59:11,JP Morgan,Neutral,,main
+2016-12-20 13:50:11,FBR Capital,Outperform,Market Perform,up
+2016-12-21 11:30:21,SunTrust Robinson Humphrey,Buy,,init
+2017-03-06 23:05:08,DA Davidson,Buy,,init
+2017-05-23 11:32:38,JP Morgan,Overweight,Neutral,up
+2017-06-02 11:06:26,Wells Fargo,Outperform,,init
+2017-06-13 13:58:49,Raymond James,Strong Buy,,init
+2017-12-19 16:06:50,Stephens & Co.,Equal-Weight,,init
+2018-07-25 12:21:38,Raymond James,Outperform,Strong Buy,down
+2019-07-24 19:10:01,Raymond James,Outperform,,main
+2019-09-30 11:23:56,Raymond James,Outperform,,reit
+2019-10-18 12:32:36,Wells Fargo,Outperform,,main
+2020-01-22 12:21:18,Stephens & Co.,Overweight,,main
+2020-08-25 12:33:24,Truist Securities,Buy,,main
+2020-11-25 14:39:54,Stephens & Co.,Equal-Weight,Overweight,down
+2021-05-21 12:00:32,Seaport Global,Buy,,init
+2021-07-19 12:55:48,Jefferies,Hold,Buy,down
+2021-07-26 14:12:05,Stephens & Co.,Equal-Weight,,main
+2021-10-07 11:29:17,Wells Fargo,Overweight,,main
+2022-01-04 14:17:28,Wells Fargo,Overweight,,main
+2022-01-24 12:24:02,Raymond James,Outperform,,main

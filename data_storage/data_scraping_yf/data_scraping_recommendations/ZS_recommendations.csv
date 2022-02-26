@@ -1,0 +1,160 @@
+Date,Firm,To Grade,From Grade,Action
+2018-04-10 12:33:58,BTIG Research,Buy,,init
+2018-04-10 16:28:56,Stephens & Co.,Equal-Weight,,init
+2018-04-10 16:28:57,Needham,Strong Buy,,init
+2018-04-10 16:31:11,Bank of America,Neutral,,init
+2018-04-10 19:43:17,Goldman Sachs,Neutral,,init
+2018-04-10 19:51:30,Deutsche Bank,Hold,,init
+2018-04-10 19:51:46,Credit Suisse,Outperform,,init
+2018-04-10 19:54:29,Morgan Stanley,Equal-Weight,,init
+2018-04-10 20:05:37,Baird,Outperform,,init
+2018-04-10 20:06:09,Barclays,Equal-Weight,,init
+2018-06-07 11:21:10,Barclays,Equal-Weight,Equal-Weight,main
+2018-06-07 11:55:18,Credit Suisse,Outperform,Outperform,main
+2018-06-07 12:31:14,Deutsche Bank,Hold,Hold,main
+2018-06-07 12:53:01,UBS,Neutral,Neutral,main
+2018-06-08 11:58:08,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-09-06 11:37:24,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-09-06 12:45:42,Credit Suisse,Outperform,Outperform,main
+2018-09-10 11:11:48,BTIG Research,Neutral,Buy,down
+2018-10-19 16:10:29,Wedbush,Outperform,,init
+2018-12-06 13:03:52,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-12-11 13:19:39,Guggenheim,Neutral,,init
+2019-01-11 12:38:31,PiperJaffray,Overweight,,init
+2019-01-15 12:56:05,Morgan Stanley,Underweight,Equal-Weight,down
+2019-03-01 14:21:07,Wedbush,Outperform,Outperform,main
+2019-03-01 14:37:58,Credit Suisse,Outperform,Outperform,main
+2019-03-01 15:16:46,Barclays,Equal-Weight,Equal-Weight,main
+2019-03-01 15:33:01,Deutsche Bank,Hold,Hold,main
+2019-03-04 13:53:45,UBS,Neutral,Neutral,main
+2019-04-02 13:27:34,Bank of America,Neutral,Neutral,reit
+2019-04-09 14:53:18,Credit Suisse,Outperform,Outperform,main
+2019-05-23 10:40:23,Cowen & Co.,Outperform,,init
+2019-05-28 14:26:42,Barclays,Equal-Weight,,main
+2019-05-31 13:24:25,Berenberg,Hold,,init
+2019-05-31 14:05:39,UBS,Neutral,,main
+2019-05-31 15:23:02,Bank of America,Neutral,,reit
+2019-05-31 15:57:00,Morgan Stanley,Underweight,,main
+2019-06-27 15:07:15,Wedbush,Outperform,,main
+2019-07-24 12:44:36,Wedbush,Outperform,,main
+2019-08-02 12:14:13,BMO Capital,Market Perform,,init
+2019-08-19 14:22:57,OTR Global,Negative,Mixed,down
+2019-09-10 10:46:53,Rosenblatt,Neutral,,init
+2019-09-11 11:21:57,Wedbush,Outperform,,main
+2019-09-11 12:11:46,Piper Jaffray,Overweight,,main
+2019-09-11 12:14:37,Barclays,Equal-Weight,,main
+2019-09-11 12:18:42,BMO Capital,Market Perform,,main
+2019-09-11 12:24:45,Cowen & Co.,Outperform,,main
+2019-09-11 13:16:21,Baird,Outperform,,main
+2019-09-12 13:26:44,UBS,Neutral,,main
+2019-09-24 10:39:25,Berenberg,Buy,Hold,up
+2019-10-03 10:54:36,SunTrust Robinson Humphrey,Buy,,init
+2019-10-14 13:12:52,Citigroup,Neutral,,init
+2019-10-22 12:15:18,Morgan Stanley,Underweight,,main
+2019-11-12 11:47:39,Goldman Sachs,Neutral,,init
+2019-11-19 11:48:43,DA Davidson,Buy,,init
+2019-11-25 12:25:05,Bank of America,Buy,Neutral,up
+2019-12-04 13:02:48,UBS,Neutral,,main
+2019-12-04 13:10:56,Bank of America,Buy,,reit
+2019-12-04 13:33:33,Baird,Outperform,,main
+2020-02-21 13:22:10,UBS,Neutral,,main
+2020-02-21 13:39:47,Baird,Outperform,,main
+2020-03-25 19:09:27,Morgan Stanley,Underweight,,main
+2020-04-13 11:09:54,Rosenblatt,Buy,Neutral,up
+2020-04-23 11:23:39,Credit Suisse,Neutral,Outperform,down
+2020-04-24 12:03:29,SunTrust Robinson Humphrey,Hold,Buy,down
+2020-05-26 12:28:51,B of A Securities,Buy,,reit
+2020-05-29 10:33:46,Needham,Strong Buy,,main
+2020-05-29 10:56:04,Wedbush,Outperform,,main
+2020-05-29 11:12:57,Rosenblatt,Buy,,reit
+2020-06-16 11:28:52,Berenberg,Hold,Buy,down
+2020-06-18 10:09:14,Morgan Stanley,Equal-Weight,Underweight,up
+2020-06-22 11:34:18,Needham,Strong Buy,,main
+2020-07-06 10:49:31,RBC Capital,Outperform,,init
+2020-08-20 14:06:42,Deutsche Bank,Buy,,init
+2020-08-21 09:46:57,Loop Capital,Buy,,init
+2020-08-21 10:59:06,B of A Securities,Buy,,main
+2020-09-03 15:46:48,Citigroup,Buy,,main
+2020-09-03 15:49:31,Barclays,Equal-Weight,,main
+2020-09-08 17:07:41,RBC Capital,Outperform,,main
+2020-09-10 10:56:39,Wedbush,Outperform,,main
+2020-09-10 11:51:40,Morgan Stanley,Equal-Weight,,main
+2020-09-10 14:32:52,B of A Securities,Buy,,main
+2020-09-10 17:07:02,Truist Securities,Hold,,main
+2020-10-22 12:32:14,Wedbush,Outperform,,main
+2020-10-26 10:40:18,JP Morgan,Overweight,,init
+2020-11-25 11:21:37,Credit Suisse,Outperform,Neutral,up
+2020-11-30 11:05:04,Needham,Strong Buy,,main
+2020-12-03 11:38:21,Needham,Strong Buy,,main
+2020-12-03 13:53:23,Wedbush,Outperform,,main
+2020-12-03 14:40:21,Morgan Stanley,Equal-Weight,,main
+2020-12-10 10:58:54,Needham,Strong Buy,,main
+2020-12-10 12:55:55,JP Morgan,Neutral,Overweight,down
+2021-01-08 16:47:06,Morgan Stanley,Equal-Weight,,main
+2021-01-12 11:00:16,Needham,Strong Buy,,main
+2021-01-12 13:17:40,Credit Suisse,Outperform,,main
+2021-01-20 12:12:16,JMP Securities,Outperform,,init
+2021-02-16 14:53:41,Canaccord Genuity,Buy,,init
+2021-02-22 16:31:47,RBC Capital,Outperform,,main
+2021-03-05 15:54:39,Berenberg,Buy,Hold,up
+2021-03-24 10:11:38,Truist Securities,Buy,Hold,up
+2021-04-13 11:35:05,Mizuho,Buy,,init
+2021-05-19 12:24:08,JMP Securities,Market Outperform,,main
+2021-05-24 11:27:10,RBC Capital,Outperform,,main
+2021-05-24 11:30:01,Barclays,Equal-Weight,,main
+2021-05-25 12:25:13,BMO Capital,Market Perform,,main
+2021-05-26 10:36:27,BMO Capital,Outperform,Market Perform,up
+2021-05-26 11:09:18,Needham,Strong Buy,,main
+2021-05-26 12:09:26,Mizuho,Buy,,main
+2021-05-26 12:17:15,Deutsche Bank,Buy,,main
+2021-05-26 12:29:02,Barclays,Equal-Weight,,main
+2021-05-27 10:28:44,Cowen & Co.,Outperform,,init
+2021-06-16 11:43:56,Mizuho,Buy,,main
+2021-06-16 11:47:37,JMP Securities,Market Outperform,,main
+2021-06-30 13:43:02,Cowen & Co.,Outperform,,main
+2021-07-02 11:42:09,BTIG,Buy,,main
+2021-07-09 10:45:47,Piper Sandler,Neutral,,main
+2021-07-12 12:43:06,Deutsche Bank,Buy,,main
+2021-07-12 14:28:04,Mizuho,Buy,,main
+2021-07-13 10:40:51,Needham,Strong Buy,,main
+2021-07-15 13:51:16,Canaccord Genuity,Buy,,main
+2021-07-26 13:04:26,Loop Capital,Hold,Buy,down
+2021-08-06 14:09:16,Wolfe Research,Outperform,,init
+2021-08-23 10:57:42,JMP Securities,Market Outperform,,main
+2021-08-30 14:11:04,Wedbush,Outperform,,main
+2021-09-07 10:36:38,RBC Capital,Outperform,,main
+2021-09-09 11:28:36,Barclays,Equal-Weight,,main
+2021-09-10 10:32:46,BTIG,Buy,,main
+2021-09-10 10:35:04,Needham,Strong Buy,,main
+2021-09-10 10:53:05,Mizuho,Buy,,main
+2021-09-10 11:17:52,BMO Capital,Outperform,,main
+2021-09-10 11:20:25,JMP Securities,Market Outperform,,main
+2021-09-10 12:11:08,Morgan Stanley,Equal-Weight,,main
+2021-09-10 12:38:31,Canaccord Genuity,Buy,,main
+2021-09-10 12:41:21,Piper Sandler,Neutral,,main
+2021-09-10 14:09:58,UBS,Neutral,,main
+2021-09-10 14:25:08,Deutsche Bank,Buy,,main
+2021-09-30 10:15:52,Daiwa Capital,Neutral,,init
+2021-11-16 13:31:49,Credit Suisse,Outperform,,init
+2021-11-24 12:12:13,Deutsche Bank,Buy,,main
+2021-11-29 10:43:34,Needham,Strong Buy,,main
+2021-11-29 13:01:54,RBC Capital,Outperform,,main
+2021-12-01 11:13:24,Needham,Strong Buy,,main
+2021-12-01 11:56:45,Wedbush,Outperform,,main
+2021-12-01 12:03:01,JMP Securities,Market Outperform,,main
+2021-12-01 12:40:49,Goldman Sachs,Neutral,,main
+2021-12-01 12:50:44,Morgan Stanley,Equal-Weight,,main
+2021-12-01 13:04:28,Wolfe Research,Outperform,,main
+2021-12-01 13:12:45,Deutsche Bank,Buy,,main
+2021-12-01 13:28:19,UBS,Neutral,,main
+2021-12-01 13:30:57,Mizuho,Buy,,main
+2021-12-01 13:34:50,BTIG,Buy,,main
+2021-12-01 13:38:40,Canaccord Genuity,Buy,,main
+2021-12-01 14:34:30,Truist Securities,Buy,,main
+2021-12-06 13:06:52,Daiwa Capital,Underperform,Neutral,down
+2021-12-14 10:25:29,JP Morgan,Underweight,Neutral,down
+2022-01-06 10:07:30,Wells Fargo,Overweight,,init
+2022-01-10 10:58:21,UBS,Buy,Neutral,up
+2022-01-18 11:29:37,Morgan Stanley,Overweight,Equal-Weight,up
+2022-01-21 09:50:53,Stifel,Buy,,init
+2022-02-15 12:34:46,Mizuho,Buy,,main

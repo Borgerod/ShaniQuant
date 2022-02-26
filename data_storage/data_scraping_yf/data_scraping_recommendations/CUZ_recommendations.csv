@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-25 09:35:49,Stifel Nicolaus,Hold,Sell,up
+2020-11-25 09:36:00,Cantor Fitzgerald,Sell,Hold,down
+2020-11-25 09:36:00,JP Morgan,Neutral,,main
+2020-11-25 09:36:00,JP Morgan,Neutral,,main
+2020-11-25 09:36:00,Stifel Nicolaus,Buy,Hold,up
+2020-11-25 09:36:00,Capital One Financial,Equal-Weight,,init
+2020-11-25 09:36:00,JP Morgan,Neutral,,main
+2020-11-25 09:36:00,Stifel,Hold,Buy,down
+2020-11-25 09:36:00,Baird,Neutral,Outperform,down
+2020-11-25 09:36:00,Baird,Outperform,Neutral,up
+2020-11-25 09:36:00,Baird,Neutral,Outperform,down
+2020-11-25 09:36:00,Stifel Nicolaus,Sell,Hold,down
+2020-11-25 09:36:00,Stifel Nicolaus,Hold,Buy,down
+2020-11-25 09:36:47,Baird,Outperform,Neutral,up
+2020-11-25 09:36:49,Stifel Nicolaus,Buy,Hold,up
+2020-11-25 09:36:50,Bank of America,Neutral,,main
+2020-11-25 09:36:52,Bank of America,Buy,Neutral,up
+2020-11-25 09:37:00,Bank of America,Buy,Buy,main
+2020-11-25 09:37:09,Wells Fargo,Outperform,Market Perform,up
+2020-11-25 09:37:16,Stifel,Buy,,main
+2020-11-25 09:37:18,Baird,Outperform,,main
+2020-11-25 09:37:24,Wells Fargo,Overweight,,main
+2021-01-07 11:40:58,Baird,Neutral,Outperform,down
+2021-01-22 15:27:01,Truist Securities,Hold,Buy,down
+2021-04-14 11:06:24,Baird,Outperform,Neutral,up
+2021-09-01 13:44:03,Barclays,Overweight,,init
+2021-12-01 12:21:56,Wells Fargo,Overweight,,main

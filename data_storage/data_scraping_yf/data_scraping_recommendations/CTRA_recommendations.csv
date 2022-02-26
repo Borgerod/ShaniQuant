@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action
+2018-08-17 13:35:49,B. Riley FBR,Buy,Buy,main
+2018-09-07 12:26:30,B. Riley FBR,Buy,Buy,main
+2018-09-19 13:02:35,B. Riley FBR,Buy,Buy,main
+2019-05-03 12:27:18,Seaport Global,Buy,,init
+2019-05-16 13:10:00,B. Riley FBR,Buy,,main
+2019-08-15 11:57:39,B. Riley,Buy,,main
+2019-10-17 13:52:27,B. Riley,Buy,,main
+2020-03-20 11:49:58,Benchmark,Buy,,init
+2020-03-25 15:27:27,B. Riley FBR,Buy,,main
+2020-06-09 11:56:53,B. Riley FBR,Neutral,Buy,down
+2020-07-10 10:48:03,Benchmark,Hold,Buy,down
+2021-05-26 11:15:54,Raymond James,Market Perform,Outperform,down
+2021-06-08 12:40:21,Johnson Rice,Sell,Hold,down
+2021-06-18 12:17:51,Morgan Stanley,Equal-Weight,,main
+2021-07-13 14:20:22,Mizuho,Neutral,,main
+2021-09-30 13:30:39,Wolfe Research,Outperform,Peer Perform,up
+2021-10-15 11:13:26,Seaport Global,Neutral,,init
+2021-10-18 10:11:10,Mizuho,Buy,Neutral,up
+2021-10-18 13:29:47,Truist Securities,Buy,,init
+2021-10-21 11:45:46,Piper Sandler,Overweight,Neutral,up
+2021-10-22 09:41:27,Goldman Sachs,Buy,Neutral,up
+2021-10-26 11:20:38,Raymond James,Outperform,Market Perform,up
+2021-12-02 12:35:56,Raymond James,Outperform,,main
+2022-01-10 13:21:04,B of A Securities,Underperform,Neutral,down
+2022-01-25 15:31:03,Morgan Stanley,Equal-Weight,,main

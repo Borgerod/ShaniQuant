@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action
+2018-10-29 11:36:05,Citigroup,Buy,,init
+2018-10-29 12:29:16,RBC Capital,Outperform,,init
+2018-10-29 13:16:00,Stifel Nicolaus,Hold,,init
+2018-10-29 13:35:08,Jefferies,Hold,,init
+2018-11-08 16:36:07,Jefferies,Hold,Hold,main
+2019-04-11 21:06:26,BTIG Research,Buy,,init
+2019-04-12 10:58:32,BTIG Research,Buy,,init
+2019-06-19 10:53:54,Cantor Fitzgerald,Overweight,,init
+2019-06-26 10:29:07,Jefferies,Buy,Hold,up
+2019-09-24 13:31:46,Citigroup,Buy,,main
+2019-09-25 12:09:47,Citigroup,Buy,,main
+2019-11-01 10:55:35,First Analysis,Outperform,,init
+2019-11-07 16:32:10,Stifel Nicolaus,Hold,,main
+2020-01-02 11:47:12,Citigroup,Neutral,Buy,down
+2020-01-24 13:00:58,Guggenheim,Neutral,Buy,down
+2020-02-27 12:08:47,Cantor Fitzgerald,Overweight,,main
+2020-08-27 11:27:11,MKM Partners,Buy,,init
+2020-09-21 12:25:15,BTIG,Buy,,main
+2020-11-05 12:47:13,Stifel,Buy,Hold,up
+2020-11-05 14:02:24,MKM Partners,Buy,,reit
+2020-11-05 16:00:14,BTIG,Buy,,main
+2021-01-11 12:01:09,Jefferies,Hold,Buy,down
+2021-01-12 12:42:25,Citigroup,Buy,Neutral,up
+2021-02-16 12:42:58,BTIG,Buy,,main
+2021-09-09 11:48:58,Needham,Buy,,init
+2021-10-01 11:12:13,B of A Securities,Buy,,init
+2021-10-28 10:33:07,Needham,Buy,,main
+2021-12-17 12:15:33,Canaccord Genuity,Buy,,init
+2022-01-07 10:39:35,Goldman Sachs,Buy,,init
+2022-01-13 10:25:35,Piper Sandler,Overweight,,init
+2022-02-11 11:41:25,Needham,Buy,,main
+2022-02-11 14:46:15,JMP Securities,Market Outperform,,main

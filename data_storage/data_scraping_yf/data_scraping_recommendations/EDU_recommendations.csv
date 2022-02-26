@@ -1,0 +1,84 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-18 06:41:00,Mirae Asset,Buy,,main
+2012-04-18 06:46:00,PiperJaffray,Overweight,,main
+2012-04-18 06:48:00,Goldman Sachs,Neutral,,main
+2012-04-18 06:55:00,Bank oferica,Neutral,,main
+2012-04-18 06:57:00,Morgan Stanley,Overweight,,main
+2012-07-06 11:25:00,Deutsche Bank,Buy,,main
+2012-07-10 08:47:00,Credit Suisse,Outperform,,main
+2012-07-18 05:48:00,Oppenheimer,Perform,Outperform,down
+2012-07-18 05:57:00,Jefferies,Hold,Buy,down
+2012-10-15 06:06:00,Oppenheimer,Outperform,Perform,up
+2012-10-15 08:38:00,JG Capital,Overweight,,init
+2012-10-15 11:49:00,PiperJaffray,Overweight,,main
+2013-01-29 13:29:45,Goldman Sachs,Neutral,,main
+2013-01-29 15:50:24,PiperJaffray,Overweight,,main
+2013-01-29 16:22:50,Deutsche Bank,Buy,,main
+2013-01-30 09:10:14,Nomura,Neutral,Buy,down
+2013-10-24 08:31:51,Jefferies,Buy,,main
+2014-02-07 07:00:00,Citigroup,Buy,,init
+2014-04-29 23:22:38,Oppenheimer,Outperform,,main
+2014-05-05 09:02:00,Deutsche Bank,Hold,Buy,down
+2014-05-07 09:10:51,Deutsche Bank,Hold,Buy,down
+2014-07-08 19:36:43,JP Morgan,Overweight,,main
+2014-07-23 06:20:42,Jefferies,Hold,Buy,down
+2014-07-23 22:19:41,JP Morgan,Overweight,,main
+2014-07-24 08:30:00,Macquarie,Neutral,Outperform,down
+2014-08-27 06:26:06,Credit Suisse,Outperform,,init
+2014-10-15 16:00:00,Goldman Sachs,Sell,Neutral,down
+2015-01-16 09:00:00,Jefferies,Hold,,main
+2015-02-27 06:08:45,Exane BNP Paribas,Buy,,init
+2015-04-14 06:04:43,Brean Capital,Hold,,init
+2015-09-09 04:46:43,JP Morgan,Overweight,,main
+2015-10-21 06:17:49,Brean Capital,Buy,Hold,up
+2015-10-21 06:35:59,Jefferies,Buy,Hold,up
+2015-10-30 07:24:48,Macquarie,Outperform,Neutral,up
+2016-01-21 11:12:25,Macquarie,Outperform,,main
+2016-02-04 07:32:17,Mizuho,Buy,Neutral,up
+2016-04-14 06:28:04,Morgan Stanley,Overweight,,init
+2016-07-21 06:09:54,Brean Capital,Buy,,init
+2016-07-21 07:32:12,Nomura,Neutral,,main
+2017-01-18 12:21:14,JP Morgan,Overweight,Neutral,up
+2017-04-18 18:38:34,Benchmark,Buy,,init
+2017-05-17 15:57:45,JP Morgan,Neutral,Overweight,down
+2017-07-25 17:36:08,CLSA,Buy,Outperform,down
+2017-09-14 13:10:05,JP Morgan,Underweight,Neutral,down
+2017-09-25 19:08:02,Bank of America,Buy,Neutral,up
+2018-01-04 12:51:35,Deutsche Bank,Buy,,init
+2018-01-24 15:02:56,JP Morgan,Underweight,Underweight,main
+2018-03-05 12:45:39,JP Morgan,Neutral,Underweight,up
+2018-03-05 15:50:35,JP Morgan,Neutral,Neutral,main
+2018-04-26 12:08:56,JP Morgan,Neutral,Neutral,main
+2018-05-24 12:55:35,CLSA,Underperform,Outperform,down
+2018-05-29 12:45:44,JP Morgan,Neutral,Neutral,main
+2018-10-02 10:41:57,Morgan Stanley,Equal-Weight,Overweight,down
+2018-10-24 13:57:19,JP Morgan,Overweight,Overweight,main
+2018-10-24 15:16:39,Nomura,Buy,Buy,main
+2018-11-01 11:25:17,Deutsche Bank,Hold,Buy,down
+2019-02-11 11:59:12,JP Morgan,Neutral,Overweight,down
+2019-03-25 10:48:52,Morgan Stanley,Overweight,Equal-Weight,up
+2019-04-24 12:09:45,CICC,Buy,Hold,up
+2019-10-17 13:02:45,JP Morgan,Overweight,Neutral,up
+2019-10-23 12:33:51,Benchmark,Buy,,reit
+2020-01-21 13:19:37,Benchmark,Buy,,reit
+2020-03-02 13:20:44,Benchmark,Buy,,reit
+2020-03-03 13:44:16,JP Morgan,Overweight,,main
+2020-04-17 15:07:10,JP Morgan,Overweight,,main
+2020-04-22 12:16:26,Benchmark,Buy,,reit
+2020-04-22 14:31:30,UBS,Buy,,main
+2020-04-22 16:21:53,Nomura,Buy,,main
+2020-07-29 11:22:17,Benchmark,Buy,,main
+2020-09-02 10:08:59,Jefferies,Buy,,init
+2020-10-14 13:23:03,Benchmark,Buy,,main
+2021-06-07 12:02:32,Credit Suisse,Neutral,Outperform,down
+2021-06-16 11:31:56,Morgan Stanley,Equal-Weight,Overweight,down
+2021-06-18 11:59:49,HSBC,Hold,Buy,down
+2021-06-25 14:26:39,DBS Bank,Hold,Buy,down
+2021-07-23 15:49:30,JP Morgan,Underweight,Overweight,down
+2021-07-26 09:26:03,Goldman Sachs,Neutral,Buy,down
+2021-07-26 10:59:52,CLSA,Underperform,Outperform,down
+2021-07-26 12:43:51,Benchmark,Hold,Buy,down
+2021-07-26 13:11:06,B of A Securities,Neutral,Buy,down
+2021-07-27 09:33:48,Daiwa Capital,Hold,Buy,down
+2021-07-27 09:56:29,Deutsche Bank,Hold,Buy,down
+2021-08-30 11:37:03,Morgan Stanley,Overweight,Equal-Weight,up

@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-02 07:13:00,Citigroup,Neutral,,main
+2012-09-20 08:26:00,Stifel Nicolaus,Hold,,init
+2012-10-26 05:59:00,Deutsche Bank,Hold,Buy,down
+2012-11-07 15:31:00,Citigroup,Neutral,,main
+2012-11-13 07:30:00,Deutsche Bank,Hold,,main
+2012-12-10 05:54:15,Bank of America,Neutral,Underperform,up
+2013-07-08 08:35:04,Needham,Hold,Buy,down
+2013-07-19 07:27:47,Bank of America,Neutral,,main
+2013-10-21 09:34:37,Longbow Research,Neutral,Buy,down
+2013-10-25 08:38:04,Bank of America,Underperform,Neutral,down
+2014-01-13 08:30:00,Raymond James,Underperform,,down
+2014-01-14 16:00:00,Goldman Sachs,Neutral,Buy,down
+2014-02-19 08:00:00,Raymond James,Market Perform,Underperform,up
+2014-04-21 07:51:24,Needham,Buy,Hold,up
+2014-04-21 21:33:17,Citigroup,Neutral,,main
+2014-07-18 06:22:23,Longbow Research,Buy,Neutral,up
+2015-08-03 06:20:10,Goldman Sachs,Buy,Neutral,up
+2015-11-18 07:21:14,Numis Securities,Add,Buy,down
+2016-06-09 13:06:37,Citigroup,Neutral,,main
+2016-12-15 12:56:13,Longbow Research,Neutral,Buy,down
+2017-07-21 15:59:38,Deutsche Bank,Hold,,main
+2017-07-21 17:20:11,Citigroup,Neutral,,main
+2017-08-28 10:55:34,JP Morgan,Overweight,Neutral,up
+2017-10-10 10:33:15,JP Morgan,Neutral,Overweight,down
+2017-10-27 13:06:03,Citigroup,Neutral,,main
+2018-01-08 18:16:09,Longbow Research,Buy,Neutral,up
+2018-03-16 13:45:41,JP Morgan,Neutral,Neutral,main
+2018-05-05 14:00:38,B. Riley FBR,Neutral,Buy,down
+2018-05-05 14:00:38,B. Riley FBR,Buy,,init
+2019-03-20 17:49:48,Sidoti & Co.,Buy,,init
+2019-10-25 13:13:58,Sidoti & Co.,Neutral,Buy,down
+2020-01-24 11:24:30,Needham,Buy,,reit
+2020-01-24 15:00:48,Sidoti & Co.,Neutral,,main
+2020-02-28 09:53:06,Raymond James,Market Perform,,init
+2020-03-09 10:50:18,JP Morgan,Overweight,Neutral,up
+2020-03-24 10:54:09,Needham,Buy,,main
+2020-04-15 14:36:27,JP Morgan,Overweight,,main
+2020-07-24 09:37:23,Needham,Buy,,main
+2020-07-24 15:17:34,Stifel,Hold,,main
+2020-08-12 10:22:11,JP Morgan,Neutral,Overweight,down
+2021-01-22 11:56:34,Needham,Buy,,main
+2021-03-31 16:12:16,Sidoti & Co.,Neutral,Buy,down
+2021-04-23 11:16:38,Needham,Buy,,main
+2021-05-25 10:09:20,Needham,Buy,,main
+2021-06-11 14:21:14,Loop Capital,Buy,,main
+2021-06-22 14:30:40,Sidoti & Co.,Buy,Neutral,up
+2021-08-23 15:30:20,Fox Advisors,Overweight,Equal-Weight,up
+2021-10-29 10:19:32,Needham,Buy,,main
+2022-01-19 09:52:23,Needham,Buy,,main

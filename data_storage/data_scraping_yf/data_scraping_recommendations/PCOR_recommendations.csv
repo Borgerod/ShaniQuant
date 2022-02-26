@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action
+2021-05-26 11:35:25,Berenberg,Buy,,init
+2021-06-14 10:02:19,Keybanc,Overweight,,init
+2021-06-14 10:58:29,Canaccord Genuity,Buy,,init
+2021-06-14 11:30:11,Goldman Sachs,Neutral,,init
+2021-06-14 11:31:46,Jefferies,Hold,,init
+2021-06-14 11:39:09,Oppenheimer,Outperform,,init
+2021-06-14 11:39:27,Barclays,Overweight,,init
+2021-06-14 11:43:27,Piper Sandler,Overweight,,init
+2021-06-14 11:44:23,Stifel,Buy,,init
+2021-06-14 12:48:30,JP Morgan,Overweight,,init
+2021-06-14 12:53:18,William Blair,Outperform,,init
+2021-08-06 08:55:21,Keybanc,Overweight,,main
+2021-08-06 09:28:28,Piper Sandler,Overweight,,main
+2021-08-06 13:07:34,Barclays,Overweight,,main
+2021-08-06 13:24:40,Oppenheimer,Outperform,,main
+2021-11-05 08:42:54,Keybanc,Overweight,,main
+2021-11-05 13:52:34,Oppenheimer,Outperform,,main
+2021-11-05 15:03:39,Barclays,Overweight,,main
+2022-01-06 10:14:34,Jefferies,Buy,Hold,up

@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action
+2021-06-14 11:35:38,Oppenheimer,Perform,,init
+2021-06-14 11:45:59,Piper Sandler,Overweight,,init
+2021-06-14 11:47:55,Credit Suisse,Outperform,,init
+2021-06-15 10:18:16,Nordea Equity,Hold,,init
+2021-08-12 11:40:00,Credit Suisse,Outperform,,main
+2021-08-17 12:19:14,Credit Suisse,Outperform,,main
+2021-08-18 11:46:33,Morgan Stanley,Equal-Weight,,main
+2021-08-19 11:38:19,RBC Capital,Outperform,Sector Perform,up
+2021-09-10 11:33:11,Cowen & Co.,Outperform,,init
+2021-09-20 10:18:23,Citigroup,Buy,,init
+2021-10-08 09:47:05,JP Morgan,Overweight,Neutral,up
+2021-12-22 12:36:36,HSBC,Reduce,,init
+2021-12-22 12:36:39,Atlantic Equities,Neutral,Overweight,down
+2021-12-22 12:36:43,Morgan Stanley,Overweight,Equal-Weight,up
+2021-12-22 12:36:47,Credit Suisse,Outperform,,main
+2021-12-22 12:36:51,RBC Capital,Outperform,,main
+2021-12-22 12:36:55,B of A Securities,Neutral,Buy,down
+2022-01-21 11:14:02,HSBC,Hold,Reduce,down
+2022-01-27 09:44:09,Mizuho,Neutral,,init

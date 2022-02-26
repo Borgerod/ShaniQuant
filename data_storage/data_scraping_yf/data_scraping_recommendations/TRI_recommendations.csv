@@ -1,0 +1,84 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-04 15:32:06,ScotiaBank,Sector Perform,,main
+2020-11-25 09:36:35,Barclays,Equal-Weight,,main
+2020-11-25 09:36:35,Jefferies,Hold,,init
+2020-11-25 09:36:35,Credit Suisse,Outperform,,main
+2020-11-25 09:36:35,Deutsche Bank,Hold,,main
+2020-11-25 09:36:35,Nomura,,,main
+2020-11-25 09:36:35,JP Morgan,Neutral,,main
+2020-11-25 09:36:35,National Bank Financial,Sector Perform,Outperform,down
+2020-11-25 09:36:35,RBC Capital,Sector Perform,Outperform,down
+2020-11-25 09:36:35,FBR Capital,Market Perform,Outperform,down
+2020-11-25 09:36:35,TD Securities,Buy,Hold,up
+2020-11-25 09:36:35,Bank of America,Neutral,Buy,down
+2020-11-25 09:36:35,Deutsche Bank,Hold,,main
+2020-11-25 09:36:35,Nomura,Neutral,,main
+2020-11-25 09:36:35,TD Securities,Hold,,down
+2020-11-25 09:36:35,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:36:35,Barclays,Equal-Weight,,main
+2020-11-25 09:36:35,Macquarie,Neutral,,init
+2020-11-25 09:36:35,Barclays,Equal-Weight,,main
+2020-11-25 09:36:36,Bank of America,Buy,,main
+2020-11-25 09:36:36,Deutsche Bank,Hold,,main
+2020-11-25 09:36:36,Deutsche Bank,Hold,,init
+2020-11-25 09:36:36,Barclays,Equal-Weight,,main
+2020-11-25 09:36:36,Barclays,Equal-Weight,,main
+2020-11-25 09:36:36,Barclays,Equal-Weight,,main
+2020-11-25 09:36:36,National Bank Financial,Underperform,Sector Perform,down
+2020-11-25 09:36:36,National Bank Financial,Underperform,Sector Perform,down
+2020-11-25 09:36:36,Deutsche Bank,Hold,,main
+2020-11-25 09:36:36,Bank of America,Buy,,main
+2020-11-25 09:36:36,Canaccord Genuity,Buy,,init
+2020-11-25 09:36:36,Citigroup,Buy,,main
+2020-11-25 09:36:36,National Bank Financial,Sector Perform,Underperform,up
+2020-11-25 09:36:36,RBC Capital,Outperform,Sector Perform,up
+2020-11-25 09:36:36,FBR Capital,Outperform,,init
+2020-11-25 09:36:36,Nomura,Reduce,Neutral,down
+2020-11-25 09:36:36,Credit Suisse,Outperform,Neutral,up
+2020-11-25 09:36:36,Credit Suisse,Outperform,,main
+2020-11-25 09:36:36,Nomura,Reduce,,main
+2020-11-25 09:36:36,PiperJaffray,Neutral,Underweight,up
+2020-11-25 09:36:37,Deutsche Bank,Hold,,main
+2020-11-25 09:36:47,Canaccord Genuity,Hold,Buy,down
+2020-11-25 09:36:47,Berenberg,Sell,,init
+2020-11-25 09:36:48,Macquarie,Outperform,Neutral,up
+2020-11-25 09:36:48,Deutsche Bank,Buy,Hold,up
+2020-11-25 09:36:49,Deutsche Bank,Buy,,main
+2020-11-25 09:36:50,TD Securities,Buy,Hold,up
+2020-11-25 09:36:51,Scotiabank,Sector Outperform,Sector Perform,up
+2020-11-25 09:36:51,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:36:51,Credit Suisse,Neutral,,init
+2020-11-25 09:36:51,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:36:52,Credit Suisse,Neutral,,main
+2020-11-25 09:36:52,Goldman Sachs,Sell,,init
+2020-11-25 09:36:54,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2020-11-25 09:36:57,Bank of America,Neutral,Neutral,main
+2020-11-25 09:36:57,Canaccord Genuity,Buy,Hold,up
+2020-11-25 09:36:57,Barclays,Equal-Weight,Equal-Weight,main
+2020-11-25 09:36:57,Barclays,Equal-Weight,Equal-Weight,main
+2020-11-25 09:37:01,Morgan Stanley,Overweight,Overweight,main
+2020-11-25 09:37:03,Morgan Stanley,Overweight,Overweight,main
+2020-11-25 09:37:03,Credit Suisse,Neutral,,init
+2020-11-25 09:37:04,BMO Capital,Outperform,Outperform,main
+2020-11-25 09:37:05,National Bank Financial,Outperform,Sector Perform,up
+2020-11-25 09:37:06,Morgan Stanley,Overweight,Overweight,main
+2020-11-25 09:37:07,Macquarie,Neutral,Outperform,down
+2020-11-25 09:37:08,National Bank Financial,Sector Perform,Outperform,down
+2020-11-25 09:37:08,Bank of America,Neutral,,reit
+2020-11-25 09:37:08,TD Securities,Hold,Buy,down
+2020-11-25 09:37:08,Credit Suisse,Outperform,Neutral,up
+2020-11-25 09:37:11,Bank of America,Buy,Neutral,up
+2020-11-25 09:37:13,RBC Capital,Sector Perform,Outperform,down
+2020-11-25 09:37:14,JP Morgan,Neutral,,main
+2020-11-25 09:37:14,B of A Securities,Buy,,main
+2020-11-25 09:37:16,RBC Capital,Outperform,Sector Perform,up
+2020-11-25 09:37:17,Barclays,Equal-Weight,,main
+2020-11-25 09:37:18,B of A Securities,Buy,,reit
+2020-11-25 09:37:18,JP Morgan,Neutral,,main
+2020-11-25 09:37:21,ScotiaBank,Sector Perform,,main
+2020-11-25 09:37:22,RBC Capital,Outperform,,main
+2021-02-24 13:52:53,Morgan Stanley,Equal-Weight,,main
+2021-02-24 15:14:21,ScotiaBank,Sector Perform,,main
+2021-03-17 11:40:01,Morgan Stanley,Equal-Weight,,main
+2021-05-05 10:45:22,CIBC,Neutral,Outperformer,down
+2021-05-05 12:55:39,Morgan Stanley,Equal-Weight,,main

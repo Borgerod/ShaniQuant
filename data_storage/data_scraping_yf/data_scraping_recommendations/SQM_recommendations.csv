@@ -1,0 +1,47 @@
+Date,Firm,To Grade,From Grade,Action
+2012-11-13 12:06:00,Santander,Buy,Hold,up
+2013-03-06 08:59:33,Bank of America,Neutral,Buy,down
+2013-03-06 09:30:41,Miller Tabak,Neutral,Buy,down
+2013-05-21 09:10:39,Craig-Hallum,Hold,Buy,down
+2013-06-25 10:46:40,Scotiabank,,Sector Perform,up
+2013-07-02 09:40:45,Miller Tabak,,Neutral,up
+2013-07-30 10:01:19,Bank of America,Underperform,Neutral,down
+2013-11-04 07:21:18,HSBC,Neutral,Underweight,up
+2014-04-03 07:04:10,Morgan Stanley,Equal-Weight,,main
+2014-07-18 23:10:18,JP Morgan,Neutral,,main
+2014-09-16 09:00:00,JP Morgan,Neutral,,main
+2015-04-02 07:24:48,JP Morgan,Overweight,Neutral,up
+2015-07-02 06:21:26,HSBC,Buy,Hold,up
+2015-11-17 05:31:01,HSBC,Hold,Buy,down
+2016-07-13 07:09:46,Citigroup,Sell,Neutral,down
+2016-10-19 13:27:28,HSBC,Buy,Neutral,up
+2016-11-08 12:20:59,BMO Capital,Market Perform,,init
+2017-04-17 17:25:42,Deutsche Bank,Hold,Buy,down
+2017-08-29 13:03:29,BMO Capital,Market Perform,,main
+2017-09-13 13:10:52,Bank of America,Buy,Neutral,up
+2017-10-11 12:17:11,HSBC,Reduce,Buy,down
+2018-01-18 13:35:15,Deutsche Bank,Buy,Hold,up
+2018-03-06 14:06:38,Deutsche Bank,Buy,Buy,main
+2018-03-08 12:57:02,HSBC,Hold,Reduce,up
+2018-10-03 12:35:49,Jefferies,Hold,,init
+2018-12-03 13:29:49,HSBC,Buy,Hold,up
+2019-02-25 12:47:24,Deutsche Bank,Hold,Buy,down
+2019-03-01 12:57:18,JP Morgan,Neutral,Overweight,down
+2019-03-05 11:33:55,Citigroup,Neutral,Buy,down
+2019-03-08 12:03:49,Bank of America,Neutral,Buy,down
+2019-04-03 10:47:28,Santander,Hold,Buy,down
+2019-05-24 11:02:59,BMO Capital,Market Perform,Outperform,down
+2019-08-22 11:12:11,JP Morgan,Underweight,Neutral,down
+2020-01-22 12:15:26,HSBC,Reduce,Hold,down
+2020-04-02 14:43:46,BMO Capital,Market Perform,,main
+2020-05-21 09:45:03,ScotiaBank,Sector Underperform,Sector Perform,down
+2020-05-22 13:00:19,Deutsche Bank,Hold,,main
+2020-08-21 13:59:14,ScotiaBank,Sector Underperform,,main
+2020-10-21 10:44:09,HSBC,Buy,Hold,up
+2021-02-12 14:39:37,Citigroup,Buy,Neutral,up
+2021-02-16 12:46:57,Deutsche Bank,Buy,Hold,up
+2021-07-23 10:10:57,Morgan Stanley,Underweight,Equal-Weight,down
+2021-09-29 15:20:55,B of A Securities,Neutral,Underperform,up
+2021-12-20 14:09:07,B of A Securities,Underperform,Neutral,down
+2022-01-25 10:03:16,Loop Capital,Buy,,init
+2022-02-10 12:18:35,Deutsche Bank,Buy,,main

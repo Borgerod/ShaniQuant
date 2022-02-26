@@ -1,0 +1,120 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-06 09:39:00,Morgan Stanley,Overweight,,init
+2012-04-25 07:52:00,Bank oferica,Buy,,main
+2012-04-25 08:48:00,Goldman Sachs,Neutral,,main
+2012-05-23 08:52:00,Jefferies,Hold,,main
+2012-07-10 05:58:00,ISI Group,Market Weight,,init
+2012-07-23 12:29:00,Barclays,Overweight,,main
+2012-07-24 15:26:00,ISI Group,Market Weight,,main
+2012-07-24 16:07:00,Citigroup,Neutral,,main
+2012-07-25 05:59:00,Jefferies,Hold,,main
+2012-07-25 06:47:00,Morgan Stanley,Overweight,,main
+2012-07-25 12:12:00,UBS,Neutral,,main
+2012-07-25 12:42:00,Barclays,Overweight,,main
+2012-10-23 13:52:00,ISI Group,Market Weight,,main
+2012-10-23 15:56:00,Goldman Sachs,Neutral,,main
+2013-01-03 07:04:13,JP Morgan,Neutral,Overweight,down
+2013-01-03 12:36:42,Leerink Swann,Market Perform,Outperform,down
+2013-01-03 16:21:24,Morgan Stanley,Equal-Weight,Overweight,down
+2013-01-04 07:13:35,Morgan Stanley,Equal-Weight,Overweight,down
+2013-01-17 11:38:57,Wells Fargo,Market Perform,Outperform,down
+2013-01-22 16:16:58,Jefferies,Hold,,main
+2013-01-22 16:19:47,JP Morgan,Neutral,,main
+2013-01-23 07:14:43,Jefferies,Hold,,main
+2013-01-23 10:39:55,UBS,Neutral,,main
+2013-01-23 12:11:19,Gabelli & Co.,Hold,Buy,down
+2013-04-23 13:25:00,ISI Group,Neutral,,main
+2013-04-23 17:04:11,Goldman Sachs,Neutral,,main
+2013-04-24 07:51:48,Citigroup,Neutral,,main
+2013-06-25 09:36:56,Goldman Sachs,Buy,Neutral,up
+2013-07-19 08:19:29,William Blair,Market Perform,,init
+2013-08-15 08:52:16,Janney Capital,Neutral,,init
+2013-09-27 09:02:12,Maxim Group,Buy,,init
+2013-10-14 08:09:51,Mizuho,Neutral,Buy,down
+2013-10-23 06:25:18,Bank of America,Neutral,Buy,down
+2013-10-23 08:26:19,Jefferies,Hold,,main
+2014-08-12 06:16:57,Stifel Nicolaus,Hold,,init
+2014-09-08 07:40:52,Morgan Stanley,Underweight,,init
+2015-01-27 09:00:00,Citigroup,Neutral,,main
+2015-03-10 10:30:33,UBS,Neutral,,init
+2015-04-29 09:00:00,Leerink Swann,Market Perform,,main
+2015-07-29 07:43:59,Wells Fargo,Outperform,Market Perform,up
+2015-08-27 07:35:49,Cantor Fitzgerald,Buy,,init
+2015-10-28 10:57:46,Leerink Swann,Market Perform,,main
+2016-01-06 16:20:56,Deutsche Bank,Hold,,init
+2016-01-06 18:05:34,Avondale Partners,Market Outperform,,init
+2016-01-27 11:02:51,Deutsche Bank,Hold,,main
+2016-03-01 03:54:43,Barclays,Equal-Weight,,init
+2016-04-05 07:03:22,Bank of America,Neutral,Buy,down
+2016-07-27 11:39:30,Barclays,Equal-Weight,,main
+2016-07-27 12:22:42,Citigroup,Neutral,,main
+2017-01-06 13:00:47,William Blair,Outperform,Market Perform,up
+2017-01-18 14:05:19,Deutsche Bank,Buy,,init
+2017-05-01 13:07:34,Janney Capital,Buy,Neutral,up
+2017-07-10 13:34:09,Deutsche Bank,Hold,Buy,down
+2017-07-26 18:18:33,Morgan Stanley,Underweight,,main
+2017-10-06 13:51:13,Morgan Stanley,Underweight,Underweight,main
+2017-10-25 13:12:27,Baird,Outperform,,main
+2017-10-25 17:50:02,Deutsche Bank,Hold,,main
+2017-10-25 18:10:55,Barclays,Equal-Weight,,main
+2017-10-25 19:09:45,Citigroup,Neutral,,main
+2017-11-10 16:37:31,Bank of America,Neutral,,main
+2017-12-04 18:16:47,Morgan Stanley,Equal-Weight,Underweight,up
+2018-01-04 13:43:32,Evercore ISI Group,In-Line,,init
+2018-01-05 11:37:06,BTIG Research,Buy,,init
+2018-01-24 13:13:48,Citigroup,Neutral,Neutral,main
+2018-01-24 14:48:51,Baird,Outperform,Outperform,main
+2018-01-24 15:23:27,JP Morgan,Neutral,Neutral,main
+2018-01-24 17:09:48,Barclays,Equal-Weight,Equal-Weight,main
+2018-04-11 11:53:35,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-04-25 12:41:40,Baird,Outperform,Outperform,main
+2018-04-25 13:16:38,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-04-25 16:04:10,Barclays,Equal-Weight,Equal-Weight,main
+2018-07-13 11:57:41,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-07-16 13:28:39,Bank of America,Underperform,Neutral,down
+2018-07-17 12:10:33,Janney Capital,Neutral,Buy,down
+2018-07-25 12:16:19,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-07-25 12:49:20,Baird,Outperform,Outperform,main
+2018-10-08 13:33:32,Leerink Swann,Market Perform,Outperform,down
+2018-10-10 11:56:16,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-10-24 14:13:27,JP Morgan,Neutral,Neutral,main
+2018-10-24 15:00:53,Barclays,Equal-Weight,Equal-Weight,main
+2018-10-24 15:24:40,UBS,Neutral,Neutral,main
+2018-11-30 11:55:53,Goldman Sachs,Sell,Neutral,down
+2018-12-12 13:05:01,JP Morgan,Underweight,Neutral,down
+2019-01-03 12:50:29,Bank of America,Neutral,Underperform,up
+2019-01-03 13:36:19,Needham,Hold,,init
+2019-01-24 14:07:37,Baird,Neutral,Outperform,down
+2019-04-24 13:28:16,Barclays,Equal-Weight,Equal-Weight,main
+2019-04-24 14:24:07,Baird,Neutral,Neutral,main
+2019-04-24 15:04:05,UBS,Neutral,Neutral,main
+2019-04-24 15:33:09,UBS,Neutral,,main
+2019-07-16 11:00:56,Bank of America,Underperform,Neutral,down
+2019-10-09 10:45:21,Barclays,Underweight,Equal-Weight,down
+2019-10-30 13:45:02,Baird,Neutral,,main
+2019-11-15 11:58:11,Stifel Nicolaus,Hold,,init
+2019-12-05 11:37:54,BTIG Research,Neutral,Buy,down
+2020-01-07 12:10:40,Citigroup,Sell,,init
+2020-01-08 13:37:52,Needham,Underperform,Hold,down
+2020-01-08 14:24:52,Wells Fargo,Underweight,,init
+2020-03-20 13:44:35,Citigroup,Sell,,main
+2020-03-26 19:20:33,Barclays,Underweight,,main
+2020-03-31 08:12:35,Wells Fargo,Underweight,,main
+2020-04-02 20:13:09,Stifel,Hold,,main
+2020-04-29 14:31:17,UBS,Neutral,,main
+2020-04-29 14:50:31,Stifel,Hold,,main
+2020-04-29 16:39:33,B of A Securities,Underperform,,main
+2020-07-29 08:57:02,SVB Leerink,Market Perform,,main
+2020-07-29 15:17:37,Stifel,Hold,,main
+2020-10-28 09:01:02,SVB Leerink,Market Perform,,main
+2020-10-28 15:04:14,Wells Fargo,Equal-Weight,,main
+2020-10-28 15:09:40,Stifel,Hold,,main
+2020-11-10 09:28:29,KeyBanc,Sector Weight,,init
+2020-12-16 13:49:09,Citigroup,Neutral,Sell,up
+2021-01-07 13:09:37,Wells Fargo,Underweight,Equal-Weight,down
+2021-05-06 12:12:32,SVB Leerink,Market Perform,,main
+2021-05-06 13:25:59,Wells Fargo,Underweight,,main
+2021-07-06 11:08:20,Evercore ISI Group,Outperform,In-Line,up
+2021-08-04 08:45:04,SVB Leerink,Market Perform,,main
+2021-08-04 11:19:18,Baird,Neutral,,main
+2022-02-02 09:48:46,SVB Leerink,Market Perform,,main

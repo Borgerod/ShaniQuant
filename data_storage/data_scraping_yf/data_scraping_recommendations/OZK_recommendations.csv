@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action
+2018-08-13 10:21:56,Barclays,Underweight,Overweight,down
+2018-09-18 16:58:32,Morgan Stanley,Overweight,Overweight,main
+2018-10-19 10:30:27,Raymond James,Market Perform,Strong Buy,down
+2018-10-22 11:46:50,Morgan Stanley,Equal-Weight,Overweight,down
+2018-10-22 13:54:01,Wells Fargo,Market Perform,Market Perform,main
+2018-10-22 15:26:52,Barclays,Underweight,Underweight,main
+2018-10-22 15:44:46,Citigroup,Buy,Buy,main
+2018-10-24 11:07:57,UBS,Neutral,Sell,up
+2018-12-04 12:24:51,PiperJaffray,Neutral,Overweight,down
+2018-12-11 12:08:39,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2019-01-10 11:50:43,Barclays,Equal-Weight,Underweight,up
+2019-10-03 11:56:34,Morgan Stanley,Equal-Weight,,main
+2019-10-22 12:06:09,Morgan Stanley,Equal-Weight,,main
+2019-11-18 14:36:16,SunTrust Robinson Humphrey,Hold,,main
+2020-01-02 15:00:59,SunTrust Robinson Humphrey,Hold,,main
+2020-01-10 11:44:46,Piper Sandler,Overweight,Neutral,up
+2020-03-05 12:57:59,Morgan Stanley,Equal-Weight,,main
+2020-03-17 13:22:55,Morgan Stanley,Equal-Weight,,main
+2020-03-25 08:17:44,Citigroup,Buy,,main
+2020-03-30 14:33:25,Wells Fargo,Equal-Weight,,main
+2020-04-06 19:57:10,SunTrust Robinson Humphrey,Hold,,main
+2020-04-07 11:46:23,Morgan Stanley,Equal-Weight,,main
+2020-04-27 17:42:16,Stephens & Co.,Equal-Weight,,main
+2020-05-05 15:15:37,SunTrust Robinson Humphrey,Hold,,main
+2020-05-06 12:27:28,Morgan Stanley,Equal-Weight,,main
+2020-05-15 14:23:23,UBS,Neutral,,main
+2020-06-08 11:46:04,Morgan Stanley,Equal-Weight,,main
+2020-06-17 13:01:41,Raymond James,Outperform,Market Perform,up
+2020-06-18 11:22:18,Citigroup,Neutral,Buy,down
+2020-07-24 14:23:25,Piper Sandler,Overweight,,main
+2020-08-04 11:44:17,Morgan Stanley,Equal-Weight,,main
+2020-11-03 13:05:58,Morgan Stanley,Equal-Weight,,main
+2020-12-07 13:12:57,Morgan Stanley,Equal-Weight,,main
+2021-01-07 16:01:43,Morgan Stanley,Equal-Weight,,main
+2021-01-25 13:00:25,Raymond James,Outperform,,main
+2021-01-27 13:50:36,Morgan Stanley,Equal-Weight,,main
+2021-02-24 12:34:54,Morgan Stanley,Equal-Weight,,main
+2021-03-18 11:50:53,Morgan Stanley,Equal-Weight,,main
+2021-06-04 10:40:18,Wells Fargo,Overweight,Equal-Weight,up
+2021-08-02 14:18:14,Morgan Stanley,Equal-Weight,,main
+2021-10-25 09:19:41,Raymond James,Outperform,,main
+2021-12-06 14:59:43,Morgan Stanley,Equal-Weight,,main
+2022-01-06 12:23:35,Raymond James,Outperform,,main
+2022-01-24 09:59:41,Raymond James,Outperform,,main

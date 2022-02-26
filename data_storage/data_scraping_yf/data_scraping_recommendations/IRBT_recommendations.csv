@@ -1,0 +1,76 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-09 06:06:00,JP Morgan,Underweight,,down
+2012-02-09 06:16:00,Early Bird Capital,Hold,,down
+2012-02-09 12:01:00,Morgan Keegan,Underperform,,down
+2012-04-24 17:08:00,Early Bird Capital,Hold,,main
+2012-04-25 12:44:00,JP Morgan,Underweight,,main
+2012-10-24 14:59:00,JP Morgan,Underweight,,main
+2013-05-21 11:01:49,Sidoti & Co.,Neutral,,init
+2013-06-21 08:56:34,Benchmark,Buy,,main
+2013-09-09 17:54:00,Susquehanna,Positive,,init
+2013-12-12 16:00:00,JP Morgan,Neutral,Underweight,up
+2013-12-16 16:00:00,Sidoti & Co.,Buy,Neutral,up
+2013-12-17 16:00:00,Raymond James,Strong Buy,Market Perform,up
+2013-12-18 16:00:00,GARP Research,Buy,,init
+2014-02-07 07:17:59,JP Morgan,Underweight,Neutral,down
+2014-03-24 08:56:26,CRT Capital,Fair Value,,main
+2014-04-29 08:00:00,JP Morgan,Neutral,Underweight,up
+2014-07-17 22:47:45,JP Morgan,Neutral,,main
+2014-12-02 00:00:00,JMP Securities,Market Outperform,,init
+2014-12-03 00:00:00,JMP Securities,Market Outperform,,init
+2015-01-14 00:00:00,JP Morgan,Underweight,Neutral,down
+2015-02-02 09:00:00,Susquehanna,Neutral,,main
+2015-02-05 09:00:00,JMP Securities,Market Outperform,,main
+2015-03-18 06:00:08,Raymond James,Outperform,Strong Buy,down
+2015-05-07 08:24:08,Oppenheimer,Perform,,init
+2015-09-18 06:30:40,Raymond James,Market Perform,Outperform,down
+2015-10-13 07:55:28,JMP Securities,Market Outperform,,main
+2016-01-04 06:15:22,PiperJaffray,Neutral,Overweight,down
+2016-01-06 10:25:48,JP Morgan,Neutral,Underweight,up
+2016-02-10 07:19:07,Chardan Capital,Buy,,init
+2016-03-18 05:26:28,JP Morgan,Underweight,Neutral,down
+2016-04-27 10:49:03,JP Morgan,Underweight,,main
+2016-11-14 14:25:39,Needham,Hold,Buy,down
+2016-11-17 13:11:39,Dougherty,Buy,,init
+2017-05-31 10:50:50,Canaccord Genuity,Hold,Buy,down
+2017-07-03 13:41:12,,Neutral,Buy,down
+2017-10-26 12:29:56,Canaccord Genuity,Hold,,main
+2017-12-04 14:39:34,Citigroup,Neutral,,init
+2018-02-09 12:29:27,JP Morgan,Neutral,Underweight,up
+2018-02-09 16:04:49,Sidoti & Co.,Buy,Neutral,up
+2018-04-19 14:49:28,PiperJaffray,Overweight,Neutral,up
+2018-04-26 12:06:53,JP Morgan,Neutral,Neutral,main
+2018-04-26 18:04:39,Canaccord Genuity,Hold,Hold,main
+2018-07-10 12:17:28,Raymond James,Market Perform,Outperform,down
+2018-09-04 13:42:41,Sidoti & Co.,Neutral,Buy,down
+2018-10-08 10:55:39,PiperJaffray,Neutral,Overweight,down
+2018-10-24 17:02:16,Needham,Buy,Hold,up
+2019-02-19 12:19:13,Canaccord Genuity,Hold,Buy,down
+2019-02-21 14:04:28,Sidoti & Co.,Neutral,Buy,down
+2019-03-19 11:43:05,Needham,Hold,Buy,down
+2019-07-25 12:10:13,Canaccord Genuity,Hold,,main
+2019-08-29 12:58:00,Sidoti & Co.,Buy,Neutral,up
+2019-09-27 13:10:32,Bank of America,Buy,,init
+2019-10-09 10:38:26,Raymond James,Underperform,Market Perform,down
+2019-10-16 13:13:57,JP Morgan,Neutral,,main
+2019-10-23 12:48:40,JP Morgan,Neutral,,main
+2019-10-23 13:32:25,Piper Jaffray,Neutral,,reit
+2019-10-24 10:38:56,Bank of America,Neutral,Buy,down
+2019-10-24 11:19:30,Citi,Neutral,,main
+2019-10-24 14:56:05,Canaccord Genuity,Hold,,main
+2020-01-16 12:01:29,Raymond James,Market Perform,Underperform,up
+2020-01-22 17:23:23,B of A Securities,Neutral,,main
+2020-04-22 09:59:53,JP Morgan,Underweight,Neutral,down
+2020-04-30 13:40:00,Citigroup,Neutral,,main
+2020-05-26 09:02:46,JP Morgan,Neutral,Underweight,up
+2020-06-03 15:57:55,B of A Securities,Neutral,,main
+2020-06-17 12:36:50,Piper Sandler,Neutral,,main
+2020-06-26 14:54:23,B of A Securities,Underperform,Neutral,down
+2020-07-23 13:02:33,Colliers Securities,Neutral,Buy,down
+2020-10-19 16:38:50,B of A Securities,Underperform,,main
+2020-10-22 10:35:25,Raymond James,Outperform,Market Perform,up
+2021-02-08 17:03:12,JP Morgan,Neutral,,main
+2021-02-12 14:24:39,Citigroup,Neutral,,main
+2021-05-05 13:18:44,Northland Capital Markets,Market Perform,,main
+2021-07-29 10:38:58,JP Morgan,Neutral,Overweight,down
+2021-12-22 15:04:27,Citigroup,Neutral,,main

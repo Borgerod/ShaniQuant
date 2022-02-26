@@ -1,0 +1,13 @@
+Date,Firm,To Grade,From Grade,Action
+2021-04-19 10:24:05,Goldman Sachs,Neutral,,init
+2021-04-19 10:25:15,Jefferies,Hold,,init
+2021-04-19 11:13:31,Piper Sandler,Overweight,,init
+2021-04-19 11:39:15,Stifel,Hold,,init
+2021-04-19 12:18:46,Keybanc,Overweight,,init
+2021-04-19 12:21:26,JP Morgan,Overweight,,init
+2021-05-12 10:12:45,Piper Sandler,Overweight,,main
+2021-08-11 08:38:46,Keybanc,Overweight,,main
+2021-09-08 08:36:06,Keybanc,Overweight,,main
+2021-11-11 09:33:01,Keybanc,Overweight,,main
+2021-12-06 11:09:39,Needham,Buy,,init
+2022-01-12 11:30:28,Piper Sandler,Overweight,,main

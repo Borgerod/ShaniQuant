@@ -1,0 +1,93 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-05 07:22:00,BMO Capital,Market Perform,,up
+2012-05-17 14:33:00,DA Davidson,Buy,,up
+2012-07-06 07:49:00,DA Davidson,Neutral,Buy,down
+2012-07-09 05:39:00,Citigroup,Buy,Neutral,up
+2012-07-17 06:10:00,BMO Capital,Underperform,Market Perform,down
+2012-07-30 06:24:00,Deutsche Bank,Hold,,main
+2012-09-04 07:23:00,DA Davidson,Neutral,,main
+2012-09-07 07:07:00,Goldman Sachs,Neutral,Buy,down
+2012-10-01 07:43:00,DA Davidson,Neutral,,main
+2012-10-15 12:19:00,RBC Capital,Outperform,Sector Perform,up
+2012-10-15 13:03:00,Citigroup,Buy,,main
+2012-10-29 08:35:00,Deutsche Bank,Hold,,main
+2012-10-29 08:38:00,BMO Capital,Market Perform,,main
+2012-10-31 05:54:00,McAdams Wright Ragen,Sell,Hold,down
+2012-12-14 10:45:36,Raymond James,Market Perform,,init
+2013-01-09 10:36:00,Citigroup,Buy,,main
+2013-01-15 09:09:45,Goldman Sachs,Neutral,,main
+2013-01-25 15:02:19,Bank of America,Buy,,main
+2013-01-28 09:38:12,Deutsche Bank,Hold,,main
+2013-01-28 10:17:57,RBC Capital,Sector Perform,Outperform,down
+2013-03-19 09:01:14,Raymond James,Outperform,Market Perform,up
+2013-04-29 10:28:19,UBS,Sell,,main
+2013-05-14 12:11:15,Raymond James,Strong Buy,Outperform,up
+2013-05-31 08:49:04,Buckingham Research,Buy,Neutral,up
+2013-06-10 09:11:30,RBC Capital,Outperform,Sector Perform,up
+2013-06-18 09:33:34,Scotiabank,Sector Perform,Underperform,up
+2013-06-20 06:33:17,BMO Capital,Outperform,Market Perform,up
+2013-06-24 08:37:02,Deutsche Bank,Hold,,main
+2013-08-16 08:04:56,Bank of America,Buy,,main
+2013-08-20 09:20:52,Longbow Research,Buy,Neutral,up
+2013-12-12 16:00:00,JP Morgan,Overweight,,init
+2014-08-04 09:05:47,DA Davidson,Buy,Neutral,up
+2014-08-05 06:25:27,DA Davidson,Buy,Neutral,up
+2014-09-03 17:11:41,BMO Capital,Outperform,,init
+2014-09-04 06:19:35,BMO Capital,Outperform,,init
+2014-09-05 06:09:14,JP Morgan,Neutral,,init
+2014-11-03 08:09:09,DA Davidson,Buy,,main
+2014-11-04 09:00:00,Citigroup,Buy,,main
+2015-02-02 09:00:00,JP Morgan,Neutral,,main
+2015-04-28 09:00:00,Citigroup,Buy,,main
+2015-05-04 09:00:00,UBS,Sell,,main
+2015-05-05 09:00:00,Citigroup,Buy,,main
+2015-06-17 07:38:14,Dundee,Neutral,,init
+2015-07-16 07:50:23,Bank of America,Neutral,Buy,down
+2015-09-15 07:43:01,Bank of America,Buy,Neutral,up
+2015-11-13 07:53:57,CLSA,Outperform,Underperform,up
+2015-11-17 13:54:38,RBC Capital,Outperform,,main
+2016-01-19 07:46:19,Dundee,Buy,Neutral,up
+2016-03-11 05:41:14,Citigroup,Buy,,main
+2016-03-14 13:44:16,Citigroup,Buy,,main
+2016-05-03 09:44:36,Vertical Research,Hold,Buy,down
+2016-05-09 08:03:31,DA Davidson,Neutral,Buy,down
+2016-06-29 07:43:02,DA Davidson,Buy,Neutral,up
+2016-08-08 06:39:20,DA Davidson,Neutral,Buy,down
+2016-08-08 11:17:31,Citigroup,Buy,,main
+2016-08-12 08:07:55,Dundee,Neutral,Buy,down
+2016-09-22 06:34:53,Goldman Sachs,Buy,,init
+2017-01-09 12:43:55,Raymond James,Strong Buy,Outperform,up
+2017-07-05 12:39:20,Bank of America,Neutral,Buy,down
+2017-08-14 15:45:54,BMO Capital,Market Perform,Outperform,down
+2017-10-24 18:58:59,Stephens & Co.,Equal-Weight,,init
+2017-11-02 13:34:21,Argus,Buy,,main
+2018-01-24 13:32:47,Bank of America,Buy,Neutral,up
+2018-04-30 12:36:55,Citigroup,Buy,Buy,main
+2018-05-05 13:32:15,Argus,Buy,,main
+2018-10-25 15:05:32,Citigroup,Buy,Buy,main
+2018-10-29 11:41:06,DA Davidson,Buy,Neutral,up
+2018-10-29 14:01:02,Citigroup,Buy,Buy,main
+2018-10-29 14:31:01,Raymond James,Strong Buy,Strong Buy,main
+2018-10-30 14:06:13,BMO Capital,Market Perform,Market Perform,main
+2018-11-20 14:16:32,Argus,Buy,Buy,main
+2019-01-02 13:51:26,Bank of America,Neutral,Buy,down
+2019-01-23 13:14:53,Seaport Global,Buy,,init
+2019-03-11 10:44:53,BMO Capital,Outperform,Market Perform,up
+2019-04-05 11:36:39,Stephens & Co.,Overweight,Equal-Weight,up
+2020-01-17 12:34:53,Citigroup,Buy,,main
+2020-03-27 19:09:09,Citigroup,Buy,,main
+2020-04-01 11:18:25,Stephens & Co.,Overweight,,main
+2020-07-09 15:31:25,ScotiaBank,Sector Perform,,main
+2020-08-03 11:45:46,DA Davidson,Neutral,Buy,down
+2020-08-03 12:02:05,RBC Capital,Outperform,,main
+2020-08-03 16:49:32,B of A Securities,Neutral,,main
+2020-08-04 15:02:01,Citigroup,Buy,,main
+2020-09-11 13:47:42,B of A Securities,Neutral,,main
+2020-12-04 10:28:36,Raymond James,Outperform,Market Perform,up
+2021-02-02 13:25:56,Raymond James,Outperform,,main
+2021-04-26 11:50:06,Raymond James,Strong Buy,Outperform,up
+2021-05-03 11:35:55,BMO Capital,Outperform,,main
+2021-05-03 11:44:12,Stephens & Co.,Equal-Weight,Overweight,down
+2021-07-15 10:21:55,Goldman Sachs,Buy,,init
+2021-07-27 12:40:37,B of A Securities,Buy,Neutral,up
+2021-08-27 11:39:18,Raymond James,Strong Buy,,main

@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action
+2019-11-05 11:49:54,JP Morgan,Overweight,,init
+2019-11-05 11:53:19,Cowen & Co.,Outperform,,init
+2019-11-05 12:04:58,Goldman Sachs,Buy,,init
+2019-11-05 12:07:23,Barclays,Overweight,,init
+2019-11-14 11:26:49,Baird,Neutral,,init
+2020-02-04 09:58:00,JP Morgan,Neutral,Overweight,down
+2020-03-13 09:28:27,Goldman Sachs,Neutral,Buy,down
+2020-03-19 09:48:28,JP Morgan,Underweight,Neutral,down
+2020-03-27 13:40:47,Baird,Underperform,,main
+2020-08-20 10:52:10,Needham,Buy,,init
+2020-09-11 16:03:12,JP Morgan,Neutral,Underweight,up
+2020-09-14 09:04:20,Goldman Sachs,Buy,Neutral,up
+2020-09-21 09:30:32,HC Wainwright & Co.,Buy,,main
+2020-10-05 11:29:12,B of A Securities,Buy,,init
+2020-10-07 11:17:44,HC Wainwright & Co.,Buy,,main
+2021-01-20 11:09:39,HC Wainwright & Co.,Buy,,main
+2021-01-27 11:15:57,JP Morgan,Underweight,Neutral,down
+2021-03-02 12:12:35,Needham,Buy,,main
+2021-03-08 14:59:22,HC Wainwright & Co.,Buy,,main
+2021-03-11 10:33:55,Needham,Buy,,main
+2021-08-06 13:25:16,Barclays,Overweight,,main
+2021-09-22 09:06:01,Goldman Sachs,Neutral,Buy,down
+2021-10-25 10:14:51,JP Morgan,Neutral,Underweight,up
+2021-11-30 11:19:06,HC Wainwright & Co.,Buy,,main
+2021-12-21 11:06:07,HC Wainwright & Co.,Buy,,main
+2021-12-21 11:23:12,Baird,Underperform,Neutral,down

@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-04 06:45:00,Deutsche Bank,Buy,,main
+2012-05-04 08:25:00,Stifel Nicolaus,Buy,,main
+2012-08-07 06:04:00,Deutsche Bank,Buy,,main
+2012-08-07 07:57:00,PiperJaffray,Neutral,,main
+2012-10-08 07:52:00,ISI Group,Hold,Buy,down
+2012-10-10 07:07:00,Deutsche Bank,Buy,,main
+2012-10-22 09:50:00,ISI Group,Hold,,main
+2012-10-23 05:54:00,Sterne Agee,Buy,Neutral,up
+2013-02-05 07:55:37,Stifel Nicolaus,Buy,,main
+2013-02-05 08:34:59,Deutsche Bank,Buy,,main
+2013-02-11 06:29:05,Deutsche Bank,Hold,Buy,down
+2013-03-28 08:09:49,Stifel Nicolaus,Buy,,main
+2013-05-03 07:59:19,Deutsche Bank,Hold,,main
+2013-10-31 08:45:59,Deutsche Bank,Hold,,main
+2013-11-08 09:44:32,Stifel Nicolaus,Buy,,main
+2014-01-22 08:00:00,Raymond James,Outperform,Market Perform,up
+2014-02-04 07:10:44,Stifel Nicolaus,Buy,,main
+2014-04-30 16:00:00,Deutsche Bank,Buy,Hold,up
+2014-06-06 22:30:08,Raymond James,Outperform,,main
+2014-07-30 01:53:43,Deutsche Bank,Buy,,main
+2015-03-27 06:36:56,Raymond James,Market Perform,Outperform,down
+2015-05-01 09:00:00,Stifel Nicolaus,Buy,,main
+2015-07-30 11:00:00,Stifel Nicolaus,Buy,,main
+2015-11-23 10:06:16,Sidoti & Co.,Neutral,Buy,down
+2016-01-08 10:09:06,Sidoti & Co.,Buy,Neutral,up
+2016-02-05 05:00:58,Deutsche Bank,Buy,,main
+2016-02-05 05:01:00,Stifel Nicolaus,Buy,,main
+2016-06-23 09:45:54,Sidoti & Co.,Neutral,Buy,down
+2016-07-29 12:58:39,Deutsche Bank,Buy,,main
+2016-12-22 13:12:02,Drexel Hamilton,Buy,,init
+2017-07-25 11:27:42,Deutsche Bank,Hold,Buy,down
+2017-12-20 14:02:28,Susquehanna,Neutral,,init
+2018-06-22 11:50:51,Loop Capital,Buy,,init
+2018-09-12 11:07:00,Stifel Nicolaus,Hold,Buy,down
+2018-10-26 10:40:26,Loop Capital,Hold,Buy,down
+2019-07-18 10:32:45,Stifel Nicolaus,Buy,Hold,up
+2019-07-29 11:23:16,Northland Capital Markets,Underperform,Market Perform,down
+2019-10-25 11:46:25,Loop Capital,Buy,Hold,up
+2020-04-30 13:08:41,Stifel,Buy,,main
+2020-08-20 11:34:12,Northland Capital Markets,Market Perform,Underperform,up
+2021-02-03 17:33:00,Cowen & Co.,Outperform,,main
+2021-07-30 15:33:04,Northland Capital Markets,Outperform,Market Perform,up
+2021-08-19 11:45:22,Benchmark,Buy,,init
+2022-02-04 13:41:44,Susquehanna,Neutral,,main

@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-08 05:34:00,JP Morgan,Overweight,,up
+2012-02-08 07:16:00,Citigroup,Neutral,,main
+2012-06-06 05:46:00,JP Morgan,Neutral,,down
+2012-07-02 07:17:00,Citigroup,Neutral,,main
+2012-09-04 08:03:00,Stifel Nicolaus,Buy,Hold,up
+2013-07-26 07:32:45,Bank of America,Buy,,init
+2014-05-07 02:34:44,Citigroup,Hold,,main
+2014-10-29 09:00:00,JP Morgan,Neutral,,main
+2015-01-21 06:23:28,Longbow Research,Neutral,Buy,down
+2015-02-06 09:00:00,JP Morgan,Neutral,,main
+2015-08-05 07:15:43,Bank of America,Underperform,Buy,down
+2015-10-23 07:43:32,Citigroup,Sell,Neutral,down
+2016-11-09 11:03:05,Stifel Nicolaus,Hold,Buy,down
+2017-10-27 12:34:08,Stifel Nicolaus,Hold,,main
+2017-10-27 13:14:18,Citigroup,Sell,,main
+2018-02-07 15:14:45,Stifel Nicolaus,Hold,Hold,main
+2018-05-09 12:13:22,Bank of America,Buy,Underperform,up
+2018-08-08 12:04:46,Citigroup,Buy,Buy,main
+2019-02-06 12:41:41,Bank of America,Neutral,Buy,down
+2019-05-22 10:57:25,Cowen & Co.,Market Perform,,init
+2019-08-29 13:42:50,BNP Paribas,Outperform,Neutral,up
+2019-11-06 11:58:05,Bank of America,Underperform,Neutral,down
+2020-10-07 09:54:37,Stifel,Buy,Hold,up
+2021-01-15 13:17:41,B of A Securities,Underperform,Neutral,down
+2021-04-06 10:22:32,Loop Capital,Buy,Hold,up

@@ -1,0 +1,114 @@
+,info
+exchange,NGM
+shortName,ProShares UltraPro Short QQQ
+longName,ProShares UltraPro Short QQQ
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,SQQQ
+messageBoardId,finmb_98126590
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,-2.28
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1265673600
+annualReportExpenseRatio,
+totalAssets,1414110848
+bookValue,
+fundFamily,ProShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.71709996
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Trading--Inverse Equity
+fiveYearAverageReturn,-0.6257
+phone,866-776-5125
+longBusinessSummary,"The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the fund's investment objective. The index includes 100 of the largest domestic and international non-financial companies listed on The Nasdaq Stock Market based on market capitalization. The fund is non-diversified."
+companyOfficers,[]
+previousClose,41.89
+regularMarketOpen,41.55
+twoHundredDayAverage,40.5157
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,44.2
+navPrice,5.97
+averageDailyVolume10Day,89605100
+regularMarketPreviousClose,41.89
+fiftyDayAverage,35.3798
+trailingAnnualDividendRate,
+open,41.55
+toCurrency,
+averageVolume10days,89605100
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,41.41
+currency,USD
+regularMarketVolume,117183747
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,55357934
+dayLow,41.41
+ask,44.1
+askSize,1200
+volume,117183747
+fiftyTwoWeekHigh,83.9
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,28.15
+bid,44.06
+tradeable,False
+dividendYield,
+bidSize,1000
+dayHigh,44.2
+preferredPosition,
+bondPosition,0.1535
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': '', 'holdingName': 'Nasdaq 100 Index Swap Goldman Sachs International', 'holdingPercent': 0.3409}, {'symbol': '', 'holdingName': 'Nasdaq 100 Index Swap Societe Generale', 'holdingPercent': 0.246}, {'symbol': '', 'holdingName': 'Nasdaq 100 Index Swap Citibank Na', 'holdingPercent': 0.19600001}, {'symbol': '', 'holdingName': 'Nasdaq 100 Index Swap Ubs Ag', 'holdingPercent': 0.1582}, {'symbol': '', 'holdingName': 'Nasdaq 100 Index Swap Bnp Paribas', 'holdingPercent': 0.1514}, {'symbol': '', 'holdingName': 'Nasdaq 100 Index Swap Bank Of America Na', 'holdingPercent': 0.120299995}, {'symbol': '', 'holdingName': 'Nasdaq 100 Index Swap Jp Morgan Securities', 'holdingPercent': 0.119899996}, {'symbol': 'NQU21', 'holdingName': 'E-mini Nasdaq 100 Future Sept 21', 'holdingPercent': 0.0642}, {'symbol': '', 'holdingName': 'United States Treasury Bills', 'holdingPercent': 0.0525}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0
+regularMarketPrice,43.29
+preMarketPrice,
+logo_url,

@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-25 09:36:48,Ladenburg Thalmann,Buy,,init
+2020-11-25 09:36:48,JP Morgan,Neutral,,init
+2020-11-25 09:36:48,Raymond James,Market Perform,,init
+2020-11-25 09:36:48,Barclays,Equal-Weight,,init
+2020-11-25 09:36:49,Mizuho,Neutral,,init
+2020-11-25 09:36:52,Bank of America,Neutral,,main
+2020-11-25 09:37:02,Bank of America,Underperform,Neutral,down
+2020-11-25 09:37:04,Barclays,Overweight,Equal-Weight,up
+2020-11-25 09:37:08,Barclays,Underweight,Overweight,down
+2020-11-25 09:37:08,Barclays,Underweight,,main
+2020-11-25 09:37:16,SunTrust Robinson Humphrey,Hold,,init
+2020-11-25 09:37:20,Berenberg,Buy,,init
+2020-11-25 09:37:21,Mizuho,Buy,Neutral,up
+2020-11-25 09:37:25,Mizuho,Buy,,main
+2021-01-27 12:16:01,Goldman Sachs,Buy,,init
+2021-03-31 12:34:38,Goldman Sachs,Buy,,main
+2021-06-23 10:31:15,B. Riley Securities,Buy,,init
+2022-01-20 12:14:03,Mizuho,Neutral,Buy,down
+2022-02-09 11:06:20,Morgan Stanley,Overweight,,init

@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action
+2013-03-15 08:18:40,Raymond James,Market Perform,Outperform,down
+2013-03-25 13:12:43,CJS Securities,Market Perform,,init
+2013-04-19 08:29:11,Monness Crespi Hardt,Neutral,Buy,down
+2013-04-29 09:35:14,Hilliard Lyons,Neutral,Long-Term Buy,down
+2014-01-21 07:53:17,Monness Crespi Hardt,Buy,Neutral,up
+2014-09-22 05:44:00,Raymond James,Outperform,Market Perform,up
+2014-10-24 08:30:00,Monness Crespi Hardt,Buy,,main
+2014-11-12 05:53:24,Raymond James,Market Perform,Outperform,down
+2015-01-20 07:23:54,"Monness, Crespi, Hardt",Neutral,Buy,down
+2015-08-31 06:55:16,Raymond James,,Market Perform,up
+2015-09-11 04:33:18,JP Morgan,Overweight,Neutral,up
+2016-08-01 08:26:25,Raymond James,Market Perform,Outperform,down
+2016-10-28 13:32:57,Hilliard Lyons,Neutral,Long-Term Buy,down
+2017-02-01 13:24:05,Raymond James,Strong Buy,Market Perform,up
+2017-06-05 16:00:31,PiperJaffray,Overweight,,init
+2017-06-23 16:14:11,Credit Suisse,Neutral,,init
+2017-07-24 13:48:31,Hilliard Lyons,Long-Term Buy,Neutral,up
+2017-09-22 17:42:46,SunTrust Robinson Humphrey,Buy,Hold,up
+2017-10-30 11:56:35,PiperJaffray,Neutral,Overweight,down
+2018-04-27 13:05:00,Credit Suisse,Neutral,Neutral,main
+2018-05-31 15:39:01,Stifel Nicolaus,Buy,Hold,up
+2018-10-29 10:40:35,Raymond James,Outperform,Strong Buy,down
+2019-07-24 10:34:53,Raymond James,Market Perform,Outperform,down
+2019-10-30 11:38:19,SunTrust Robinson Humphrey,Hold,Buy,down
+2019-11-19 11:22:25,Stifel,Hold,Buy,down
+2020-04-03 21:48:55,SunTrust Robinson Humphrey,Hold,,main
+2020-04-15 12:46:54,Piper Sandler,Neutral,,main
+2020-04-16 19:13:41,SunTrust Robinson Humphrey,Hold,,main
+2020-05-06 16:02:59,SunTrust Robinson Humphrey,Hold,,main
+2020-05-14 11:18:02,Raymond James,Strong Buy,Market Perform,up
+2020-05-18 12:55:42,SunTrust Robinson Humphrey,Hold,,main
+2020-05-28 11:21:59,Raymond James,Strong Buy,,main
+2020-07-28 11:20:41,Raymond James,Strong Buy,,main
+2020-08-05 11:33:13,Raymond James,Strong Buy,,main
+2020-11-04 12:53:28,Raymond James,Strong Buy,,main
+2020-11-04 14:26:57,Piper Sandler,Neutral,,main
+2020-11-20 11:20:50,Goldman Sachs,Buy,Neutral,up
+2021-02-10 10:43:18,Raymond James,Outperform,Strong Buy,down
+2021-05-05 11:45:50,Raymond James,Outperform,,main
+2021-11-03 11:31:18,Raymond James,Outperform,,main
+2022-02-09 12:26:50,Raymond James,Outperform,,main

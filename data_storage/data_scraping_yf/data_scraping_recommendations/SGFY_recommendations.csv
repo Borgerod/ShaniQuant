@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action
+2021-03-08 10:52:10,Piper Sandler,Overweight,,init
+2021-03-08 10:56:28,Goldman Sachs,Neutral,,init
+2021-03-08 13:24:04,B of A Securities,Buy,,init
+2021-03-08 14:15:53,Barclays,Equal-Weight,,init
+2021-03-08 14:33:01,UBS,Neutral,,init
+2021-03-08 14:35:39,Deutsche Bank,Buy,,init
+2021-03-08 14:38:15,William Blair,Outperform,,init
+2021-05-28 10:43:22,Baird,Outperform,,init
+2021-07-12 09:47:19,JP Morgan,Overweight,,init
+2021-08-12 10:30:16,Barclays,Overweight,Equal-Weight,up
+2021-09-10 08:55:00,Cowen & Co.,Market Perform,,init
+2021-09-23 10:23:39,Baird,Neutral,Outperform,down
+2022-02-11 11:34:29,Goldman Sachs,Buy,,init

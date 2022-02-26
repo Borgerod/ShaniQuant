@@ -1,0 +1,46 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-18 12:28:00,Imperial Capital,Outperform,,init
+2012-11-15 12:51:00,UBS,Buy,,main
+2020-11-03 14:07:55,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:36:36,UBS,Sell,,main
+2020-11-25 09:36:36,UBS,Sell,Neutral,down
+2020-11-25 09:36:36,B. Riley FBR,Neutral,,main
+2020-11-25 09:36:36,B. Riley FBR,Neutral,,main
+2020-11-25 09:36:36,B. Riley FBR,Neutral,Buy,down
+2020-11-25 09:36:36,B. Riley FBR,Buy,Neutral,up
+2020-11-25 09:36:36,B. Riley FBR,Neutral,Buy,down
+2020-11-25 09:36:36,BWS Financial,Sell,Hold,down
+2020-11-25 09:36:36,UBS,Neutral,,main
+2020-11-25 09:36:36,RBC Capital,Outperform,,init
+2020-11-25 09:36:36,CRT Capital,Buy,,init
+2020-11-25 09:36:36,BWS Financial,Hold,Buy,down
+2020-11-25 09:36:36,Imperial Capital,Outperform,,main
+2020-11-25 09:36:36,UBS,,Buy,down
+2020-11-25 09:36:36,CRT Capital,Buy,,main
+2020-11-25 09:36:36,UBS,Buy,,init
+2020-11-25 09:36:50,UBS,Sell,,main
+2020-11-25 09:36:51,Vertical Research,Buy,,init
+2020-11-25 09:36:51,JP Morgan,Overweight,,init
+2020-11-25 09:36:52,UBS,Sell,,main
+2020-11-25 09:36:53,Barclays,Overweight,,init
+2020-11-25 09:36:54,Morgan Stanley,Equal-Weight,,init
+2020-11-25 09:36:54,JP Morgan,Overweight,Overweight,main
+2020-11-25 09:36:55,UBS,Sell,Sell,main
+2020-11-25 09:36:55,Barclays,Overweight,Overweight,main
+2020-11-25 09:36:56,BMO Capital,Outperform,,init
+2020-11-25 09:36:59,SunTrust Robinson Humphrey,Buy,,init
+2020-11-25 09:37:00,Barclays,Overweight,Overweight,main
+2020-11-25 09:37:00,BMO Capital,Outperform,Outperform,main
+2020-11-25 09:37:01,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2020-11-25 09:37:05,SunTrust Robinson Humphrey,Buy,,reit
+2020-11-25 09:37:19,UBS,Sell,,main
+2020-11-25 09:37:19,SunTrust Robinson Humphrey,Buy,,main
+2020-12-14 15:41:34,Morgan Stanley,Equal-Weight,,main
+2021-02-23 14:45:01,Morgan Stanley,Equal-Weight,,main
+2021-05-03 12:35:01,Morgan Stanley,Equal-Weight,,main
+2021-05-20 10:26:13,B of A Securities,Buy,,init
+2021-10-14 11:11:25,Deutsche Bank,Buy,,init
+2021-11-30 15:17:37,UBS,Buy,Sell,up
+2021-12-14 14:42:02,Morgan Stanley,Equal-Weight,,main
+2022-01-04 16:36:25,UBS,Buy,,main
+2022-02-18 14:33:55,Barclays,Overweight,,main

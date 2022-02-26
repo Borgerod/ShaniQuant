@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action
+2013-10-21 06:15:02,PiperJaffray,Overweight,,init
+2013-10-21 10:20:07,Cowen & Co.,Outperform,,init
+2013-10-21 10:20:32,Raymond James,Strong Buy,,init
+2013-10-22 08:00:00,Roth Capital,Buy,,init
+2014-02-03 16:00:00,Craig-Hallum,Buy,,init
+2014-05-09 03:01:40,Raymond James,Strong Buy,,main
+2014-08-13 09:00:00,Raymond James,Strong Buy,,main
+2015-04-17 17:31:11,Northland Securities,Outperform,,init
+2015-05-26 07:38:14,Raymond James,Strong Buy,,main
+2016-02-08 11:34:27,Northland Securities,Outperform,,main
+2016-02-25 08:14:31,Cowen & Co.,Outperform,,main
+2017-06-30 10:27:24,DA Davidson,Buy,,init
+2018-01-30 11:25:19,PiperJaffray,Neutral,Overweight,down
+2018-01-30 14:50:26,Loop Capital,Hold,,init
+2018-02-22 14:02:42,Craig-Hallum,Sell,Hold,down
+2018-02-22 15:23:52,Cowen & Co.,Outperform,Outperform,main
+2018-05-05 14:00:39,B. Riley FBR,Neutral,Neutral,main
+2018-05-05 14:00:39,B. Riley FBR,Neutral,,init
+2018-08-08 13:27:36,B. Riley FBR,Neutral,Neutral,main
+2018-09-27 10:36:40,Loop Capital,Sell,Hold,down
+2018-09-28 14:23:12,Raymond James,Outperform,Strong Buy,down
+2018-10-08 12:29:36,B. Riley FBR,Neutral,Neutral,main
+2018-11-05 16:53:10,B. Riley FBR,Neutral,Neutral,main
+2018-11-08 16:27:23,B. Riley FBR,Neutral,Neutral,main
+2019-02-22 11:55:12,Raymond James,Market Perform,Outperform,down
+2019-02-22 12:30:24,DA Davidson,Neutral,Buy,down
+2019-02-22 16:09:19,Needham,Hold,Buy,down
+2019-06-27 11:19:25,Rosenblatt,Neutral,Sell,up
+2019-07-29 11:13:04,JP Morgan,Neutral,,init
+2019-10-22 10:03:05,JP Morgan,Underweight,Neutral,down
+2019-11-05 12:25:31,Rosenblatt,Buy,Neutral,up
+2019-11-07 17:11:40,Piper Jaffray,Neutral,,main
+2020-02-28 12:11:39,B. Riley FBR,Neutral,,main
+2020-02-28 12:26:09,Rosenblatt,Buy,,main
+2020-05-08 10:55:04,Rosenblatt,Neutral,Buy,down
+2020-07-21 09:20:02,Needham,Buy,Hold,up
+2020-08-07 10:36:39,Needham,Buy,,main
+2020-08-07 16:25:15,Craig-Hallum,Hold,Sell,up
+2020-11-06 13:38:09,Rosenblatt,Neutral,,main
+2020-11-09 13:48:57,Needham,Buy,,main
+2021-01-08 16:30:41,Northland Capital Markets,Outperform,Market Perform,up
+2021-02-23 12:25:49,Rosenblatt,Neutral,,main
+2021-03-02 11:53:21,Needham,Hold,Buy,down
+2021-08-06 13:24:05,Rosenblatt,Neutral,,main

@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action
+2021-07-06 08:56:08,Goldman Sachs,Buy,,init
+2021-07-06 10:13:25,Morgan Stanley,Equal-Weight,,init
+2021-07-06 11:23:15,Baird,Outperform,,init
+2021-07-06 11:32:39,Wells Fargo,Overweight,,init
+2021-07-06 11:41:24,RBC Capital,Outperform,,init
+2021-07-06 12:06:49,William Blair,Outperform,,init
+2021-07-06 13:24:31,B of A Securities,Buy,,init
+2021-07-09 08:59:48,BTIG,Buy,,init
+2021-09-14 11:54:55,B of A Securities,Neutral,Buy,down
+2021-11-11 13:41:32,RBC Capital,Outperform,,main
+2021-12-13 12:53:57,Morgan Stanley,Overweight,Equal-Weight,up
+2022-01-06 13:39:47,B of A Securities,Buy,Neutral,up
+2022-01-10 10:02:16,Goldman Sachs,Buy,,init

@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-26 08:04:00,Stifel Nicolaus,Buy,,up
+2012-08-28 07:48:00,Stifel Nicolaus,Hold,Buy,down
+2014-05-09 03:11:53,Raymond James,Outperform,,main
+2014-06-26 06:26:53,SunTrust Robinson Humphrey,Neutral,,init
+2014-08-11 16:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2014-08-12 09:00:00,Raymond James,Outperform,,main
+2015-02-10 06:16:18,Wells Fargo,Market Perform,Outperform,down
+2015-05-13 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-07-01 09:37:24,Cantor Fitzgerald,Hold,,init
+2015-09-01 05:48:39,Cantor Fitzgerald,Buy,Hold,up
+2016-05-13 13:01:21,Keefe Bruyette & Woods,Market Perform,,main
+2016-09-20 07:02:09,Janney Capital,Neutral,,init
+2017-02-10 13:45:26,Raymond James,Market Perform,Outperform,down
+2017-03-27 11:31:40,Raymond James,Outperform,Market Perform,up
+2017-05-10 10:04:02,Raymond James,Market Perform,Outperform,down
+2019-11-19 11:19:42,"Keefe, Bruyette & Woods",Outperform,Market Perform,up
+2020-03-25 14:05:58,Wells Fargo,Overweight,,main
+2020-05-13 11:04:34,B of A Securities,Neutral,,reit
+2021-09-22 09:07:21,Oppenheimer,Outperform,Accumulate,init
+2021-12-01 12:16:22,Wells Fargo,Overweight,,main

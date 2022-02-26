@@ -1,0 +1,7 @@
+What this folder (data_scraping_sec) contains: 
+
+- 4 forms (Insider Trading Reports)
+	The data-tables scraped from sec.gov/EDGAR based on stock_list, 
+	divided into different csv files based on the selected tables in that form.
+
+	

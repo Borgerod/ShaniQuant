@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action
+2021-05-26 11:34:21,Truist Securities,Buy,,init
+2021-06-02 10:19:55,Jefferies,Buy,,init
+2021-06-02 11:55:27,Cowen & Co.,Outperform,,init
+2021-06-03 10:40:06,Piper Sandler,Overweight,,init
+2021-07-21 10:23:42,BMO Capital,Market Perform,,init
+2021-09-22 11:05:33,Wells Fargo,Overweight,,init
+2021-11-05 09:11:53,Cowen & Co.,Market Perform,Outperform,down
+2022-01-03 20:37:56,JP Morgan,Neutral,,init
+2022-02-11 12:40:26,Piper Sandler,Overweight,,main
+2022-02-14 14:54:12,Wells Fargo,Overweight,,main

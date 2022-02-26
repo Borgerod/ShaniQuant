@@ -1,0 +1,58 @@
+Date,Firm,To Grade,From Grade,Action
+2013-10-28 09:51:21,Wedbush,Outperform,,init
+2015-06-01 06:23:37,Leerink Swann,Outperform,,init
+2015-10-06 08:14:24,Raymond James,Outperform,,init
+2015-12-04 07:49:35,Wells Fargo,Outperform,,init
+2016-04-12 05:54:26,BMO Capital,Outperform,,init
+2016-09-22 08:12:59,Roth Capital,Buy,,init
+2017-02-28 16:22:08,Wedbush,Outperform,,reit
+2017-12-18 14:14:21,PiperJaffray,Overweight,,init
+2018-03-06 12:40:38,Wedbush,Outperform,Outperform,main
+2018-03-06 13:04:12,H.C. Wainwright,Neutral,Buy,down
+2018-03-06 13:45:15,BMO Capital,Outperform,Outperform,main
+2018-08-01 13:01:00,Citigroup,Buy,,init
+2018-11-05 14:16:18,Jefferies,Buy,,init
+2019-02-11 13:57:48,Wedbush,Outperform,Outperform,main
+2019-03-28 10:47:59,SVB Leerink,Outperform,,init
+2019-05-31 11:23:58,Guggenheim,Buy,,init
+2019-06-07 10:57:01,Roth Capital,Neutral,,init
+2019-06-13 10:27:30,Mizuho,Buy,,init
+2019-07-12 10:34:57,Oppenheimer,Outperform,,init
+2019-07-22 11:56:30,Cantor Fitzgerald,Overweight,,init
+2019-08-09 13:30:40,BTIG,Buy,,init
+2019-09-16 11:04:18,Piper Jaffray,Overweight,,main
+2019-10-01 11:03:09,Stifel,Buy,,init
+2019-11-06 11:14:25,Wells Fargo,Market Perform,Outperform,down
+2019-11-06 14:53:38,BMO Capital,Outperform,,main
+2019-11-12 11:25:29,SunTrust Robinson Humphrey,Buy,,init
+2019-12-09 11:29:42,Wells Fargo,Outperform,Market Perform,up
+2019-12-09 14:47:00,BMO Capital,Outperform,,main
+2019-12-30 12:22:30,Mizuho,Buy,,reit
+2020-02-14 12:35:43,Wedbush,Outperform,,main
+2020-02-26 16:20:10,Mizuho,Buy,,main
+2020-03-03 13:53:10,Oppenheimer,Outperform,,main
+2020-03-04 10:22:23,Barclays,Overweight,,init
+2020-03-04 12:49:48,Citigroup,Buy,,main
+2020-04-03 21:37:44,Wedbush,Outperform,,main
+2020-04-06 16:52:08,Oppenheimer,Outperform,,main
+2020-05-12 14:24:29,BMO Capital,Market Perform,,main
+2020-05-13 11:30:01,HC Wainwright & Co.,Buy,,init
+2020-08-13 13:32:44,Cantor Fitzgerald,Overweight,,main
+2020-11-06 13:13:30,BMO Capital,Market Perform,,main
+2020-12-07 09:49:39,SVB Leerink,Outperform,,main
+2021-02-17 15:57:27,Piper Sandler,Overweight,,main
+2021-02-25 16:16:42,Mizuho,Buy,,main
+2021-02-25 16:49:34,Cantor Fitzgerald,Overweight,,main
+2021-02-26 12:36:23,Wedbush,Neutral,Outperform,down
+2021-03-04 15:45:53,Wells Fargo,Overweight,,main
+2021-03-12 11:28:24,SVB Leerink,Outperform,,main
+2021-06-07 10:18:37,HC Wainwright & Co.,Buy,Hold,up
+2021-08-05 10:51:22,HC Wainwright & Co.,Buy,,main
+2021-08-05 10:57:20,SVB Leerink,Outperform,,main
+2021-08-26 11:57:51,Morgan Stanley,Equal-Weight,,init
+2021-11-08 11:34:29,SVB Leerink,Outperform,,main
+2021-11-09 12:08:55,Citigroup,Buy,Neutral,up
+2021-12-07 13:39:45,Cowen & Co.,Outperform,,init
+2021-12-15 11:41:49,HC Wainwright & Co.,Buy,,main
+2021-12-15 12:07:32,Wedbush,Outperform,Neutral,up
+2021-12-15 14:23:03,Morgan Stanley,Equal-Weight,,main

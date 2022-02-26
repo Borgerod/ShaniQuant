@@ -1,0 +1,120 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-14 10:51:00,Jefferies,Buy,,main
+2012-03-14 12:11:00,Barrington Research,Outperform,,main
+2012-04-05 08:21:00,Stifel Nicolaus,Buy,,init
+2012-04-26 14:11:00,Jefferies,Buy,,main
+2012-07-11 06:13:00,JP Morgan,Neutral,,main
+2012-07-18 06:17:00,Jefferies,Hold,Buy,down
+2012-07-27 09:26:00,BMO Capital,Market Perform,,init
+2012-10-09 06:14:00,JP Morgan,Neutral,,main
+2012-10-24 13:53:00,JP Morgan,Neutral,,main
+2012-10-25 08:25:00,BMO Capital,Market Perform,,main
+2012-10-25 12:23:00,UBS,Neutral,,main
+2012-11-14 12:17:00,Barrington Research,Outperform,Market Perform,up
+2013-01-08 11:04:50,JP Morgan,Overweight,Neutral,up
+2013-01-11 08:01:02,Jefferies,Hold,,main
+2013-01-28 07:55:29,Stifel Nicolaus,Buy,,main
+2013-02-14 09:43:10,William Blair,Outperform,Market Perform,up
+2013-03-15 09:04:34,Longbow Research,Neutral,Buy,down
+2013-04-19 14:23:34,Bank of America,Buy,,main
+2013-04-25 15:57:58,JP Morgan,Overweight,,main
+2013-04-29 10:05:32,Longbow Research,Buy,Neutral,up
+2013-06-21 07:11:27,Barrington Research,Outperform,Market Perform,up
+2013-07-01 06:38:45,Goldman Sachs,Neutral,,init
+2013-07-26 07:00:00,BB&T Capital,Buy,Hold,up
+2013-07-26 07:38:08,JP Morgan,Neutral,Overweight,down
+2013-07-26 08:49:22,BMO Capital,Market Perform,,main
+2013-08-15 09:02:05,Longbow Research,Buy,,main
+2013-09-11 08:48:42,Global Hunter Securities,Buy,Neutral,up
+2013-09-17 06:27:09,Bank of America,Neutral,Buy,down
+2013-09-17 09:15:50,Stifel Nicolaus,Buy,,main
+2013-09-26 08:43:48,SunTrust Robinson Humphrey,Neutral,,init
+2014-01-06 06:41:43,Credit Suisse,Neutral,Outperform,down
+2014-01-31 08:00:00,JP Morgan,Neutral,,main
+2014-01-31 11:55:35,Barrington Research,Outperform,,main
+2014-02-10 08:00:00,SunTrust Robinson Humphrey,Buy,Neutral,up
+2014-02-18 16:00:00,BB&T Capital,Hold,Buy,down
+2014-04-07 06:22:12,Bank of America,Underperform,Neutral,down
+2014-05-02 03:50:17,UBS,Neutral,,main
+2014-05-02 16:00:00,Wells Fargo,Outperform,Market Perform,up
+2014-08-01 01:38:53,UBS,Neutral,,main
+2014-08-01 21:51:27,Jefferies,Hold,,main
+2014-10-08 09:00:00,Jefferies,Hold,,main
+2014-10-13 16:00:00,Wells Fargo,Market Perform,Outperform,down
+2014-11-03 14:22:13,Barrington Research,Outperform,,main
+2014-11-04 09:00:00,Bank of America,Underperform,,main
+2014-11-24 00:00:00,Goldman Sachs,Sell,Neutral,down
+2015-01-07 00:00:00,KeyBanc,Hold,Buy,down
+2015-01-16 09:00:00,Jefferies,Hold,,main
+2015-05-04 05:17:07,Jefferies,Buy,Hold,up
+2015-05-06 07:13:04,Goldman Sachs,Neutral,Sell,up
+2015-05-06 09:00:00,UBS,Neutral,,main
+2015-07-02 07:46:07,Bank of America,Neutral,Underperform,up
+2015-07-31 13:12:45,Credit Suisse,Neutral,,main
+2015-08-11 07:19:19,Bank of America,Underperform,Neutral,down
+2015-10-02 06:40:45,Bank of America,Neutral,,down
+2015-10-28 08:07:06,UBS,Sell,Neutral,down
+2015-11-04 06:34:23,Bank of America,Underperform,Neutral,down
+2015-11-04 12:34:28,Stifel Nicolaus,Buy,,main
+2015-12-16 08:45:53,Longbow Research,Underperform,Neutral,down
+2015-12-16 10:01:11,Credit Suisse,Neutral,,main
+2016-01-20 11:31:12,Jefferies,Buy,,main
+2016-02-01 06:39:11,Bank of America,Neutral,,up
+2016-02-04 06:46:40,Longbow Research,Neutral,Underperform,up
+2016-03-18 06:51:54,Longbow Research,Neutral,Buy,down
+2016-05-04 08:14:10,Stifel Nicolaus,Hold,Buy,down
+2016-08-18 09:46:02,Seaport Global,Neutral,Accumulate,down
+2016-10-11 14:40:30,Jefferies,Buy,,main
+2016-10-31 09:48:38,Goldman Sachs,Buy,Neutral,up
+2016-12-09 13:24:06,JP Morgan,Underweight,Neutral,down
+2017-01-10 14:59:35,KeyBanc,Overweight,Sector Weight,up
+2017-01-13 15:52:35,Bank of America,Neutral,Underperform,up
+2017-02-03 11:27:02,JP Morgan,Neutral,Underweight,up
+2017-08-04 12:10:26,Wells Fargo,Outperform,Market Perform,up
+2017-08-17 11:16:50,JP Morgan,Overweight,Neutral,up
+2017-11-03 15:42:10,Credit Suisse,Neutral,,main
+2017-11-03 17:17:07,Jefferies,Buy,,main
+2017-12-13 15:13:58,BMO Capital,Market Perform,,main
+2018-02-02 15:30:55,Bank of America,Neutral,Neutral,main
+2018-02-05 13:42:59,Stifel Nicolaus,Hold,Hold,main
+2018-02-15 13:23:14,Barclays,Equal-Weight,,init
+2018-04-10 13:48:56,JP Morgan,Neutral,Neutral,main
+2018-05-04 12:23:32,Stifel Nicolaus,Hold,Hold,main
+2018-06-21 11:30:27,Wells Fargo,Market Perform,Outperform,down
+2018-08-08 12:23:21,Bank of America,Underperform,Neutral,down
+2018-08-08 12:38:52,BMO Capital,Market Perform,Market Perform,main
+2018-09-10 10:12:10,Longbow Research,Buy,Neutral,up
+2018-10-03 12:55:43,Goldman Sachs,Buy,,init
+2019-01-07 14:49:26,Barclays,Equal-Weight,Equal-Weight,main
+2019-04-03 10:42:51,Barclays,Overweight,Equal-Weight,up
+2019-05-08 15:05:28,KeyBanc,Overweight,,main
+2019-07-16 10:36:05,Goldman Sachs,Sell,Buy,down
+2019-08-06 12:04:15,Bank of America,Underperform,,reit
+2019-08-21 11:36:41,UBS,Sell,,main
+2019-08-21 12:18:54,BMO Capital,Market Perform,,main
+2019-10-15 12:18:28,Wells Fargo,Market Perform,,main
+2019-10-22 10:18:19,Longbow Research,Neutral,Buy,down
+2019-10-22 11:47:15,BMO Capital,Market Perform,,main
+2019-11-26 11:44:02,UBS,Buy,Sell,up
+2019-12-16 12:05:09,Wells Fargo,Overweight,Equal-Weight,up
+2020-02-04 12:15:44,B of A Securities,Underperform,,reit
+2020-02-19 12:53:46,UBS,Buy,,main
+2020-03-30 10:22:51,KeyBanc,Overweight,,main
+2020-06-11 08:46:08,KeyBanc,Overweight,,main
+2020-06-26 11:32:10,Morgan Stanley,Equal-Weight,,init
+2020-08-05 14:38:39,Morgan Stanley,Equal-Weight,,main
+2020-08-10 11:01:15,Barclays,Equal-Weight,Overweight,down
+2020-09-22 13:07:25,B of A Securities,Underperform,,main
+2020-10-12 12:12:03,Morgan Stanley,Equal-Weight,,main
+2020-11-04 09:35:39,KeyBanc,Sector Weight,Overweight,down
+2020-11-04 13:27:32,Morgan Stanley,Equal-Weight,,main
+2020-11-05 16:38:44,UBS,Buy,,main
+2020-12-15 17:21:54,Morgan Stanley,Equal-Weight,,main
+2021-01-22 14:37:27,Morgan Stanley,Equal-Weight,,main
+2021-02-03 14:20:45,Morgan Stanley,Equal-Weight,,main
+2021-02-08 14:40:01,UBS,Neutral,Buy,down
+2021-04-12 13:51:28,Morgan Stanley,Equal-Weight,,main
+2021-05-05 12:31:49,Morgan Stanley,Equal-Weight,,main
+2021-08-30 11:27:17,Loop Capital,Buy,,init
+2021-10-04 11:47:45,Barclays,Equal-Weight,,main
+2021-10-27 11:28:33,B of A Securities,Neutral,Underperform,up

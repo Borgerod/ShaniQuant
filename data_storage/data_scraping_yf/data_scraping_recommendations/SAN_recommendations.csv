@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-21 06:52:00,Ahorro Corporacion,Buy,,up
+2012-10-29 05:49:00,Bank of America,Neutral,,init
+2013-05-15 07:52:29,HSBC,Underperform,Neutral,down
+2013-06-05 09:18:21,Bankhaus Lampe,Hold,Buy,down
+2013-06-13 07:19:01,JP Morgan,Underweight,Neutral,down
+2013-06-26 07:37:52,Citigroup,Neutral,Sell,up
+2013-07-01 10:12:05,Citigroup,Sell,Neutral,down
+2013-08-19 09:14:47,Bankhaus Lampe,Sell,Hold,down
+2013-09-11 07:53:48,JP Morgan,Neutral,Underweight,up
+2013-09-18 07:00:00,HSBC,Neutral,Underweight,up
+2013-10-04 08:32:29,Nomura,Neutral,Reduce,up
+2013-10-24 12:19:16,Deutsche Bank,Sell,Hold,down
+2013-11-13 11:46:30,Morgan Stanley,Equal-Weight,Overweight,down
+2013-12-09 16:00:00,Goldman Sachs,Sell,Neutral,down
+2014-09-02 11:55:45,Bernstein,Market Perform,,init
+2015-06-18 06:10:04,JP Morgan,Overweight,Neutral,up
+2015-08-28 08:03:40,Deutsche Bank,Buy,Hold,up
+2015-10-01 06:21:31,JP Morgan,Neutral,Overweight,down
+2016-01-05 07:03:43,RBC Capital,Underperform,Sector Perform,down
+2016-01-11 07:17:46,Exane BNP Paribas,Outperform,Underperform,up
+2016-03-01 06:11:49,HSBC,Hold,Buy,down
+2016-03-08 06:45:23,Goldman Sachs,Buy,Neutral,up
+2016-04-25 06:36:57,JP Morgan,Overweight,Neutral,up
+2016-08-31 06:17:13,Deutsche Bank,Buy,Hold,up
+2016-09-06 05:27:58,Barclays,Overweight,Equal-Weight,up
+2016-10-11 11:40:18,Natixis,Buy,Reduce,up
+2016-10-19 13:40:47,RBC Capital,Sector Perform,Underperform,up
+2017-02-01 16:39:32,UBS,Buy,Neutral,up
+2017-08-15 17:03:36,Goldman Sachs,Neutral,Buy,down
+2017-11-24 11:29:34,Goldman Sachs,Buy,Neutral,up
+2018-03-23 11:47:38,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2018-06-14 11:58:29,HSBC,Buy,Hold,up
+2020-07-21 15:11:36,B of A Securities,Underperform,Neutral,down
+2021-01-20 17:14:55,HSBC,Buy,Hold,up
+2021-04-06 10:16:32,Credit Suisse,Outperform,Neutral,up
+2021-09-09 09:42:05,Jefferies,Hold,Underperform,up
+2021-09-20 10:09:31,Exane BNP Paribas,Neutral,Outperform,down
+2021-12-08 12:59:38,Credit Suisse,Neutral,Outperform,down

@@ -1,0 +1,80 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-04 11:53:54,Wells Fargo,Equal-Weight,Underweight,up
+2020-11-17 12:25:49,Citigroup,Neutral,,main
+2020-11-25 09:35:49,Wells Fargo,Outperform,Market Perform,up
+2020-11-25 09:35:51,Raymond James,Outperform,,init
+2020-11-25 09:35:51,Tudor Pickering,Buy,Hold,up
+2020-11-25 09:35:51,Stifel Nicolaus,Buy,,main
+2020-11-25 09:35:51,Stifel Nicolaus,Buy,Hold,up
+2020-11-25 09:35:51,Baird,Outperform,Neutral,up
+2020-11-25 09:35:51,JP Morgan,Overweight,,main
+2020-11-25 09:35:51,Credit Suisse,Outperform,Neutral,up
+2020-11-25 09:35:51,Morgan Stanley,Equal-Weight,,init
+2020-11-25 09:35:51,Stifel Nicolaus,Hold,,init
+2020-11-25 09:35:51,Credit Suisse,Neutral,Outperform,down
+2020-11-25 09:35:51,Credit Suisse,Outperform,,main
+2020-11-25 09:35:51,Janney Capital,Buy,,init
+2020-11-25 09:35:51,JP Morgan,Overweight,,main
+2020-11-25 09:35:51,JP Morgan,Underweight,,main
+2020-11-25 09:35:51,Baird,Neutral,Outperform,down
+2020-11-25 09:35:51,Credit Suisse,Outperform,,init
+2020-11-25 09:35:51,Citigroup,Buy,,main
+2020-11-25 09:35:51,Morgan Stanley,Equal-Weight,,init
+2020-11-25 09:35:51,DA Davidson,Buy,,init
+2020-11-25 09:35:51,Baird,Outperform,,init
+2020-11-25 09:35:51,Barclays,Overweight,,main
+2020-11-25 09:35:51,Credit Suisse,Neutral,Outperform,down
+2020-11-25 09:35:51,Barclays,Overweight,,main
+2020-11-25 09:35:51,Credit Suisse,Outperform,,main
+2020-11-25 09:35:51,Raymond James,Strong Buy,,main
+2020-11-25 09:35:51,Credit Suisse,Outperform,Neutral,up
+2020-11-25 09:36:44,Stifel Nicolaus,Hold,Buy,down
+2020-11-25 09:36:44,Ladenburg Thalmann,Buy,,init
+2020-11-25 09:36:44,Stifel Nicolaus,Buy,Hold,up
+2020-11-25 09:36:44,Stifel Nicolaus,Buy,,main
+2020-11-25 09:36:50,Seaport Global,Buy,,init
+2020-11-25 09:36:52,Morgan Stanley,Equal-Weight,,main
+2020-11-25 09:36:53,Credit Suisse,Outperform,,init
+2020-11-25 09:36:56,JP Morgan,Overweight,Overweight,main
+2020-11-25 09:36:56,Citigroup,Buy,Buy,main
+2020-11-25 09:36:56,Seaport Global,Neutral,Buy,down
+2020-11-25 09:36:57,Barclays,Overweight,Overweight,main
+2020-11-25 09:36:58,Barclays,Overweight,Overweight,main
+2020-11-25 09:36:58,Barclays,Overweight,Overweight,main
+2020-11-25 09:36:59,Citigroup,Buy,Buy,main
+2020-11-25 09:36:59,Stifel Nicolaus,Hold,Buy,down
+2020-11-25 09:37:00,Wells Fargo,Outperform,Outperform,main
+2020-11-25 09:37:00,JP Morgan,Neutral,Neutral,main
+2020-11-25 09:37:00,Stifel Nicolaus,Buy,Hold,up
+2020-11-25 09:37:01,Barclays,Equal-Weight,Overweight,down
+2020-11-25 09:37:01,Stifel Nicolaus,Hold,Buy,down
+2020-11-25 09:37:01,Wells Fargo,Outperform,Outperform,main
+2020-11-25 09:37:01,Raymond James,Market Perform,,down
+2020-11-25 09:37:01,Credit Suisse,Neutral,,init
+2020-11-25 09:37:03,Credit Suisse,Neutral,Neutral,main
+2020-11-25 09:37:05,Raymond James,Outperform,Strong Buy,down
+2020-11-25 09:37:08,Stifel,Hold,Buy,down
+2020-11-25 09:37:08,Mitsubishi UFJ,Neutral,Overweight,down
+2020-11-25 09:37:08,Raymond James,Outperform,,reit
+2020-11-25 09:37:08,Raymond James,Market Perform,Outperform,down
+2020-11-25 09:37:09,Baird,Outperform,,main
+2020-11-25 09:37:11,Wells Fargo,Market Perform,Outperform,down
+2020-11-25 09:37:12,Baird,Outperform,,main
+2020-11-25 09:37:13,Citigroup,Buy,,main
+2020-11-25 09:37:14,Wells Fargo,Underweight,Equal-Weight,down
+2020-11-25 09:37:14,Baird,Neutral,Outperform,down
+2020-11-25 09:37:18,JP Morgan,Underweight,Neutral,down
+2020-11-25 09:37:21,Wells Fargo,Underweight,,main
+2020-11-25 09:37:22,UBS,Neutral,,init
+2020-11-25 09:37:24,Morgan Stanley,Underweight,,init
+2021-01-11 12:54:49,Raymond James,Market Perform,Outperform,down
+2021-02-22 13:26:01,Morgan Stanley,Underweight,,main
+2021-03-12 11:58:30,Goldman Sachs,Sell,Neutral,down
+2021-03-22 12:23:45,Morgan Stanley,Underweight,,main
+2021-05-13 12:40:51,Wells Fargo,Equal-Weight,,main
+2021-05-26 13:26:16,Tudor Pickering,Sell,Hold,down
+2021-06-09 10:56:03,JonesTrading,Hold,Buy,down
+2021-06-24 11:00:45,Wells Fargo,Equal-Weight,,main
+2021-10-19 11:55:29,Barclays,Equal-Weight,,main
+2021-12-16 12:32:04,Wells Fargo,Equal-Weight,,main
+2022-01-26 15:17:01,Citigroup,Neutral,,main

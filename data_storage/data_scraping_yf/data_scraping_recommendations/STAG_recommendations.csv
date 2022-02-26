@@ -1,0 +1,63 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-15 07:14:00,Cantor Fitzgerald,Hold,,main
+2012-05-25 06:42:00,JP Morgan,Neutral,,main
+2012-06-22 08:32:00,Raymond James,Outperform,,init
+2012-07-03 06:17:00,Cantor Fitzgerald,Hold,,main
+2012-08-16 11:05:00,JP Morgan,Neutral,,main
+2012-09-06 16:15:00,Cantor Fitzgerald,Hold,,main
+2012-10-24 10:36:00,Evercore Partners,Overweight,,init
+2012-12-05 09:41:29,Evercore Partners,Equal-Weight,Overweight,down
+2013-01-15 09:29:28,Baird,Outperform,,init
+2013-03-05 08:34:48,JP Morgan,Neutral,,main
+2013-07-19 07:35:36,RBC Capital,Outperform,Sector Perform,up
+2013-09-10 16:04:08,McNicoll Lewis Vlak,Buy,,init
+2013-09-11 09:03:50,MLV & Co.,Buy,,init
+2013-11-04 09:31:36,Evercore Partners,Overweight,Equal-Weight,up
+2014-07-21 08:43:23,Sandler O'Neill,Buy,,init
+2014-09-02 08:57:08,Capital One Financial,Overweight,,init
+2014-10-31 09:00:00,JMP Securities,Market Outperform,,main
+2015-01-15 00:00:00,JP Morgan,Neutral,Overweight,down
+2015-03-26 09:00:00,JP Morgan,Neutral,,main
+2015-04-10 17:19:25,DA Davidson,Neutral,,init
+2015-06-25 09:13:11,Bank of America,Neutral,Buy,down
+2015-07-17 07:15:28,UBS,Sell,Neutral,down
+2015-09-08 11:07:23,Evercore ISI Group,Buy,,main
+2015-11-11 16:52:25,BB&T Capital,Underweight,,init
+2015-12-02 11:11:21,Capital One Financial,Equal-Weight,Overweight,down
+2015-12-11 06:07:30,DA Davidson,Neutral,,main
+2016-01-22 07:46:53,Jefferies,Hold,,init
+2016-02-26 08:47:53,BB&T Capital,Hold,Underweight,up
+2016-03-02 07:09:16,Capital One Financial,Overweight,Equal-Weight,up
+2016-03-11 06:59:10,Bank of America,Underperform,Neutral,down
+2016-06-13 09:06:24,Evercore ISI Group,Hold,Buy,down
+2016-10-14 11:45:01,Capital One Financial,Overweight,Equal-Weight,up
+2016-11-15 12:00:47,Jefferies,Buy,Hold,up
+2017-08-09 15:08:59,Raymond James,Outperform,,main
+2017-08-14 15:46:47,Evercore ISI Group,Outperform,In-Line,up
+2017-12-19 10:56:39,JP Morgan,Overweight,Neutral,up
+2018-03-19 14:46:07,JP Morgan,Overweight,Overweight,main
+2018-06-15 11:06:16,JP Morgan,Neutral,Overweight,down
+2018-06-21 11:25:14,UBS,Neutral,Neutral,main
+2018-11-05 16:49:42,Raymond James,Outperform,Outperform,main
+2019-04-23 13:04:35,Berenberg,Hold,,init
+2019-12-10 11:58:34,Wells Fargo,Outperform,Market Perform,up
+2019-12-18 11:30:55,JP Morgan,Overweight,Neutral,up
+2019-12-18 12:29:26,RBC Capital,Top Pick,Outperform,up
+2020-02-14 12:51:03,Raymond James,Outperform,,main
+2020-02-27 16:16:01,Citigroup,Neutral,,init
+2020-04-02 18:01:49,RBC Capital,Outperform,,main
+2020-04-07 20:10:10,Citigroup,Neutral,,main
+2020-05-07 16:19:39,Baird,Outperform,,main
+2020-08-06 18:55:33,Wells Fargo,Overweight,,main
+2020-08-13 12:02:46,Citigroup,Neutral,,main
+2020-09-23 11:32:17,Baird,Neutral,Outperform,down
+2020-11-16 16:17:31,B of A Securities,Underperform,,main
+2020-12-21 12:15:49,JP Morgan,Neutral,Overweight,down
+2021-05-06 12:07:27,Raymond James,Outperform,,main
+2021-06-07 11:26:13,Wells Fargo,Overweight,,main
+2021-07-12 12:03:39,Raymond James,Outperform,,main
+2021-07-29 10:07:20,Raymond James,Outperform,,main
+2021-08-03 13:03:50,RBC Capital,Outperform,,main
+2021-11-01 13:20:44,Raymond James,Outperform,,main
+2022-01-10 12:30:45,Raymond James,Outperform,,main
+2022-01-11 11:09:53,Baird,Neutral,Outperform,down

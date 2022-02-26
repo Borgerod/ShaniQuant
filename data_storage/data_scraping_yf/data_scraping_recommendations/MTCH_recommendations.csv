@@ -1,0 +1,125 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-06 12:17:50,BMO Capital,Market Perform,,main
+2020-11-06 16:41:44,Morgan Stanley,Overweight,,main
+2020-11-06 17:37:17,UBS,Neutral,,main
+2020-11-25 09:35:49,Barclays,Equal-Weight,,main
+2020-11-25 09:36:17,Deutsche Bank,Buy,,main
+2020-11-25 09:36:17,Barclays,Equal-Weight,Overweight,down
+2020-11-25 09:36:17,Bank of America,Buy,,init
+2020-11-25 09:36:17,Axiom Capital,Buy,,init
+2020-11-25 09:36:17,JP Morgan,Neutral,,init
+2020-11-25 09:36:17,Barclays,Overweight,,init
+2020-11-25 09:36:17,Cowen & Co.,Outperform,,init
+2020-11-25 09:36:18,BMO Capital,Outperform,,init
+2020-11-25 09:36:18,Wells Fargo,Outperform,,init
+2020-11-25 09:36:18,UBS,Buy,,init
+2020-11-25 09:36:18,Deutsche Bank,Buy,,init
+2020-11-25 09:36:18,BTIG Research,Sell,,init
+2020-11-25 09:36:18,SunTrust Robinson Humphrey,Buy,,init
+2020-11-25 09:36:18,BTIG Research,Neutral,Sell,up
+2020-11-25 09:36:18,Oppenheimer,Outperform,,init
+2020-11-25 09:36:18,Goldman Sachs,Sell,,init
+2020-11-25 09:36:18,JP Morgan,Overweight,Neutral,up
+2020-11-25 09:36:44,Aegis Capital,Buy,,init
+2020-11-25 09:36:45,Guggenheim,Neutral,Buy,down
+2020-11-25 09:36:46,Citigroup,Buy,,init
+2020-11-25 09:36:47,Jefferies,Buy,,init
+2020-11-25 09:36:50,BMO Capital,Outperform,,main
+2020-11-25 09:36:50,Citigroup,Buy,,main
+2020-11-25 09:36:50,Bank of America,Buy,,main
+2020-11-25 09:36:51,Barclays,Equal-Weight,,main
+2020-11-25 09:36:52,Oppenheimer,Market Perform,Outperform,down
+2020-11-25 09:36:52,BMO Capital,Outperform,,main
+2020-11-25 09:36:52,UBS,Buy,,main
+2020-11-25 09:36:52,Barclays,Equal-Weight,,main
+2020-11-25 09:36:53,Evercore ISI Group,Outperform,,init
+2020-11-25 09:36:53,Guggenheim,Buy,Neutral,up
+2020-11-25 09:36:54,Bank of America,Buy,Buy,main
+2020-11-25 09:36:54,Barclays,Equal-Weight,Equal-Weight,main
+2020-11-25 09:36:54,BMO Capital,Outperform,Outperform,main
+2020-11-25 09:36:54,Citigroup,Buy,Buy,main
+2020-11-25 09:36:55,JP Morgan,Neutral,Overweight,down
+2020-11-25 09:36:55,Wells Fargo,Market Perform,Outperform,down
+2020-11-25 09:36:56,UBS,Neutral,Buy,down
+2020-11-25 09:36:56,Guggenheim,Neutral,Buy,down
+2020-11-25 09:36:57,Jefferies,Hold,Buy,down
+2020-11-25 09:36:57,Evercore ISI Group,In-Line,Outperform,down
+2020-11-25 09:36:57,UBS,Buy,Neutral,up
+2020-11-25 09:36:58,Jefferies,Buy,Hold,up
+2020-11-25 09:37:00,BMO Capital,Outperform,Outperform,main
+2020-11-25 09:37:00,Barclays,Equal-Weight,Equal-Weight,main
+2020-11-25 09:37:00,Deutsche Bank,Buy,Buy,main
+2020-11-25 09:37:01,Jefferies,Buy,Buy,main
+2020-11-25 09:37:01,Nomura,Buy,,init
+2020-11-25 09:37:02,Deutsche Bank,Buy,Buy,main
+2020-11-25 09:37:03,Macquarie,Outperform,,init
+2020-11-25 09:37:03,Summit Insights Group,Hold,,init
+2020-11-25 09:37:03,SunTrust Robinson Humphrey,Hold,,init
+2020-11-25 09:37:04,Goldman Sachs,Sell,,init
+2020-11-25 09:37:04,Deutsche Bank,Hold,Buy,down
+2020-11-25 09:37:04,Nomura,Neutral,Buy,down
+2020-11-25 09:37:06,Goldman Sachs,Neutral,Sell,up
+2020-11-25 09:37:06,Barclays,Equal-Weight,,main
+2020-11-25 09:37:08,BMO Capital,Market Perform,Outperform,down
+2020-11-25 09:37:08,Nomura,Neutral,,main
+2020-11-25 09:37:08,BMO Capital,Market Perform,,main
+2020-11-25 09:37:08,UBS,Neutral,Buy,down
+2020-11-25 09:37:09,SunTrust Robinson Humphrey,Buy,Hold,up
+2020-11-25 09:37:09,Citi,Buy,,init
+2020-11-25 09:37:09,Citigroup,Buy,,init
+2020-11-25 09:37:09,Evercore ISI Group,Outperform,In-Line,up
+2020-11-25 09:37:10,Deutsche Bank,Buy,Hold,up
+2020-11-25 09:37:10,Nomura,Buy,Neutral,up
+2020-11-25 09:37:10,Oppenheimer,Outperform,Perform,up
+2020-11-25 09:37:11,UBS,Buy,Neutral,up
+2020-11-25 09:37:11,Nomura,Buy,,main
+2020-11-25 09:37:11,Barclays,Equal-Weight,,main
+2020-11-25 09:37:11,JP Morgan,Neutral,,main
+2020-11-25 09:37:12,Wedbush,Neutral,,init
+2020-11-25 09:37:12,Evercore ISI Group,Outperform,,main
+2020-11-25 09:37:13,Nomura,Buy,,main
+2020-11-25 09:37:13,Wedbush,Neutral,,main
+2020-11-25 09:37:13,Barclays,Equal-Weight,,main
+2020-11-25 09:37:13,UBS,Neutral,Buy,down
+2020-11-25 09:37:13,Oppenheimer,Outperform,,main
+2020-11-25 09:37:16,SunTrust Robinson Humphrey,Buy,,main
+2020-11-25 09:37:17,Nomura Instinet,Buy,,main
+2020-11-25 09:37:17,UBS,Neutral,,main
+2020-11-25 09:37:18,Deutsche Bank,Buy,,main
+2020-11-25 09:37:18,Nomura Instinet,Buy,,main
+2020-11-25 09:37:18,Oppenheimer,Outperform,,main
+2020-11-25 09:37:18,UBS,Neutral,,main
+2020-11-25 09:37:18,SunTrust Robinson Humphrey,Buy,,main
+2020-11-25 09:37:19,BMO Capital,Market Perform,,main
+2020-11-25 09:37:19,Citigroup,Buy,,main
+2020-11-25 09:37:20,SunTrust Robinson Humphrey,Buy,,main
+2020-11-25 09:37:20,BMO Capital,Market Perform,,main
+2020-11-25 09:37:20,Morgan Stanley,Overweight,,init
+2020-11-25 09:37:20,BTIG,Neutral,,init
+2020-11-25 09:37:22,Wedbush,Neutral,,main
+2020-11-25 09:37:22,Morgan Stanley,Overweight,,main
+2020-11-25 09:37:22,BMO Capital,Market Perform,,main
+2020-11-25 09:37:22,Citigroup,Buy,,main
+2020-11-25 09:37:23,KeyBanc,Overweight,,init
+2020-11-25 09:37:23,Morgan Stanley,Overweight,,main
+2021-01-14 17:50:13,Cowen & Co.,Outperform,,main
+2021-01-15 15:43:23,Morgan Stanley,Overweight,,main
+2021-02-04 10:37:45,KeyBanc,Overweight,,main
+2021-02-04 11:25:45,JP Morgan,Overweight,Neutral,up
+2021-02-04 15:58:11,Susquehanna,Positive,Neutral,up
+2021-02-04 18:07:59,Deutsche Bank,Buy,,main
+2021-02-05 17:02:23,Citigroup,Buy,,main
+2021-02-10 16:07:06,Wedbush,Neutral,,main
+2021-04-12 11:17:51,BTIG,Buy,Neutral,up
+2021-05-06 10:14:07,Keybanc,Overweight,,main
+2021-07-09 09:12:59,RBC Capital,Outperform,,init
+2021-08-02 08:36:53,Keybanc,Overweight,,main
+2021-11-04 12:10:46,Barclays,Equal-Weight,,main
+2022-01-04 12:08:27,Wolfe Research,Outperform,,init
+2022-01-13 10:30:08,Piper Sandler,Overweight,,init
+2022-01-19 14:09:25,Morgan Stanley,Overweight,,main
+2022-01-31 09:38:10,Keybanc,Overweight,,main
+2022-02-03 12:02:56,Barclays,Equal-Weight,,main
+2022-02-03 13:12:34,BTIG,Buy,,main
+2022-02-03 13:18:57,Morgan Stanley,Overweight,,main
+2022-02-07 15:23:01,BMO Capital,Market Perform,,main

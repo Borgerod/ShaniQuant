@@ -1,0 +1,56 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-26 08:52:00,Canaccord Genuity,Buy,,main
+2012-04-26 06:36:00,JP Morgan,Neutral,,main
+2012-10-02 08:15:00,Cowen & Co.,Neutral,,init
+2012-10-03 16:07:00,PiperJaffray,Overweight,,init
+2012-10-04 12:33:00,Stephens & Co.,Equal-Weight,Overweight,down
+2013-01-02 11:13:29,Raymond James,Outperform,Market Perform,up
+2013-03-04 07:00:37,Wedbush,Underperform,Neutral,down
+2013-12-18 06:55:22,JMP Securities,Market Perform,,init
+2014-04-24 01:00:58,Canaccord Genuity,Buy,,main
+2014-07-10 06:27:36,Wells Fargo,Market Perform,,init
+2014-07-23 22:03:51,JP Morgan,Neutral,,main
+2014-07-23 22:36:57,Raymond James,Outperform,,main
+2014-11-10 09:00:00,Canaccord Genuity,Buy,,main
+2015-02-12 09:00:00,Canaccord Genuity,Buy,,main
+2015-12-14 09:11:07,Raymond James,Market Perform,Outperform,down
+2016-01-08 08:16:23,William Blair,Market Perform,Outperform,down
+2016-02-09 06:14:12,Canaccord Genuity,Hold,Buy,down
+2016-02-18 11:37:00,Barclays,Overweight,,main
+2016-06-13 06:06:45,Raymond James,Outperform,Market Perform,up
+2016-12-16 12:58:18,PiperJaffray,Neutral,Overweight,down
+2017-02-17 14:19:00,CL King,Neutral,,init
+2017-07-18 12:10:03,Canaccord Genuity,Buy,Hold,up
+2017-07-18 12:26:58,William Blair,Outperform,Market Perform,up
+2017-07-27 17:30:24,Barclays,Overweight,,main
+2017-07-27 17:42:30,Raymond James,Outperform,,main
+2017-09-19 10:37:19,PiperJaffray,Overweight,Neutral,up
+2017-09-19 14:17:36,Raymond James,Outperform,,main
+2017-09-19 17:22:26,Barclays,Overweight,,main
+2017-11-02 16:35:51,Barclays,Overweight,,main
+2018-01-04 15:25:42,CL King,Buy,Neutral,up
+2018-03-08 12:42:12,Raymond James,Strong Buy,Outperform,up
+2018-03-27 12:05:48,Craig-Hallum,Buy,,init
+2018-04-02 16:04:05,Barclays,Overweight,Overweight,main
+2018-08-06 12:22:24,Barclays,Overweight,Overweight,main
+2018-08-08 13:05:03,Barclays,Overweight,Overweight,main
+2018-08-14 12:05:59,Canaccord Genuity,Buy,Buy,main
+2018-09-10 11:00:00,Canaccord Genuity,Buy,Buy,main
+2018-12-10 15:50:42,Barclays,Overweight,Overweight,main
+2018-12-11 11:46:18,Craig-Hallum,Hold,Buy,down
+2018-12-11 15:47:24,Raymond James,Strong Buy,Strong Buy,main
+2019-03-18 13:18:13,Barclays,Overweight,Overweight,main
+2019-04-15 14:44:14,Raymond James,Strong Buy,Strong Buy,main
+2020-02-13 12:20:52,Raymond James,Strong Buy,,main
+2020-03-26 10:59:15,Barclays,Equal-Weight,Overweight,down
+2020-05-12 10:04:28,JP Morgan,Underweight,Neutral,down
+2020-07-08 15:08:05,Piper Sandler,Overweight,,main
+2021-01-22 11:06:44,Raymond James,Outperform,Market Perform,up
+2021-02-19 13:32:23,Raymond James,Outperform,,main
+2021-03-11 13:01:44,Raymond James,Outperform,,main
+2021-03-11 14:46:29,Craig-Hallum,Buy,,main
+2021-05-07 12:28:15,Raymond James,Outperform,,main
+2021-06-04 13:00:57,JP Morgan,Underweight,,main
+2021-06-17 12:31:35,Craig-Hallum,Buy,,main
+2021-06-28 11:28:54,Raymond James,Outperform,,main
+2021-08-06 16:20:23,Raymond James,Outperform,,main

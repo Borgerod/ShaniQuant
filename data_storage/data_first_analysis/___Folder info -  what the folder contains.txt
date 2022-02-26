@@ -1,0 +1,5 @@
+What this folder (data_first_analysis) contains: 
+
+Collected results from "first_analysis", e.g.:
+- EVEBITDA_eval_df (evaluation of all EV/EVITDA numbers of ticker_list
+- MultiName_ev_ebitda_byIndustry (EV/EVITDA by industry dataframe, with multiple names from yahoo's industry list)

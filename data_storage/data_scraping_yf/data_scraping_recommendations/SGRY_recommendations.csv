@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action
+2015-10-26 05:53:37,Goldman Sachs,Neutral,,init
+2015-10-26 05:54:05,RBC Capital,Outperform,,init
+2015-10-26 06:11:05,Jefferies,Buy,,init
+2015-10-26 08:28:21,Raymond James,Strong Buy,,init
+2015-10-27 09:38:13,Stifel Nicolaus,Buy,,init
+2016-03-14 13:44:15,Citigroup,Buy,,main
+2016-06-09 16:13:44,KeyBanc,Overweight,,init
+2017-01-31 12:56:45,Benchmark,Buy,,init
+2017-03-10 13:17:09,Stifel Nicolaus,Hold,Buy,down
+2017-08-09 11:17:40,KeyBanc,Sector Weight,Overweight,down
+2017-08-09 13:49:04,Raymond James,Market Perform,Strong Buy,down
+2017-08-09 13:54:18,Stifel Nicolaus,Sell,Hold,down
+2017-08-11 18:30:04,Citigroup,Buy,,main
+2017-10-09 13:50:41,Bank of America,Buy,,main
+2017-11-01 12:10:43,Bank of America,Neutral,Buy,down
+2017-11-01 16:29:34,Jefferies,Buy,,main
+2017-11-13 17:06:51,Citigroup,Buy,,main
+2018-04-11 11:15:50,Stifel Nicolaus,Sell,Sell,main
+2018-06-28 11:11:55,Stifel Nicolaus,Hold,Sell,up
+2018-08-07 13:07:04,Leerink Swann,Outperform,,init
+2018-08-10 14:26:48,RBC Capital,Outperform,Outperform,main
+2018-09-18 12:49:14,Bank of America,Buy,Neutral,up
+2018-11-16 14:09:42,UBS,Neutral,,init
+2019-11-12 12:39:16,UBS,Neutral,,main
+2019-11-20 16:25:25,Bank of America,Buy,,reit
+2019-12-10 14:05:24,Citigroup,Buy,,main
+2020-01-14 13:23:51,Benchmark,Buy,,reit
+2020-02-20 13:01:03,UBS,Neutral,,main
+2020-03-03 12:29:19,Benchmark,Hold,Buy,down
+2020-04-27 11:32:33,Benchmark,Buy,Hold,up
+2020-05-13 14:34:29,Citigroup,Buy,,main
+2020-07-27 15:02:11,UBS,Neutral,,main
+2020-09-17 10:55:37,Benchmark,Buy,,main
+2020-09-17 12:59:17,B of A Securities,Buy,,reit
+2021-09-10 09:24:30,Cowen & Co.,Market Perform,,init
+2021-10-18 10:44:36,SVB Leerink,Outperform,,init
+2021-11-01 09:02:02,JP Morgan,Neutral,,init
+2021-11-03 11:08:59,SVB Leerink,Outperform,,main
+2021-11-29 11:14:40,Stifel,Buy,Hold,up
+2021-11-30 12:07:27,Barclays,Overweight,,init
+2021-12-03 10:46:53,SVB Leerink,Outperform,,main
+2022-01-26 09:46:27,SVB Leerink,Outperform,,main

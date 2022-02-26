@@ -1,0 +1,48 @@
+Date,Firm,To Grade,From Grade,Action
+2019-04-01 12:56:00,Credit Suisse,Outperform,,init
+2019-04-09 12:08:46,JP Morgan,Overweight,,init
+2019-05-20 11:28:16,Wells Fargo,Outperform,,init
+2019-07-08 11:19:40,Piper Jaffray,Overweight,,init
+2019-08-30 11:26:50,Barclays,Overweight,,init
+2019-09-23 12:42:08,Citigroup,Neutral,,main
+2019-09-30 12:53:20,Piper Jaffray,Overweight,,main
+2019-11-18 12:02:46,KeyBanc,Overweight,,init
+2020-01-23 11:52:57,Credit Suisse,Neutral,Outperform,down
+2020-03-09 11:09:24,SunTrust Robinson Humphrey,Hold,Buy,down
+2020-03-10 11:44:18,Wells Fargo,Overweight,,reit
+2020-03-26 11:00:22,KeyBanc,Overweight,,main
+2020-03-31 15:16:37,RF Lafferty,Buy,,main
+2020-04-17 09:20:37,Imperial Capital,In-Line,Outperform,down
+2020-05-12 12:39:50,RF Lafferty,Buy,,main
+2020-05-13 13:16:16,SunTrust Robinson Humphrey,Hold,,main
+2020-06-04 12:43:37,MKM Partners,Buy,,init
+2020-07-13 17:45:51,ScotiaBank,Sector Outperform,,main
+2020-07-27 14:00:37,Seaport Global,Neutral,,init
+2020-08-13 10:24:53,Goldman Sachs,Buy,,init
+2020-08-27 11:34:28,Barclays,Overweight,Equal-Weight,up
+2020-10-20 08:55:53,KeyBanc,Overweight,,main
+2020-11-09 14:37:56,Credit Suisse,Neutral,,main
+2020-11-30 10:50:02,MKM Partners,Neutral,Buy,down
+2021-01-07 09:43:09,KeyBanc,Overweight,,main
+2021-01-21 09:51:17,KeyBanc,Overweight,,main
+2021-02-25 13:50:01,Credit Suisse,Neutral,,main
+2021-03-11 10:57:41,KeyBanc,Overweight,,main
+2021-04-09 10:15:23,Keybanc,Overweight,,main
+2021-05-19 13:44:30,Wells Fargo,Overweight,,main
+2021-05-27 10:36:54,Piper Sandler,Overweight,Neutral,up
+2021-06-03 10:10:42,Keybanc,Overweight,,main
+2021-06-17 10:59:26,Keybanc,Overweight,,main
+2021-08-02 10:16:06,Evercore ISI Group,Outperform,,init
+2021-08-23 13:17:50,Wells Fargo,Overweight,,main
+2021-08-30 11:40:11,Truist Securities,Buy,Hold,up
+2021-09-16 08:35:32,Keybanc,Overweight,,main
+2021-09-30 08:42:20,Keybanc,Overweight,,main
+2021-10-07 08:41:08,Keybanc,Overweight,,main
+2021-10-07 11:04:18,Wells Fargo,Overweight,,main
+2021-10-14 08:48:33,Keybanc,Overweight,,main
+2021-10-26 11:51:16,Benchmark,Hold,,init
+2021-10-28 08:33:26,Keybanc,Overweight,,main
+2021-11-02 12:11:03,Credit Suisse,Neutral,,main
+2021-12-07 10:44:44,JP Morgan,Neutral,Overweight,down
+2022-01-05 11:28:19,Wells Fargo,Equal-Weight,Overweight,down
+2022-01-27 09:31:06,Keybanc,Overweight,,main

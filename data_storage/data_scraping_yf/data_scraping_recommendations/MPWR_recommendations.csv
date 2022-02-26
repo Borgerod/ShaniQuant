@@ -1,0 +1,100 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-10 07:11:00,Evercore Partners,Overweight,,main
+2012-05-01 06:40:00,Deutsche Bank,Buy,,main
+2012-05-29 06:31:00,PiperJaffray,Overweight,,main
+2012-07-31 06:34:00,Deutsche Bank,Buy,,main
+2012-09-04 05:44:00,PiperJaffray,Neutral,Overweight,down
+2012-11-02 07:31:00,Deutsche Bank,Buy,,main
+2012-12-05 07:59:05,Stifel Nicolaus,Buy,,main
+2012-12-10 13:37:28,Blaylock Robert Van,Neutral,Strong Buy,down
+2013-02-07 08:39:30,Deutsche Bank,Buy,,main
+2013-02-07 13:00:20,Blaylock Robert Van,Buy,Hold,up
+2013-03-06 08:14:02,Stifel Nicolaus,Buy,,main
+2013-04-30 08:24:20,Stifel Nicolaus,Buy,,main
+2013-06-04 08:17:01,Wells Fargo,Outperform,,init
+2013-08-07 06:29:33,Evercore Partners,Overweight,,main
+2013-08-30 08:54:47,William Blair,Outperform,,init
+2013-09-13 07:55:48,Needham,Hold,Buy,down
+2013-09-30 09:00:59,Deutsche Bank,Buy,,main
+2013-10-18 07:13:42,Wells Fargo,Market Perform,Outperform,down
+2013-10-25 07:07:52,Oppenheimer,Outperform,Perform,up
+2013-11-08 09:43:27,Stifel Nicolaus,Buy,,main
+2014-03-11 07:26:50,Stifel Nicolaus,Buy,,main
+2014-03-14 06:45:37,Stifel Nicolaus,Buy,,main
+2014-04-25 00:34:22,Deutsche Bank,Buy,,main
+2014-04-25 02:35:51,Oppenheimer,Outperform,,main
+2014-04-25 02:39:04,Pacific Crest,Outperform,,main
+2014-04-25 07:32:42,Stifel Nicolaus,Buy,,main
+2014-05-14 06:31:28,Evercore Partners,Overweight,,init
+2014-06-16 21:26:12,Raymond James,Outperform,,main
+2014-07-25 00:22:28,Deutsche Bank,Buy,,main
+2014-07-25 02:16:28,Stifel Nicolaus,Buy,,main
+2014-12-04 08:18:46,Stifel Nicolaus,Buy,,main
+2015-04-23 09:00:00,Pacific Crest,Overweight,,main
+2015-09-11 10:50:39,PiperJaffray,Overweight,,init
+2015-10-27 15:40:19,Oppenheimer,Outperform,,main
+2015-10-27 15:40:20,Raymond James,Outperform,,main
+2016-02-05 05:00:58,Deutsche Bank,Buy,,main
+2016-02-05 12:32:14,Pacific Crest,Overweight,,main
+2016-05-03 08:14:02,Stifel Nicolaus,Buy,,main
+2016-05-03 08:36:32,Oppenheimer,Outperform,,main
+2016-07-14 12:56:37,Stifel Nicolaus,Buy,,main
+2016-11-21 11:41:25,Raymond James,Strong Buy,Outperform,up
+2017-10-10 12:22:47,SunTrust Robinson Humphrey,Buy,,init
+2017-10-24 12:00:43,Deutsche Bank,Buy,,main
+2017-10-27 12:26:09,Stifel Nicolaus,Buy,,main
+2017-10-27 17:34:17,Oppenheimer,Outperform,,main
+2018-04-12 12:20:35,Raymond James,Strong Buy,,init
+2018-05-01 12:01:17,Stifel Nicolaus,Buy,Buy,main
+2018-05-17 20:37:56,Cowen & Co.,Outperform,,init
+2018-06-05 11:28:10,Deutsche Bank,Buy,Buy,main
+2018-06-08 11:06:40,Stifel Nicolaus,Buy,Buy,main
+2018-06-08 11:32:39,Deutsche Bank,Buy,Buy,main
+2018-07-19 11:54:19,Stifel Nicolaus,Buy,Buy,main
+2018-08-29 10:53:24,KeyBanc,Overweight,Overweight,main
+2018-09-25 12:21:41,Raymond James,Outperform,Strong Buy,down
+2018-10-16 09:56:01,KeyBanc,Overweight,Overweight,main
+2019-02-13 13:44:29,Deutsche Bank,Buy,Buy,main
+2019-05-03 10:11:51,KeyBanc,Sector Weight,Overweight,down
+2019-06-18 11:55:06,Loop Capital,Buy,,init
+2019-09-10 12:26:10,Stifel Nicolaus,Buy,,main
+2019-12-12 11:50:58,Rosenblatt,Buy,,init
+2020-02-06 12:22:54,Rosenblatt,Buy,,main
+2020-02-06 12:28:25,Raymond James,Outperform,,main
+2020-03-05 12:42:08,Needham,Buy,Hold,up
+2020-03-31 10:57:42,Needham,Buy,,main
+2020-04-16 18:46:48,Stifel,Buy,,main
+2020-04-29 11:15:55,Needham,Buy,,main
+2020-04-29 12:32:54,Oppenheimer,Outperform,,main
+2020-04-29 12:33:30,Raymond James,Outperform,,main
+2020-04-29 16:42:27,SunTrust Robinson Humphrey,Buy,,main
+2020-06-22 10:57:20,Rosenblatt,Buy,,main
+2020-06-26 14:13:44,SunTrust Robinson Humphrey,Buy,,main
+2020-07-07 09:32:58,Needham,Buy,,main
+2020-07-29 11:00:15,Needham,Buy,,main
+2020-07-29 11:29:51,Rosenblatt,Buy,,main
+2020-07-29 13:53:08,Raymond James,Outperform,,main
+2020-07-29 14:56:06,Stifel,Buy,,main
+2020-10-30 11:01:27,Needham,Buy,,main
+2020-10-30 11:20:33,Rosenblatt,Buy,,main
+2020-10-30 12:00:08,Raymond James,Outperform,,main
+2021-01-07 14:33:42,Rosenblatt,Buy,,main
+2021-02-05 12:54:13,Raymond James,Outperform,,main
+2021-02-05 13:34:54,Needham,Buy,,main
+2021-02-05 19:02:51,Rosenblatt,Buy,,main
+2021-02-08 16:44:32,Loop Capital,Buy,,main
+2021-07-28 11:09:16,Needham,Buy,,main
+2021-07-28 11:19:12,Rosenblatt,Buy,,main
+2021-07-28 11:31:28,Raymond James,Outperform,,main
+2021-07-28 12:01:31,Oppenheimer,Outperform,,main
+2021-08-31 14:21:33,Stifel,Buy,,main
+2021-09-10 14:22:34,Deutsche Bank,Buy,,main
+2021-09-24 11:03:26,Rosenblatt,Buy,,main
+2021-10-22 14:39:52,Oppenheimer,Outperform,,main
+2021-10-29 11:17:32,Needham,Hold,Buy,down
+2021-10-29 14:24:10,Raymond James,Outperform,,main
+2022-01-03 20:37:01,Oppenheimer,Outperform,,main
+2022-01-11 09:34:16,Keybanc,Overweight,Sector Weight,up
+2022-02-07 12:23:19,Deutsche Bank,Buy,,main
+2022-02-11 12:23:26,Needham,Buy,Hold,up
+2022-02-11 15:09:41,Deutsche Bank,Buy,,main

@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action
+2019-05-28 11:37:32,Stifel Nicolaus,Buy,,init
+2019-06-06 13:39:10,Bank of America,Underperform,,init
+2019-06-13 10:27:16,Susquehanna,Positive,,init
+2019-06-17 10:54:49,Piper Jaffray,Neutral,,init
+2019-06-17 11:00:36,Guggenheim,Buy,,init
+2019-08-09 16:43:29,Bank of America,Underperform,,reit
+2019-10-22 11:09:18,Macquarie,Neutral,,init
+2019-11-13 12:29:10,Barclays,Equal-Weight,,init
+2020-01-24 11:57:33,Odeon Capital,Buy,,init
+2020-02-18 10:25:52,Stifel Nicolaus,Hold,Buy,down
+2020-03-06 14:23:29,Stifel,Hold,,main
+2020-03-25 10:30:47,Goldman Sachs,Sell,Neutral,down
+2020-04-06 19:59:19,Susquehanna,Positive,,main
+2020-04-14 12:19:57,Barclays,Equal-Weight,,main
+2020-04-15 14:16:42,Stifel,Hold,,main
+2020-04-29 11:30:38,Susquehanna,Neutral,Positive,down
+2020-05-05 15:21:01,Guggenheim,Buy,,main
+2020-06-03 10:29:07,Piper Sandler,Overweight,Neutral,up
+2020-06-05 11:50:23,Susquehanna,Positive,Neutral,up
+2020-07-22 09:18:59,UBS,Neutral,,init
+2020-07-27 10:12:26,Goldman Sachs,Buy,Sell,up
+2020-10-07 10:22:34,Barclays,Overweight,Equal-Weight,up
+2020-12-10 13:33:28,Goldman Sachs,Neutral,Buy,down
+2021-04-07 11:33:21,UBS,Buy,Neutral,up
+2021-05-25 12:04:39,UBS,Buy,,main
+2021-07-14 09:29:15,Goldman Sachs,Buy,,init
+2021-11-05 14:52:36,Barclays,Overweight,,main

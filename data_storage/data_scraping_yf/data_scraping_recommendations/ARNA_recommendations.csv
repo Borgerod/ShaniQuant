@@ -1,0 +1,65 @@
+Date,Firm,To Grade,From Grade,Action
+2012-06-25 08:00:00,BMO Capital,Market Perform,Outperform,down
+2012-06-27 14:15:00,PiperJaffray,Overweight,,main
+2012-06-28 05:54:00,JP Morgan,Neutral,,main
+2012-06-28 06:24:00,Jefferies,Buy,,main
+2012-07-18 06:43:00,JP Morgan,Neutral,,main
+2012-09-06 06:12:00,Credit Suisse,Underperform,,init
+2012-09-06 10:22:00,Credit Suisse,Underperform,,init
+2012-11-07 07:04:00,Jefferies,Buy,,main
+2013-03-05 08:37:03,JP Morgan,Neutral,,main
+2013-03-05 09:03:51,BMO Capital,Market Perform,,main
+2013-06-11 10:41:07,PiperJaffray,Overweight,,main
+2013-08-01 16:00:00,PiperJaffray,Overweight,,main
+2013-09-30 07:19:12,Credit Suisse,Underperform,,main
+2013-10-01 08:08:52,PiperJaffray,Overweight,,main
+2013-10-03 16:00:00,Cowen & Co.,Market Perform,,init
+2013-11-15 07:41:16,Wallachbeth,Buy,,init
+2016-09-15 09:41:03,FBR Capital,Outperform,,init
+2017-05-19 16:33:29,Leerink Swann,Outperform,,init
+2017-06-15 13:05:55,Cantor Fitzgerald,Overweight,,init
+2017-06-27 18:52:23,Citigroup,Buy,,init
+2017-07-12 16:03:55,Citigroup,Buy,,main
+2018-01-03 12:29:10,Wells Fargo,Outperform,Market Perform,up
+2018-01-17 21:53:21,Credit Suisse,Outperform,,init
+2018-02-27 14:18:08,Citigroup,Buy,Buy,main
+2018-03-20 15:50:22,Needham,Buy,Hold,up
+2018-08-07 12:42:18,Credit Suisse,Outperform,Outperform,main
+2018-11-19 15:06:06,Credit Suisse,Outperform,Outperform,main
+2018-12-13 14:44:59,Berenberg,Buy,,init
+2019-04-03 13:51:07,Credit Suisse,Outperform,Outperform,main
+2019-11-08 13:31:37,JP Morgan,Neutral,,main
+2019-11-13 15:12:14,Bank of America,Neutral,,init
+2020-01-31 11:14:40,JP Morgan,Overweight,Neutral,up
+2020-02-27 12:06:45,Cantor Fitzgerald,Overweight,,reit
+2020-03-26 10:18:36,B of A Securities,Buy,Neutral,up
+2020-03-31 11:13:18,Guggenheim Securities,Buy,,init
+2020-05-08 10:54:04,Cantor Fitzgerald,Overweight,,reit
+2020-05-18 11:10:50,Jefferies,Buy,,init
+2020-05-22 13:20:39,Jefferies,Buy,,main
+2020-06-29 10:06:34,HC Wainwright & Co.,Buy,,init
+2020-07-27 10:53:22,Citigroup,Buy,,main
+2020-08-06 09:08:40,SVB Leerink,Outperform,,main
+2020-08-06 18:05:48,Wells Fargo,Overweight,,main
+2020-09-30 14:33:01,B of A Securities,Buy,,main
+2020-11-10 09:44:19,SVB Leerink,Outperform,,main
+2020-11-19 10:39:08,SMBC Nikko,Outperform,,init
+2021-02-24 10:24:32,SVB Leerink,Outperform,,main
+2021-03-03 14:22:44,Cantor Fitzgerald,Overweight,,main
+2021-03-26 10:18:31,HC Wainwright & Co.,Buy,,main
+2021-04-13 12:06:47,Credit Suisse,Outperform,,main
+2021-04-27 10:57:05,Citigroup,Buy,,init
+2021-05-07 11:39:07,SVB Leerink,Outperform,,main
+2021-05-18 10:51:55,Goldman Sachs,Buy,,init
+2021-08-06 14:47:25,Credit Suisse,Outperform,,main
+2021-08-10 14:42:22,Cantor Fitzgerald,Overweight,,main
+2021-12-08 12:47:25,Wells Fargo,Overweight,,init
+2021-12-13 17:21:20,Needham,Hold,Buy,down
+2021-12-14 10:23:42,Jefferies,Hold,Buy,down
+2021-12-14 10:41:00,Credit Suisse,Neutral,Outperform,down
+2021-12-14 10:42:35,RBC Capital,Sector Perform,Outperform,down
+2021-12-14 11:04:41,SVB Leerink,Market Perform,Outperform,down
+2021-12-14 12:04:46,JMP Securities,Market Perform,Market Outperform,down
+2021-12-14 14:09:31,Citigroup,Neutral,Buy,down
+2021-12-21 10:13:40,Cantor Fitzgerald,Neutral,Overweight,down
+2022-02-09 11:16:00,HC Wainwright & Co.,Neutral,Buy,down

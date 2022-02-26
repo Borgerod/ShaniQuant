@@ -1,0 +1,41 @@
+Date,Firm,To Grade,From Grade,Action
+2014-08-13 09:00:00,Leerink Swann,Outperform,,main
+2014-12-23 00:00:00,JMP Securities,Market Outperform,,init
+2015-04-14 05:56:38,RBC Capital,Outperform,,init
+2015-05-06 06:46:38,SunTrust Robinson Humphrey,Buy,,init
+2015-09-17 06:09:35,RBC Capital,Outperform,,main
+2016-03-09 12:54:20,JMP Securities,Market Outperform,,main
+2016-06-01 17:11:24,PiperJaffray,Overweight,,init
+2016-06-02 09:03:15,PiperJaffray,Overweight,,init
+2016-09-29 06:13:34,JMP Securities,Market Perform,Outperform,down
+2016-09-29 07:29:27,SunTrust Robinson Humphrey,Neutral,Buy,down
+2016-12-16 13:29:29,Cantor Fitzgerald,Overweight,,init
+2017-05-01 17:32:42,PiperJaffray,Neutral,Overweight,down
+2017-05-02 13:58:47,Ladenburg Thalmann,Neutral,Buy,down
+2017-05-02 13:59:51,Leerink Swann,Market Perform,Outperform,down
+2017-08-24 12:52:18,JMP Securities,Market Outperform,Market Perform,up
+2017-08-30 14:08:43,Ladenburg Thalmann,Buy,Neutral,up
+2017-11-08 14:59:48,SunTrust Robinson Humphrey,Buy,Hold,up
+2017-12-15 13:32:19,Canaccord Genuity,Buy,,init
+2018-02-08 17:27:38,RBC Capital,Outperform,,init
+2018-02-26 14:12:58,JP Morgan,Overweight,,init
+2018-08-23 14:12:40,Cantor Fitzgerald,Overweight,,init
+2018-11-13 13:31:25,Leerink Swann,Outperform,,init
+2018-11-15 14:18:38,Leerink Swann,Outperform,,init
+2019-08-08 12:06:58,JMP Securities,Market Outperform,,reit
+2019-08-12 12:55:09,Jefferies,Buy,,init
+2019-12-24 15:19:36,Canaccord Genuity,Buy,,reit
+2020-01-31 11:35:15,JP Morgan,Neutral,Overweight,down
+2020-02-18 11:53:00,Cantor Fitzgerald,Overweight,,reit
+2020-02-20 10:21:08,Evercore ISI Group,Outperform,,init
+2020-03-03 12:58:00,BTIG Research,Buy,,main
+2020-11-02 14:01:42,BTIG,Buy,,main
+2020-12-10 12:10:36,Goldman Sachs,Buy,,init
+2021-09-20 12:30:02,Jefferies,Buy,,main
+2021-09-23 08:43:59,Needham,Buy,,init
+2021-10-19 11:57:07,RBC Capital,Outperform,,main
+2021-11-10 13:50:08,RBC Capital,Outperform,,main
+2021-12-20 09:52:02,SVB Leerink,Outperform,,main
+2021-12-20 14:21:11,Needham,Buy,,main
+2021-12-21 12:05:04,RBC Capital,Outperform,,main
+2022-02-16 12:15:34,Goldman Sachs,Buy,,init

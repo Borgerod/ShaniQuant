@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,ETFMG Prime Junior Silver Miner
+longName,ETFMG Prime Junior Silver Miners ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,SILJ
+messageBoardId,finmb_223194694
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.66
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1354060800
+annualReportExpenseRatio,
+totalAssets,770637248
+bookValue,
+fundFamily,ETFMG
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.013200001
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.1171
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Equity Precious Metals
+fiveYearAverageReturn,-0.0221
+phone,844-383-6477
+longBusinessSummary,"The index tracks the performance of the equity securities (or corresponding American Depositary Receipts (""ADRs"") or Global Depositary Receipts (""GDRs"")) of small-capitalization companies actively engaged in silver refining, mining, or exploration (""Junior Silver Companies""). The fund invests at least 80% of its total assets in the component securities of the index and in ADRs and GDRs based on the component securities in the index. The fund is non-diversified."
+companyOfficers,[]
+previousClose,13
+regularMarketOpen,13
+twoHundredDayAverage,13.6342
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,13
+navPrice,12.29
+averageDailyVolume10Day,1441230
+regularMarketPreviousClose,13
+fiftyDayAverage,12.0958
+trailingAnnualDividendRate,
+open,13
+toCurrency,
+averageVolume10days,1441230
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,12.61
+currency,USD
+regularMarketVolume,1399580
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,1308490
+dayLow,12.61
+ask,12.9
+askSize,1300
+volume,1399580
+fiftyTwoWeekHigh,18.17
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,10.77
+bid,12.66
+tradeable,False
+dividendYield,
+bidSize,3200
+dayHigh,13
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 1}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'FR.TO', 'holdingName': 'First Majestic Silver Corp', 'holdingPercent': 0.1301}, {'symbol': 'PAAS.TO', 'holdingName': 'Pan American Silver Corp', 'holdingPercent': 0.1086}, {'symbol': 'MAG.TO', 'holdingName': 'MAG Silver Corp', 'holdingPercent': 0.096499994}, {'symbol': 'YRI.TO', 'holdingName': 'Yamana Gold Inc', 'holdingPercent': 0.064}, {'symbol': 'HL', 'holdingName': 'Hecla Mining Co', 'holdingPercent': 0.0461}, {'symbol': 'SIL.TO', 'holdingName': 'SilverCrest Metals Inc', 'holdingPercent': 0.041100003}, {'symbol': 'SSRM.TO', 'holdingName': 'SSR Mining Inc', 'holdingPercent': 0.037100002}, {'symbol': 'TRQ.TO', 'holdingName': 'Turquoise Hill Resources Ltd', 'holdingPercent': 0.0363}, {'symbol': 'GATO', 'holdingName': 'Gatos Silver Inc Ordinary Shares', 'holdingPercent': 0.0344}, {'symbol': 'EXK.TO', 'holdingName': 'Endeavour Silver Corp', 'holdingPercent': 0.0328}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 9.52, 'priceToSales': 2.8, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 21.59, 'priceToBook': 1.7, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9932
+regularMarketPrice,12.7
+preMarketPrice,
+logo_url,

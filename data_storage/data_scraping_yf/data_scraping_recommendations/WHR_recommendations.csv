@@ -1,0 +1,83 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-18 13:33:00,KeyBanc,Hold,,down
+2012-07-25 07:48:00,Raymond James,Outperform,Market Perform,up
+2012-10-23 14:09:00,KeyBanc,Buy,Hold,up
+2012-10-24 05:51:00,Goldman Sachs,Buy,Sell,up
+2012-10-24 10:39:00,Raymond James,Strong Buy,Outperform,up
+2013-02-01 10:27:42,Raymond James,Outperform,Strong Buy,down
+2013-03-08 06:16:22,Bank of America,Buy,,init
+2013-06-24 09:56:49,Bank of America,Buy,,main
+2013-10-09 06:26:30,JP Morgan,Neutral,,main
+2013-11-14 10:26:51,Longbow Research,Buy,,main
+2013-11-19 08:00:00,Raymond James,Market Perform,Outperform,down
+2013-12-04 16:00:00,MKM Partners,Buy,,init
+2014-04-28 00:49:04,JP Morgan,Neutral,,main
+2014-05-05 22:02:03,KeyBanc,Buy,,main
+2014-05-13 06:57:01,Longbow Research,Neutral,Buy,down
+2014-10-13 16:00:00,Longbow Research,Buy,Neutral,up
+2014-10-28 09:08:25,MKM Partners,Buy,,main
+2014-10-29 05:55:43,Sterne Agee,Neutral,Buy,down
+2014-12-03 09:00:00,Bank of America,Buy,,main
+2015-01-28 09:00:00,JP Morgan,Neutral,,main
+2015-05-08 06:19:56,RBC Capital,Outperform,,init
+2015-09-15 06:02:27,RBC Capital,Top Pick,Outperform,up
+2015-09-30 13:20:42,Sterne Agee CRT,Neutral,,main
+2015-10-06 07:29:13,Goldman Sachs,Neutral,,init
+2015-10-26 06:12:16,Raymond James,Strong Buy,Market Perform,up
+2015-10-27 06:45:07,Gabelli & Co.,Buy,,init
+2016-02-04 06:53:03,Goldman Sachs,Buy,Neutral,up
+2016-03-15 03:40:29,JP Morgan,Overweight,Neutral,up
+2016-04-01 07:22:49,MKM Partners,Buy,,main
+2016-07-22 10:31:55,Raymond James,Market Perform,Outperform,down
+2016-07-25 06:19:06,Raymond James,Strong Buy,Market Perform,up
+2016-09-12 09:03:32,Gabelli & Co.,Hold,Buy,down
+2016-10-17 09:57:04,MKM Partners,Neutral,Buy,down
+2016-10-27 09:45:59,JP Morgan,Overweight,,main
+2016-11-29 20:02:46,KeyBanc,Overweight,,main
+2017-01-27 12:23:41,Goldman Sachs,Neutral,Buy,down
+2017-06-23 16:15:27,Credit Suisse,Neutral,,init
+2017-10-24 11:26:46,RBC Capital,Sector Perform,Top Pick,down
+2017-10-24 14:11:43,Bank of America,Neutral,Buy,down
+2017-10-24 14:28:28,Credit Suisse,Neutral,,main
+2018-01-26 12:09:36,KeyBanc,Sector Weight,Overweight,down
+2018-01-26 13:20:43,Raymond James,Outperform,Market Perform,up
+2018-04-04 18:28:43,Goldman Sachs,Sell,Neutral,down
+2018-04-24 12:51:50,Credit Suisse,Neutral,Neutral,main
+2018-04-25 13:00:44,Credit Suisse,Neutral,Neutral,main
+2018-06-01 12:33:32,JP Morgan,Overweight,Overweight,main
+2018-06-04 10:09:48,Credit Suisse,Outperform,Neutral,up
+2018-07-10 17:14:41,Standpoint Research,Buy,,init
+2018-07-24 11:53:25,Longbow Research,Neutral,Buy,down
+2018-07-24 13:46:53,Credit Suisse,Outperform,Outperform,main
+2018-07-25 10:24:27,RBC Capital,Sector Perform,Outperform,down
+2018-10-02 14:58:26,Goldman Sachs,Sell,,init
+2018-10-09 14:45:06,JP Morgan,Neutral,Overweight,down
+2018-10-18 12:30:49,Raymond James,Outperform,Outperform,main
+2018-11-28 12:28:51,Credit Suisse,Neutral,Outperform,down
+2019-01-23 13:15:37,Buckingham,Neutral,,init
+2019-01-30 11:36:32,Raymond James,Market Perform,Outperform,down
+2019-01-30 12:25:30,RBC Capital,Underperform,Sector Perform,down
+2019-05-10 10:23:50,Longbow Research,Buy,Neutral,up
+2019-06-06 10:05:13,KeyBanc,Overweight,Sector Weight,up
+2019-07-17 13:32:13,Buckingham Research,Neutral,,main
+2019-09-18 09:51:08,KeyBanc,Sector Weight,Overweight,down
+2019-09-26 10:25:25,JP Morgan,Overweight,Neutral,up
+2019-10-24 14:54:15,JP Morgan,Overweight,,main
+2019-11-21 12:03:49,Deutsche Bank,Hold,,init
+2019-12-06 11:36:29,Goldman Sachs,Buy,,init
+2020-01-29 13:09:54,RBC Capital,Underperform,,main
+2020-02-18 15:24:21,Deutsche Bank,Hold,,main
+2020-03-25 12:56:42,Deutsche Bank,Hold,,main
+2020-03-31 14:08:49,JP Morgan,Overweight,,main
+2020-05-05 12:39:51,Deutsche Bank,Hold,,main
+2020-05-05 13:41:29,JP Morgan,Overweight,,main
+2020-05-28 10:35:39,Credit Suisse,Underperform,,init
+2020-06-23 12:42:40,Credit Suisse,Underperform,,main
+2020-06-23 16:29:29,Deutsche Bank,Hold,,main
+2020-07-24 12:42:21,Credit Suisse,Underperform,,main
+2020-09-22 11:55:32,Deutsche Bank,Hold,,main
+2020-10-23 09:45:08,RBC Capital,Sector Perform,Underperform,up
+2020-10-23 12:49:18,Credit Suisse,Underperform,,main
+2021-04-07 13:37:55,JP Morgan,Overweight,,main
+2021-07-23 12:29:27,RBC Capital,Sector Perform,,main
+2021-10-25 08:53:50,RBC Capital,Underperform,Sector Perform,down

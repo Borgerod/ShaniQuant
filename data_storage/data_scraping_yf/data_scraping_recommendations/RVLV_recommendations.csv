@@ -1,0 +1,70 @@
+Date,Firm,To Grade,From Grade,Action
+2019-07-02 10:52:50,Guggenheim,Buy,,init
+2019-07-02 10:54:00,Cowen & Co.,Outperform,,init
+2019-07-02 10:55:35,Barclays,Equal-Weight,,init
+2019-07-02 11:29:39,Raymond James,Outperform,,init
+2019-07-02 11:36:51,Morgan Stanley,Overweight,,init
+2019-07-02 11:38:41,Jefferies,Buy,,init
+2019-08-09 17:06:54,Bank of America,Neutral,,reit
+2019-11-08 13:07:06,Raymond James,Outperform,,main
+2019-11-13 11:49:42,Baird,Outperform,,init
+2019-11-15 13:37:49,Morgan Stanley,Overweight,,main
+2019-12-10 22:22:49,DA Davidson,Neutral,,init
+2019-12-11 11:21:29,DA Davidson,Neutral,,init
+2019-12-18 11:59:57,B. Riley FBR,Buy,,init
+2019-12-18 15:10:02,B. Riley,Buy,,init
+2019-12-20 12:34:30,KeyBanc,Sector Weight,,init
+2020-02-03 13:09:41,BMO Capital,Market Perform,,init
+2020-02-26 12:23:03,Raymond James,Outperform,,main
+2020-02-26 14:11:48,Credit Suisse,Outperform,,main
+2020-02-26 14:23:21,Baird,Outperform,,main
+2020-02-26 17:41:57,B of A Securities,Neutral,,main
+2020-02-27 11:48:27,Morgan Stanley,Equal-Weight,Overweight,down
+2020-03-18 08:52:50,Nomura,Neutral,,init
+2020-03-19 09:43:45,Jefferies,Hold,Buy,down
+2020-03-26 12:46:40,B. Riley FBR,Buy,,main
+2020-04-07 12:54:54,Baird,Outperform,,main
+2020-04-22 12:56:46,Morgan Stanley,Equal-Weight,,main
+2020-05-14 11:16:54,B. Riley FBR,Buy,,main
+2020-05-14 11:30:51,Raymond James,Outperform,,main
+2020-05-14 11:55:11,Morgan Stanley,Equal-Weight,,main
+2020-05-14 11:55:13,Nomura Instinet,Neutral,,main
+2020-05-14 15:40:59,BMO Capital,Market Perform,,main
+2020-06-09 12:37:29,Nomura Instinet,Neutral,,main
+2020-08-13 10:36:17,Raymond James,Strong Buy,Outperform,up
+2020-08-13 12:42:46,Credit Suisse,Outperform,,main
+2020-08-14 13:00:16,Morgan Stanley,Equal-Weight,,main
+2020-09-03 14:49:19,Roth Capital,Buy,,init
+2020-09-17 09:16:17,MKM Partners,Buy,,init
+2020-09-30 10:16:43,Needham,Hold,,init
+2020-10-13 17:07:41,KeyBanc,Overweight,Sector Weight,up
+2020-11-12 13:40:13,Credit Suisse,Outperform,,main
+2020-11-13 13:13:19,Morgan Stanley,Equal-Weight,,main
+2020-12-11 09:45:24,KeyBanc,Overweight,,main
+2020-12-15 13:07:47,Piper Sandler,Overweight,,init
+2020-12-18 12:48:45,BTIG,Buy,,init
+2021-01-22 10:17:00,KeyBanc,Overweight,,main
+2021-02-17 12:56:18,Morgan Stanley,Equal-Weight,,main
+2021-02-22 13:58:11,Roth Capital,Buy,,main
+2021-02-25 10:07:07,KeyBanc,Overweight,,main
+2021-02-25 13:30:16,Raymond James,Strong Buy,,main
+2021-02-25 13:40:57,Credit Suisse,Outperform,,main
+2021-02-25 14:20:21,Morgan Stanley,Equal-Weight,,main
+2021-03-18 12:14:11,B of A Securities,Buy,Neutral,up
+2021-04-06 10:12:34,Keybanc,Overweight,,main
+2021-05-03 12:25:39,Morgan Stanley,Equal-Weight,,main
+2021-05-07 12:33:52,Raymond James,Strong Buy,,main
+2021-05-07 12:43:08,Morgan Stanley,Equal-Weight,,main
+2021-05-07 14:02:49,BTIG,Buy,,main
+2021-06-17 11:02:55,Keybanc,Overweight,,main
+2021-06-29 12:30:14,B. Riley Securities,Buy,,main
+2021-07-27 08:31:53,Keybanc,Overweight,,main
+2021-08-02 13:18:59,MKM Partners,Buy,,main
+2021-08-05 08:32:31,Keybanc,Sector Weight,Overweight,down
+2021-08-05 10:49:34,Raymond James,Outperform,Strong Buy,down
+2021-08-05 16:09:27,Roth Capital,Buy,,main
+2021-09-13 10:12:29,Jefferies,Buy,Hold,up
+2021-10-05 10:10:04,Wedbush,Outperform,,init
+2021-11-04 12:12:35,Raymond James,Outperform,,main
+2021-11-04 13:45:47,Credit Suisse,Outperform,,main
+2021-12-27 11:41:05,Morgan Stanley,Equal-Weight,,main

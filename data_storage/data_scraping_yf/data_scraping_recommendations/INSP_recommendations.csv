@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-16 07:00:00,Benchmark,Buy,,main
+2012-04-05 14:16:00,Albert Fried,Market Perform,,main
+2012-04-23 06:47:00,Benchmark,Buy,,main
+2012-05-11 13:01:00,Albert Fried,Market Perform,,main
+2018-05-29 12:48:06,Goldman Sachs,Neutral,,init
+2018-05-29 13:20:35,Wells Fargo,Outperform,,init
+2018-05-29 14:51:37,Stifel Nicolaus,Buy,,init
+2018-05-29 14:56:40,Guggenheim,Buy,,init
+2018-10-29 13:33:21,Leerink Swann,Outperform,,init
+2019-11-06 11:45:46,Berenberg,Hold,Sell,up
+2020-01-16 12:56:45,Wells Fargo,Overweight,,main
+2020-01-28 12:20:40,Oppenheimer,Underperform,,init
+2020-02-26 12:40:50,Wells Fargo,Overweight,,main
+2020-02-26 15:13:19,Stifel,Buy,,main
+2020-02-26 17:34:44,B of A Securities,Neutral,,main
+2020-04-09 11:37:15,Piper Sandler,Overweight,,init
+2020-04-15 14:10:53,Stifel,Buy,,main
+2020-04-28 11:49:26,B of A Securities,Buy,Neutral,up
+2020-05-06 14:45:10,Guggenheim,Buy,,main
+2020-05-26 14:16:32,Wells Fargo,Overweight,,main
+2020-06-18 13:22:44,Piper Sandler,Overweight,,main
+2020-06-29 13:00:03,SVB Leerink,Outperform,,main
+2020-08-05 12:57:10,SVB Leerink,Outperform,,main
+2020-08-06 18:25:05,Wells Fargo,Overweight,,main
+2020-09-02 10:06:43,Baird,Outperform,,init
+2020-09-09 08:56:23,SVB Leerink,Outperform,,main
+2020-09-18 09:29:13,Piper Sandler,Overweight,,main
+2020-09-22 10:41:20,JP Morgan,Overweight,,init
+2020-11-03 12:10:33,Oppenheimer,Perform,Underperform,up
+2020-11-03 13:25:55,SVB Leerink,Outperform,,main
+2021-02-24 11:11:09,SVB Leerink,Outperform,,main
+2021-02-24 14:33:15,Piper Sandler,Overweight,,main
+2021-07-14 12:49:50,Piper Sandler,Overweight,,main
+2021-07-20 10:09:23,Piper Sandler,Overweight,,main
+2021-08-04 08:55:38,SVB Leerink,Outperform,,main
+2021-08-04 12:40:17,Piper Sandler,Overweight,,main
+2021-09-24 08:48:05,SVB Leerink,Outperform,,main
+2021-11-03 09:28:12,SVB Leerink,Outperform,,main
+2021-11-03 11:31:23,Wells Fargo,Overweight,,main
+2021-11-03 14:25:39,Piper Sandler,Overweight,,main
+2022-02-09 09:45:32,SVB Leerink,Outperform,,main

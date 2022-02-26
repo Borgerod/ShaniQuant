@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,SPDR Select Sector Fund - Utili
+longName,Utilities Select Sector SPDR Fund
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,XLU
+messageBoardId,finmb_8795452
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,0.37
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,913766400
+annualReportExpenseRatio,
+totalAssets,12984747008
+bookValue,
+fundFamily,SPDR State Street Global Advisors
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.028800001
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.134
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Utilities
+fiveYearAverageReturn,0.1101
+phone,866-732-8673
+longBusinessSummary,"In seeking to track the performance of the index, the fund employs a replication strategy. It generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes securities of companies from the following industries: electric utilities; water utilities; multi-utilities; independent power and renewable electricity producers; and gas utilities. The fund is non-diversified."
+companyOfficers,[]
+previousClose,66.34
+regularMarketOpen,66.12
+twoHundredDayAverage,67.0003
+trailingAnnualDividendYield,0.029394032
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,66.77
+navPrice,70.65
+averageDailyVolume10Day,17453180
+regularMarketPreviousClose,66.34
+fiftyDayAverage,69.013
+trailingAnnualDividendRate,1.95
+open,66.12
+toCurrency,
+averageVolume10days,17453180
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,65.925
+currency,USD
+trailingPE,6.622
+regularMarketVolume,16843509
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,16850837
+dayLow,65.925
+ask,66.25
+askSize,1100
+volume,16843509
+fiftyTwoWeekHigh,71.83
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,58.27
+bid,65.99
+tradeable,False
+dividendYield,
+bidSize,800
+dayHigh,66.77
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 1}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'NEE', 'holdingName': 'NextEra Energy Inc', 'holdingPercent': 0.1718}, {'symbol': 'DUK', 'holdingName': 'Duke Energy Corp', 'holdingPercent': 0.084}, {'symbol': 'SO', 'holdingName': 'Southern Co', 'holdingPercent': 0.0726}, {'symbol': 'D', 'holdingName': 'Dominion Energy Inc', 'holdingPercent': 0.0655}, {'symbol': 'EXC', 'holdingName': 'Exelon Corp', 'holdingPercent': 0.05}, {'symbol': 'AEP', 'holdingName': 'American Electric Power Co Inc', 'holdingPercent': 0.0467}, {'symbol': 'SRE', 'holdingName': 'Sempra Energy', 'holdingPercent': 0.0435}, {'symbol': 'XEL', 'holdingName': 'Xcel Energy Inc', 'holdingPercent': 0.038599998}, {'symbol': 'AWK', 'holdingName': 'American Water Works Co Inc', 'holdingPercent': 0.0345}, {'symbol': 'PEG', 'holdingName': 'Public Service Enterprise Group Inc', 'holdingPercent': 0.0337}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 12.41, 'priceToSales': 2.88, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 25.95, 'priceToBook': 2.31, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9982
+regularMarketPrice,66.22
+preMarketPrice,
+logo_url,

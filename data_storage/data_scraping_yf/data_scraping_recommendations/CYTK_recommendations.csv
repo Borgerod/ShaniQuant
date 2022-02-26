@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action
+2012-11-27 06:40:00,Dawson James,Market Outperform,,init
+2013-01-04 07:14:29,PiperJaffray,Overweight,,init
+2013-07-17 09:14:19,Leerink Swann,Outperform,,init
+2014-03-05 08:00:00,Roth Capital,Buy,,main
+2014-04-25 08:00:00,MLV & Co.,Hold,Buy,down
+2014-05-19 20:58:12,Leerink Swann,Outperform,,main
+2014-11-04 18:16:21,MLV & Co.,Buy,Hold,up
+2015-02-13 06:13:53,PiperJaffray,Overweight,,up
+2015-07-15 09:06:52,Cowen & Co.,Outperform,,init
+2016-03-09 12:39:34,JMP Securities,Market Outperform,,main
+2016-07-27 12:02:35,Needham,Buy,,main
+2017-02-06 13:11:12,Needham,Strong Buy,Buy,up
+2017-03-08 12:01:19,Rodman & Renshaw,Buy,,init
+2017-10-06 19:40:00,Morgan Stanley,Overweight,,main
+2017-10-06 20:00:44,Seaport Global,Buy,,init
+2017-11-22 20:44:25,Cantor Fitzgerald,Neutral,Overweight,down
+2018-02-21 14:40:49,Morgan Stanley,Overweight,Overweight,main
+2018-08-01 11:20:01,Morgan Stanley,Equal-Weight,Overweight,down
+2018-09-21 12:44:30,Cantor Fitzgerald,Overweight,,init
+2018-10-05 18:05:54,H.C. Wainwright,Buy,Buy,main
+2019-09-06 11:52:59,Cantor Fitzgerald,Overweight,,reit
+2020-04-09 10:08:01,Morgan Stanley,Overweight,Equal-Weight,up
+2020-04-17 15:57:52,Cantor Fitzgerald,Overweight,,reit
+2020-05-05 10:22:47,Mizuho,Buy,,init
+2020-05-12 12:04:24,Morgan Stanley,Overweight,,main
+2020-07-07 11:54:33,Morgan Stanley,Overweight,,main
+2020-07-10 11:06:15,Raymond James,Strong Buy,,init
+2020-07-14 16:10:31,HC Wainwright & Co.,Buy,,main
+2020-07-23 10:14:45,HC Wainwright & Co.,Buy,,main
+2020-07-23 13:20:06,Piper Sandler,Overweight,,main
+2020-10-08 16:10:11,HC Wainwright & Co.,Buy,,main
+2020-10-12 12:01:04,Morgan Stanley,Overweight,,main
+2020-10-29 13:35:57,Goldman Sachs,Neutral,,init
+2020-11-16 13:11:08,Morgan Stanley,Overweight,,main
+2020-12-16 17:28:23,Morgan Stanley,Overweight,,main
+2021-01-20 11:32:02,HC Wainwright & Co.,Buy,,main
+2021-03-12 14:00:55,Wolfe Research,Outperform,,init
+2021-04-19 14:25:18,Morgan Stanley,Overweight,,main
+2021-07-19 15:35:26,Needham,Buy,,main
+2021-07-19 16:22:47,HC Wainwright & Co.,Buy,,main
+2021-07-20 10:18:29,Barclays,Overweight,,main
+2021-08-06 10:09:35,HC Wainwright & Co.,Buy,,main
+2021-10-07 09:07:16,Jefferies,Buy,,init
+2021-10-08 11:58:15,Morgan Stanley,Overweight,,main
+2021-11-04 10:25:12,HC Wainwright & Co.,Buy,,main
+2021-12-01 13:48:33,Mizuho,Buy,,main
+2021-12-10 10:28:08,JP Morgan,Overweight,,init
+2021-12-21 09:44:21,HC Wainwright & Co.,Buy,,main
+2021-12-22 09:55:43,Oppenheimer,Outperform,,init

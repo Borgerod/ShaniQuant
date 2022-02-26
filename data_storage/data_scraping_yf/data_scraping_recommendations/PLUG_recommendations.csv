@@ -1,0 +1,76 @@
+Date,Firm,To Grade,From Grade,Action
+2014-01-21 16:00:00,Cowen & Co.,Outperform,,init
+2014-03-14 07:38:56,Roth Capital,Neutral,Buy,down
+2014-03-14 07:40:59,Cowen & Co.,Market Perform,Outperform,down
+2014-05-15 07:37:07,Cowen & Co.,Outperform,Market Perform,up
+2015-04-09 07:39:44,Morgan Stanley,Equal-Weight,,init
+2015-04-17 09:12:07,Dougherty,Buy,,init
+2015-07-28 08:31:12,Craig-Hallum,Buy,,init
+2015-12-18 07:08:56,FBR Capital,Outperform,,init
+2016-03-14 09:00:11,Roth Capital,Neutral,,main
+2016-12-06 12:41:14,Rodman & Renshaw,Buy,,init
+2017-05-17 14:16:04,Roth Capital,Sell,Neutral,down
+2017-12-01 18:32:41,Canaccord Genuity,Buy,,init
+2018-08-23 14:14:01,Oppenheimer,Outperform,,init
+2019-01-30 11:30:32,Roth Capital,Neutral,Sell,up
+2019-11-11 13:02:41,Roth Capital,Buy,Neutral,up
+2019-11-25 14:03:53,B. Riley,Buy,,main
+2020-03-06 15:24:40,Canaccord Genuity,Buy,,main
+2020-03-10 13:46:20,H.C. Wainwright,Buy,,main
+2020-04-15 14:46:16,Morgan Stanley,Equal-Weight,,main
+2020-05-05 12:41:26,Morgan Stanley,Equal-Weight,,main
+2020-06-04 11:10:45,Barclays,Overweight,,init
+2020-06-17 13:52:22,Morgan Stanley,Equal-Weight,,main
+2020-06-24 10:21:59,HC Wainwright & Co.,Buy,,main
+2020-06-24 14:49:36,Canaccord Genuity,Buy,,main
+2020-06-30 12:05:20,Morgan Stanley,Equal-Weight,,main
+2020-07-07 11:13:02,Citic Securities,Overweight,,init
+2020-07-09 10:00:18,Barclays,Equal-Weight,Overweight,down
+2020-08-14 12:50:59,Morgan Stanley,Equal-Weight,,main
+2020-09-18 12:58:32,Morgan Stanley,Equal-Weight,,main
+2020-09-28 10:34:05,Morgan Stanley,Overweight,Equal-Weight,up
+2020-11-10 11:10:46,HC Wainwright & Co.,Buy,,main
+2020-11-10 16:06:47,Roth Capital,Buy,,main
+2020-11-12 15:09:58,Canaccord Genuity,Buy,,main
+2021-01-07 15:34:09,B. Riley FBR,Buy,,main
+2021-01-07 15:35:58,Cowen & Co.,Outperform,,main
+2021-01-07 15:38:38,HC Wainwright & Co.,Buy,,main
+2021-01-07 17:07:30,Canaccord Genuity,Buy,,main
+2021-01-12 12:34:10,Truist Securities,Buy,,init
+2021-01-13 11:06:18,HC Wainwright & Co.,Buy,,main
+2021-01-14 12:26:26,JP Morgan,Neutral,,init
+2021-01-27 11:08:57,Piper Sandler,Neutral,,init
+2021-02-03 10:48:09,Bernstein,Outperform,,init
+2021-03-01 10:50:45,JP Morgan,Overweight,Neutral,up
+2021-03-01 14:31:37,Roth Capital,Buy,,reit
+2021-03-02 17:59:54,Barclays,Underweight,Equal-Weight,down
+2021-03-17 11:30:22,Truist Securities,Hold,Buy,down
+2021-03-17 14:02:11,Craig-Hallum,Buy,,main
+2021-03-30 12:11:38,Northcoast Research,Neutral,,init
+2021-04-12 10:10:52,Morgan Stanley,Equal-Weight,Overweight,down
+2021-04-20 10:53:42,Wells Fargo,Equal-Weight,,init
+2021-04-20 11:00:33,Evercore ISI Group,Outperform,,init
+2021-05-17 11:24:32,Barclays,Underweight,,main
+2021-05-17 13:29:37,B. Riley Securities,Buy,,main
+2021-05-28 10:44:49,BTIG,Buy,,init
+2021-05-28 11:40:20,Morgan Stanley,Equal-Weight,,main
+2021-06-23 09:56:50,Canaccord Genuity,Hold,Buy,down
+2021-06-23 12:52:09,Barclays,Underweight,,main
+2021-06-30 09:16:00,RBC Capital,Outperform,,init
+2021-07-20 14:15:48,Morgan Stanley,Equal-Weight,,main
+2021-07-23 12:43:14,Citigroup,Buy,,init
+2021-07-26 14:07:13,Citigroup,Buy,,init
+2021-08-06 13:04:59,Roth Capital,Buy,,main
+2021-08-06 14:42:43,RBC Capital,Outperform,,main
+2021-09-01 09:10:22,Wolfe Research,Outperform,,init
+2021-09-23 09:24:09,Piper Sandler,Overweight,Neutral,up
+2021-10-01 09:13:06,BMO Capital,Market Perform,,init
+2021-10-08 10:13:47,Barclays,Equal-Weight,Underweight,up
+2021-10-13 10:10:31,Morgan Stanley,Overweight,Equal-Weight,up
+2021-10-15 11:32:30,RBC Capital,Outperform,,main
+2021-10-15 13:23:34,Morgan Stanley,Overweight,,main
+2021-11-10 13:57:50,RBC Capital,Outperform,,main
+2021-11-19 15:10:48,Morgan Stanley,Overweight,,main
+2022-01-05 09:47:34,Keybanc,Overweight,,init
+2022-01-24 15:27:36,Truist Securities,Hold,,main
+2022-01-26 12:10:54,Susquehanna,Positive,,init

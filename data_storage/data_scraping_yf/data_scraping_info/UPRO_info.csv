@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,ProShares UltraPro S&P 500
+longName,ProShares UltraPro S&P500
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,UPRO
+messageBoardId,finmb_60517213
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,3.16
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1245715200
+annualReportExpenseRatio,
+totalAssets,3764610304
+bookValue,
+fundFamily,ProShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0005
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.5868
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Trading--Leveraged Equity
+fiveYearAverageReturn,0.38549998
+phone,866-776-5125
+longBusinessSummary,"The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the fund's investment objective. The index is a measure of large-cap U.S. stock market performance. The fund is non-diversified."
+companyOfficers,[]
+previousClose,58.36
+regularMarketOpen,58.45
+twoHundredDayAverage,63.167076
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,58.95
+navPrice,155.04
+averageDailyVolume10Day,8550340
+regularMarketPreviousClose,58.36
+fiftyDayAverage,67.9773
+trailingAnnualDividendRate,
+open,58.45
+toCurrency,
+averageVolume10days,8550340
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,56.21
+currency,USD
+regularMarketVolume,7960812
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,12357114
+dayLow,56.21
+ask,56.63
+askSize,800
+volume,7960812
+fiftyTwoWeekHigh,78.715
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,37.105
+bid,56.4
+tradeable,False
+dividendYield,
+bidSize,1800
+dayHigh,58.95
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': '', 'holdingName': 'S&P 500 Index Swap Bank Of America Na', 'holdingPercent': 0.5862}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Societe Generale', 'holdingPercent': 0.44009998}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Citibank Na', 'holdingPercent': 0.32439998}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Goldman Sachs International', 'holdingPercent': 0.2258}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Morgan Stanley & Co. International Plc', 'holdingPercent': 0.2244}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Jp Morgan Securities', 'holdingPercent': 0.1894}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Ubs Ag', 'holdingPercent': 0.17979999}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Credit Suisse International', 'holdingPercent': 0.0729}, {'symbol': '', 'holdingName': 'S&P 500 Index Swap Bnp Paribas', 'holdingPercent': 0.0714}, {'symbol': 'ESU21', 'holdingName': 'E-mini S&P 500 Future Sept 21', 'holdingPercent': 0.0548}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 2.95, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.8904
+regularMarketPrice,57.19
+preMarketPrice,
+logo_url,

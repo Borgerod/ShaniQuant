@@ -1,0 +1,18 @@
+Date,Firm,To Grade,From Grade,Action
+2021-06-02 10:26:10,Oppenheimer,Outperform,,init
+2021-06-16 10:24:46,Rosenblatt,Buy,,init
+2021-09-09 09:44:53,Credit Suisse,Neutral,,init
+2021-09-15 09:08:16,Mizuho,Buy,,init
+2021-09-22 09:16:51,Jefferies,Buy,,init
+2021-10-11 10:06:17,Morgan Stanley,Overweight,,init
+2021-11-17 12:49:46,Credit Suisse,Neutral,,main
+2021-11-30 09:57:42,"Keefe, Bruyette & Woods",Market Perform,,init
+2021-12-20 12:23:02,Citigroup,Buy,,init
+2021-12-23 11:58:59,Rosenblatt,Buy,,main
+2021-12-27 13:37:47,Morgan Stanley,Overweight,,main
+2022-01-14 15:49:29,Morgan Stanley,Overweight,,main
+2022-01-19 10:33:48,Wedbush,Outperform,,init
+2022-01-19 14:49:39,Rosenblatt,Buy,,main
+2022-01-20 17:21:01,Goldman Sachs,Neutral,,init
+2022-02-09 11:53:13,Oppenheimer,Outperform,,main
+2022-02-11 12:01:36,B of A Securities,Buy,,init

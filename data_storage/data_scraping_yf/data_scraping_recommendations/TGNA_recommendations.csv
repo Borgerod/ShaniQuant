@@ -1,0 +1,33 @@
+Date,Firm,To Grade,From Grade,Action
+2015-07-17 08:36:17,Evercore ISI Group,Hold,Buy,down
+2015-08-04 07:24:24,Jefferies,Hold,Buy,down
+2015-08-14 11:00:00,Barclays,Equal-Weight,,main
+2015-08-18 07:42:49,Wells Fargo,Market Perform,Outperform,down
+2015-08-20 12:34:22,Wells Fargo,Market Perform,Outperform,down
+2015-11-18 07:17:02,Stephens & Co.,Overweight,,init
+2016-04-01 06:01:53,Barclays,Underweight,Equal-Weight,down
+2016-06-10 07:44:40,Evercore ISI Group,Hold,Buy,down
+2016-07-27 13:00:51,Jefferies,Hold,,main
+2016-08-19 07:38:35,Benchmark,Buy,,init
+2016-11-01 10:24:58,FBR Capital,Outperform,Market Perform,up
+2016-11-03 13:00:09,Stephens & Co.,Equal-Weight,Overweight,down
+2016-11-23 12:02:08,JP Morgan,Neutral,Overweight,down
+2017-09-26 18:21:49,RBC Capital,Sector Perform,,init
+2017-10-18 12:43:36,Guggenheim,Buy,,init
+2018-01-04 14:56:33,Wells Fargo,Outperform,Market Perform,up
+2018-03-05 17:19:43,Barclays,Underweight,Underweight,main
+2018-04-23 16:36:32,Barclays,Underweight,Underweight,main
+2018-04-25 11:27:20,Stephens & Co.,Overweight,Equal-Weight,up
+2018-05-05 13:32:15,Argus,Buy,,main
+2018-05-05 14:00:39,B. Riley FBR,Neutral,Neutral,main
+2018-05-09 13:46:43,B. Riley FBR,Neutral,Neutral,main
+2018-05-30 12:22:22,Argus,Buy,Buy,main
+2018-07-31 11:25:54,Evercore ISI Group,In-Line,,init
+2018-12-18 14:05:02,B. Riley FBR,Neutral,Neutral,main
+2019-08-21 11:13:04,Cannonball Research,Neutral,,init
+2019-09-24 11:43:28,Wells Fargo,Market Perform,,init
+2020-02-11 18:30:08,CFRA,Buy,,main
+2020-04-16 12:41:00,Wells Fargo,Equal-Weight,,main
+2020-05-08 12:10:41,Benchmark,Buy,,main
+2020-05-11 15:12:23,Wells Fargo,Equal-Weight,,main
+2021-09-22 15:51:55,Barrington Research,Market Perform,Outperform,down

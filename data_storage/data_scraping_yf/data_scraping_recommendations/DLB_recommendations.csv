@@ -1,0 +1,43 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-04 09:55:00,Dougherty,Buy,,main
+2012-05-08 09:13:00,Canaccord Genuity,Hold,,main
+2012-05-10 06:03:00,JP Morgan,Neutral,,down
+2012-06-28 05:50:00,Goldman Sachs,Sell,,init
+2012-07-18 05:52:00,JP Morgan,Underweight,Neutral,down
+2012-08-17 10:39:00,Barrington Research,Outperform,,main
+2012-09-27 11:08:00,PiperJaffray,Neutral,,main
+2012-11-05 10:44:00,JMP Securities,Market Underperform,Market Perform,down
+2012-11-13 14:44:00,Barrington Research,Market Perform,Outperform,down
+2012-12-19 07:56:52,Goldman Sachs,Sell,,main
+2013-04-16 10:48:28,Tigress Financial,Strong Buy,,init
+2013-06-11 10:37:31,Avondale Partners,Market Perform,Market Outperform,down
+2013-07-26 08:42:10,Dougherty,Neutral,Buy,down
+2014-01-23 16:00:00,S&P Capital IQ,Sell,Hold,down
+2014-04-30 01:03:16,JP Morgan,Underweight,,main
+2014-07-25 01:28:00,JP Morgan,Underweight,,main
+2014-10-13 09:00:00,JP Morgan,Neutral,,main
+2015-04-22 06:24:07,JP Morgan,Overweight,Neutral,up
+2016-01-28 02:47:10,JP Morgan,Overweight,,main
+2016-01-28 06:25:06,Dougherty,Buy,Neutral,up
+2016-04-08 03:50:06,JP Morgan,Neutral,Overweight,down
+2016-10-27 12:26:54,Barrington Research,Outperform,Market Perform,up
+2018-01-25 14:43:05,JP Morgan,Neutral,Neutral,main
+2018-05-05 14:00:37,B. Riley FBR,Neutral,,main
+2018-05-05 14:00:37,B. Riley FBR,Neutral,,init
+2018-05-05 14:00:38,B. Riley FBR,Buy,Neutral,up
+2018-05-05 14:00:39,B. Riley FBR,Buy,,main
+2018-05-05 14:00:39,B. Riley FBR,Neutral,Buy,down
+2018-10-22 16:57:23,RF Lafferty,Buy,Buy,main
+2018-10-25 16:07:53,B. Riley FBR,Neutral,Neutral,main
+2019-08-02 16:13:36,B. Riley FBR,Neutral,,main
+2020-01-10 12:27:03,B. Riley FBR,Neutral,Buy,down
+2020-03-13 09:36:06,JP Morgan,Overweight,Neutral,up
+2020-03-18 11:03:45,B. Riley FBR,Neutral,,main
+2020-03-24 09:06:07,B. Riley,Buy,Neutral,up
+2020-03-24 11:33:02,B. Riley FBR,Buy,Neutral,up
+2020-04-15 14:43:52,B. Riley FBR,Buy,,main
+2020-05-05 11:46:07,B. Riley FBR,Buy,,main
+2020-05-05 13:48:15,JP Morgan,Overweight,,main
+2020-06-24 09:51:10,B. Riley FBR,Neutral,Buy,down
+2021-01-29 16:59:50,B. Riley FBR,Neutral,,main
+2021-08-02 13:07:14,Barrington Research,Outperform,Market Perform,up

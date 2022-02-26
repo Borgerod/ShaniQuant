@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,SPDR Gold Trust
+longName,SPDR Gold Shares
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,GLD
+messageBoardId,finmb_5600649
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,0.09
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1100736000
+annualReportExpenseRatio,
+totalAssets,57074810880
+bookValue,
+fundFamily,SPDR State Street Global Advisors
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.1108
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,
+fiveYearAverageReturn,0.0837
+phone,866-320-4053
+longBusinessSummary,"The Trust holds gold bars and from time to time, issues Baskets in exchange for deposits of gold and distributes gold in connection with redemptions of Baskets. The investment objective of the Trust is for the Shares to reflect the performance of the price of gold bullion, less the Trustâs expenses. The Sponsor believes that, for many investors, the Shares represent a cost-effective investment in gold."
+companyOfficers,[]
+previousClose,177.25
+regularMarketOpen,177.07
+twoHundredDayAverage,169.1372
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,177.25
+navPrice,169.2
+averageDailyVolume10Day,12842030
+regularMarketPreviousClose,177.25
+fiftyDayAverage,169.7232
+trailingAnnualDividendRate,
+open,177.07
+toCurrency,
+averageVolume10days,12842030
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,176.51
+currency,USD
+trailingPE,29.798117
+regularMarketVolume,12650751
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,9456409
+dayLow,176.51
+ask,177.66
+askSize,2900
+volume,12650751
+fiftyTwoWeekHigh,178.85
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,157.13
+bid,177.6
+tradeable,False
+dividendYield,
+bidSize,1000
+dayHigh,177.25
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': '', 'holdingName': 'Gold Trust', 'holdingPercent': 1}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0
+regularMarketPrice,177.12
+preMarketPrice,
+logo_url,

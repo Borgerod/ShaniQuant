@@ -1,0 +1,20 @@
+Date,Firm,To Grade,From Grade,Action
+2020-12-10 12:24:09,Wolfe Research,Underperform,,init
+2020-12-11 11:24:58,Goldman Sachs,Buy,,init
+2020-12-22 16:09:47,R.F. Lafferty & Co. Inc,Buy,,init
+2021-01-29 12:42:25,Wolfe Research,Peer Perform,Underperform,up
+2021-02-12 11:37:49,Morgan Stanley,Underweight,,init
+2021-03-19 14:03:04,Morgan Stanley,Underweight,,main
+2021-04-20 11:43:27,B of A Securities,Neutral,,init
+2021-04-22 10:35:45,Goldman Sachs,Neutral,Buy,down
+2021-05-20 13:11:58,Wolfe Research,Underperform,Peer Perform,down
+2021-05-25 11:52:42,Morgan Stanley,Underweight,,main
+2021-05-25 16:05:24,RF Lafferty,Hold,Buy,down
+2021-05-28 11:52:59,Deutsche Bank,Hold,,init
+2021-06-09 10:48:42,RBC Capital,Underperform,,init
+2021-06-14 15:36:17,RF Lafferty,Sell,Hold,down
+2021-09-16 11:00:12,B of A Securities,Underperform,Neutral,down
+2021-09-27 08:52:11,Goldman Sachs,Sell,Neutral,down
+2021-10-04 11:08:23,RBC Capital,Underperform,,main
+2021-10-05 09:45:00,Morgan Stanley,Underweight,Equal-Weight,down
+2021-11-12 10:03:06,BTIG,Neutral,Buy,down

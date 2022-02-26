@@ -1,0 +1,48 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-31 09:08:00,Hilliard Lyons,Buy,,up
+2012-07-19 08:01:00,Hilliard Lyons,Neutral,Buy,down
+2012-08-10 08:22:00,Deutsche Bank,Hold,Buy,down
+2012-12-11 11:56:23,Hilliard Lyons,Long-Term Buy,Neutral,up
+2013-04-03 06:35:53,Goldman Sachs,Neutral,,init
+2013-11-27 07:39:10,FBR Capital,Outperform,,init
+2014-07-15 06:18:35,Hilliard Lyons,Buy,Neutral,up
+2014-12-23 00:00:00,Credit Suisse,Outperform,,init
+2015-02-02 04:36:55,Goldman Sachs,Buy,Neutral,up
+2015-05-15 16:23:32,Wedbush,Outperform,,init
+2015-09-16 06:24:46,Janney Capital,Buy,,init
+2015-12-09 08:38:03,Macquarie,Neutral,,init
+2016-01-25 07:07:41,Goldman Sachs,Buy,,main
+2016-02-18 11:37:01,Credit Suisse,Outperform,,main
+2016-04-19 10:07:35,Stephens & Co.,Equal-Weight,,init
+2016-07-08 10:40:32,Macquarie,Outperform,,up
+2017-04-06 13:33:41,Goldman Sachs,Buy,,init
+2017-04-13 12:21:09,SunTrust Robinson Humphrey,Hold,,init
+2017-04-21 16:48:01,Stifel Nicolaus,Buy,,init
+2018-07-19 14:19:08,B. Riley FBR,Buy,Buy,main
+2018-08-02 11:11:34,KeyBanc,Overweight,Overweight,main
+2018-08-02 11:40:39,Stifel Nicolaus,Buy,Buy,main
+2018-08-02 13:09:44,Wedbush,Outperform,Outperform,main
+2018-08-02 13:18:44,B. Riley FBR,Buy,Buy,main
+2019-02-15 14:27:30,Macquarie,Outperform,Neutral,up
+2019-08-19 10:07:30,KeyBanc,Overweight,,main
+2019-08-22 10:59:53,SunTrust Robinson Humphrey,Buy,Hold,up
+2019-12-02 11:31:24,B. Riley,Neutral,Buy,down
+2020-02-20 12:06:03,B. Riley FBR,Neutral,,main
+2020-03-10 10:59:41,B. Riley FBR,Neutral,,main
+2020-03-23 11:02:49,B. Riley FBR,Neutral,,main
+2020-04-20 10:20:07,KeyBanc,Overweight,,main
+2020-05-07 14:56:14,B. Riley FBR,Neutral,,main
+2020-06-11 12:10:42,Stifel,Buy,,main
+2020-06-15 10:18:07,B. Riley FBR,Buy,Neutral,up
+2020-07-09 11:43:38,Janney Capital,Neutral,Buy,down
+2020-08-06 12:18:48,Wedbush,Outperform,,main
+2020-08-06 13:49:02,Stifel,Buy,,main
+2021-02-18 09:57:58,KeyBanc,Overweight,,main
+2021-02-19 13:42:26,Credit Suisse,Outperform,,main
+2021-05-06 10:08:04,Keybanc,Overweight,,main
+2021-08-05 13:01:37,Credit Suisse,Outperform,,main
+2021-11-08 08:27:58,Keybanc,Overweight,,main
+2021-11-17 11:48:49,Deutsche Bank,Buy,,init
+2022-02-17 09:29:20,Keybanc,Overweight,,main
+2022-02-17 11:55:25,Stifel,Buy,,main
+2022-02-17 13:11:10,Credit Suisse,Outperform,,main

@@ -1,0 +1,83 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-01 06:04:00,Morgan Stanley,Equal-Weight,,up
+2012-08-06 12:04:00,Barrington Research,Outperform,,main
+2012-09-13 06:27:00,Benchmark,Buy,,init
+2013-01-25 15:57:11,Barrington Research,Market Perform,Outperform,down
+2013-04-25 15:09:29,Barrington Research,Outperform,Market Perform,up
+2013-05-02 08:39:51,Craig-Hallum,Buy,Hold,up
+2013-05-31 06:24:58,Goldman Sachs,Neutral,,init
+2013-06-05 07:47:20,William Blair,Outperform,,init
+2013-06-06 08:21:49,JMP Securities,Market Outperform,,init
+2013-06-10 16:40:41,Janney Capital,Buy,,init
+2013-07-26 10:03:45,Alere Financial,Buy,,init
+2013-07-30 09:57:21,Craig-Hallum,Hold,Buy,down
+2013-11-26 06:29:20,Jefferies,Buy,,init
+2013-12-17 07:17:21,Goldman Sachs,Sell,Neutral,down
+2013-12-31 16:00:00,Benchmark,Hold,Buy,down
+2014-01-30 07:00:47,Barrington Research,Outperform,,main
+2014-03-24 13:10:53,William Blair,Market Perform,Outperform,down
+2014-03-24 14:07:18,JMP Securities,Market Perform,Outperform,down
+2014-04-29 22:34:04,Jefferies,Buy,,main
+2014-05-21 23:24:34,Jefferies,Buy,,main
+2015-01-05 09:00:00,Jefferies,Buy,,main
+2015-04-28 09:00:00,Jefferies,Buy,,main
+2015-04-28 11:50:58,Barrington Research,Market Perform,Outperform,down
+2015-07-28 11:00:00,Jefferies,Buy,,main
+2015-11-23 07:23:45,Raymond James,Underperform,Market Perform,down
+2015-12-14 10:33:04,BTIG Research,Neutral,,init
+2016-02-02 11:32:22,Jefferies,Buy,,main
+2016-05-16 06:16:02,Goldman Sachs,Neutral,Sell,up
+2016-08-02 08:21:11,Jefferies,Buy,,main
+2016-08-03 08:22:12,Barrington Research,Market Perform,Outperform,down
+2016-08-15 09:16:26,Sidoti & Co.,Neutral,Buy,down
+2016-11-08 14:32:56,Barrington Research,Outperform,Market Perform,up
+2017-02-07 15:03:28,Barrington Research,Market Perform,Outperform,down
+2017-07-13 11:30:58,JMP Securities,Market Outperform,Market Perform,up
+2017-08-08 12:18:55,Barrington Research,Outperform,Market Perform,up
+2017-10-06 19:45:26,Morgan Stanley,Equal-Weight,,main
+2017-11-09 12:57:51,Morgan Stanley,Equal-Weight,,main
+2018-01-02 12:20:35,Morgan Stanley,Overweight,Equal-Weight,up
+2018-01-02 15:14:25,Raymond James,Market Perform,Underperform,up
+2018-02-07 14:23:20,Morgan Stanley,Overweight,Overweight,main
+2018-05-09 11:33:44,Morgan Stanley,Overweight,Overweight,main
+2018-06-14 12:43:18,Jefferies,Buy,Buy,main
+2018-08-08 13:55:35,Morgan Stanley,Overweight,Overweight,main
+2019-05-14 10:31:31,Raymond James,Outperform,Market Perform,up
+2019-08-07 11:44:08,Raymond James,Outperform,,main
+2019-08-07 12:28:06,Morgan Stanley,Overweight,,main
+2020-01-10 12:38:23,Needham,Buy,,init
+2020-01-23 12:50:06,Raymond James,Outperform,,main
+2020-02-05 12:20:29,Raymond James,Outperform,,main
+2020-03-27 19:07:12,Morgan Stanley,Overweight,,main
+2020-04-07 11:39:06,Raymond James,Outperform,,main
+2020-05-05 17:16:16,Needham,Buy,,main
+2020-05-06 11:28:47,Raymond James,Outperform,,main
+2020-07-01 11:24:03,Raymond James,Outperform,,main
+2020-07-08 12:09:12,Morgan Stanley,Overweight,,main
+2020-08-05 11:28:23,Raymond James,Outperform,,main
+2020-09-08 11:26:18,Raymond James,Outperform,,main
+2020-11-02 13:21:09,Raymond James,Outperform,,main
+2020-11-05 10:46:07,Barrington Research,Outperform,Market Perform,up
+2020-12-15 17:08:53,Morgan Stanley,Overweight,,main
+2021-01-07 14:44:23,Raymond James,Outperform,,main
+2021-01-20 16:04:36,Needham,Buy,,main
+2021-01-21 15:41:16,Barrington Research,Market Perform,Outperform,down
+2021-02-03 13:12:14,Raymond James,Outperform,,main
+2021-02-03 14:10:27,Morgan Stanley,Overweight,,main
+2021-02-03 15:31:33,Barrington Research,Outperform,Market Perform,up
+2021-02-12 12:34:18,Raymond James,Outperform,,main
+2021-04-19 16:25:19,Needham,Buy,,main
+2021-04-20 14:37:43,Barrington Research,Outperform,,main
+2021-04-20 14:44:32,Needham,Buy,,main
+2021-04-20 15:58:38,Morgan Stanley,Equal-Weight,Overweight,down
+2021-05-14 11:38:11,Morgan Stanley,Equal-Weight,,main
+2021-05-14 12:57:15,Jefferies,Buy,,main
+2021-05-14 13:02:21,JMP Securities,Market Outperform,,main
+2021-05-14 15:54:19,CJS Securities,Outperform,Market Perform,up
+2021-06-17 10:17:49,Citigroup,Buy,,init
+2021-11-10 10:05:51,Raymond James,Outperform,,main
+2021-11-10 12:43:00,JMP Securities,Market Outperform,,main
+2021-12-15 12:04:52,Citigroup,Neutral,Buy,down
+2022-01-07 14:05:09,Morgan Stanley,Equal-Weight,,main
+2022-01-27 10:54:50,Needham,Hold,Buy,down
+2022-02-09 09:47:52,Raymond James,Outperform,,main

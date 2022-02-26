@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,United States Oil Fund
+longName,"United States Oil Fund, LP"
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,USO
+messageBoardId,finmb_22357130
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,2.77
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1144627200
+annualReportExpenseRatio,
+totalAssets,2374159872
+bookValue,
+fundFamily,USCF Investments
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.1161
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,
+fiveYearAverageReturn,-0.0967
+phone,510-522-9600
+longBusinessSummary,"USO invests primarily in futures contracts for light, sweet crude oil, other types of crude oil, diesel-heating oil, gasoline, natural gas, and other petroleum-based fuels."
+companyOfficers,[]
+previousClose,64.17
+regularMarketOpen,63.14
+twoHundredDayAverage,52.36765
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,65
+navPrice,55.62
+averageDailyVolume10Day,7034070
+regularMarketPreviousClose,64.17
+fiftyDayAverage,58.4526
+trailingAnnualDividendRate,
+open,63.14
+toCurrency,
+averageVolume10days,7034070
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,62.92
+currency,USD
+trailingPE,19.588501
+regularMarketVolume,8438411
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,6598567
+dayLow,62.92
+ask,65.45
+askSize,1300
+volume,8438411
+fiftyTwoWeekHigh,66.88
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,39.27
+bid,65.16
+tradeable,False
+dividendYield,
+bidSize,1800
+dayHigh,65
+preferredPosition,
+bondPosition,0.085200004
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': '', 'holdingName': 'Future Contract On Wti Crude Future May20', 'holdingPercent': 0.7279}, {'symbol': 'FRGXX', 'holdingName': 'FidelityÂ® Inv MM Fds Government Instl', 'holdingPercent': 0.2156}, {'symbol': 'FGTXX', 'holdingName': 'Goldman Sachs FS Government Instl', 'holdingPercent': 0.155}, {'symbol': 'MVRXX', 'holdingName': 'Morgan Stanley Instl Lqudty Govt Instl', 'holdingPercent': 0.0178}, {'symbol': '', 'holdingName': 'United States Treasury Bills', 'holdingPercent': 0.016}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0
+regularMarketPrice,64.74
+preMarketPrice,
+logo_url,

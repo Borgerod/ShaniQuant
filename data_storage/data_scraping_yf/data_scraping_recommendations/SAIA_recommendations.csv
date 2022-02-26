@@ -1,0 +1,100 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-21 06:43:00,Morgan Stanley,Equal-Weight,,init
+2012-10-05 07:19:00,Wunderlich,Hold,,init
+2012-11-02 06:36:00,Wunderlich,Hold,,main
+2013-03-01 08:49:39,Stifel Nicolaus,Hold,Buy,down
+2013-03-05 15:13:20,Sidoti & Co.,Neutral,Buy,down
+2013-03-13 08:10:24,Cowen & Co.,Buy,,main
+2013-04-29 06:44:47,Wunderlich,Hold,,main
+2013-04-30 08:12:57,BB&T Capital,Buy,Hold,up
+2013-10-31 07:00:18,Wunderlich,Hold,,main
+2013-10-31 07:37:11,Raymond James,Outperform,Strong Buy,down
+2014-02-19 06:29:16,Wunderlich,Buy,Hold,up
+2014-04-28 06:22:31,Wunderlich,Buy,,main
+2014-10-29 11:09:20,Cowen & Co.,Market Perform,Outperform,down
+2015-01-20 10:10:01,Wolfe Research,Peer Perform,Outperform,down
+2015-01-21 06:42:34,BB&T Capital,Hold,Buy,down
+2015-03-26 06:16:56,Stifel Nicolaus,Buy,Hold,up
+2016-01-06 07:26:29,Stifel Nicolaus,Buy,,main
+2016-01-07 08:02:41,Stephens & Co.,Equal-Weight,Overweight,down
+2016-03-03 05:59:37,KeyBanc,Sector Weight,,init
+2016-08-04 04:22:42,Stifel Nicolaus,Hold,Buy,down
+2016-12-16 11:03:49,KeyBanc,Overweight,Sector Weight,up
+2017-01-17 15:43:35,Raymond James,Outperform,Strong Buy,down
+2017-07-11 10:37:21,Morgan Stanley,Equal-Weight,,main
+2017-10-05 18:22:14,Morgan Stanley,Equal-Weight,,main
+2018-02-21 14:46:13,Morgan Stanley,Underweight,Equal-Weight,main
+2018-03-26 12:01:16,Buckingham,Buy,,init
+2018-04-06 11:38:02,Morgan Stanley,Underweight,Underweight,main
+2018-05-01 11:07:20,Stifel Nicolaus,Buy,Hold,up
+2018-09-04 13:14:12,Deutsche Bank,Hold,,init
+2018-10-09 13:26:10,Morgan Stanley,Underweight,Underweight,main
+2018-10-12 12:43:30,Buckingham,Buy,Buy,main
+2018-11-01 13:05:34,Raymond James,Outperform,Outperform,main
+2018-12-13 14:43:34,SunTrust Robinson Humphrey,Buy,,init
+2019-01-03 11:21:57,KeyBanc,Overweight,Overweight,main
+2019-02-07 12:06:00,Deutsche Bank,Buy,Hold,up
+2019-08-01 10:29:04,KeyBanc,Overweight,,main
+2019-08-01 10:46:58,Stephens & Co.,Overweight,Equal-Weight,up
+2019-08-01 12:48:23,Stifel Nicolaus,Hold,,main
+2019-08-01 13:56:37,Buckingham Research,Buy,,main
+2019-09-05 09:59:48,KeyBanc,Overweight,,main
+2019-10-07 13:10:00,Morgan Stanley,Underweight,,main
+2019-11-07 14:01:34,Morgan Stanley,Underweight,,main
+2020-01-06 14:19:28,Morgan Stanley,Underweight,,main
+2020-02-04 11:43:12,Stephens & Co.,Equal-Weight,Overweight,down
+2020-02-04 13:56:06,Deutsche Bank,Buy,,main
+2020-02-20 09:50:02,KeyBanc,Overweight,,main
+2020-03-04 09:57:45,KeyBanc,Overweight,,main
+2020-03-05 13:52:26,Stifel Nicolaus,Buy,,main
+2020-03-12 13:23:44,Deutsche Bank,Buy,,main
+2020-03-24 14:51:54,Morgan Stanley,Underweight,,main
+2020-04-07 08:57:23,KeyBanc,Sector Weight,Overweight,down
+2020-04-17 16:02:15,Raymond James,Outperform,,main
+2020-04-30 12:31:03,Raymond James,Outperform,,reit
+2020-04-30 16:26:06,SunTrust Robinson Humphrey,Buy,,main
+2020-06-16 11:57:55,Raymond James,Outperform,,main
+2020-06-17 12:08:08,Deutsche Bank,Buy,,main
+2020-07-28 10:24:59,B of A Securities,Neutral,,init
+2020-07-30 13:41:25,Deutsche Bank,Buy,,main
+2020-07-30 14:07:24,Raymond James,Outperform,,main
+2020-08-03 13:58:06,Morgan Stanley,Underweight,,main
+2020-08-27 10:43:39,Goldman Sachs,Neutral,,init
+2020-09-24 10:16:41,Wells Fargo,Equal-Weight,,init
+2020-10-05 14:49:14,Morgan Stanley,Underweight,,main
+2020-10-15 14:56:03,B of A Securities,Neutral,,main
+2020-10-30 12:05:04,Raymond James,Outperform,,main
+2020-11-11 13:20:58,Morgan Stanley,Underweight,,main
+2020-12-04 13:40:04,Evercore ISI Group,Outperform,,init
+2021-01-19 16:52:25,UBS,Neutral,,init
+2021-02-09 12:14:24,Raymond James,Outperform,,main
+2021-02-09 17:08:25,Truist Securities,Buy,,main
+2021-02-09 17:16:20,Wells Fargo,Equal-Weight,,main
+2021-02-17 13:00:47,Morgan Stanley,Underweight,,main
+2021-03-04 12:29:24,B of A Securities,Underperform,Neutral,down
+2021-04-06 13:15:46,Morgan Stanley,Underweight,,main
+2021-04-07 11:27:14,Stephens & Co.,Overweight,Equal-Weight,up
+2021-04-15 12:23:06,Raymond James,Outperform,,main
+2021-04-15 12:55:22,Truist Securities,Buy,,main
+2021-04-29 11:29:34,Raymond James,Outperform,,main
+2021-05-27 13:55:43,Morgan Stanley,Underweight,,main
+2021-06-18 11:29:40,Wells Fargo,Overweight,Equal-Weight,up
+2021-06-29 11:56:19,Truist Securities,Buy,,main
+2021-07-08 13:12:17,Morgan Stanley,Underweight,,main
+2021-07-30 12:12:47,Wells Fargo,Overweight,,main
+2021-08-02 14:08:47,B of A Securities,Neutral,Underperform,up
+2021-08-12 12:05:15,Morgan Stanley,Underweight,,main
+2021-09-29 12:01:01,Raymond James,Outperform,,main
+2021-10-04 12:09:18,Morgan Stanley,Underweight,,main
+2021-10-14 12:43:08,Wells Fargo,Overweight,,main
+2021-10-19 14:20:33,B of A Securities,Neutral,,main
+2021-10-29 11:54:25,Wells Fargo,Overweight,,main
+2021-10-29 14:32:26,Raymond James,Outperform,,main
+2021-10-29 14:51:45,B of A Securities,Buy,Neutral,up
+2021-11-09 15:02:24,Morgan Stanley,Underweight,,main
+2021-11-19 13:16:10,Benchmark,Buy,,init
+2021-11-29 12:30:06,Deutsche Bank,Hold,Buy,down
+2021-12-09 12:27:13,Susquehanna,Positive,,init
+2021-12-30 12:34:09,Raymond James,Market Outperform,,main
+2022-01-24 12:08:54,Deutsche Bank,Buy,Hold,up
+2022-02-03 15:19:28,Wells Fargo,Overweight,,main

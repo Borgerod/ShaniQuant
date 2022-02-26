@@ -1,0 +1,88 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-07 12:35:00,UBS,Buy,,init
+2012-05-03 06:30:00,Credit Suisse,Outperform,,up
+2013-08-02 09:07:48,UBS,Buy,,main
+2013-09-19 07:28:42,Credit Suisse,Outperform,,main
+2013-12-12 16:00:00,Janney Capital,Buy,,init
+2014-02-21 07:44:55,Macquarie,Neutral,,main
+2014-03-25 08:00:00,UBS,Neutral,Buy,down
+2014-08-01 01:38:54,UBS,Neutral,,main
+2014-08-01 02:31:04,Keefe Bruyette & Woods,Market Perform,,main
+2014-09-19 09:00:00,Macquarie,Neutral,,main
+2015-01-14 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-03-26 05:04:46,Keefe Bruyette & Woods,Underperform,Market Perform,down
+2015-03-27 06:32:14,Keefe Bruyette & Woods,Underperform,Market Perform,down
+2015-07-31 14:34:29,Keefe Bruyette & Woods,Underperform,,main
+2015-11-02 03:46:24,Keefe Bruyette & Woods,Market Perform,Underperform,up
+2015-11-02 06:26:10,UBS,Buy,Neutral,up
+2015-11-10 05:46:12,Cantor Fitzgerald,Buy,,init
+2016-02-05 13:33:18,Macquarie,Neutral,,main
+2016-07-11 18:30:08,Credit Suisse,Outperform,,init
+2016-07-29 11:16:19,UBS,Buy,,main
+2016-08-01 04:44:04,Morgan Stanley,Equal-Weight,,main
+2016-10-11 12:29:04,Evercore ISI Group,Sell,Hold,down
+2017-07-18 12:09:40,Barclays,Equal-Weight,,init
+2017-08-07 17:35:02,Morgan Stanley,Equal-Weight,,main
+2017-10-23 19:46:09,Morgan Stanley,Equal-Weight,,main
+2017-11-03 15:47:13,Credit Suisse,Outperform,,main
+2017-11-03 17:53:37,Morgan Stanley,Equal-Weight,,main
+2017-11-03 18:40:48,UBS,Buy,,main
+2018-01-31 14:05:04,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-02-02 14:28:43,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-03-02 13:29:54,UBS,Buy,Buy,main
+2018-05-04 14:41:43,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-06-25 12:20:41,Wells Fargo,Outperform,Outperform,main
+2018-07-18 12:38:15,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-07-25 12:18:37,BMO Capital,Outperform,,init
+2018-08-03 11:22:20,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-09-13 12:10:05,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-10-15 11:17:42,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-11-02 16:27:33,Barclays,Equal-Weight,Equal-Weight,main
+2018-11-05 15:21:52,BMO Capital,Outperform,Outperform,main
+2018-12-07 11:34:08,Barclays,Overweight,Equal-Weight,up
+2019-01-07 14:53:24,Barclays,Overweight,Overweight,main
+2019-01-08 15:29:57,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2019-01-25 12:32:56,Buckingham,Neutral,,init
+2019-06-13 11:34:21,Morgan Stanley,Equal-Weight,,main
+2019-07-08 11:13:02,UBS,Neutral,Buy,down
+2019-07-19 13:22:34,Morgan Stanley,Equal-Weight,,main
+2019-09-25 10:53:47,Atlantic Equities,Neutral,,init
+2019-10-02 12:33:57,UBS,Neutral,,main
+2019-10-11 12:05:37,Buckingham,Neutral,,main
+2019-11-01 11:45:15,Wells Fargo,Outperform,,main
+2019-11-04 12:40:18,BMO Capital,Outperform,,main
+2020-01-24 14:31:00,Morgan Stanley,Equal-Weight,,main
+2020-01-31 13:20:16,UBS,Neutral,,main
+2020-01-31 13:32:40,Wells Fargo,Overweight,,main
+2020-01-31 16:02:52,Morgan Stanley,Equal-Weight,,main
+2020-02-12 10:26:45,Atlantic Equities,Overweight,Neutral,up
+2020-03-13 13:25:59,UBS,Neutral,,main
+2020-04-01 15:48:52,BMO Capital,Outperform,,main
+2020-04-22 12:48:46,Morgan Stanley,Equal-Weight,,main
+2020-04-29 13:06:35,Morgan Stanley,Equal-Weight,,main
+2020-04-30 14:15:15,BMO Capital,Outperform,,main
+2020-07-08 12:26:27,BMO Capital,Outperform,,main
+2020-07-10 12:35:48,Morgan Stanley,Equal-Weight,,main
+2020-07-29 12:55:04,Morgan Stanley,Equal-Weight,,main
+2020-07-29 15:39:22,UBS,Neutral,,main
+2020-10-06 11:04:25,Oppenheimer,Outperform,,init
+2020-10-20 13:31:38,Morgan Stanley,Equal-Weight,,main
+2020-10-28 12:02:57,Morgan Stanley,Equal-Weight,,main
+2021-01-06 16:01:11,Morgan Stanley,Equal-Weight,,main
+2021-01-29 15:19:35,Morgan Stanley,Equal-Weight,,main
+2021-02-01 14:39:38,UBS,Buy,Neutral,up
+2021-03-12 12:30:13,Deutsche Bank,Buy,,init
+2021-04-28 12:03:11,Oppenheimer,Outperform,,main
+2021-04-28 13:10:45,Morgan Stanley,Equal-Weight,,main
+2021-05-27 13:30:00,Morgan Stanley,Equal-Weight,,main
+2021-06-16 11:08:25,Oppenheimer,Outperform,,main
+2021-07-08 09:25:00,RBC Capital,Outperform,,init
+2021-07-28 11:54:36,Oppenheimer,Outperform,,main
+2021-07-28 13:19:40,Morgan Stanley,Equal-Weight,,main
+2021-07-28 14:25:51,Deutsche Bank,Buy,,main
+2021-09-21 10:43:03,RBC Capital,Outperform,,main
+2021-09-23 12:48:25,Morgan Stanley,Equal-Weight,,main
+2021-10-27 12:08:58,Oppenheimer,Outperform,,main
+2021-10-27 14:30:24,Morgan Stanley,Equal-Weight,,main
+2022-01-05 14:16:37,Morgan Stanley,Equal-Weight,,main
+2022-01-28 13:34:41,Morgan Stanley,Equal-Weight,,main

@@ -1,0 +1,66 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-26 08:41:00,Canaccord Genuity,Buy,,init
+2012-03-27 08:02:00,Stifel Nicolaus,Buy,,up
+2012-04-25 08:00:00,Stifel Nicolaus,Buy,,main
+2012-04-25 14:01:00,Hilliard Lyons,Neutral,,down
+2012-10-23 13:52:00,Canaccord Genuity,Buy,,main
+2012-10-24 08:13:00,Stifel Nicolaus,Buy,,main
+2013-01-30 08:05:58,Stifel Nicolaus,Buy,,main
+2013-02-13 08:32:00,Stifel Nicolaus,Hold,Buy,down
+2013-05-10 06:17:10,Canaccord Genuity,Hold,Buy,down
+2013-07-17 11:06:25,Northcoast Research,Neutral,Buy,down
+2014-04-24 15:07:53,Gilford Securities,Buy,Neutral,up
+2014-07-11 19:36:09,Canaccord Genuity,Hold,,main
+2014-08-27 06:37:19,Canaccord Genuity,Buy,Hold,up
+2014-09-29 10:33:53,KeyBanc,Buy,Hold,up
+2014-10-21 09:25:41,Raymond James,Market Perform,Outperform,down
+2014-12-17 00:00:00,BB&T Capital,Buy,,init
+2015-03-10 07:24:05,Stephens & Co.,Equal-Weight,,init
+2015-04-21 16:21:08,Cantor Fitzgerald,Buy,,init
+2015-04-29 09:00:00,Cantor Fitzgerald,Buy,,main
+2015-05-04 06:22:17,Raymond James,Outperform,Market Perform,up
+2015-05-04 09:45:33,Jefferies,Outperform,Market Perform,up
+2015-07-29 07:23:12,Canaccord Genuity,Buy,,main
+2015-07-29 11:00:00,Benchmark,Buy,,main
+2015-10-28 10:57:45,Cantor Fitzgerald,Buy,,main
+2015-10-29 08:47:41,KeyBanc,Sector Weight,Overweight,down
+2016-01-12 08:27:08,BB&T Capital,Hold,,down
+2016-03-15 08:29:09,Raymond James,Strong Buy,Outperform,up
+2016-05-24 09:12:31,Topeka,Buy,,init
+2016-10-13 15:48:21,Jefferies,Hold,,init
+2016-11-15 14:51:04,Sidoti & Co.,Neutral,Buy,down
+2016-12-06 17:25:33,Raymond James,Market Perform,Strong Buy,down
+2016-12-13 16:53:50,Loop Capital,Hold,,init
+2017-04-12 11:30:08,Raymond James,Strong Buy,Market Perform,up
+2017-06-07 10:42:37,Loop Capital,Sell,Hold,down
+2017-10-25 10:35:14,Raymond James,Market Perform,Strong Buy,down
+2017-11-01 16:27:21,Jefferies,Hold,,main
+2018-02-22 13:57:02,Stephens & Co.,Equal-Weight,Equal-Weight,main
+2018-02-27 15:05:07,Stifel Nicolaus,Hold,Hold,main
+2018-04-09 15:21:02,Loop Capital,Hold,Sell,up
+2018-06-12 11:27:49,Stifel Nicolaus,Hold,Hold,main
+2018-06-18 13:27:37,Stephens & Co.,Equal-Weight,Underweight,up
+2018-12-19 12:40:49,Raymond James,Outperform,Market Perform,up
+2019-01-03 13:18:08,Stephens & Co.,Underweight,Equal-Weight,down
+2019-01-08 13:04:05,Raymond James,Outperform,Outperform,main
+2019-02-05 12:07:50,Janney Capital,Neutral,Buy,down
+2019-02-27 13:27:26,Raymond James,Market Perform,Outperform,down
+2019-03-15 10:28:16,Raymond James,Outperform,Market Perform,up
+2019-03-18 14:58:19,Jefferies,Hold,Hold,main
+2019-04-22 11:43:03,Raymond James,Strong Buy,Outperform,up
+2019-11-12 11:32:47,Stifel Nicolaus,Buy,Hold,up
+2019-11-12 11:54:35,Stifel,Buy,Hold,up
+2019-11-13 14:01:39,Northcoast Research,Buy,Neutral,up
+2020-04-03 14:19:11,Stifel,Buy,,main
+2020-04-07 10:57:05,Stephens & Co.,Equal-Weight,,main
+2020-05-08 13:01:09,Raymond James,Strong Buy,,main
+2020-07-01 11:56:53,Janney Capital,Neutral,Buy,down
+2020-12-22 13:04:14,Loop Capital,Buy,Hold,up
+2021-02-01 09:43:18,KeyBanc,Overweight,Sector Weight,up
+2021-02-09 09:47:25,KeyBanc,Overweight,,main
+2021-02-26 13:17:27,Raymond James,Strong Buy,,main
+2021-05-07 12:32:42,Raymond James,Strong Buy,,main
+2021-08-12 11:20:03,Janney Montgomery Scott,Buy,Neutral,up
+2021-08-25 11:50:22,B of A Securities,Buy,,init
+2021-11-05 10:41:35,Keybanc,Overweight,,main
+2021-11-05 14:44:27,Raymond James,Strong Buy,,main

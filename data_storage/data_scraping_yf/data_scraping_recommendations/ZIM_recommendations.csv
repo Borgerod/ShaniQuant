@@ -1,0 +1,11 @@
+Date,Firm,To Grade,From Grade,Action
+2021-02-22 10:43:57,Jefferies,Buy,,init
+2021-02-22 13:06:53,Barclays,Equal-Weight,,init
+2021-03-22 16:17:03,Jefferies,Buy,,main
+2021-05-19 16:13:02,Jefferies,Buy,,main
+2021-08-24 11:51:18,Barclays,Equal-Weight,,main
+2021-09-22 11:36:14,JP Morgan,Underweight,,init
+2021-11-17 16:43:00,Jefferies,Buy,,main
+2022-01-07 13:01:29,Barclays,Equal-Weight,,main
+2022-01-26 12:23:34,Barclays,Equal-Weight,,main
+2022-01-28 14:00:10,Jefferies,Buy,,main

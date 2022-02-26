@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action
+2014-03-11 08:00:00,Ascendiant Capital,Buy,,init
+2014-06-23 17:51:25,Imperial Capital,Outperform,,init
+2014-08-18 16:00:00,Standpoint Research,Buy,,init
+2014-11-24 00:00:00,Craig-Hallum,Buy,,init
+2015-11-23 04:04:11,Chardan Capital,Buy,,main
+2015-12-14 16:22:06,Oppenheimer,Outperform,,init
+2015-12-15 06:14:13,Oppenheimer,Outperform,,init
+2016-01-22 07:39:22,Needham,Strong Buy,,init
+2017-09-26 14:02:21,Credit Suisse,Outperform,,init
+2017-11-15 13:17:47,Credit Suisse,Outperform,,main
+2018-05-08 15:49:46,Needham,Buy,Strong Buy,down
+2018-06-22 11:51:35,Loop Capital,Buy,,init
+2018-07-27 16:39:58,Credit Suisse,Outperform,Outperform,main
+2018-08-28 16:00:39,Standpoint Research,Buy,Hold,up
+2018-10-09 11:01:05,Jefferies,Buy,,init
+2018-10-30 14:53:18,Jefferies,Buy,Buy,main
+2019-04-24 10:59:46,Credit Suisse,Neutral,Outperform,down
+2020-03-03 11:25:21,Needham,Buy,,main
+2020-05-14 12:36:22,Credit Suisse,Neutral,,main
+2020-05-14 15:56:25,Craig-Hallum,Buy,,main
+2021-01-13 11:00:44,Needham,Buy,,main
+2021-12-08 14:10:38,Jefferies,Buy,,main
+2022-02-15 18:29:30,Needham,Hold,Buy,down

@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action
+2015-01-23 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-04-17 09:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-06-16 09:00:00,Barclays,Equal-Weight,,main
+2015-06-29 09:00:00,SunTrust Robinson Humphrey,Neutral,,main
+2015-07-17 11:00:00,Keefe Bruyette & Woods,Market Perform,,main
+2015-10-09 10:40:19,Barclays,Equal-Weight,,main
+2016-01-12 09:01:34,Stephens & Co.,Equal-Weight,,init
+2016-04-01 08:57:41,Macquarie,Underperform,Neutral,down
+2016-08-16 10:56:15,Barclays,Equal-Weight,,main
+2016-10-03 21:00:17,DA Davidson,Underperform,,init
+2016-10-11 14:40:24,Deutsche Bank,Buy,,main
+2016-11-28 10:44:50,Jefferies,Hold,Buy,down
+2016-12-06 18:37:10,Barclays,Equal-Weight,,main
+2016-12-15 15:57:34,Bank of America,Neutral,Underperform,up
+2016-12-21 11:31:02,SunTrust Robinson Humphrey,Hold,,init
+2017-09-06 11:41:47,DA Davidson,Neutral,Underperform,up
+2017-10-23 17:28:32,Barclays,Equal-Weight,,main
+2017-12-13 16:21:53,Morgan Stanley,Equal-Weight,,main
+2018-01-31 13:54:15,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-04-20 12:16:51,DA Davidson,Neutral,Neutral,main
+2018-04-20 17:58:40,Sandler O'Neill,Buy,Hold,up
+2018-04-20 17:58:43,Baird,Outperform,Neutral,up
+2018-04-23 16:28:16,Barclays,Equal-Weight,Equal-Weight,main
+2018-04-24 12:27:25,DA Davidson,Neutral,Neutral,main
+2018-09-18 16:58:33,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-10-19 13:11:15,Baird,Outperform,Outperform,main
+2018-12-11 12:06:58,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2019-01-08 15:02:45,Jefferies,Buy,Hold,up
+2019-01-10 16:41:30,Bank of America,Underperform,Neutral,down
+2020-01-06 13:27:51,Wells Fargo,Underweight,Equal-Weight,down
+2020-02-20 10:37:28,Raymond James,Market Perform,Underperform,up
+2020-03-30 14:15:05,Wells Fargo,Equal-Weight,Underweight,up
+2020-04-24 14:02:46,RBC Capital,Sector Perform,,main
+2020-05-05 12:03:00,RBC Capital,Sector Perform,,main
+2020-05-15 15:41:17,CFRA,Hold,,main
+2020-05-19 14:59:17,SunTrust Robinson Humphrey,Hold,,main
+2020-07-09 13:55:02,Jefferies,Hold,Buy,down
+2020-09-29 13:02:47,Piper Sandler,Neutral,,main
+2020-10-08 11:03:14,Wells Fargo,Overweight,Equal-Weight,up
+2021-01-22 12:00:04,B of A Securities,Neutral,,main
+2021-06-03 11:20:51,RBC Capital,Sector Perform,,main
+2021-06-04 10:59:56,Wells Fargo,Equal-Weight,Overweight,down
+2021-10-07 11:25:18,Wells Fargo,Equal-Weight,,main
+2021-10-22 13:12:18,RBC Capital,Sector Perform,,main

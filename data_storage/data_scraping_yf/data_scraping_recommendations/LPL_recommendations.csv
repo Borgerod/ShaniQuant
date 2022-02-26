@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-07 08:46:00,Topeka,Hold,,init
+2012-09-25 09:37:00,Bernstein,Market Perform,Outperform,down
+2012-11-09 08:08:00,Topeka,Hold,Buy,down
+2012-12-11 06:12:33,Topeka,Sell,Hold,down
+2013-01-09 09:54:20,Citigroup,Neutral,Buy,down
+2013-07-01 09:02:38,Topeka,Hold,Sell,up
+2014-03-24 07:32:50,Nomura,Buy,Neutral,up
+2014-06-09 10:41:38,Macquarie,Outperform,Neutral,up
+2015-06-18 09:40:27,Credit Suisse,Neutral,Underperform,up
+2015-06-24 09:41:32,Bernstein,Market Perform,Underperform,up
+2015-06-29 09:23:51,UBS,Buy,Neutral,up
+2015-07-27 11:00:00,Cantor Fitzgerald,Hold,,main
+2015-10-15 07:49:19,Cowen & Co.,Outperform,,init
+2016-05-20 09:53:09,Deutsche Bank,Buy,Hold,up
+2016-06-21 04:09:36,Barclays,Overweight,,init
+2016-06-28 11:35:52,Nomura,Neutral,Reduce,up
+2016-07-19 08:07:09,Bank of America,Buy,Neutral,up
+2018-06-18 15:35:06,Morgan Stanley,Equal-Weight,Overweight,down

@@ -1,0 +1,76 @@
+Date,Firm,To Grade,From Grade,Action
+2014-11-24 00:00:00,PiperJaffray,Overweight,,init
+2014-11-24 08:25:11,JP Morgan,Overweight,,init
+2015-03-10 05:55:52,BB&T Capital,Buy,,init
+2015-06-05 07:43:25,JP Morgan,Overweight,,main
+2015-06-30 07:49:22,B. Riley,Buy,,init
+2015-06-30 09:00:00,Jefferies,Buy,,main
+2015-07-02 06:40:03,PiperJaffray,Overweight,,main
+2015-10-07 04:26:24,Citigroup,Neutral,,init
+2015-11-11 06:57:38,BB&T Capital,Hold,Buy,down
+2015-11-11 10:13:13,Jefferies,Buy,,main
+2015-11-19 05:54:46,Wells Fargo,Market Perform,Outperform,down
+2016-01-12 11:15:50,B. Riley,Neutral,,main
+2016-02-03 10:57:36,Jefferies,Buy,,main
+2016-03-21 07:15:24,Citigroup,Neutral,,main
+2016-04-08 06:56:41,JP Morgan,Neutral,Overweight,down
+2016-05-19 13:52:41,Jefferies,Buy,,main
+2016-05-20 06:20:52,Citigroup,Neutral,,main
+2016-07-20 21:20:36,Citigroup,Neutral,,main
+2016-07-27 12:35:34,Jefferies,Buy,,main
+2016-07-27 14:01:51,JP Morgan,Neutral,,main
+2016-09-27 10:57:58,Citigroup,Neutral,,main
+2016-11-14 12:13:31,Citigroup,Buy,Neutral,up
+2016-11-30 12:56:37,Baird,Neutral,Outperform,down
+2016-12-15 10:49:55,Mizuho,Neutral,,init
+2017-08-04 11:42:54,Baird,Outperform,Neutral,up
+2017-11-03 16:08:47,Baird,Outperform,,main
+2017-11-03 17:02:05,Jefferies,Buy,,main
+2017-11-03 18:34:27,Citigroup,Buy,,main
+2017-11-15 12:44:58,JP Morgan,Overweight,Neutral,up
+2018-01-25 14:18:45,Pivotal Research,Hold,,init
+2018-04-23 16:51:20,Cowen & Co.,Outperform,,init
+2018-05-05 14:00:36,B. Riley FBR,Neutral,Buy,down
+2018-05-05 14:00:36,B. Riley FBR,Buy,Neutral,up
+2018-05-05 14:00:38,B. Riley FBR,Buy,Neutral,up
+2018-09-21 10:57:15,Citigroup,Buy,Buy,main
+2018-10-09 12:29:29,William Blair,Outperform,,init
+2018-10-26 15:40:25,Jefferies,Buy,Buy,main
+2019-01-02 14:13:24,Wells Fargo,Market Perform,Market Perform,main
+2019-01-07 11:25:27,Pivotal Research,Buy,Hold,up
+2019-01-07 14:57:45,JP Morgan,Overweight,Overweight,main
+2019-05-13 10:48:20,Pivotal Research,Hold,Buy,down
+2019-06-19 10:48:04,DA Davidson,Buy,,init
+2019-07-08 10:30:20,Baird,Neutral,Outperform,down
+2019-07-12 11:58:04,Susquehanna,Neutral,,init
+2019-07-15 11:56:03,Citi,Neutral,Buy,down
+2019-08-01 13:25:42,Piper Jaffray,Overweight,,main
+2019-10-09 10:52:23,Stephens & Co.,Overweight,,init
+2019-11-22 14:30:29,DA Davidson,Buy,,main
+2020-03-09 12:11:21,JP Morgan,Neutral,Overweight,down
+2020-03-10 12:25:08,Baird,Neutral,,main
+2020-03-16 13:14:33,Wells Fargo,Equal-Weight,,main
+2020-04-06 20:00:51,Susquehanna,Neutral,,main
+2020-04-15 11:39:15,Susquehanna,Negative,Neutral,down
+2020-04-29 14:03:47,Piper Sandler,Overweight,,main
+2020-05-13 14:04:19,Jefferies,Buy,,main
+2020-05-15 15:46:36,Craig-Hallum,Buy,,main
+2020-05-21 12:18:45,Wells Fargo,Equal-Weight,,main
+2020-05-21 13:21:25,Baird,Neutral,,main
+2020-05-21 15:22:12,Citigroup,Neutral,,main
+2020-05-21 16:47:02,DA Davidson,Buy,,main
+2020-08-05 14:48:18,Piper Sandler,Neutral,Overweight,down
+2020-10-12 15:50:42,Susquehanna,Neutral,Negative,up
+2020-10-26 16:24:58,Craig-Hallum,Hold,Buy,down
+2020-10-29 13:08:18,Piper Sandler,Neutral,,main
+2020-10-29 13:49:30,Wells Fargo,Equal-Weight,,main
+2020-11-17 12:36:46,Wells Fargo,Overweight,Equal-Weight,up
+2021-01-11 10:07:00,JP Morgan,Overweight,Neutral,up
+2021-01-26 16:12:34,Wells Fargo,Overweight,,main
+2021-06-11 12:46:32,Baird,Neutral,,main
+2021-10-20 14:27:35,Cowen & Co.,Outperform,,main
+2021-10-28 12:52:43,Stephens & Co.,Overweight,,main
+2021-10-28 13:07:40,Craig-Hallum,Buy,Hold,up
+2021-12-09 12:39:50,Stephens & Co.,Overweight,,main
+2021-12-21 11:28:15,Benchmark,Buy,,init
+2022-01-18 12:06:11,Seaport Global,Neutral,,init

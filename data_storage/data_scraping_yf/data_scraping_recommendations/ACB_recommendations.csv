@@ -1,0 +1,19 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-25 09:37:04,Seaport Global,Neutral,,init
+2020-11-25 09:37:04,Jefferies,Buy,,init
+2020-11-25 09:37:05,Cowen & Co.,Outperform,,init
+2020-11-25 09:37:05,Bank of America,Buy,,init
+2020-11-25 09:37:06,Desjardins,Buy,,init
+2020-11-25 09:37:06,Stifel Nicolaus,Hold,,init
+2020-11-25 09:37:07,Ladenburg Thalmann,Buy,,init
+2020-11-25 09:37:07,Bank of America,Neutral,Buy,down
+2020-11-25 09:37:09,Stifel,Sell,Hold,down
+2020-11-25 09:37:09,MKM Partners,Sell,,init
+2020-11-25 09:37:10,Piper Jaffray,Neutral,,main
+2020-11-25 09:37:12,B of A Securities,Neutral,Buy,down
+2020-11-25 09:37:12,Piper Sandler,Underweight,Neutral,down
+2020-11-25 09:37:14,Needham,Hold,,init
+2020-11-25 09:37:19,Piper Sandler,Neutral,Underweight,up
+2020-11-25 09:37:23,Ladenburg Thalmann,Neutral,Buy,down
+2020-11-25 09:37:24,Piper Sandler,Neutral,,main
+2020-12-18 11:49:05,BMO Capital,Underperform,Market Perform,down

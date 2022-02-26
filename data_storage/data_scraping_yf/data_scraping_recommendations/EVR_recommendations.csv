@@ -1,0 +1,78 @@
+Date,Firm,To Grade,From Grade,Action
+2012-04-09 06:19:00,Bank oferica,Neutral,,down
+2012-10-04 09:39:00,JMP Securities,Market Perform,Market Outperform,down
+2012-10-09 11:11:00,UBS,Neutral,,init
+2012-10-29 06:00:00,Goldman Sachs,Neutral,Sell,up
+2012-12-14 06:41:50,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2013-01-10 08:52:56,Goldman Sachs,Buy,Neutral,up
+2013-01-10 09:28:33,UBS,Neutral,,main
+2013-03-22 09:24:37,JMP Securities,Market Perform,Market Outperform,down
+2013-04-05 06:11:40,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2013-12-30 16:00:00,S&P Capital IQ,Buy,Hold,down
+2014-01-09 07:26:45,Nomura,Buy,,init
+2014-03-19 09:42:08,Sandler O'Neill,Hold,Buy,down
+2014-05-02 03:50:17,UBS,Neutral,,main
+2014-05-02 16:00:00,UBS,Buy,Neutral,up
+2014-05-21 06:11:59,JMP Securities,Market Outperform,Market Perform,up
+2014-06-25 09:23:30,Sandler O'Neill,Buy,Hold,up
+2014-11-25 00:00:00,Macquarie,Outperform,,init
+2015-01-13 00:00:00,Goldman Sachs,Buy,Neutral,up
+2015-02-02 04:10:08,Credit Suisse,Outperform,,init
+2015-04-07 06:54:26,UBS,Neutral,Buy,down
+2015-06-25 08:45:07,Goldman Sachs,Neutral,Buy,down
+2015-07-08 11:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-09-08 04:29:41,Credit Suisse,Outperform,,main
+2015-10-08 14:01:05,JMP Securities,Market Outperform,,main
+2015-10-12 11:22:01,Susquehanna,Positive,,main
+2015-11-09 05:28:11,Nomura,Neutral,Buy,down
+2015-11-10 07:07:51,Susquehanna,Neutral,Positive,down
+2016-01-11 10:52:34,Nomura,Neutral,,main
+2016-01-12 06:16:03,Goldman Sachs,Buy,,up
+2016-03-16 07:10:24,Craig-Hallum,Hold,Buy,down
+2016-07-28 11:40:33,UBS,Neutral,,main
+2016-07-28 11:55:50,JMP Securities,Market Outperform,,main
+2016-10-28 10:44:36,Nomura,Buy,Neutral,up
+2016-11-18 13:03:11,JMP Securities,Market Perform,Market Outperform,down
+2016-12-14 13:22:33,Bank of America,Neutral,,init
+2017-02-13 15:20:09,Nomura,Neutral,Buy,down
+2017-02-16 13:37:51,Bank of America,Buy,Neutral,up
+2017-05-23 12:36:05,Goldman Sachs,Neutral,Buy,down
+2017-11-03 16:32:12,Nomura,Neutral,,main
+2018-01-09 18:42:24,UBS,Buy,Neutral,up
+2018-06-26 14:15:36,Bank of America,Buy,Buy,main
+2018-09-04 12:30:54,UBS,Neutral,Buy,down
+2018-10-08 14:19:00,UBS,Neutral,Neutral,main
+2018-11-06 16:07:33,Goldman Sachs,Neutral,,init
+2019-01-07 11:43:35,Goldman Sachs,Sell,Neutral,down
+2019-05-23 12:11:17,JMP Securities,Market Outperform,Market Perform,up
+2019-05-23 12:23:16,JMP Securities,Market Outperform,Market Perform,up
+2019-08-14 10:24:57,Goldman Sachs,Neutral,Sell,up
+2019-11-04 12:46:45,UBS,Neutral,,main
+2019-11-20 13:54:57,Morgan Stanley,Overweight,,init
+2019-11-25 11:57:28,Morgan Stanley,Overweight,,init
+2020-01-06 12:49:55,Wolfe Research,Peer Perform,Outperform,down
+2020-01-13 14:20:49,JMP Securities,Market Outperform,,main
+2020-03-25 18:00:43,UBS,Neutral,,main
+2020-04-09 12:31:26,Morgan Stanley,Overweight,,main
+2020-04-09 15:35:50,JMP Securities,Market Outperform,,main
+2020-04-23 12:34:02,Piper Sandler,Overweight,,main
+2020-07-09 15:25:57,Wolfe Research,Peer Perform,Outperform,down
+2020-07-23 13:24:22,Piper Sandler,Overweight,,main
+2020-08-05 09:23:32,Goldman Sachs,Buy,Neutral,up
+2020-10-02 12:56:20,UBS,Buy,Neutral,up
+2020-10-09 13:42:35,JMP Securities,Market Outperform,,main
+2020-10-12 12:05:12,Morgan Stanley,Overweight,,main
+2020-12-01 10:05:34,"Keefe, Bruyette & Woods",Outperform,Market Perform,up
+2020-12-14 14:52:15,Morgan Stanley,Overweight,,main
+2020-12-16 11:15:05,Seaport Global,Buy,,init
+2021-02-04 13:07:32,Morgan Stanley,Overweight,,main
+2021-03-12 14:32:53,Morgan Stanley,Overweight,,main
+2021-03-19 10:18:53,Goldman Sachs,Conviction Buy,Buy,up
+2021-04-01 15:47:20,UBS,Buy,,main
+2021-04-07 12:24:42,Morgan Stanley,Overweight,,main
+2021-04-09 10:58:19,JMP Securities,Market Perform,Outperform,down
+2021-10-11 12:18:30,Morgan Stanley,Overweight,,main
+2021-11-04 15:40:55,UBS,Neutral,Buy,down
+2021-12-08 13:11:02,Morgan Stanley,Equal-Weight,Overweight,down
+2022-01-04 16:08:44,UBS,Neutral,,main
+2022-01-06 10:15:48,Goldman Sachs,Neutral,Buy,down

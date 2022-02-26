@@ -1,0 +1,7 @@
+What this folder (data_scraping_sec) contains: 
+Data-tables scraped from sec.gov/EDGAR based on stock_list, these are the different forms that this folder should contain:
+- 10K forms (Annual report)
+- 8K forms (Current report)
+- 10Q forms (Quaterly report)
+- 4 (Insider trading Reports)
+- 3 (Initial Insider holdings reports) (withdrawals)

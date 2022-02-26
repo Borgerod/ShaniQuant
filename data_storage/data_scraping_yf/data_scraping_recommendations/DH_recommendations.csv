@@ -1,0 +1,12 @@
+Date,Firm,To Grade,From Grade,Action
+2021-10-11 09:19:58,Goldman Sachs,Neutral,,init
+2021-10-11 10:05:18,Morgan Stanley,Equal-Weight,,init
+2021-10-11 10:55:22,Credit Suisse,Neutral,,init
+2021-10-11 11:17:56,Barclays,Equal-Weight,,init
+2021-10-11 11:29:27,Raymond James,Market Perform,,init
+2021-11-17 10:10:55,Baird,Outperform,,init
+2021-12-02 09:55:17,Jefferies,Buy,,init
+2021-12-16 13:51:54,Morgan Stanley,Overweight,Equal-Weight,up
+2021-12-17 14:44:22,Morgan Stanley,Overweight,Equal-Weight,up
+2022-01-19 13:05:32,Barclays,Equal-Weight,,main
+2022-01-25 12:41:11,Deutsche Bank,Hold,,main

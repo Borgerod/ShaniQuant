@@ -1,0 +1,44 @@
+Date,Firm,To Grade,From Grade,Action
+2012-10-16 05:55:00,Sterne Agee,Buy,,init
+2013-10-15 07:42:18,Keefe Bruyette & Woods,Market Perform,,init
+2013-11-13 08:38:21,Raymond James,Strong Buy,,up
+2014-03-05 07:40:09,Sterne Agee,Buy,,main
+2014-03-06 08:00:00,Raymond James,Outperform,Strong Buy,down
+2014-05-08 02:30:38,Raymond James,Outperform,,main
+2014-08-27 06:33:06,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2014-11-05 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-03-30 07:18:19,Macquarie,Outperform,,init
+2015-04-13 07:18:46,SunTrust Robinson Humphrey,Buy,,init
+2015-05-01 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-06-10 06:13:03,Compass Point,Buy,,init
+2015-06-12 07:17:47,PiperJaffray,Overweight,,init
+2015-06-29 09:00:00,SunTrust Robinson Humphrey,Buy,,main
+2015-11-06 15:18:56,Macquarie,Outperform,,main
+2015-12-17 06:14:24,Raymond James,Market Perform,Outperform,down
+2016-01-05 09:50:20,PiperJaffray,Overweight,,main
+2016-03-31 06:59:14,FBR Capital,Market Perform,,init
+2016-07-29 13:44:07,Keefe Bruyette & Woods,Outperform,,main
+2016-10-31 09:22:01,Keefe Bruyette & Woods,Market Weight,Outperform,down
+2016-11-23 13:56:34,Compass Point,Neutral,Buy,down
+2017-05-10 11:36:39,PiperJaffray,Neutral,Overweight,down
+2017-08-01 12:25:08,Compass Point,Buy,Neutral,up
+2017-08-10 12:59:12,Raymond James,Underperform,Market Perform,down
+2018-01-30 11:34:09,Stephens & Co.,Equal-Weight,Overweight,down
+2018-05-14 10:40:01,Compass Point,Neutral,Buy,down
+2018-07-31 12:12:27,Compass Point,Buy,Neutral,up
+2018-10-29 10:38:26,Raymond James,Market Perform,Underperform,up
+2018-10-29 15:39:33,SunTrust Robinson Humphrey,Buy,Buy,main
+2019-03-28 10:29:46,PiperJaffray,Overweight,Neutral,up
+2019-08-29 11:14:54,Raymond James,Outperform,Market Perform,up
+2020-02-03 12:02:43,Stephens & Co.,Equal-Weight,,main
+2020-05-19 15:04:49,SunTrust Robinson Humphrey,Buy,,main
+2020-08-14 11:16:15,Stephens & Co.,Overweight,Equal-Weight,up
+2020-08-25 12:37:55,Truist Securities,Buy,,main
+2021-01-07 14:54:24,Raymond James,Outperform,,main
+2021-02-02 12:23:18,Compass Point,Neutral,Buy,down
+2021-03-09 13:18:19,Raymond James,Outperform,,main
+2021-04-07 12:15:26,Raymond James,Outperform,,main
+2021-04-14 11:15:23,Piper Sandler,Neutral,,init
+2021-04-27 12:32:06,Stephens & Co.,Equal-Weight,Overweight,down
+2021-07-26 09:22:26,Raymond James,Market Perform,Outperform,down
+2021-07-26 14:13:11,Stephens & Co.,Equal-Weight,,main

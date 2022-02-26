@@ -1,0 +1,42 @@
+Date,Firm,To Grade,From Grade,Action
+2020-10-26 08:53:57,KeyBanc,Sector Weight,,init
+2020-10-26 08:56:34,Piper Sandler,Neutral,,init
+2020-10-26 09:53:43,Jefferies,Buy,,init
+2020-10-26 09:55:49,RBC Capital,Outperform,,init
+2020-10-26 09:57:15,JP Morgan,Neutral,,init
+2020-10-26 09:58:01,Credit Suisse,Neutral,,init
+2020-10-26 11:11:38,JMP Securities,Market Outperform,,init
+2020-10-26 12:15:33,Morgan Stanley,Equal-Weight,,init
+2020-11-10 14:10:59,Berenberg,Buy,,init
+2020-12-02 09:10:33,Piper Sandler,Overweight,Neutral,up
+2020-12-10 10:18:33,Piper Sandler,Overweight,,main
+2020-12-10 14:01:52,Credit Suisse,Neutral,,main
+2020-12-10 14:35:09,Morgan Stanley,Equal-Weight,,main
+2021-03-05 11:24:28,Baird,Outperform,,init
+2021-03-11 10:26:24,Piper Sandler,Overweight,,main
+2021-03-11 14:14:43,Morgan Stanley,Equal-Weight,,main
+2021-03-11 15:06:14,RBC Capital,Outperform,,main
+2021-03-11 16:22:46,Credit Suisse,Neutral,,main
+2021-04-23 10:41:57,Wolfe Research,Outperform,,init
+2021-05-21 10:03:55,Keybanc,Overweight,Sector Weight,up
+2021-06-04 10:08:26,Keybanc,Overweight,,main
+2021-06-04 10:17:49,Piper Sandler,Overweight,,main
+2021-06-04 11:09:37,JMP Securities,Market Outperform,,main
+2021-06-04 11:25:02,RBC Capital,Outperform,,main
+2021-06-04 11:47:59,Morgan Stanley,Equal-Weight,,main
+2021-07-15 08:33:52,Keybanc,Overweight,,main
+2021-07-19 13:58:18,Wolfe Research,Outperform,,main
+2021-07-22 11:41:06,FBN Securities,Outperform,,init
+2021-08-27 11:04:50,JMP Securities,Market Outperform,,main
+2021-09-02 08:30:08,Keybanc,Overweight,,main
+2021-09-02 08:40:05,Piper Sandler,Overweight,,main
+2021-09-02 12:41:47,Oppenheimer,Outperform,,main
+2021-10-21 08:29:01,Keybanc,Overweight,,main
+2021-10-22 13:18:50,Morgan Stanley,Equal-Weight,,main
+2021-11-04 09:16:51,Jefferies,Hold,Buy,down
+2021-11-18 10:40:30,Piper Sandler,Overweight,,main
+2021-12-03 09:30:05,Keybanc,Overweight,,main
+2021-12-03 12:11:11,JMP Securities,Market Outperform,,main
+2021-12-13 13:34:48,Morgan Stanley,Equal-Weight,,main
+2022-01-05 10:06:39,DA Davidson,Neutral,,init
+2022-01-14 09:36:02,Keybanc,Overweight,,main

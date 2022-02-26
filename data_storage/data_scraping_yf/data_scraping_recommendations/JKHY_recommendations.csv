@@ -1,0 +1,40 @@
+Date,Firm,To Grade,From Grade,Action
+2013-05-02 07:57:12,Wells Fargo,Market Perform,Outperform,down
+2015-01-20 05:57:51,Evercore ISI Group,Sell,Hold,down
+2015-03-02 07:03:19,Oppenheimer,Outperform,Perform,up
+2015-05-08 09:00:00,RBC Capital,Sector Perform,,main
+2015-08-27 06:35:33,RBC Capital,Sector Perform,,main
+2015-08-27 07:37:20,Stephens & Co.,Equal-Weight,,main
+2016-08-24 05:49:41,Oppenheimer,Perform,Outperform,down
+2017-10-10 12:47:43,Baird,Neutral,,main
+2017-12-06 14:11:35,Evercore ISI Group,In-Line,Sell,up
+2018-01-23 14:24:02,DA Davidson,Neutral,,init
+2018-01-24 14:43:34,Baird,Neutral,Neutral,main
+2018-06-07 13:36:50,Cantor Fitzgerald,Overweight,Overweight,main
+2018-07-16 11:54:18,Baird,Neutral,Neutral,main
+2018-08-23 11:29:38,Cantor Fitzgerald,Overweight,Overweight,main
+2018-08-23 12:04:39,Wells Fargo,Market Perform,Market Perform,main
+2019-02-07 13:34:42,Wells Fargo,Outperform,Market Perform,up
+2019-04-09 11:27:24,Keefe Bruyette & Woods,Market Perform,,init
+2019-09-03 10:55:35,Atlantic Equities,Neutral,,init
+2019-11-06 13:12:43,Wells Fargo,Outperform,,main
+2019-12-11 12:07:40,Evercore ISI Group,Underperform,In-Line,down
+2020-01-31 15:06:37,Baird,Neutral,,main
+2020-02-06 14:16:24,DA Davidson,Neutral,,main
+2020-03-11 10:48:45,Raymond James,Outperform,Market Perform,up
+2020-04-08 11:27:12,Wells Fargo,Equal-Weight,Overweight,down
+2020-05-06 13:59:10,DA Davidson,Neutral,,main
+2020-05-06 15:50:38,Baird,Neutral,,main
+2020-06-03 12:50:30,Baird,Neutral,,main
+2020-09-17 09:17:16,Compass Point,Neutral,,init
+2020-12-07 12:19:42,Credit Suisse,Neutral,,init
+2021-01-11 10:39:59,Evercore ISI Group,In-Line,Underperform,up
+2021-02-10 14:56:20,Credit Suisse,Neutral,,main
+2021-05-05 11:44:27,Raymond James,Outperform,,main
+2021-08-19 08:50:41,Raymond James,Outperform,,main
+2021-08-19 12:39:45,Compass Point,Buy,,main
+2021-11-10 10:06:46,Raymond James,Outperform,,main
+2021-11-10 12:37:21,Credit Suisse,Neutral,,main
+2021-11-18 09:52:49,UBS,Neutral,,init
+2021-11-19 09:42:26,Stephens & Co.,Equal-Weight,,init
+2021-12-15 10:19:23,Raymond James,Market Perform,Outperform,down

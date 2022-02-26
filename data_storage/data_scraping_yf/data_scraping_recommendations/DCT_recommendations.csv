@@ -1,0 +1,23 @@
+Date,Firm,To Grade,From Grade,Action
+2020-10-21 13:13:12,Raymond James,Outperform,,main
+2020-10-21 17:02:59,RBC Capital,Outperform,,main
+2020-11-25 09:37:23,DA Davidson,Buy,,init
+2020-11-25 09:37:23,Barclays,Equal-Weight,,init
+2020-11-25 09:37:23,Stifel,Buy,,init
+2020-11-25 09:37:23,Needham,Buy,,init
+2020-11-25 09:37:23,Raymond James,Outperform,,init
+2020-11-25 09:37:23,William Blair,Outperform,,init
+2020-11-25 09:37:23,JP Morgan,Neutral,,init
+2020-11-25 09:37:23,Goldman Sachs,Neutral,,init
+2020-11-25 09:37:24,Needham,Buy,,main
+2021-04-23 10:40:49,Wolfe Research,Outperform,,init
+2021-07-13 13:01:40,JP Morgan,Overweight,Neutral,up
+2021-10-15 09:25:49,JP Morgan,Neutral,Overweight,down
+2021-10-15 11:18:25,Raymond James,Outperform,,main
+2021-10-15 11:31:09,RBC Capital,Outperform,,main
+2021-10-15 13:39:22,Barclays,Equal-Weight,,main
+2021-11-22 11:08:29,Barclays,Overweight,Equal-Weight,up
+2022-01-07 11:13:59,Needham,Buy,,main
+2022-01-07 12:39:20,Raymond James,Outperform,,main
+2022-01-07 12:58:10,Barclays,Overweight,,main
+2022-01-07 13:03:24,JMP Securities,Market Outperform,,main

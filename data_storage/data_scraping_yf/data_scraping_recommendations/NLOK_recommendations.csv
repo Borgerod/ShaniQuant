@@ -1,0 +1,26 @@
+Date,Firm,To Grade,From Grade,Action
+2019-12-17 12:30:24,UBS,Buy,,main
+2020-01-06 11:17:53,Barclays,Overweight,Equal-Weight,up
+2020-02-04 12:25:08,Mizuho,Buy,,main
+2020-02-04 12:56:12,Credit Suisse,Neutral,,main
+2020-02-04 13:48:22,Baird,Neutral,,main
+2020-02-07 12:36:10,Mizuho,Buy,,main
+2020-02-07 13:59:53,Wells Fargo,Equal-Weight,,main
+2020-05-15 12:49:08,Stifel,Hold,,main
+2020-05-15 12:58:41,Morgan Stanley,Overweight,,main
+2020-05-15 13:28:14,Credit Suisse,Neutral,,main
+2020-05-15 13:37:41,Citigroup,Neutral,,main
+2020-05-15 14:20:44,UBS,Buy,,main
+2020-05-15 14:29:39,Mizuho,Buy,,main
+2020-05-15 16:08:28,Baird,Neutral,,main
+2020-06-08 10:09:56,Baird,Outperform,Neutral,up
+2020-08-10 11:29:44,Citigroup,Neutral,,main
+2020-08-21 13:49:18,Argus Research,Buy,Hold,up
+2020-09-01 11:46:56,Morgan Stanley,Overweight,,main
+2020-11-11 13:08:07,Morgan Stanley,Overweight,,main
+2021-02-05 14:05:50,Morgan Stanley,Overweight,,main
+2021-02-05 14:36:04,Credit Suisse,Neutral,,main
+2021-04-13 11:01:02,B of A Securities,Underperform,,init
+2021-05-12 11:04:34,B of A Securities,Buy,Underperform,up
+2021-05-12 12:38:33,Morgan Stanley,Overweight,,main
+2021-11-05 12:54:29,RBC Capital,Sector Perform,,main

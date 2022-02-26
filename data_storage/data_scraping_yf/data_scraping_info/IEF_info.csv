@@ -1,0 +1,115 @@
+,info
+exchange,NGM
+shortName,iShares 7-10 Year Treasury Bond
+longName,iShares 7-10 Year Treasury Bond ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,IEF
+messageBoardId,finmb_8797472
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.29
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1027296000
+annualReportExpenseRatio,
+totalAssets,17755101184
+bookValue,
+fundFamily,iShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0084
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.040999997
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Long Government
+fiveYearAverageReturn,0.031400003
+phone,800-474-2737
+longBusinessSummary,"The underlying index measures the performance of public obligations of the U.S. Treasury that have a remaining maturity of greater than or equal to seven years and less than ten years. The fund will invest at least 80% of its assets in the component securities of the underlying index, and the fund will invest at least 90% of its assets in U.S. Treasury securities that the advisor believes will help the fund track the underlying index."
+companyOfficers,[]
+previousClose,110.86
+regularMarketOpen,111.04
+twoHundredDayAverage,115.04525
+trailingAnnualDividendYield,0.01097781
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,111.23
+navPrice,113.85
+averageDailyVolume10Day,10929360
+regularMarketPreviousClose,110.86
+fiftyDayAverage,113.1532
+trailingAnnualDividendRate,1.217
+open,111.04
+toCurrency,
+averageVolume10days,10929360
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,110.965
+currency,USD
+trailingPE,67.734474
+regularMarketVolume,8486765
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,10981972
+dayLow,110.965
+ask,111.89
+askSize,4000
+volume,8486765
+fiftyTwoWeekHigh,118.63
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,109.92
+bid,110.85
+tradeable,False
+dividendYield,
+bidSize,1400
+dayHigh,111.23
+preferredPosition,
+bondPosition,0.9974
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': '', 'holdingName': 'United States Treasury Notes 0.88%', 'holdingPercent': 0.1566}, {'symbol': '', 'holdingName': 'United States Treasury Notes 3.13%', 'holdingPercent': 0.14930001}, {'symbol': '', 'holdingName': 'United States Treasury Notes 2.63%', 'holdingPercent': 0.12550001}, {'symbol': '', 'holdingName': 'United States Treasury Notes 2.38%', 'holdingPercent': 0.1007}, {'symbol': '', 'holdingName': 'United States Treasury Notes 1.5%', 'holdingPercent': 0.091400005}, {'symbol': '', 'holdingName': 'United States Treasury Notes 1.63%', 'holdingPercent': 0.0655}, {'symbol': '', 'holdingName': 'United States Treasury Notes 0.63%', 'holdingPercent': 0.0247}, {'symbol': '', 'holdingName': 'United States Treasury Notes 2.88%', 'holdingPercent': 0.0231}, {'symbol': '', 'holdingName': 'United States Treasury Notes 1.13%', 'holdingPercent': 0.02}]"
+bondHoldings,"{'maturity': 8.54, 'duration': 7.97, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 1}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0
+regularMarketPrice,111.22
+preMarketPrice,
+logo_url,

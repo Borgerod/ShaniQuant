@@ -1,0 +1,53 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-03 12:41:00,UBS,Buy,,init
+2012-07-16 06:00:00,Bank of America,Neutral,Buy,down
+2012-07-16 07:29:00,Bank of America,Neutral,Buy,down
+2012-08-08 08:08:00,Bank of America,Neutral,,main
+2012-08-08 11:57:00,UBS,Buy,,main
+2012-08-09 06:20:00,Bank of America,Underperform,Neutral,down
+2012-08-09 08:42:00,Baird,Neutral,,down
+2012-08-09 08:44:00,RBC Capital,Sector Perform,,down
+2012-08-09 10:19:00,UBS,Neutral,Buy,down
+2013-01-07 13:14:39,Bank of America,Underperform,,main
+2013-02-22 14:25:07,UBS,Neutral,,main
+2013-06-24 09:41:45,Standpoint Research,Buy,,init
+2013-09-04 09:46:01,Wells Fargo,Underperform,Market Perform,down
+2013-12-23 16:00:00,Standpoint Research,Hold,Buy,down
+2014-01-13 08:30:00,Susquehanna,Positive,,up
+2014-02-24 08:00:00,Wells Fargo,Market Perform,Underperform,up
+2014-04-07 08:00:00,RBC Capital,Outperform,Sector Perform,up
+2015-01-05 00:00:00,Baird,Neutral,Outperform,down
+2015-01-12 00:00:00,JMP Securities,Market Underperform,Market Perform,down
+2015-03-06 07:14:31,Deutsche Bank,Hold,,init
+2015-07-13 07:16:15,UBS,Sell,Neutral,down
+2015-08-10 11:00:00,RBC Capital,Outperform,,main
+2015-10-06 06:24:06,Wells Fargo,Outperform,Market Perform,up
+2016-09-28 05:59:45,JMP Securities,Market Underperform,Market Perform,down
+2017-01-30 13:08:51,Wells Fargo,Market Perform,Outperform,down
+2017-03-31 13:46:10,Benchmark,Buy,,init
+2017-08-07 11:21:19,Baird,Outperform,Neutral,up
+2017-08-07 17:14:58,Deutsche Bank,Hold,,main
+2017-08-07 18:37:25,JMP Securities,Market Underperform,,main
+2018-02-27 12:13:42,JMP Securities,Market Perform,Market Underperform,up
+2018-10-16 12:48:30,Credit Suisse,Neutral,,init
+2018-11-05 17:08:14,Credit Suisse,Neutral,Neutral,main
+2018-12-14 11:44:31,Barclays,Equal-Weight,,init
+2019-01-07 13:56:00,Credit Suisse,Neutral,Neutral,main
+2019-05-17 12:24:57,JMP Securities,Market Outperform,Market Perform,up
+2019-09-17 11:05:03,Deutsche Bank,Buy,,init
+2019-11-04 12:07:50,Benchmark,Buy,,main
+2020-02-24 13:17:49,Deutsche Bank,Buy,,main
+2020-03-24 11:02:03,Benchmark,Buy,,reit
+2020-04-03 20:46:23,Credit Suisse,Neutral,,main
+2020-04-24 16:47:20,Deutsche Bank,Buy,,main
+2020-05-04 12:39:57,Credit Suisse,Neutral,,main
+2020-06-16 11:30:27,B of A Securities,Underperform,Neutral,down
+2020-08-03 12:21:26,Credit Suisse,Neutral,,main
+2020-08-04 13:44:37,Deutsche Bank,Buy,,main
+2020-11-02 15:41:33,Credit Suisse,Neutral,,main
+2021-01-05 13:01:23,Credit Suisse,Neutral,,main
+2021-03-01 13:54:02,Credit Suisse,Neutral,,main
+2021-05-10 16:33:18,Deutsche Bank,Buy,,main
+2021-08-10 12:46:58,Credit Suisse,Neutral,,main
+2022-01-18 14:38:24,RBC Capital,Outperform,,main
+2022-01-18 14:43:38,B of A Securities,Buy,,main

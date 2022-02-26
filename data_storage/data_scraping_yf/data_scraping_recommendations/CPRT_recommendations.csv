@@ -1,0 +1,53 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-30 13:46:00,Bank of America,Underperform,,main
+2012-10-31 10:07:00,Baird,Outperform,Neutral,up
+2012-11-28 14:38:00,Bank of America,Underperform,,main
+2012-12-13 11:09:31,Northcoast Research,Buy,,init
+2013-02-01 08:54:27,BB&T Capital,Hold,Buy,down
+2013-02-04 08:54:12,Baird,Neutral,Outperform,down
+2013-03-27 09:21:42,Gabelli & Co.,Hold,,init
+2013-04-15 06:16:12,JP Morgan,Neutral,,init
+2013-05-20 10:04:19,Northcoast Research,Neutral,Buy,down
+2013-07-03 07:48:36,Barrington Research,Outperform,Market Perform,up
+2013-09-23 10:47:02,Baird,Outperform,Neutral,up
+2013-09-26 10:37:11,CJS Securities,Market Outperform,Market Perform,up
+2013-11-26 14:04:49,BB&T Capital,Buy,Hold,up
+2013-12-02 16:00:00,Stephens & Co.,Overweight,Equal-Weight,up
+2014-12-05 09:00:00,JP Morgan,Neutral,,main
+2015-02-24 10:33:47,Bank of America,Buy,Underperform,up
+2015-04-28 11:12:54,SunTrust Robinson Humphrey,Reduce,,init
+2015-05-29 06:18:34,SunTrust Robinson Humphrey,Neutral,Reduce,up
+2016-01-15 06:19:40,Jefferies,Hold,,init
+2016-02-25 09:14:37,CL King,Neutral,Sell,up
+2016-03-21 07:39:43,Bank of America,Neutral,Buy,down
+2016-04-05 08:52:48,Gabelli & Co.,Hold,,init
+2016-05-27 11:59:55,Jefferies,Hold,,main
+2016-05-27 11:59:56,JP Morgan,Neutral,,main
+2016-08-25 09:39:02,Northcoast Research,Neutral,Buy,down
+2016-08-25 20:57:20,Susquehanna,Neutral,,init
+2016-09-22 08:47:24,Jefferies,Hold,,main
+2017-09-21 13:53:32,Baird,Outperform,,main
+2018-02-12 12:19:13,Stephens & Co.,Overweight,Equal-Weight,up
+2018-03-23 12:09:41,SunTrust Robinson Humphrey,Buy,,init
+2018-04-17 13:29:12,Guggenheim,Buy,,init
+2018-05-18 10:55:28,Stephens & Co.,Equal-Weight,Overweight,down
+2018-09-20 17:17:56,Gabelli & Co.,Buy,Hold,up
+2018-09-21 11:30:24,JP Morgan,Underweight,Neutral,down
+2019-05-17 11:07:55,Guggenheim,Neutral,Buy,down
+2019-09-06 14:44:19,JP Morgan,Underweight,,main
+2019-10-18 10:58:40,Guggenheim,Buy,Neutral,up
+2019-11-22 13:51:01,SunTrust Robinson Humphrey,Buy,,main
+2020-02-21 13:31:44,Baird,Outperform,,main
+2020-02-21 14:19:57,SunTrust Robinson Humphrey,Buy,,main
+2020-03-11 13:48:31,Baird,Outperform,,main
+2020-03-19 12:52:31,Baird,Outperform,,main
+2020-04-09 09:16:50,Jefferies,Buy,Hold,up
+2020-04-16 18:57:53,Stephens & Co.,Equal-Weight,,main
+2020-04-23 11:52:31,JP Morgan,Neutral,Underweight,up
+2020-05-18 12:53:19,SunTrust Robinson Humphrey,Buy,,main
+2020-05-21 13:55:23,CFRA,Hold,,main
+2020-05-22 13:27:05,Jefferies,Buy,,main
+2020-09-04 13:13:09,Truist Securities,Buy,,main
+2021-02-05 12:58:52,Northcoast Research,Buy,Neutral,up
+2021-02-12 13:21:32,Stephens & Co.,Overweight,Equal-Weight,up
+2021-05-21 13:39:02,Truist Securities,Buy,,main

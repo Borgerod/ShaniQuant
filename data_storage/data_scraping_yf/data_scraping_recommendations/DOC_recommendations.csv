@@ -1,0 +1,82 @@
+Date,Firm,To Grade,From Grade,Action
+2013-08-13 08:16:32,Wunderlich,Buy,,init
+2013-08-13 08:21:36,Compass Point,Buy,,init
+2013-09-10 07:00:00,Janney Capital,Buy,,init
+2013-10-21 07:32:43,Compass Point,Buy,,main
+2014-01-06 16:00:00,Oppenheimer,Outperform,,init
+2014-01-22 16:00:00,KeyBanc,Hold,,init
+2014-01-24 08:43:51,Compass Point,Buy,,main
+2014-02-06 06:27:51,Wunderlich,Buy,,main
+2014-02-28 08:11:48,Compass Point,Buy,,main
+2014-05-21 10:03:03,Wunderlich,Buy,,main
+2014-06-02 09:32:03,Bank of America,Buy,,init
+2014-06-27 06:55:50,MLV & Co.,Buy,,init
+2015-03-06 05:51:18,RBC Capital,Outperform,,init
+2015-04-08 06:03:47,BMO Capital,Outperform,,init
+2015-08-10 15:56:50,BMO Capital,Outperform,,main
+2015-08-27 13:28:26,JMP Securities,Market Outperform,,main
+2015-10-08 08:27:00,FBR Capital,Outperform,,init
+2015-12-08 08:18:23,Stifel Nicolaus,Buy,,init
+2015-12-09 07:48:38,Morgan Stanley,Underweight,,init
+2015-12-17 10:40:48,KeyBanc,Overweight,Sector Weight,up
+2016-03-01 12:29:47,JMP Securities,Market Outperform,,main
+2016-03-01 12:34:24,FBR Capital,Outperform,,main
+2016-03-21 07:12:46,SunTrust Robinson Humphrey,Neutral,,init
+2016-06-22 06:59:12,JMP Securities,Market Perform,Outperform,down
+2016-08-04 13:21:32,SunTrust Robinson Humphrey,Neutral,,main
+2016-08-25 04:04:34,BTIG Research,Buy,,init
+2016-11-07 11:07:56,Raymond James,Strong Buy,Market Perform,up
+2016-12-16 12:45:57,KeyBanc,Sector Weight,Overweight,down
+2016-12-16 13:34:52,Jefferies,Hold,,init
+2017-03-10 18:09:01,Baird,Outperform,,init
+2017-07-07 12:52:04,Jefferies,Underperform,Hold,down
+2017-07-12 16:17:47,Stifel Nicolaus,Buy,,main
+2017-07-24 16:28:36,Morgan Stanley,Equal-Weight,Underweight,up
+2017-08-21 10:31:44,Jefferies,Hold,Underperform,up
+2017-09-22 12:03:17,Jefferies,Hold,,main
+2017-10-12 11:45:02,KeyBanc,Overweight,Sector Weight,up
+2017-11-06 18:06:26,Hilliard Lyons,Buy,Long-Term Buy,up
+2017-11-07 12:40:22,Cantor Fitzgerald,Overweight,,main
+2018-03-08 15:18:27,Bank of America,Buy,Buy,main
+2018-03-20 11:37:03,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-04-17 11:21:25,KeyBanc,Overweight,Overweight,main
+2018-04-25 11:09:13,Stifel Nicolaus,Hold,Buy,down
+2018-05-05 14:00:39,B. Riley FBR,Buy,,main
+2018-05-24 15:49:27,RBC Capital,Outperform,Outperform,main
+2018-08-03 13:27:07,Capital One Financial,Equal-Weight,Overweight,down
+2018-08-06 13:52:35,B. Riley FBR,Buy,Buy,main
+2018-08-07 13:12:08,Baird,Outperform,Outperform,main
+2018-08-16 11:49:42,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-09-10 09:55:16,KeyBanc,Overweight,Overweight,main
+2019-05-02 10:40:55,Capital One Financial,Equal-Weight,Overweight,down
+2019-05-07 11:48:21,BMO Capital,Market Perform,Outperform,down
+2019-06-20 10:39:41,Citigroup,Neutral,,init
+2019-09-12 13:08:13,Berenberg,Hold,,init
+2019-09-17 12:21:20,Morgan Stanley,Equal-Weight,,main
+2019-10-14 12:11:48,Bank of America,Neutral,,init
+2019-11-21 15:16:17,Compass Point,Buy,,main
+2019-11-26 11:37:15,Stifel Nicolaus,Buy,Hold,up
+2019-12-12 11:44:44,Citigroup,Buy,Neutral,up
+2020-01-16 10:53:21,KeyBanc,Overweight,,main
+2020-02-27 12:14:00,B. Riley FBR,Buy,,main
+2020-03-09 12:57:08,BMO Capital,Outperform,Market Perform,up
+2020-03-12 11:45:54,Raymond James,Outperform,,main
+2020-03-16 13:02:14,BTIG Research,Neutral,Buy,down
+2020-03-26 13:32:02,Morgan Stanley,Equal-Weight,,main
+2020-04-07 10:33:34,Citigroup,Neutral,Buy,down
+2020-04-21 14:17:23,KeyBanc,Overweight,,main
+2020-04-23 16:07:53,SunTrust Robinson Humphrey,Hold,,main
+2020-04-29 12:23:39,Raymond James,Outperform,,main
+2020-08-07 08:45:52,KeyBanc,Overweight,,main
+2020-08-31 13:34:18,Raymond James,Outperform,,main
+2020-11-11 11:07:37,RBC Capital,Sector Perform,Outperform,down
+2020-12-11 14:57:51,Morgan Stanley,Equal-Weight,,main
+2020-12-14 09:50:58,KeyBanc,Sector Weight,Overweight,down
+2021-01-13 10:24:56,Jefferies,Buy,Hold,up
+2021-03-15 11:36:25,Morgan Stanley,Overweight,Equal-Weight,up
+2021-06-14 11:10:11,Baird,Neutral,Outperform,down
+2021-08-20 09:39:00,Raymond James,Market Perform,Outperform,down
+2021-09-13 10:29:29,Morgan Stanley,Equal-Weight,Overweight,down
+2021-11-29 13:27:41,Morgan Stanley,Equal-Weight,,main
+2022-01-07 13:00:17,BMO Capital,Market Perform,Outperform,down
+2022-02-01 17:11:21,Credit Suisse,Neutral,,init

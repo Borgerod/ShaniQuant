@@ -1,0 +1,14 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-25 09:36:36,Canaccord Genuity,Hold,,init
+2020-11-25 09:36:36,RBC Capital,Sector Perform,,init
+2020-11-25 09:36:36,Macquarie,Outperform,,up
+2020-11-25 09:36:36,BMO Capital,Outperform,,init
+2020-11-25 09:36:36,Bank of America,Neutral,Underperform,up
+2020-11-25 09:36:36,Bank of America,Neutral,Underperform,up
+2020-11-25 09:36:36,TD Securities,Hold,,main
+2020-11-25 09:36:36,CIBC,Underperform,Sector Perform,down
+2020-11-25 09:36:36,Credit Suisse,Neutral,Outperform,down
+2020-11-25 09:36:36,BMO Capital,Market Perform,Outperform,down
+2020-11-25 09:36:36,BMO Capital,Outperform,,main
+2020-11-25 09:36:44,Canaccord Genuity,Buy,Hold,up
+2020-11-25 09:36:50,CIBC,Sector Outperform,,init

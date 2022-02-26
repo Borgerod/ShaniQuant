@@ -1,0 +1,59 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-17 08:01:00,Compass Point,Buy,,init
+2012-10-03 05:59:00,Wunderlich,Buy,,init
+2012-10-05 08:12:00,Compass Point,Buy,,main
+2012-10-31 08:30:00,BMO Capital,Market Perform,,main
+2013-03-01 06:31:24,Wunderlich,Buy,,main
+2013-03-01 08:08:08,BMO Capital,Market Perform,,main
+2013-03-04 08:12:45,Compass Point,Buy,,main
+2013-03-27 08:51:35,Ladenburg Thalmann,Buy,,init
+2013-05-02 07:30:44,Compass Point,Buy,,main
+2013-07-31 07:11:06,Wunderlich,Hold,Buy,down
+2013-07-31 08:51:14,Raymond James,Market Perform,Outperform,down
+2013-08-01 07:56:53,Compass Point,Buy,,main
+2013-09-10 07:00:00,Janney Capital,Buy,,init
+2013-10-04 07:18:20,Compass Point,Buy,,main
+2013-10-30 07:11:54,Raymond James,Outperform,Market Perform,up
+2013-11-26 08:38:18,Compass Point,Buy,,main
+2014-05-21 06:11:59,Wunderlich,Buy,Hold,up
+2015-01-27 09:00:00,Wunderlich,Buy,,main
+2015-03-24 06:08:29,Baird,Outperform,,init
+2016-04-21 07:35:21,Jefferies,Buy,,init
+2016-05-31 10:40:06,Jefferies,Buy,,main
+2016-07-07 07:42:47,Stifel Nicolaus,Buy,,init
+2016-07-14 11:52:33,Jefferies,Buy,,main
+2016-10-12 12:36:49,FBR Capital,Outperform,,init
+2016-12-16 13:15:05,SunTrust Robinson Humphrey,Buy,,init
+2017-01-05 13:37:04,Jefferies,Hold,Buy,down
+2017-01-26 15:29:27,Wells Fargo,Market Perform,,init
+2017-02-27 14:01:50,Wunderlich,Hold,Buy,down
+2017-07-18 12:19:18,Canaccord Genuity,Buy,,init
+2017-09-18 12:33:15,FBR Capital,Buy,,main
+2017-12-19 12:00:53,Wells Fargo,Outperform,Market Perform,up
+2018-07-24 11:37:36,Stifel Nicolaus,Buy,Buy,main
+2018-09-10 10:41:13,Stifel Nicolaus,Buy,Buy,main
+2018-12-10 15:53:46,Raymond James,Outperform,Outperform,main
+2018-12-11 16:09:13,Citigroup,Neutral,Neutral,main
+2018-12-13 11:41:04,Jefferies,Buy,Hold,up
+2019-01-08 15:15:09,Raymond James,Strong Buy,Outperform,up
+2019-02-27 13:17:18,Citigroup,Neutral,Neutral,main
+2019-03-04 14:45:52,Raymond James,Strong Buy,Strong Buy,main
+2019-10-01 10:46:24,Berenberg,Buy,,init
+2019-10-30 12:55:00,SunTrust Robinson Humphrey,Buy,,main
+2019-12-05 13:17:31,Capital One Financial,Overweight,,init
+2019-12-12 11:40:25,Citigroup,Buy,Neutral,up
+2020-02-21 13:29:57,Baird,Outperform,,main
+2020-03-20 14:53:02,Stifel,Buy,,main
+2020-04-02 12:50:34,Wells Fargo,Overweight,,main
+2020-04-07 20:31:06,Citigroup,Buy,,main
+2020-04-08 16:20:12,Odeon Capital,Buy,,init
+2020-04-17 13:26:04,SunTrust Robinson Humphrey,Buy,,main
+2020-04-21 14:08:01,Baird,Outperform,,main
+2020-06-10 11:35:43,Wells Fargo,Overweight,,main
+2020-09-30 10:07:05,Mizuho,Buy,,init
+2020-10-12 11:33:29,BTIG,Buy,,init
+2021-04-09 12:14:05,Stifel,Buy,,main
+2021-06-03 12:29:13,Mizuho,Neutral,Buy,down
+2021-06-25 11:18:11,Wells Fargo,Overweight,,main
+2021-09-17 09:30:39,RBC Capital,Outperform,,init
+2022-02-08 12:12:20,B of A Securities,Neutral,,init

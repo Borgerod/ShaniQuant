@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action
+2021-06-25 09:12:17,Mizuho,Neutral,,init
+2021-07-06 09:05:35,Keybanc,Overweight,,init
+2021-07-06 09:08:56,William Blair,Outperform,,init
+2021-07-06 09:22:11,JP Morgan,Overweight,,init
+2021-07-06 11:30:23,Barclays,Overweight,,init
+2021-07-06 12:01:42,Citigroup,Buy,,init
+2021-07-06 12:08:46,Wolfe Research,Peer Perform,,init
+2021-08-18 11:21:04,Truist Securities,Buy,,init
+2021-11-02 08:33:51,Keybanc,Overweight,,main
+2021-11-03 15:51:11,SMBC Nikko,Underperform,,init
+2021-12-21 10:19:55,Loop Capital,Hold,,init
+2022-01-06 16:18:09,"Keefe, Bruyette & Woods",Market Perform,,init
+2022-01-13 12:56:12,Mizuho,Buy,Neutral,up
+2022-01-14 09:45:29,Keybanc,Overweight,,main
+2022-01-18 11:47:19,Goldman Sachs,Neutral,,init
+2022-01-26 15:08:01,Citigroup,Buy,,main

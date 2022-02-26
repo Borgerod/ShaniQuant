@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-05 07:53:00,UBS,Neutral,Buy,down
+2013-01-24 09:41:46,CIBC,Sector Perform,Sector Outperform,down
+2013-04-11 07:56:15,Societe Generale,Hold,Buy,down
+2013-04-17 10:16:39,Deutsche Bank,Buy,Hold,up
+2013-05-03 10:17:11,Goldman Sachs,Sell,,down
+2013-06-13 08:53:46,Societe Generale,Sell,Hold,down
+2013-06-14 07:39:14,UBS,Sell,Neutral,down
+2013-07-15 15:44:53,BMO Capital,Underperform,Market Perform,down
+2013-08-08 07:00:00,HSBC,Underweight,Neutral,down
+2013-09-12 07:44:11,JP Morgan,Neutral,Underweight,up
+2013-10-21 10:32:20,HSBC,Neutral,Underweight,up
+2013-12-04 16:00:00,Goldman Sachs,Neutral,Sell,up
+2014-02-11 16:00:00,BMO Capital,Market Perform,Underperform,up
+2014-03-04 08:00:00,UBS,Sell,Neutral,down
+2015-02-24 10:14:22,Goldman Sachs,Buy,Neutral,up
+2016-01-15 09:15:07,Goldman Sachs,Buy,Neutral,up
+2016-02-23 08:11:36,Citigroup,Neutral,Sell,up
+2016-03-08 07:34:01,RBC Capital,Sector Perform,Outperform,down
+2016-04-11 09:56:57,RBC Capital,Outperform,Sector Perform,up
+2016-05-10 07:53:29,Citigroup,Sell,Neutral,down
+2016-10-18 13:34:26,Gabelli & Co.,Buy,,init
+2017-02-22 13:34:52,Citigroup,Sell,Neutral,down
+2017-04-24 15:49:15,RBC Capital,Market Perform,Outperform,down
+2017-11-07 17:44:50,HSBC,Buy,Hold,up
+2017-11-13 13:29:00,RBC Capital,Outperform,Sector Perform,up
+2018-11-06 15:58:24,Citigroup,Sell,Neutral,down
+2018-12-10 14:57:52,BMO Capital,Market Perform,,init
+2019-06-26 10:35:18,RBC Capital,Outperform,Sector Perform,up
+2019-06-27 10:44:41,BMO Capital,Outperform,Market Perform,up
+2019-09-12 12:33:20,JP Morgan,Overweight,,main
+2020-02-06 14:24:49,UBS,Neutral,,init
+2020-05-27 13:01:41,RBC Capital,Outperform,,reit
+2020-12-08 10:49:29,BMO Capital,Outperform,Market Perform,up
+2021-02-22 11:04:40,RBC Capital,Sector Perform,Outperform,down
+2021-02-24 14:41:59,ScotiaBank,Sector Perform,,main
+2021-03-08 13:38:20,HSBC,Hold,Reduce,up
+2021-08-06 13:51:08,RBC Capital,Sector Perform,,main
+2021-10-12 10:58:04,RBC Capital,Sector Perform,,main

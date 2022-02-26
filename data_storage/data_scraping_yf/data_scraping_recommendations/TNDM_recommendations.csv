@@ -1,0 +1,72 @@
+Date,Firm,To Grade,From Grade,Action
+2013-12-09 06:22:05,Deutsche Bank,Hold,,init
+2013-12-09 06:29:04,Bank of America,Neutral,,init
+2013-12-09 16:00:00,Stifel Nicolaus,Buy,,init
+2014-05-14 06:44:30,Deutsche Bank,Buy,Hold,up
+2014-07-15 18:05:19,William Blair,Outperform,,init
+2014-10-28 18:15:04,Wedbush,Outperform,,init
+2014-11-11 09:00:00,Deutsche Bank,Buy,,main
+2014-12-08 00:00:00,Cowen & Co.,Outperform,,init
+2015-05-05 09:00:00,Deutsche Bank,Buy,,main
+2015-07-08 07:12:45,Baird,Outperform,,init
+2015-08-10 15:56:47,Deutsche Bank,Buy,,main
+2015-11-03 09:52:23,Deutsche Bank,Buy,,main
+2016-03-24 07:25:14,Bank of America,Underperform,Neutral,down
+2016-11-02 10:01:48,Stifel Nicolaus,Hold,Buy,down
+2016-11-02 11:54:44,Baird,Neutral,Outperform,down
+2016-11-02 13:23:10,Wedbush,Outperform,,main
+2016-11-02 15:32:56,Feltl & Co.,Buy,Strong Buy,down
+2016-11-03 10:38:56,PiperJaffray,Neutral,Overweight,down
+2017-11-20 14:43:19,Bank of America,Underperform,,main
+2018-02-27 13:43:10,Oppenheimer,Outperform,,init
+2018-03-23 11:22:44,Baird,Outperform,Neutral,up
+2018-03-28 16:48:57,Cowen & Co.,Outperform,Market Perform,up
+2018-05-05 14:00:38,B. Riley FBR,Buy,,init
+2018-05-14 12:20:37,PiperJaffray,Overweight,Neutral,up
+2018-06-18 13:21:12,Lake Street,Buy,,init
+2018-07-31 11:22:35,Stifel Nicolaus,Hold,Hold,main
+2018-08-24 13:00:30,Bank of America,Neutral,Underperform,up
+2018-08-24 14:07:39,Dougherty,Buy,,init
+2018-08-30 11:29:06,Berenberg,Buy,,init
+2018-09-14 10:10:29,Baird,Neutral,Outperform,down
+2018-09-20 17:06:26,Craig-Hallum,Buy,,init
+2018-11-21 12:07:43,Baird,Outperform,Neutral,up
+2018-11-28 13:20:06,UBS,Neutral,,init
+2019-03-08 12:00:58,BMO Capital,Outperform,,init
+2019-04-30 12:19:48,UBS,Neutral,Neutral,main
+2019-05-01 15:13:35,Stifel Nicolaus,Hold,Hold,main
+2019-05-13 13:40:28,SVB Leerink,Outperform,,init
+2019-10-04 11:17:00,UBS,Buy,Neutral,up
+2019-10-18 10:46:25,Guggenheim,Buy,,init
+2019-11-05 13:36:24,Baird,Outperform,,main
+2020-02-04 10:33:16,Baird,Neutral,Outperform,down
+2020-02-06 10:05:05,Raymond James,Outperform,,init
+2020-02-25 12:51:00,Raymond James,Outperform,,main
+2020-02-25 13:55:37,Stifel Nicolaus,Hold,,main
+2020-02-25 14:18:36,Piper Sandler,Overweight,,main
+2020-03-27 19:08:59,Citigroup,Neutral,,main
+2020-04-24 11:57:22,SVB Leerink,Market Perform,Outperform,down
+2020-04-27 15:40:15,Raymond James,Outperform,,main
+2020-05-01 10:52:12,SVB Leerink,Market Perform,,main
+2020-05-01 12:54:10,Stifel,Hold,,main
+2020-05-01 16:33:51,UBS,Buy,,main
+2020-05-01 16:37:31,Citigroup,Neutral,,main
+2020-06-18 12:51:16,Raymond James,Outperform,,main
+2020-06-22 14:52:49,UBS,Buy,,main
+2020-07-06 11:58:30,Citigroup,Buy,Neutral,up
+2020-07-31 09:05:59,SVB Leerink,Market Perform,,main
+2020-07-31 15:01:01,Raymond James,Outperform,,main
+2020-08-20 10:11:00,Wells Fargo,Overweight,,init
+2020-08-28 12:30:55,SVB Leerink,Market Perform,,main
+2020-11-06 14:39:25,Raymond James,Outperform,,main
+2020-11-06 15:36:24,SVB Leerink,Market Perform,,main
+2020-12-15 14:14:18,Wells Fargo,Equal-Weight,Overweight,down
+2021-04-01 10:35:48,SVB Leerink,Market Perform,,main
+2021-05-06 12:14:42,SVB Leerink,Market Perform,,main
+2021-05-25 10:35:44,Barclays,Underweight,,init
+2021-08-05 10:58:41,SVB Leerink,Market Perform,,main
+2021-08-05 11:31:39,Raymond James,Outperform,,main
+2021-09-24 08:44:44,SVB Leerink,Market Perform,,main
+2021-11-04 10:31:55,SVB Leerink,Market Perform,,main
+2021-11-04 12:16:15,Raymond James,Outperform,,main
+2022-01-19 11:16:54,Wells Fargo,Overweight,Equal-Weight,up

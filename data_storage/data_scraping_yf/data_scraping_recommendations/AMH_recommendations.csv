@@ -1,0 +1,86 @@
+Date,Firm,To Grade,From Grade,Action
+2013-08-26 07:08:44,Bank of America,Neutral,,init
+2013-08-26 07:17:46,Goldman Sachs,Neutral,,init
+2013-08-26 07:18:20,JP Morgan,Overweight,,init
+2013-08-26 07:39:28,Morgan Stanley,Equal-Weight,,init
+2013-08-26 07:44:44,FBR Capital,Outperform,,init
+2013-08-26 07:45:03,Wells Fargo,Market Perform,,init
+2013-08-26 07:46:54,Credit Suisse,Neutral,,init
+2014-03-05 08:00:00,Keefe Bruyette & Woods,,,init
+2014-03-20 06:35:10,Bank of America,Buy,Neutral,up
+2014-03-21 08:00:00,Bank of America,Buy,Neutral,up
+2014-05-14 21:52:52,Raymond James,Outperform,,main
+2014-06-30 19:22:40,JP Morgan,Overweight,,main
+2014-07-18 06:33:12,Raymond James,Strong Buy,Outperform,up
+2015-03-02 09:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-03-23 07:16:54,Morgan Stanley,Overweight,Equal-Weight,up
+2015-08-10 11:00:00,Keefe Bruyette & Woods,Outperform,,main
+2015-12-17 08:28:13,JP Morgan,Neutral,Overweight,down
+2016-02-29 13:00:27,Keefe Bruyette & Woods,Outperform,,main
+2016-03-09 06:20:59,Keefe Bruyette & Woods,Market Outperform,Outperform,down
+2016-08-08 09:50:35,Keefe Bruyette & Woods,Market Perform,,main
+2016-08-08 10:27:00,Zelman,Buy,Hold,up
+2016-09-08 07:53:09,Raymond James,Buy,,main
+2016-10-11 14:32:32,JMP Securities,Overweight,,init
+2017-02-09 12:22:20,Mizuho,Neutral,,init
+2017-02-27 14:16:13,Credit Suisse,Neutral,,init
+2017-06-05 16:01:40,Evercore ISI Group,In-Line,,init
+2017-07-10 13:21:51,Mizuho,Buy,Neutral,up
+2017-10-09 21:32:46,BTIG Research,Buy,,init
+2017-10-20 16:01:43,Citigroup,Buy,,init
+2017-12-04 14:05:58,Evercore ISI Group,Outperform,In-Line,up
+2017-12-08 13:23:43,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2017-12-19 10:56:24,JP Morgan,Overweight,Neutral,up
+2018-02-26 15:00:57,BTIG Research,Buy,Buy,main
+2018-03-29 16:54:09,Baird,Outperform,,init
+2018-06-14 11:22:19,Morgan Stanley,Overweight,Overweight,main
+2018-07-30 13:33:12,Zelman,Hold,Buy,down
+2018-08-28 11:28:43,Wells Fargo,Market Perform,Market Perform,main
+2018-11-14 11:53:16,Mizuho,Neutral,Buy,down
+2018-11-14 14:01:37,JP Morgan,Overweight,Overweight,main
+2018-11-16 11:15:50,Morgan Stanley,Equal-Weight,Overweight,down
+2018-11-19 12:56:48,Raymond James,Outperform,Strong Buy,down
+2018-11-26 13:34:07,Goldman Sachs,Buy,Neutral,up
+2019-02-26 12:32:56,Mizuho,Buy,Neutral,up
+2019-06-11 11:45:51,Citigroup,Neutral,Buy,down
+2019-08-01 10:49:32,BTIG Research,Neutral,Buy,down
+2019-10-09 11:57:23,Morgan Stanley,Equal-Weight,,main
+2019-11-12 12:11:47,Raymond James,Outperform,,reit
+2019-12-03 13:54:21,JP Morgan,Overweight,,main
+2020-01-27 12:41:41,JMP Securities,Market Outperform,,main
+2020-04-02 11:30:53,Goldman Sachs,Neutral,Buy,down
+2020-04-07 20:31:08,Citigroup,Neutral,,main
+2020-04-08 16:15:21,Wells Fargo,Equal-Weight,,main
+2020-04-16 12:14:22,Morgan Stanley,Equal-Weight,,main
+2020-04-22 12:57:19,Raymond James,Strong Buy,Outperform,up
+2020-04-29 13:07:05,Credit Suisse,Neutral,,main
+2020-06-01 11:25:55,Mizuho,Buy,,main
+2020-06-09 11:44:16,Morgan Stanley,Equal-Weight,,main
+2020-06-16 13:57:17,B. Riley FBR,Buy,,main
+2020-06-18 12:39:35,Janney Capital,Neutral,,init
+2020-06-23 11:21:08,Raymond James,Strong Buy,,reit
+2020-08-31 12:47:09,Morgan Stanley,Equal-Weight,,main
+2020-10-01 12:25:37,Berenberg,Buy,,init
+2020-12-02 14:19:35,Morgan Stanley,Equal-Weight,,main
+2020-12-10 12:13:46,Wells Fargo,Overweight,Equal-Weight,up
+2021-01-20 12:34:37,Evercore ISI Group,In-Line,Outperform,down
+2021-03-03 13:05:31,Morgan Stanley,Equal-Weight,,main
+2021-03-31 10:58:08,RBC Capital,Outperform,,init
+2021-05-07 11:47:03,Morgan Stanley,Equal-Weight,,main
+2021-05-10 13:44:46,Zelman,Hold,Buy,down
+2021-05-21 11:38:59,Morgan Stanley,Equal-Weight,,main
+2021-06-08 11:56:35,Morgan Stanley,Equal-Weight,,main
+2021-06-11 11:12:09,Credit Suisse,Neutral,,main
+2021-06-15 10:33:58,Wolfe Research,Outperform,,init
+2021-06-17 11:49:30,Wells Fargo,Overweight,,main
+2021-07-16 12:25:23,Morgan Stanley,Equal-Weight,,main
+2021-08-09 12:53:00,RBC Capital,Outperform,,main
+2021-08-16 11:32:42,Berenberg,Hold,Buy,down
+2021-08-20 11:33:11,Morgan Stanley,Equal-Weight,,main
+2021-08-23 08:56:45,Raymond James,Strong Buy,,main
+2021-08-30 11:45:28,Wolfe Research,Outperform,Peer Perform,up
+2021-09-01 13:33:17,Barclays,Overweight,,init
+2021-09-20 14:13:29,Evercore ISI Group,Outperform,In-Line,up
+2021-09-23 14:00:12,Goldman Sachs,Neutral,,init
+2021-10-22 12:52:14,BTIG,Buy,Neutral,up
+2021-12-01 12:20:55,Raymond James,Strong Buy,,main

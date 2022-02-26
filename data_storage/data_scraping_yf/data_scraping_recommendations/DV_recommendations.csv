@@ -1,0 +1,17 @@
+Date,Firm,To Grade,From Grade,Action
+2021-05-17 09:57:03,Keybanc,Sector Weight,,init
+2021-05-17 10:29:42,Needham,Buy,,init
+2021-05-17 10:37:28,JMP Securities,Market Outperform,,init
+2021-05-17 10:48:07,Barclays,Equal-Weight,,init
+2021-05-17 10:55:31,Goldman Sachs,Buy,,init
+2021-05-17 11:55:56,RBC Capital,Outperform,,init
+2021-05-17 13:07:07,JP Morgan,Overweight,,init
+2021-05-17 13:20:36,Truist Securities,Hold,,init
+2021-05-17 13:24:40,Canaccord Genuity,Buy,,init
+2021-05-17 13:49:48,William Blair,Outperform,,init
+2021-05-17 16:02:31,Loop Capital,Buy,,init
+2021-05-26 12:46:39,Canaccord Genuity,Buy,,main
+2021-10-18 14:48:34,Barclays,Equal-Weight,,main
+2021-11-22 11:45:07,Truist Securities,Buy,Hold,up
+2021-11-22 15:15:40,Cannonball Research,Buy,,init
+2022-02-01 11:10:04,Stifel,Buy,,init

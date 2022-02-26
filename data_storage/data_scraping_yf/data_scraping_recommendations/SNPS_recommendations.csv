@@ -1,0 +1,86 @@
+Date,Firm,To Grade,From Grade,Action
+2012-08-23 06:40:00,JP Morgan,Overweight,,main
+2012-08-23 06:41:00,Bank of America,Buy,,main
+2013-02-21 06:42:33,DA Davidson,Buy,,main
+2013-05-23 06:56:47,DA Davidson,Buy,,main
+2013-07-30 08:35:49,Pacific Crest,Outperform,,init
+2013-08-22 06:28:50,DA Davidson,Buy,,main
+2014-01-30 08:00:00,JP Morgan,Neutral,Overweight,down
+2014-02-20 06:25:54,DA Davidson,Buy,,main
+2014-02-20 07:00:33,Bank of America,Buy,,main
+2014-05-20 10:39:30,Summit Research Partners,Buy,Hold,up
+2014-05-22 06:53:11,DA Davidson,Buy,,main
+2014-08-21 09:00:00,JP Morgan,Neutral,,main
+2014-12-04 04:08:50,Bank of America,Buy,,main
+2014-12-04 07:21:50,DA Davidson,Buy,,main
+2015-05-21 09:00:00,RBC Capital,Outperform,,main
+2015-08-19 20:26:00,DA Davidson,Buy,,main
+2016-06-06 06:21:55,RBC Capital,Outperform,,init
+2016-08-18 09:51:58,KeyBanc,Overweight,,main
+2016-10-10 13:25:14,,Buy,,main
+2017-08-15 16:44:34,Credit Suisse,Outperform,,main
+2017-10-25 11:04:16,RBC Capital,Top Pick,Outperform,up
+2017-11-30 16:55:25,KeyBanc,Overweight,Overweight,main
+2017-12-12 13:25:55,JP Morgan,Underweight,Neutral,down
+2018-02-22 12:56:50,KeyBanc,Overweight,Overweight,main
+2018-05-24 11:37:49,KeyBanc,Overweight,Overweight,main
+2018-05-24 11:49:54,Credit Suisse,Outperform,Outperform,main
+2018-08-23 11:21:32,KeyBanc,Overweight,Overweight,main
+2018-10-23 10:12:19,JP Morgan,Neutral,Underweight,up
+2018-11-20 13:49:16,Berenberg,Buy,,init
+2018-12-06 12:40:26,Benchmark,Buy,Hold,up
+2019-05-15 11:18:29,Wells Fargo,Outperform,,init
+2019-07-12 13:07:29,KeyBanc,Overweight,,main
+2019-08-22 10:15:50,KeyBanc,Overweight,,main
+2019-08-22 11:29:41,Wells Fargo,Outperform,,main
+2019-12-05 10:55:11,KeyBanc,Overweight,,main
+2019-12-12 11:50:17,JP Morgan,Overweight,Neutral,up
+2020-01-10 11:31:38,KeyBanc,Overweight,,main
+2020-02-14 13:32:15,Wells Fargo,Overweight,,main
+2020-02-19 10:46:11,Baird,Outperform,,init
+2020-02-20 09:50:39,KeyBanc,Overweight,,main
+2020-02-20 11:02:45,Needham,Buy,,main
+2020-02-20 14:17:34,Baird,Outperform,,main
+2020-02-20 15:06:05,Credit Suisse,Outperform,,main
+2020-02-21 18:35:33,CFRA,Buy,,main
+2020-05-21 09:16:01,KeyBanc,Overweight,,main
+2020-05-21 12:19:58,Wells Fargo,Overweight,,main
+2020-05-21 13:00:11,JP Morgan,Overweight,,main
+2020-05-21 13:21:45,RBC Capital,Outperform,,main
+2020-05-21 13:29:16,Baird,Outperform,,reit
+2020-05-21 14:44:35,B of A Securities,Buy,,main
+2020-05-27 13:44:53,UBS,Buy,,init
+2020-06-17 08:57:07,KeyBanc,Overweight,,main
+2020-08-20 08:35:27,KeyBanc,Overweight,,main
+2020-08-20 09:50:34,Needham,Buy,,main
+2020-08-20 11:03:00,RBC Capital,Outperform,,main
+2020-08-20 12:50:45,Credit Suisse,Outperform,,main
+2020-10-09 12:37:31,RBC Capital,Outperform,,main
+2020-10-14 11:48:16,UBS,Buy,,main
+2020-12-03 09:37:55,KeyBanc,Overweight,,main
+2020-12-03 11:36:32,Needham,Buy,,main
+2020-12-03 13:45:23,Credit Suisse,Outperform,,main
+2021-01-05 09:36:40,KeyBanc,Overweight,,main
+2021-01-19 10:41:39,Needham,Buy,,main
+2021-02-10 14:17:08,Wells Fargo,Overweight,,main
+2021-02-16 15:00:21,UBS,Buy,,main
+2021-02-16 16:05:17,KeyBanc,Overweight,,main
+2021-02-16 16:29:32,RBC Capital,Outperform,,main
+2021-02-18 09:56:41,KeyBanc,Overweight,,main
+2021-02-18 11:47:23,Needham,Buy,,main
+2021-06-02 10:22:55,Rosenblatt,Buy,,init
+2021-07-15 16:05:59,WestPark Capital,Buy,,init
+2021-08-12 12:21:00,Wells Fargo,Overweight,,main
+2021-08-19 08:42:58,Keybanc,Overweight,,main
+2021-08-19 11:35:53,Rosenblatt,Buy,,main
+2021-08-19 11:57:17,Wells Fargo,Overweight,,main
+2021-08-25 11:29:11,Rosenblatt,Buy,,main
+2021-09-17 11:36:44,B of A Securities,Underperform,Neutral,down
+2021-10-20 08:36:45,Needham,Buy,,init
+2021-11-23 12:35:39,Wells Fargo,Overweight,,main
+2021-11-29 12:48:44,Credit Suisse,Outperform,,main
+2021-12-02 09:32:04,Keybanc,Overweight,,main
+2021-12-02 09:41:30,Wells Fargo,Overweight,,main
+2021-12-02 11:44:05,Needham,Buy,,main
+2021-12-02 12:43:43,Rosenblatt,Buy,,main
+2022-01-10 11:08:18,Keybanc,Overweight,,main

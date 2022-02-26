@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,iShares iBoxx $ High Yield Corp
+longName,iShares iBoxx $ High Yield Corporate Bond ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,HYG
+messageBoardId,finmb_33837611
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,0.53
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1175644800
+annualReportExpenseRatio,
+totalAssets,21394788352
+bookValue,
+fundFamily,iShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0444
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.0655
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,1381.5
+maxAge,1
+lastCapGain,
+category,High Yield Bond
+fiveYearAverageReturn,0.048299998
+phone,800-474-2737
+longBusinessSummary,"The underlying index is a rules-based index consisting of U.S. dollar-denominated, high yield corporate bonds for sale in the U.S. The fund generally will invest at least 90% of its assets in the component securities of the underlying index and may invest up to 10% of its assets in certain futures, options and swap contracts, cash and cash equivalents, as well as in securities not included in the underlying index."
+companyOfficers,[]
+previousClose,82.77
+regularMarketOpen,82.69
+twoHundredDayAverage,86.83805
+trailingAnnualDividendYield,0.050924253
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,82.99
+navPrice,86.62
+averageDailyVolume10Day,41416620
+regularMarketPreviousClose,82.77
+fiftyDayAverage,85.415
+trailingAnnualDividendRate,4.215
+open,82.69
+toCurrency,
+averageVolume10days,41416620
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,82.62
+currency,USD
+trailingPE,8.697797
+regularMarketVolume,43848770
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,36191430
+dayLow,82.62
+ask,82.85
+askSize,1400
+volume,43848770
+fiftyTwoWeekHigh,88.16
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,82.22
+bid,82.69
+tradeable,False
+dividendYield,
+bidSize,27000
+dayHigh,82.99
+preferredPosition,
+bondPosition,0.97720003
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'XTSLA', 'holdingName': 'BlackRock Cash Funds Treasury SL Agency', 'holdingPercent': 0.0082}, {'symbol': '', 'holdingName': 'T-Mobile US, Inc. 7.88%', 'holdingPercent': 0.0042}, {'symbol': '', 'holdingName': 'TransDigm, Inc. 6.25%', 'holdingPercent': 0.0039}, {'symbol': '', 'holdingName': 'Centene Corporation 4.63%', 'holdingPercent': 0.0032}, {'symbol': '', 'holdingName': 'AAdvantage Loyalty IP Ltd/ American Airlines Inc 5.5%', 'holdingPercent': 0.0031}, {'symbol': '', 'holdingName': 'Caesars Entertainment Inc New 6.25%', 'holdingPercent': 0.0031}, {'symbol': '', 'holdingName': 'Bausch Health Companies Inc 6.13%', 'holdingPercent': 0.003}, {'symbol': '', 'holdingName': 'Ford Motor Company 9%', 'holdingPercent': 0.003}, {'symbol': '', 'holdingName': 'CCO Holdings, LLC/ CCO Holdings Capital Corp. 5.13%', 'holdingPercent': 0.0029}, {'symbol': '', 'holdingName': 'Teva Pharmaceutical Finance Netherlands III B.V. 3.15%', 'holdingPercent': 0.0029}]"
+bondHoldings,"{'maturity': 3.78, 'duration': 3.65, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0.5653}, {'aa': 0}, {'aaa': 0.0028}, {'a': 0}, {'other': -0.00090000004}, {'b': 0.3127}, {'bbb': 0.0061000003}, {'below_b': 0.11399999}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 0, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0
+regularMarketPrice,82.89
+preMarketPrice,
+logo_url,

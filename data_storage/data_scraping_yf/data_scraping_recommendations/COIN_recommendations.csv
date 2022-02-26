@@ -1,0 +1,34 @@
+Date,Firm,To Grade,From Grade,Action
+2021-04-15 10:28:58,BTIG,Buy,,init
+2021-04-15 14:22:38,DA Davidson,Buy,,main
+2021-04-16 10:37:11,Loop Capital,Buy,,init
+2021-04-21 10:37:28,Rosenblatt,Buy,,init
+2021-04-22 10:20:34,Mizuho,Neutral,,init
+2021-04-27 12:25:50,Bernstein,Market Perform,,init
+2021-05-04 14:13:52,Mizuho,Neutral,,main
+2021-05-11 09:48:19,Oppenheimer,Outperform,,init
+2021-05-13 10:31:47,Compass Point,Neutral,,init
+2021-05-14 11:01:30,Rosenblatt,Buy,,main
+2021-05-14 11:14:28,Piper Sandler,Overweight,,init
+2021-05-20 10:28:31,Wedbush,Outperform,,init
+2021-05-24 11:06:43,Goldman Sachs,Buy,,init
+2021-05-25 11:06:33,JP Morgan,Overweight,,init
+2021-05-25 12:11:56,Mizuho,Neutral,,main
+2021-06-09 11:22:01,Raymond James,Underperform,,init
+2021-06-16 10:19:08,Canaccord Genuity,Buy,,init
+2021-07-07 12:32:06,Oppenheimer,Outperform,,main
+2021-07-30 11:12:10,Mizuho,Neutral,,main
+2021-08-05 10:19:11,Redburn Partners,Buy,,init
+2021-08-11 11:00:54,Rosenblatt,Buy,,main
+2021-08-11 12:13:49,Wedbush,Outperform,,main
+2021-08-11 12:39:00,Canaccord Genuity,Buy,,main
+2021-08-13 16:00:27,B of A Securities,Neutral,,init
+2021-08-18 12:46:19,Mizuho,Neutral,,main
+2021-08-24 09:26:24,Needham,Buy,,init
+2021-09-28 10:52:27,JMP Securities,Market Outperform,,init
+2021-11-10 12:41:54,JMP Securities,Market Outperform,,main
+2021-11-10 17:21:01,Rosenblatt,Buy,,main
+2022-01-06 13:07:16,B of A Securities,Buy,Neutral,up
+2022-01-19 12:32:51,Citigroup,Buy,,main
+2022-01-25 13:23:04,Mizuho,Neutral,,main
+2022-01-26 13:15:28,Goldman Sachs,Buy,,main

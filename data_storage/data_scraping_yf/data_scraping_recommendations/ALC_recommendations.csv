@@ -1,0 +1,52 @@
+Date,Firm,To Grade,From Grade,Action
+2019-04-09 13:06:02,Wells Fargo,Outperform,,init
+2019-04-10 11:48:44,Morgan Stanley,Overweight,,init
+2019-04-10 13:06:24,Berenberg,Hold,,init
+2019-04-18 11:22:19,BMO Capital,Market Perform,,init
+2019-05-02 11:26:02,Credit Suisse,Outperform,,init
+2019-05-10 11:44:04,Baird,Outperform,,init
+2019-06-14 12:15:15,BTIG,Neutral,,init
+2019-07-16 12:37:58,Morgan Stanley,Overweight,,main
+2019-08-21 12:23:31,Bank of America,Neutral,,reit
+2019-08-26 12:43:01,Credit Suisse,Outperform,,main
+2019-12-17 13:56:04,Morgan Stanley,Overweight,,main
+2020-02-27 12:26:19,Stephens & Co.,Equal-Weight,,main
+2020-02-27 17:09:43,Credit Suisse,Outperform,,main
+2020-03-05 10:03:11,Citigroup,Neutral,,init
+2020-03-13 10:08:37,UBS,Buy,Neutral,up
+2020-03-26 12:54:56,Argus Research,Buy,Hold,up
+2020-03-26 13:55:11,Stephens & Co.,Equal-Weight,,main
+2020-03-27 19:19:13,Citigroup,Neutral,,main
+2020-03-27 19:19:24,Morgan Stanley,Overweight,,main
+2020-04-08 12:32:29,Baird,Neutral,Outperform,down
+2020-04-08 15:33:44,SVB Leerink,Market Perform,,main
+2020-04-09 14:29:03,Wells Fargo,Overweight,,main
+2020-05-14 10:29:21,SVB Leerink,Market Perform,,main
+2020-05-14 11:45:31,Citigroup,Neutral,,main
+2020-05-14 13:16:39,Wells Fargo,Overweight,,main
+2020-07-06 10:45:35,KeyBanc,Sector Weight,,init
+2020-08-20 08:38:39,SVB Leerink,Market Perform,,main
+2020-08-27 16:25:29,Societe Generale,Sell,Hold,down
+2020-11-12 09:58:01,SVB Leerink,Market Perform,,main
+2020-11-12 12:54:17,Morgan Stanley,Overweight,,main
+2020-11-13 13:35:15,Credit Suisse,Outperform,,main
+2020-12-15 16:14:33,Morgan Stanley,Overweight,,main
+2021-02-25 12:45:33,Credit Suisse,Outperform,,main
+2021-02-25 13:40:09,Morgan Stanley,Overweight,,main
+2021-03-22 10:47:48,BTIG,Buy,Neutral,up
+2021-03-25 13:10:49,Jefferies,Buy,,main
+2021-05-06 11:27:18,Citigroup,Neutral,Sell,up
+2021-08-19 08:46:20,SVB Leerink,Market Perform,,main
+2021-08-19 11:29:15,Wells Fargo,Overweight,,main
+2021-08-19 11:30:36,Credit Suisse,Outperform,,main
+2021-08-19 12:05:53,Morgan Stanley,Overweight,,main
+2021-08-19 12:22:50,BTIG,Buy,,main
+2021-09-13 11:37:09,Wells Fargo,Overweight,,main
+2021-10-01 09:06:56,Oppenheimer,Perform,,init
+2021-11-11 13:32:55,Morgan Stanley,Overweight,,main
+2021-11-11 15:04:43,Citigroup,Neutral,,main
+2021-11-12 13:21:15,Credit Suisse,Outperform,,main
+2022-01-07 11:40:50,Morgan Stanley,Equal-Weight,Overweight,down
+2022-01-18 14:35:21,Stephens & Co.,Equal-Weight,Overweight,down
+2022-02-17 13:13:26,Credit Suisse,Outperform,,main
+2022-02-17 13:17:29,Morgan Stanley,Equal-Weight,,main

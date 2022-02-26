@@ -1,0 +1,57 @@
+Date,Firm,To Grade,From Grade,Action
+2018-07-10 10:15:16,KeyBanc,Sector Weight,,init
+2018-07-10 12:27:20,JP Morgan,Neutral,,init
+2018-07-10 12:56:37,Goldman Sachs,Neutral,,init
+2018-08-16 11:43:09,Goldman Sachs,Buy,Neutral,up
+2018-10-01 09:06:58,KeyBanc,Overweight,Sector Weight,up
+2018-11-08 11:11:38,JMP Securities,Market Outperform,Market Perform,up
+2018-12-13 11:54:30,JP Morgan,Overweight,Neutral,up
+2019-02-13 13:32:49,JMP Securities,Market Outperform,Market Outperform,main
+2019-02-13 14:44:51,KeyBanc,Overweight,Overweight,main
+2019-04-12 11:13:24,Needham,Buy,,init
+2019-05-08 12:01:21,JMP Securities,Market Outperform,,main
+2019-05-08 13:14:45,KeyBanc,Overweight,,main
+2019-07-30 11:01:42,Stephens & Co.,Overweight,,init
+2019-08-08 10:07:37,KeyBanc,Overweight,,main
+2019-08-08 10:12:33,Stifel Nicolaus,Buy,Hold,up
+2019-08-08 11:11:15,William Blair,Outperform,,init
+2019-08-08 12:20:54,JP Morgan,Overweight,,main
+2019-08-26 12:05:43,Canaccord Genuity,Buy,,init
+2019-09-06 10:55:42,Raymond James,Outperform,,init
+2019-10-11 11:52:37,Mizuho,Buy,,init
+2019-10-29 10:51:26,Piper Jaffray,Overweight,,init
+2019-11-06 12:50:06,Raymond James,Outperform,,main
+2020-02-13 12:19:08,Raymond James,Outperform,,main
+2020-02-13 16:00:45,Canaccord Genuity,Buy,,main
+2020-02-20 13:26:15,Citigroup,Buy,,init
+2020-03-31 10:18:35,Piper Sandler,Overweight,,main
+2020-04-13 11:34:37,Needham,Buy,,main
+2020-05-08 10:33:49,Piper Sandler,Overweight,,main
+2020-05-08 12:30:11,Raymond James,Outperform,,main
+2020-05-08 12:45:16,JMP Securities,Market Outperform,,main
+2020-06-23 08:42:19,Piper Sandler,Overweight,,main
+2020-06-24 11:33:22,Needham,Buy,,main
+2020-08-13 11:27:27,Raymond James,Outperform,,main
+2020-11-06 09:25:42,Piper Sandler,Overweight,,main
+2020-11-06 12:46:59,Needham,Buy,,main
+2020-11-06 14:18:12,Raymond James,Outperform,,main
+2020-12-09 13:18:42,JP Morgan,Neutral,Overweight,down
+2021-01-27 10:19:35,Piper Sandler,Overweight,,main
+2021-02-11 10:31:39,Piper Sandler,Overweight,,main
+2021-02-11 12:21:42,Needham,Buy,,main
+2021-02-11 12:26:47,Raymond James,Outperform,,main
+2021-02-11 16:13:03,Mizuho,Buy,,main
+2021-02-11 16:29:14,Canaccord Genuity,Buy,,main
+2021-04-07 11:32:28,Morgan Stanley,Overweight,,init
+2021-05-07 11:50:22,Morgan Stanley,Overweight,,main
+2021-05-07 11:51:54,Raymond James,Outperform,,main
+2021-08-06 08:41:40,Piper Sandler,Overweight,,main
+2021-08-06 16:06:10,Raymond James,Outperform,,main
+2021-08-24 11:19:16,Berenberg,Buy,,init
+2021-08-25 10:05:23,Berenberg,Buy,,init
+2021-12-14 11:40:07,JP Morgan,Overweight,Neutral,up
+2022-01-28 15:22:46,Mizuho,Buy,,main
+2022-02-02 10:09:06,BMO Capital,Outperform,,init
+2022-02-11 10:39:25,Needham,Buy,,main
+2022-02-11 12:18:12,Mizuho,Buy,,main
+2022-02-11 12:21:45,Raymond James,Outperform,,main

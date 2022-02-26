@@ -1,0 +1,84 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-06 06:47:00,Brean Capital,Buy,,main
+2012-03-07 13:15:00,PiperJaffray,Overweight,,main
+2012-03-09 06:40:00,Morgan Stanley,Overweight,,main
+2012-05-22 11:33:00,PiperJaffray,Overweight,,main
+2012-05-23 06:58:00,Morgan Stanley,Overweight,,main
+2012-05-23 10:44:00,UBS,Buy,,main
+2012-05-24 06:44:00,JP Morgan,Neutral,,init
+2012-07-17 06:00:00,Morgan Stanley,Equal-Weight,Overweight,down
+2012-08-13 11:31:00,UBS,Buy,,main
+2012-08-22 13:41:00,PiperJaffray,Overweight,,main
+2012-08-22 15:51:00,Wedbush,Outperform,,main
+2012-08-23 06:46:00,JP Morgan,Neutral,,main
+2012-08-23 06:49:00,Bank of America,Buy,,main
+2012-08-23 08:32:00,BMO Capital,Outperform,,main
+2012-08-23 11:00:00,UBS,Buy,,main
+2012-10-02 09:45:00,PiperJaffray,Overweight,,main
+2012-10-02 13:03:00,Wedbush,Outperform,,main
+2012-11-28 09:42:00,PiperJaffray,Overweight,,main
+2013-01-17 09:58:48,Bank of America,Buy,,main
+2013-02-06 06:31:55,JP Morgan,Overweight,Neutral,up
+2013-02-08 10:58:53,UBS,Buy,,main
+2013-03-11 08:08:15,JP Morgan,Overweight,,main
+2013-03-14 07:40:21,BMO Capital,Outperform,,main
+2013-03-14 08:16:35,Wedbush,Outperform,,main
+2013-06-21 11:19:22,JP Morgan,Overweight,,main
+2013-07-12 10:39:57,Bank of America,Buy,,main
+2013-07-19 08:15:36,SunTrust Robinson Humphrey,Neutral,,init
+2013-07-31 10:38:41,CL King,Neutral,Buy,down
+2013-08-01 09:29:23,FBR Capital,Outperform,,init
+2013-08-07 13:11:59,BlueFin,Market Perform,Outperform,down
+2013-09-09 07:17:31,Nomura,Buy,,init
+2013-11-15 08:10:17,Mizuho,Buy,,init
+2013-11-18 06:24:31,Goldman Sachs,Buy,,init
+2013-12-05 07:31:18,Nomura,Buy,,main
+2014-02-20 08:00:00,Janney Capital,Neutral,,init
+2014-02-27 08:00:00,Wedbush,Neutral,,init
+2014-03-12 08:00:00,Stifel Nicolaus,Hold,Buy,down
+2014-03-13 08:00:00,FBR Capital,Market Perform,,down
+2014-05-09 02:34:17,JP Morgan,Overweight,,main
+2014-05-30 20:37:20,FBR Capital,Market Perform,,main
+2014-06-12 22:19:19,JP Morgan,Overweight,,main
+2014-06-23 10:27:35,Janney Capital,Buy,Neutral,up
+2014-08-28 09:00:00,UBS,Neutral,,main
+2014-09-19 08:33:00,Goldman Sachs,Neutral,Buy,down
+2015-02-04 06:39:56,Wedbush,Outperform,Neutral,up
+2015-02-18 06:37:53,PiperJaffray,Overweight,Neutral,up
+2015-03-31 06:27:04,Brean Capital,Buy,,init
+2015-05-29 09:00:00,BMO Capital,Outperform,,main
+2015-08-04 10:08:43,BlueFin,Outperform,Neutral,up
+2015-08-17 17:06:25,Wolfe Research,Outperform,,init
+2015-08-27 05:56:27,Mizuho,Buy,,main
+2015-08-27 06:13:21,Brean Capital,Buy,,main
+2015-08-27 06:38:22,UBS,Neutral,,main
+2015-08-27 07:39:02,Susquehanna,Positive,,main
+2015-08-27 08:45:08,SunTrust Robinson Humphrey,Neutral,,main
+2015-09-17 09:59:49,MKM Partners,Neutral,,init
+2015-11-20 06:05:30,Goldman Sachs,Sell,Neutral,down
+2016-03-10 09:38:55,Nomura,Buy,,main
+2016-03-23 06:14:18,BlueFin,Market Outperform,,main
+2016-04-26 16:39:55,Deutsche Bank,Buy,,init
+2016-08-24 09:09:18,Deutsche Bank,Hold,Buy,down
+2016-08-24 11:50:28,Wedbush,Neutral,Outperform,down
+2016-08-24 12:49:03,CL King,Neutral,Buy,down
+2016-08-25 04:37:42,UBS,Sell,Neutral,down
+2016-08-25 07:20:45,BMO Capital,Market Perform,,main
+2016-08-25 07:22:53,MKM Partners,Neutral,,main
+2016-08-25 07:23:29,Nomura,Buy,,main
+2016-08-25 07:35:46,FBR Capital,Market Perform,,main
+2017-03-09 14:37:35,Mizuho,Neutral,Buy,down
+2018-05-11 11:29:22,Wedbush,Neutral,,init
+2018-07-12 16:26:25,SunTrust Robinson Humphrey,Hold,Hold,main
+2018-08-30 13:02:45,B. Riley FBR,Neutral,Neutral,main
+2019-01-08 12:47:23,Wedbush,Neutral,Neutral,main
+2019-03-14 13:42:52,Wedbush,Neutral,Neutral,main
+2019-03-18 13:11:08,Deutsche Bank,Hold,Hold,main
+2019-05-31 16:15:36,B. Riley FBR,Neutral,,reit
+2019-08-27 16:32:10,Wedbush,Neutral,,main
+2020-01-27 15:55:24,B. Riley,Neutral,,main
+2020-03-12 11:28:01,B. Riley FBR,Neutral,,main
+2020-03-12 11:31:47,Wedbush,Neutral,,main
+2020-03-26 12:21:13,B. Riley FBR,Neutral,,main
+2020-04-03 20:24:11,B. Riley FBR,Neutral,,main
+2020-08-27 12:39:31,MKM Partners,Neutral,,main

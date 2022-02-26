@@ -1,0 +1,121 @@
+Date,Firm,To Grade,From Grade,Action
+2014-12-22 09:00:00,JP Morgan,Overweight,,main
+2015-01-23 09:00:00,JP Morgan,Overweight,,main
+2015-02-04 09:00:00,JMP Securities,Market Outperform,,main
+2015-03-09 16:56:33,CRT Capital,Buy,,init
+2015-03-10 07:15:02,CRT Capital,Buy,,init
+2015-05-11 09:00:00,JMP Securities,Market Outperform,,main
+2015-05-12 09:00:00,Leerink Swann,Outperform,,main
+2015-06-18 08:41:32,JP Morgan,Overweight,,main
+2015-09-25 06:05:10,BMO Capital,Outperform,,init
+2015-11-10 13:55:26,Leerink Swann,Outperform,,main
+2016-01-19 10:54:33,BMO Capital,Outperform,,main
+2016-01-27 12:07:09,JMP Securities,Market Outperform,,main
+2016-03-29 08:54:10,Northland Securities,Market Perform,,init
+2016-07-12 06:25:45,Wells Fargo,Outperform,,init
+2016-07-19 08:32:53,William Blair,Outperform,,init
+2016-07-22 07:15:21,PiperJaffray,Overweight,,init
+2016-08-08 08:10:53,Bank of America,Buy,,init
+2016-08-09 22:26:07,JMP Securities,Market Outperform,,main
+2016-08-09 22:26:09,JP Morgan,Overweight,,main
+2017-08-08 14:35:25,Morgan Stanley,Overweight,,main
+2017-11-07 12:17:24,Canaccord Genuity,Buy,,main
+2017-11-07 13:02:55,Leerink Swann,Outperform,,main
+2018-04-04 18:27:53,Goldman Sachs,Neutral,,init
+2018-05-05 14:00:37,B. Riley FBR,Buy,,init
+2018-05-05 14:00:38,B. Riley FBR,Neutral,Buy,down
+2018-05-08 12:07:40,JMP Securities,Market Outperform,Market Outperform,main
+2018-05-08 13:40:30,Canaccord Genuity,Buy,Buy,main
+2018-05-08 15:43:44,Wells Fargo,Market Perform,Outperform,down
+2018-05-08 15:52:08,Northland Securities,Market Perform,Outperform,down
+2018-07-02 10:38:18,Morgan Stanley,Equal-Weight,Overweight,down
+2018-07-16 12:10:46,Canaccord Genuity,Buy,Buy,main
+2018-07-17 11:35:58,Canaccord Genuity,Buy,Buy,main
+2018-07-17 11:49:42,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-07-17 15:08:03,Wells Fargo,Market Perform,Market Perform,main
+2018-07-19 12:17:23,Leerink Swann,Outperform,Outperform,main
+2018-08-06 13:13:45,BMO Capital,Outperform,Outperform,main
+2018-10-19 10:27:07,Goldman Sachs,Sell,Neutral,down
+2018-11-06 12:43:34,JP Morgan,Neutral,Overweight,down
+2018-11-06 14:19:18,BMO Capital,Outperform,Outperform,main
+2018-11-06 14:29:38,Wells Fargo,Market Perform,Market Perform,main
+2018-11-06 15:31:31,Morgan Stanley,Underweight,Equal-Weight,down
+2018-11-07 13:06:52,Bank of America,Neutral,Buy,down
+2018-11-28 13:13:39,UBS,Sell,,init
+2019-01-02 14:43:36,Morgan Stanley,Underweight,Underweight,main
+2019-03-20 10:55:54,Bank of America,Buy,Neutral,up
+2019-03-20 11:02:43,BMO Capital,Outperform,Market Perform,up
+2019-03-20 13:35:51,Wells Fargo,Outperform,Market Perform,up
+2019-03-21 11:42:46,Morgan Stanley,Overweight,Underweight,up
+2019-05-10 11:21:15,JMP Securities,Market Outperform,,main
+2019-05-10 11:21:16,Canaccord Genuity,Hold,Buy,down
+2019-05-10 12:04:06,Morgan Stanley,Overweight,,main
+2019-05-10 12:36:33,Canaccord Genuity,Hold,Buy,down
+2019-08-09 11:45:37,Canaccord Genuity,Hold,,main
+2019-08-09 16:44:51,Bank of America,Buy,,reit
+2019-08-12 11:39:31,JMP Securities,Market Outperform,,reit
+2019-10-09 13:27:26,Wells Fargo,Outperform,,main
+2019-10-22 11:12:09,Oppenheimer,Perform,,init
+2019-11-07 11:52:36,Oppenheimer,Outperform,Perform,up
+2019-11-07 12:51:18,Wells Fargo,Outperform,,main
+2019-11-07 13:03:58,JP Morgan,Neutral,,main
+2019-11-07 14:26:45,Morgan Stanley,Overweight,,main
+2019-11-07 16:13:29,Canaccord Genuity,Hold,,main
+2019-11-08 12:42:59,UBS,Sell,,main
+2019-12-17 14:16:30,Morgan Stanley,Overweight,,main
+2019-12-20 14:40:21,JP Morgan,Neutral,,main
+2020-01-06 12:10:56,Oppenheimer,Perform,Outperform,down
+2020-01-08 14:51:54,SunTrust Robinson Humphrey,Buy,,init
+2020-01-15 13:59:30,UBS,Sell,,main
+2020-01-27 12:42:42,JMP Securities,Market Outperform,,main
+2020-01-27 15:28:29,Morgan Stanley,Overweight,,main
+2020-02-26 10:32:57,Canaccord Genuity,Buy,Hold,up
+2020-02-26 12:54:33,JP Morgan,Neutral,,main
+2020-02-26 14:27:57,Wells Fargo,Overweight,,main
+2020-03-27 19:02:31,Morgan Stanley,Overweight,,main
+2020-03-27 19:12:15,Citigroup,Buy,,main
+2020-04-02 13:09:47,Wells Fargo,Overweight,,main
+2020-04-02 19:54:12,SunTrust Robinson Humphrey,Buy,,main
+2020-04-02 20:13:09,Canaccord Genuity,Buy,,main
+2020-04-02 20:25:21,JP Morgan,Neutral,,main
+2020-04-03 21:30:05,Morgan Stanley,Overweight,,main
+2020-05-06 13:02:42,Morgan Stanley,Overweight,,main
+2020-05-06 14:18:36,JP Morgan,Neutral,,main
+2020-05-06 16:09:26,SunTrust Robinson Humphrey,Buy,,main
+2020-06-08 11:44:21,UBS,Neutral,Sell,up
+2020-06-18 11:50:52,Citigroup,Overweight,,main
+2020-08-06 09:12:15,SVB Leerink,Outperform,,main
+2020-08-06 11:25:35,Citigroup,Buy,,main
+2020-08-06 13:15:50,Morgan Stanley,Overweight,,main
+2020-08-06 14:33:22,Canaccord Genuity,Buy,,main
+2020-08-06 18:33:02,Wells Fargo,Overweight,,main
+2020-09-02 10:01:30,Baird,Outperform,,init
+2020-10-12 14:21:20,SVB Leerink,Outperform,,main
+2020-10-23 10:16:29,Guggenheim,Buy,,init
+2020-11-06 16:52:58,Morgan Stanley,Overweight,,main
+2020-12-15 17:31:33,Morgan Stanley,Overweight,,main
+2021-01-19 10:38:47,SVB Leerink,Outperform,,main
+2021-02-02 10:59:12,Piper Sandler,Overweight,,init
+2021-02-26 14:02:07,Morgan Stanley,Overweight,,main
+2021-05-06 12:41:18,Canaccord Genuity,Buy,,main
+2021-06-28 11:41:28,Baird,Outperform,,main
+2021-06-28 12:11:20,Piper Sandler,Overweight,,main
+2021-06-28 12:19:58,Wells Fargo,Overweight,,main
+2021-07-06 10:21:39,Baird,Neutral,Outperform,down
+2021-07-09 12:29:47,Redburn Partners,Neutral,Buy,down
+2021-08-05 08:56:26,William Blair,Market Perform,Outperform,down
+2021-08-05 09:07:34,Piper Sandler,Neutral,Overweight,down
+2021-08-05 09:54:14,SVB Leerink,Outperform,,main
+2021-08-05 10:42:24,Citigroup,Neutral,Buy,down
+2021-08-05 10:55:18,Wells Fargo,Equal-Weight,Overweight,down
+2021-08-05 11:32:58,JMP Securities,Market Outperform,,main
+2021-08-05 11:42:18,Canaccord Genuity,Hold,Buy,down
+2021-08-05 13:13:36,Morgan Stanley,Overweight,,main
+2021-10-06 14:53:31,OTR Global,Mixed,Positive,down
+2021-11-09 08:39:53,SVB Leerink,Outperform,,main
+2021-11-09 12:37:40,Wells Fargo,Equal-Weight,,main
+2021-11-09 13:30:35,Truist Securities,Hold,Buy,down
+2021-12-06 11:15:44,Wells Fargo,Overweight,Equal-Weight,up
+2021-12-21 12:21:13,Truist Securities,Hold,,main
+2022-01-07 11:43:31,Morgan Stanley,Equal-Weight,Overweight,down
+2022-01-12 14:01:42,Canaccord Genuity,Hold,,main

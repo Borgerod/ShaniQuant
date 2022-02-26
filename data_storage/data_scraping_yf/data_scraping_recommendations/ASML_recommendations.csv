@@ -1,0 +1,82 @@
+Date,Firm,To Grade,From Grade,Action
+2012-06-21 08:16:00,Bernstein,Outperform,,init
+2012-08-28 06:13:00,Deutsche Bank,Sell,Hold,down
+2012-09-19 06:40:00,JP Morgan,Overweight,,init
+2012-10-09 09:21:00,CLSA,Outperform,,init
+2012-10-18 09:52:00,RBC Capital,Sector Perform,Outperform,down
+2012-12-14 12:16:55,Caris & Co.,Average,Buy,down
+2012-12-14 12:17:51,Pacific Crest,Sector Perform,Outperform,down
+2013-01-07 09:35:27,Bank of America,Neutral,Buy,down
+2013-01-17 07:24:03,Bank of America,Buy,Neutral,up
+2013-01-22 06:36:18,Deutsche Bank,Hold,Sell,up
+2013-01-28 09:39:10,Citigroup,Buy,Neutral,up
+2013-01-30 07:00:57,Citigroup,Buy,Neutral,up
+2013-03-04 08:00:07,RBC Capital,Underperform,Sector Perform,down
+2013-04-18 06:24:28,Deutsche Bank,Buy,Hold,up
+2013-07-08 08:32:01,Redburn Partners,Buy,Hold,up
+2013-07-23 08:55:42,Berenberg,Hold,,init
+2013-10-10 09:01:29,Susquehanna,Neutral,Positive,down
+2013-10-17 06:31:31,Morgan Stanley,Equal-weight,Overweight,down
+2013-10-18 07:22:28,Baader Bank,Sell,Hold,down
+2013-11-26 07:54:46,Societe Generale,Buy,Hold,up
+2014-01-14 06:55:21,Credit Suisse,Neutral,Outperform,down
+2014-01-22 16:00:00,Commerzbank,Hold,Reduce,up
+2014-01-23 16:00:00,LBBW Research,Buy,Hold,up
+2014-04-10 17:57:45,ISI Group,Cautious,,init
+2014-04-16 13:46:14,ISI Group,Neutral,Cautious,up
+2014-04-17 00:38:37,Northland Securities,Outperform,,main
+2014-04-17 06:44:33,Credit Suisse,Neutral,,main
+2014-07-21 07:30:44,Pacific Crest,Outperform,Sector Perform,up
+2014-08-27 08:33:08,Stifel Nicolaus,Hold,,init
+2014-11-20 09:00:00,JP Morgan,Overweight,,main
+2015-03-06 07:20:44,Pacific Crest,Sector Perform,Outperform,down
+2015-03-19 09:00:00,JP Morgan,Overweight,,main
+2015-03-26 07:07:47,Deutsche Bank,Sell,Hold,down
+2015-04-15 14:17:03,Summit Research Partners,Hold,Buy,down
+2015-04-16 07:37:17,Citigroup,Buy,Neutral,up
+2015-07-02 07:06:06,Liberum,Sell,Hold,down
+2015-07-10 11:00:00,Susquehanna,Positive,,main
+2015-07-21 07:57:16,SNS Securities,Accumulate,Neutral,up
+2015-08-28 06:23:18,Berenberg,Buy,Hold,up
+2016-01-22 07:06:18,Deutsche Bank,Hold,Sell,up
+2016-03-17 05:55:10,RBC Capital,Sector Perform,,init
+2016-03-31 12:19:37,Exane BNP Paribas,Underperform,Neutral,down
+2016-04-19 04:12:19,Summit Research Partners,Hold,,main
+2016-04-19 06:36:40,Susquehanna,Neutral,Positive,down
+2016-04-21 06:13:17,Credit Suisse,Neutral,,main
+2016-07-21 07:06:58,UBS,Neutral,Buy,down
+2016-08-17 07:15:32,Bank of America,Neutral,Buy,down
+2016-12-19 11:32:00,Bank of America,Buy,Neutral,up
+2017-01-19 13:00:12,Citigroup,Neutral,Buy,down
+2017-03-10 13:27:32,UBS,Buy,Neutral,up
+2017-09-18 18:27:11,Susquehanna,Positive,Neutral,up
+2017-10-19 14:09:58,Credit Suisse,Neutral,,main
+2018-05-05 14:00:36,B. Riley FBR,Neutral,,main
+2018-05-05 14:00:39,B. Riley FBR,Neutral,,main
+2018-05-15 10:57:26,Cowen & Co.,Market Perform,,init
+2018-06-13 13:42:24,RBC Capital,Outperform,Sector Perform,up
+2018-07-16 13:53:26,BlueFin,Positive,Neutral,up
+2018-07-19 14:08:14,Credit Suisse,Outperform,Outperform,main
+2018-07-19 14:14:53,B. Riley FBR,Neutral,Neutral,main
+2018-10-23 11:19:46,Susquehanna,Neutral,Positive,down
+2018-10-31 11:29:09,Santander,Buy,Hold,up
+2019-06-20 11:00:09,Wells Fargo,Outperform,,init
+2019-07-15 12:42:33,Santander,Hold,Buy,down
+2019-07-29 11:32:19,ABN Amro,Hold,,init
+2019-09-19 11:31:58,Wells Fargo,Outperform,,main
+2019-10-14 13:25:49,RBC Capital,Outperform,,main
+2019-12-04 13:17:49,JP Morgan,Overweight,,main
+2019-12-20 13:08:48,Wells Fargo,Overweight,,main
+2020-01-23 18:22:03,RBC Capital,Outperform,,main
+2020-03-20 14:13:19,Wells Fargo,Overweight,,main
+2020-03-25 18:32:25,Wells Fargo,Overweight,,main
+2020-04-16 12:51:26,Wells Fargo,Overweight,,main
+2020-07-09 16:08:18,Wells Fargo,Overweight,,main
+2020-07-29 11:11:32,Bernstein,Market Perform,Outperform,down
+2021-02-02 16:03:26,JP Morgan,Overweight,,main
+2021-03-22 11:27:09,Cowen & Co.,Outperform,Market Perform,up
+2021-04-16 14:48:14,Wells Fargo,Overweight,,main
+2021-07-16 13:07:40,Wells Fargo,Overweight,,main
+2021-09-08 12:04:22,Wells Fargo,Overweight,,main
+2021-09-28 10:58:52,New Street Research,Neutral,Buy,down
+2021-10-15 10:39:00,Piper Sandler,Overweight,,init

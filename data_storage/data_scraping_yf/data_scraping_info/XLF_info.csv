@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,SPDR Select Sector Fund - Finan
+longName,Financial Select Sector SPDR Fund
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,XLF
+messageBoardId,finmb_8795483
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.25
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,913766400
+annualReportExpenseRatio,
+totalAssets,44731498496
+bookValue,
+fundFamily,SPDR State Street Global Advisors
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.015700001
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.2143
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Financial
+fiveYearAverageReturn,0.138
+phone,866-732-8673
+longBusinessSummary,"The fund generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes securities of companies from the following industries: diversified financial services; insurance; banks; capital markets; mortgage real estate investment trusts (""REITs""); consumer finance; and thrifts and mortgage finance. The fund is non-diversified."
+companyOfficers,[]
+previousClose,39.23
+regularMarketOpen,39.19
+twoHundredDayAverage,38.41545
+trailingAnnualDividendYield,0.014784603
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,39.55
+navPrice,40.56
+averageDailyVolume10Day,59740450
+regularMarketPreviousClose,39.23
+fiftyDayAverage,39.5602
+trailingAnnualDividendRate,0.58
+open,39.19
+toCurrency,
+averageVolume10days,59740450
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,39.02
+currency,USD
+trailingPE,4.0752287
+regularMarketVolume,47824547
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,68542470
+dayLow,39.02
+ask,39.11
+askSize,45100
+volume,47824547
+fiftyTwoWeekHigh,41.7
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,32.19
+bid,39.02
+tradeable,False
+dividendYield,
+bidSize,40700
+dayHigh,39.55
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 1}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'BRK.B', 'holdingName': 'Berkshire Hathaway Inc Class B', 'holdingPercent': 0.1283}, {'symbol': 'JPM', 'holdingName': 'JPMorgan Chase & Co', 'holdingPercent': 0.114700004}, {'symbol': 'BAC', 'holdingName': 'Bank of America Corp', 'holdingPercent': 0.0757}, {'symbol': 'WFC', 'holdingName': 'Wells Fargo & Co', 'holdingPercent': 0.0456}, {'symbol': 'C', 'holdingName': 'Citigroup Inc', 'holdingPercent': 0.0356}, {'symbol': 'MS', 'holdingName': 'Morgan Stanley', 'holdingPercent': 0.0332}, {'symbol': 'GS', 'holdingName': 'Goldman Sachs Group Inc', 'holdingPercent': 0.0315}, {'symbol': 'BLK', 'holdingName': 'BlackRock Inc', 'holdingPercent': 0.030199999}, {'symbol': 'SCHW', 'holdingName': 'Charles Schwab Corp', 'holdingPercent': 0.026600001}, {'symbol': 'AXP', 'holdingName': 'American Express Co', 'holdingPercent': 0.026199998}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 2.38, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 13.24, 'priceToBook': 1.64, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9984
+regularMarketPrice,39.22
+preMarketPrice,
+logo_url,

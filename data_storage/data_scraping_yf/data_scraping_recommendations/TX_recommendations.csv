@@ -1,0 +1,50 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-15 06:27:00,Morgan Stanley,Equal-Weight,,down
+2012-04-23 06:01:00,Goldman Sachs,Buy,,main
+2012-04-25 13:37:00,Bank of America,Buy,,up
+2012-08-03 05:56:00,Goldman Sachs,Neutral,Buy,down
+2013-02-22 07:50:11,JP Morgan,Neutral,Overweight,down
+2013-10-03 06:40:40,Morgan Stanley,Overweight,Equal-Weight,up
+2014-03-28 06:54:54,Morgan Stanley,Equal-Weight,Overweight,down
+2014-04-16 22:55:57,JP Morgan,Neutral,,main
+2014-10-03 08:15:07,Credit Suisse,Neutral,Outperform,down
+2014-10-16 08:30:00,JP Morgan,Neutral,Overweight,down
+2015-04-01 09:00:00,JP Morgan,Neutral,,main
+2015-06-12 18:16:40,Credit Suisse,Neutral,,main
+2015-06-28 04:33:36,Bank of America,Neutral,Buy,down
+2015-06-29 07:15:28,Bank of America,Neutral,Buy,down
+2015-06-30 09:34:06,JP Morgan,Overweight,,up
+2015-08-10 08:36:15,Goldman Sachs,Buy,,init
+2015-12-07 04:59:11,Morgan Stanley,Overweight,Equal-Weight,up
+2016-02-24 07:51:53,Citigroup,Buy,Neutral,up
+2016-02-25 06:48:52,JP Morgan,Overweight,,main
+2016-05-09 06:19:18,Morgan Stanley,Equal-Weight,Overweight,down
+2016-05-13 04:49:59,HSBC,Buy,,init
+2016-07-07 13:37:48,JP Morgan,Overweight,,main
+2016-07-20 09:35:29,UBS,Neutral,Buy,down
+2016-08-05 11:25:03,JP Morgan,Overweight,,main
+2016-11-03 18:52:23,Itau BBA,Outperform,Market Perform,up
+2016-11-09 16:12:46,HSBC,Hold,Buy,down
+2016-11-23 12:56:06,Berenberg,Buy,,init
+2017-02-23 18:05:00,HSBC,Buy,Hold,up
+2017-12-06 12:20:59,Morgan Stanley,Overweight,Equal-Weight,up
+2018-05-15 12:06:58,Credit Suisse,Outperform,Neutral,up
+2019-02-28 13:23:18,Credit Suisse,Neutral,Outperform,down
+2019-05-06 10:43:36,JP Morgan,Neutral,Overweight,down
+2019-05-31 14:07:03,UBS,Neutral,,main
+2019-08-13 11:00:36,Bradesco,Neutral,Outperform,down
+2020-01-22 12:59:34,ScotiaBank,Sector Outperform,Sector Perform,up
+2020-01-27 12:08:06,UBS,Sell,Neutral,down
+2020-02-20 10:04:28,JP Morgan,Overweight,Neutral,up
+2020-03-16 11:04:45,Morgan Stanley,Overweight,Equal-Weight,up
+2020-05-14 12:46:29,UBS,Sell,,main
+2020-06-22 09:48:10,JP Morgan,Neutral,Overweight,down
+2020-11-06 11:32:04,JP Morgan,Overweight,Neutral,up
+2021-01-11 11:43:13,Credit Suisse,Outperform,Neutral,up
+2021-01-21 11:33:50,Bradesco Corretora,Outperform,Neutral,up
+2021-05-14 10:34:57,Scotiabank,Sector Perform,Outperform,down
+2021-08-19 08:56:40,Itau BBA,Outperform,Market Perform,up
+2021-10-18 13:21:15,Morgan Stanley,Equal-Weight,Overweight,down
+2021-11-17 10:25:12,Wolfe Research,Peer Perform,,init
+2021-12-20 12:26:51,Scotiabank,Sector Outperform,Sector Perform,up
+2022-01-11 11:50:33,Wolfe Research,Underperform,Peer Perform,down

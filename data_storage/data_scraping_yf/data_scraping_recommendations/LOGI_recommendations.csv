@@ -1,0 +1,55 @@
+Date,Firm,To Grade,From Grade,Action
+2012-10-26 09:58:00,Raymond James,Market Perform,Outperform,down
+2013-01-14 10:22:20,Goldman Sachs,Neutral,Sell,up
+2013-01-15 08:51:54,Credit Suisse,Underperform,Neutral,down
+2013-01-25 11:32:12,Avondale Partners,Market Perform,Outperform,down
+2013-04-22 09:38:49,Avondale Partners,Market Underperform,Perform,down
+2014-01-02 16:00:00,S&P Capital IQ,Sell,Hold,down
+2014-02-17 20:40:07,JP Morgan,Underweight,,main
+2014-07-25 01:28:01,JP Morgan,Neutral,,main
+2015-03-12 05:44:22,JP Morgan,Underweight,Neutral,down
+2016-02-02 08:40:31,Morgan Stanley,Underperform,,down
+2016-04-05 08:21:25,Sterne Agee CRT,Neutral,,init
+2016-07-29 14:06:50,JP Morgan,Underweight,,main
+2016-08-10 11:38:53,Morgan Stanley,Equal-Weight,Underweight,up
+2016-08-23 06:37:37,UBS,Neutral,Buy,down
+2016-10-25 09:52:13,Brean Capital,Buy,,init
+2016-10-27 11:49:08,JP Morgan,Neutral,Underweight,up
+2017-07-24 21:31:10,Loop Capital,Buy,,init
+2018-01-24 17:36:54,Citigroup,Buy,Buy,main
+2018-01-24 17:42:57,JP Morgan,Neutral,Neutral,main
+2018-02-06 12:59:00,JP Morgan,Underweight,Neutral,down
+2018-03-15 20:59:20,DA Davidson,Buy,,init
+2018-08-02 14:36:32,Citigroup,Buy,Buy,main
+2018-09-05 12:46:17,DA Davidson,Buy,Buy,main
+2018-10-16 11:34:06,Citigroup,Buy,Buy,main
+2019-01-23 12:03:29,JP Morgan,Overweight,Neutral,up
+2019-01-23 13:24:36,Maxim Group,Hold,Sell,up
+2019-01-28 13:53:52,Goldman Sachs,Buy,Neutral,up
+2019-12-18 18:13:40,UBS,Neutral,Buy,down
+2020-01-14 11:44:27,JP Morgan,Neutral,Overweight,down
+2020-01-15 12:27:22,Wedbush,Neutral,Outperform,down
+2020-02-27 11:36:59,JP Morgan,Overweight,Neutral,up
+2020-03-09 10:27:48,Wedbush,Outperform,Neutral,up
+2020-05-04 12:33:23,Wedbush,Outperform,,main
+2020-05-13 14:31:45,Citigroup,Buy,,main
+2020-05-20 09:30:06,UBS,Neutral,Sell,up
+2020-05-21 12:54:06,JP Morgan,Neutral,Overweight,down
+2020-06-24 11:14:40,Wedbush,Neutral,Outperform,down
+2020-07-22 10:36:24,Citigroup,Buy,,main
+2020-07-22 16:53:57,Wedbush,Neutral,,main
+2020-11-12 12:51:45,Morgan Stanley,Overweight,,init
+2020-12-16 17:54:39,Morgan Stanley,Overweight,,main
+2021-01-14 14:46:58,Morgan Stanley,Overweight,,main
+2021-01-20 15:01:33,Morgan Stanley,Overweight,,main
+2021-03-02 13:04:41,Morgan Stanley,Overweight,,main
+2021-04-16 13:28:48,Morgan Stanley,Overweight,,main
+2021-04-30 12:34:58,Morgan Stanley,Overweight,,main
+2021-06-11 11:04:52,Morgan Stanley,Equal-Weight,Overweight,down
+2021-06-25 09:00:36,Goldman Sachs,Neutral,Buy,down
+2021-07-28 11:43:15,Loop Capital,Hold,Buy,down
+2021-07-28 13:07:46,Morgan Stanley,Equal-Weight,,main
+2021-09-28 09:04:52,Morgan Stanley,Underweight,Equal-Weight,down
+2021-10-06 12:36:58,Morgan Stanley,Underweight,,main
+2021-12-13 11:32:14,Deutsche Bank,Buy,,init
+2022-01-26 15:01:10,Morgan Stanley,Underweight,,main

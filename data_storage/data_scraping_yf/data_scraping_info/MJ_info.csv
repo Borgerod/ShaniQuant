@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,ETFMG Alternative Harvest ETF
+longName,ETFMG Alternative Harvest ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,MJ
+messageBoardId,finmb_310520628
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.81
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1449100800
+annualReportExpenseRatio,
+totalAssets,809759616
+bookValue,
+fundFamily,ETFMG
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0175
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,-0.237
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Miscellaneous Sector
+fiveYearAverageReturn,-0.1243
+phone,844-383-6477
+longBusinessSummary,"The index is concentrated in the Pharmaceuticals, Biotechnology and Life Sciences group of industries and tracks the performance of the exchange-listed common stock (or corresponding ADRs or GDRs) of companies across the globe. The fund will invest at least 80% of its total assets, exclusive of collateral held from securities lending, in the component securities of the index and in ADRs and GDRs based on the component securities in the index. The fund is non-diversified."
+companyOfficers,[]
+previousClose,10.25
+regularMarketOpen,10.24
+twoHundredDayAverage,15.34695
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,10.3
+navPrice,11.31
+averageDailyVolume10Day,1571200
+regularMarketPreviousClose,10.25
+fiftyDayAverage,10.7074
+trailingAnnualDividendRate,
+open,10.24
+toCurrency,
+averageVolume10days,1571200
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,9.82
+currency,USD
+regularMarketVolume,1593196
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,1322612
+dayLow,9.82
+ask,9.9
+askSize,3000
+volume,1593196
+fiftyTwoWeekHigh,25.248
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,9.182
+bid,9.84
+tradeable,False
+dividendYield,
+bidSize,1100
+dayHigh,10.3
+preferredPosition,
+bondPosition,0.048
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0.097200006}, {'basic_materials': 0.0496}, {'consumer_defensive': 0.2328}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0.0176}, {'energy': 0}, {'healthcare': 0.6027}]"
+holdings,"[{'symbol': 'GRWG', 'holdingName': 'GrowGeneration Corp', 'holdingPercent': 0.091800004}, {'symbol': 'TLRY.TO', 'holdingName': 'Tilray Inc', 'holdingPercent': 0.089700006}, {'symbol': 'WEED.TO', 'holdingName': 'Canopy Growth Corp', 'holdingPercent': 0.074200004}, {'symbol': 'ACB.TO', 'holdingName': 'Aurora Cannabis Inc', 'holdingPercent': 0.062800005}, {'symbol': 'CRON.TO', 'holdingName': 'Cronos Group Inc', 'holdingPercent': 0.061}, {'symbol': 'VALT', 'holdingName': 'ETFMG Sit Ultra Short ETF', 'holdingPercent': 0.0508}, {'symbol': 'HEXO.TO', 'holdingName': 'HEXO Corp', 'holdingPercent': 0.0452}, {'symbol': 'OGI.TO', 'holdingName': 'OrganiGram Holdings Inc', 'holdingPercent': 0.0399}, {'symbol': 'VFF.TO', 'holdingName': 'Village Farms International Inc', 'holdingPercent': 0.0373}, {'symbol': 'XXII', 'holdingName': '22nd Century Group Inc', 'holdingPercent': 0.032899998}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 3.05, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 2.66, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9451
+regularMarketPrice,9.86
+preMarketPrice,
+logo_url,

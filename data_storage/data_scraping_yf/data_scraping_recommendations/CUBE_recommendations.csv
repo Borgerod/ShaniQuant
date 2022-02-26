@@ -1,0 +1,81 @@
+Date,Firm,To Grade,From Grade,Action
+2012-08-14 11:10:00,UBS,Neutral,,main
+2012-09-20 10:25:00,KeyBanc,Buy,,main
+2012-12-03 10:18:36,Baird,Outperform,Neutral,up
+2012-12-04 07:35:00,Cantor Fitzgerald,Buy,,main
+2013-02-15 10:12:06,UBS,Sell,Neutral,down
+2013-02-15 11:41:51,UBS,Sell,Neutral,down
+2013-06-17 08:07:25,Raymond James,Strong Buy,Outperform,up
+2013-07-11 17:07:14,SunTrust Robinson Humphrey,Buy,,init
+2013-07-12 07:31:01,SunTrust Robinson Humphrey,Buy,,init
+2013-07-12 07:36:44,SunTrust Robinson Humphrey,Buy,,init
+2013-08-13 07:46:56,UBS,Neutral,Sell,up
+2013-09-10 07:00:00,Macquarie,Underperform,,init
+2013-10-22 08:00:00,Raymond James,Market Perform,Strong Buy,down
+2013-10-28 08:36:35,Macquarie,Neutral,Underperform,up
+2013-12-03 16:00:00,SunTrust Robinson Humphrey,Neutral,Buy,down
+2014-01-07 16:00:00,Wells Fargo,Market Perform,Outperform,down
+2014-02-18 16:00:00,Raymond James,Outperform,Market Perform,up
+2014-02-19 08:00:00,ISI Group,Buy,,init
+2014-03-26 23:44:06,Citigroup,Neutral,,main
+2014-05-05 08:46:00,KeyBanc,Hold,Buy,down
+2014-05-13 19:55:01,Citigroup,Hold,,main
+2014-08-28 09:00:00,SunTrust Robinson Humphrey,Neutral,,main
+2014-10-14 16:00:00,Jefferies,Buy,,init
+2014-11-14 04:23:49,Bank of America,Buy,,main
+2014-11-17 08:16:26,Jefferies,Buy,,main
+2014-12-15 09:00:00,Citigroup,Neutral,,main
+2015-01-23 06:29:42,SunTrust Robinson Humphrey,Buy,Neutral,up
+2015-03-13 09:00:00,Citigroup,Neutral,,main
+2015-04-20 07:38:21,Evercore ISI Group,Buy,Hold,up
+2015-05-08 09:00:00,Citigroup,Neutral,,main
+2015-08-17 11:00:00,SunTrust Robinson Humphrey,Buy,,main
+2015-09-08 11:07:18,Evercore ISI Group,Buy,,main
+2015-11-10 16:46:18,BB&T Capital,Buy,,init
+2016-03-21 06:53:48,Evercore ISI Group,Hold,Buy,down
+2016-05-12 12:51:23,Citigroup,Neutral,,main
+2016-06-23 07:49:08,FBR Capital,Outperform,,init
+2016-06-24 08:07:16,DA Davidson,Neutral,,init
+2016-07-25 07:21:11,SunTrust Robinson Humphrey,Neutral,Buy,down
+2016-08-08 08:23:50,Evercore ISI Group,Buy,Hold,up
+2016-08-10 09:31:24,Jefferies,Buy,,main
+2017-01-20 14:26:10,Bank of America,Neutral,Buy,down
+2017-07-20 12:23:29,Bank of America,Underperform,Neutral,down
+2017-08-30 13:59:06,Raymond James,Market Perform,Outperform,down
+2017-09-12 15:59:45,BMO Capital,Market Perform,,init
+2017-11-28 11:17:00,Baird,Neutral,Outperform,down
+2018-03-02 12:21:53,BMO Capital,Outperform,Market Perform,up
+2018-05-08 13:13:03,Bank of America,Neutral,Underperform,up
+2018-07-12 13:47:17,Citigroup,Neutral,Neutral,main
+2018-07-16 18:13:21,Bank of America,Neutral,Neutral,main
+2018-07-17 10:34:53,Jefferies,Hold,Buy,down
+2018-09-10 10:38:10,Evercore ISI Group,Outperform,In-Line,up
+2018-10-05 11:48:15,Citigroup,Neutral,Neutral,main
+2018-11-15 11:20:43,Bank of America,Buy,Neutral,up
+2018-12-18 12:55:50,Evercore ISI Group,In-Line,Outperform,down
+2019-01-09 14:43:42,BMO Capital,Market Perform,Outperform,down
+2019-03-21 11:34:24,Raymond James,Outperform,Market Perform,up
+2019-07-19 11:10:42,Bank of America,Neutral,Buy,down
+2019-08-20 10:37:33,Stifel,Hold,,init
+2019-09-17 11:12:25,Raymond James,Outperform,,main
+2019-10-21 10:17:35,Raymond James,Strong Buy,Outperform,up
+2019-12-10 12:57:56,Wells Fargo,Underperform,Market Perform,down
+2020-01-06 12:47:22,Bank of America,Underperform,Neutral,down
+2020-01-07 13:25:26,BMO Capital,Underperform,Market Perform,down
+2020-01-22 12:08:53,JP Morgan,Neutral,,init
+2020-03-25 16:05:44,Stifel,Hold,,main
+2020-04-02 13:00:10,Wells Fargo,Underweight,,main
+2020-04-07 20:25:41,Citigroup,Neutral,,main
+2020-04-08 09:03:28,Raymond James,Outperform,Strong Buy,down
+2020-04-17 16:59:11,SunTrust Robinson Humphrey,Hold,,main
+2020-08-12 11:50:15,B of A Securities,Neutral,Underperform,up
+2020-10-06 10:02:44,Raymond James,Market Perform,Outperform,down
+2020-10-13 10:28:09,Jefferies,Buy,Hold,up
+2020-11-09 11:12:26,Stifel,Buy,Hold,up
+2021-02-04 11:50:51,Raymond James,Underperform,Market Perform,down
+2021-05-14 10:37:59,BMO Capital,Outperform,Market Perform,up
+2021-06-02 10:52:07,Wells Fargo,Underweight,,main
+2021-08-10 09:22:41,Raymond James,Market Perform,Underperform,up
+2021-10-07 11:14:00,Berenberg,Hold,,init
+2021-12-02 10:13:42,Raymond James,Outperform,Market Perform,up
+2021-12-02 14:18:15,Truist Securities,Hold,,main

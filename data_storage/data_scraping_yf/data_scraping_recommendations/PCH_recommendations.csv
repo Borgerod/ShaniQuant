@@ -1,0 +1,59 @@
+Date,Firm,To Grade,From Grade,Action
+2012-09-26 09:28:00,Raymond James,Market Perform,,init
+2012-10-01 07:28:00,DA Davidson,Neutral,,main
+2012-10-23 10:51:00,UBS,Sell,,main
+2013-01-30 08:03:01,DA Davidson,Underperform,Neutral,down
+2013-01-30 10:20:46,UBS,Sell,,main
+2013-04-15 09:52:59,Bank of America,Neutral,Underperform,up
+2013-04-23 16:40:43,Bank of America,Neutral,,main
+2013-04-25 09:56:50,Raymond James,Outperform,Market Perform,up
+2013-06-20 08:38:44,DA Davidson,Neutral,Underperform,up
+2013-07-25 07:23:43,DA Davidson,Neutral,,main
+2013-08-16 07:55:18,Bank of America,Neutral,,main
+2013-09-06 07:35:24,RBC Capital,Sector Perform,,init
+2013-10-10 07:47:04,DA Davidson,Buy,Neutral,up
+2014-01-30 08:00:00,Buckingham Research,Buy,Neutral,up
+2014-07-23 14:22:51,DA Davidson,Neutral,Buy,down
+2014-07-24 06:32:48,DA Davidson,Neutral,Buy,down
+2014-07-24 23:31:51,UBS,Sell,,main
+2014-10-10 16:00:00,RBC Capital,Outperform,Sector Perform,up
+2014-10-21 08:30:00,DA Davidson,Neutral,,main
+2014-10-21 14:31:38,Vertical Research,Hold,Buy,down
+2015-03-13 07:07:14,DA Davidson,Buy,Neutral,up
+2016-07-27 06:41:24,DA Davidson,Neutral,Buy,down
+2016-10-03 13:28:52,Bank of America,Neutral,Underperform,up
+2016-10-13 11:33:57,BMO Capital,Market Perform,,init
+2016-10-17 12:22:27,Buckingham,Neutral,Buy,down
+2016-11-16 11:32:51,Vertical Research,Hold,Buy,down
+2016-11-22 13:13:45,Bank of America,Underperform,Neutral,down
+2017-04-11 12:55:59,DA Davidson,Underperform,Neutral,down
+2017-04-19 14:19:03,RBC Capital,Sector Perform,Outperform,down
+2017-05-04 12:50:43,Vertical Research,Hold,Sell,up
+2017-10-04 13:17:39,Vertical Research,Sell,Hold,down
+2017-10-25 16:36:35,Bank of America,Underperform,,main
+2018-01-02 14:05:30,Bank of America,Neutral,Underperform,up
+2018-01-08 18:15:59,Raymond James,Outperform,Market Perform,up
+2018-02-13 13:58:04,BMO Capital,Market Perform,Market Perform,main
+2018-05-07 10:19:08,RBC Capital,Outperform,Sector Perform,up
+2018-05-07 10:53:25,DA Davidson,Neutral,Underperform,up
+2018-10-30 11:18:18,DA Davidson,Buy,Neutral,up
+2018-10-31 14:47:05,BMO Capital,Market Perform,Market Perform,main
+2019-03-11 10:42:19,BMO Capital,Outperform,Market Perform,up
+2019-04-02 10:48:22,Seaport Global,Buy,,init
+2019-04-05 11:33:29,Bank of America,Buy,Neutral,up
+2019-07-31 11:59:16,RBC Capital,Sector Perform,Outperform,down
+2020-01-07 11:23:02,Raymond James,Outperform,Market Perform,up
+2020-04-29 17:20:23,DA Davidson,Buy,,main
+2020-05-04 16:20:58,Raymond James,Outperform,,main
+2020-07-10 09:31:14,RBC Capital,Outperform,Sector Perform,up
+2020-07-31 14:57:09,Raymond James,Outperform,,main
+2020-09-11 13:44:30,B of A Securities,Neutral,Buy,down
+2020-10-01 11:13:01,Raymond James,Strong Buy,Outperform,up
+2021-03-17 11:55:58,DA Davidson,Neutral,Buy,down
+2021-04-26 11:48:37,Raymond James,Strong Buy,,main
+2021-04-28 10:22:05,BMO Capital,Market Perform,Outperform,down
+2021-04-28 14:34:32,RBC Capital,Sector Perform,Outperform,down
+2021-08-02 11:46:45,Raymond James,Strong Buy,,main
+2021-08-27 11:38:13,Raymond James,Strong Buy,,main
+2021-10-06 11:31:04,DA Davidson,Buy,Neutral,up
+2022-02-02 10:18:23,RBC Capital,Outperform,Sector Perform,up

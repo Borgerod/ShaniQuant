@@ -1,0 +1,32 @@
+Date,Firm,To Grade,From Grade,Action
+2012-07-20 05:44:00,Citigroup,Buy,,init
+2012-08-21 16:34:00,Deutsche Bank,Hold,,main
+2013-01-10 16:15:20,JP Morgan,Overweight,,main
+2014-01-07 06:41:15,Morgan Stanley,Overweight,Equal-weight,up
+2014-05-01 01:51:26,JP Morgan,Overweight,,main
+2014-06-03 21:19:10,JP Morgan,Overweight,,main
+2014-06-09 19:36:46,Barclays,Overweight,,main
+2014-11-11 09:00:00,JP Morgan,Neutral,,main
+2014-12-17 04:52:47,Morgan Stanley,Overweight,,main
+2015-06-01 10:34:08,JP Morgan,Overweight,Neutral,up
+2016-05-05 04:11:13,JP Morgan,Neutral,Overweight,down
+2016-08-18 04:02:06,Morgan Stanley,Equal-Weight,Overweight,down
+2016-11-03 08:24:42,Barclays,Equal-Weight,,init
+2016-11-10 11:32:12,JP Morgan,Overweight,Neutral,up
+2017-09-12 13:05:04,Credit Suisse,Outperform,Neutral,up
+2017-10-27 15:49:05,Barclays,Equal-Weight,,main
+2018-04-09 12:20:19,JP Morgan,Overweight,Overweight,main
+2018-05-22 13:36:39,JP Morgan,Overweight,Overweight,main
+2018-07-27 12:11:30,Barclays,Overweight,Equal-Weight,up
+2018-10-25 11:39:58,Bank of America,Underperform,Neutral,down
+2019-07-26 11:19:15,JP Morgan,Neutral,Underweight,up
+2019-08-27 16:21:27,Barclays,Equal-Weight,Overweight,down
+2019-11-15 13:07:11,UBS,Sell,,main
+2019-12-03 11:00:38,Barclays,Underweight,Equal-Weight,down
+2020-03-24 09:31:54,JP Morgan,Underweight,Neutral,down
+2020-11-03 11:15:18,Citigroup,Buy,Neutral,up
+2021-01-13 15:01:56,Bradesco,Underperform,Neutral,down
+2021-05-20 10:40:54,Itau BBA,Market Perform,Outperform,down
+2021-06-17 10:38:48,Barclays,Equal-Weight,Underweight,up
+2021-10-06 10:49:34,Barclays,Overweight,Equal-Weight,up
+2021-11-03 15:11:47,B of A Securities,Neutral,Underperform,up

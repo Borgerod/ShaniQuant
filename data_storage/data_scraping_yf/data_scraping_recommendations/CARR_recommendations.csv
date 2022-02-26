@@ -1,0 +1,41 @@
+Date,Firm,To Grade,From Grade,Action
+2020-09-08 11:52:40,Credit Suisse,Neutral,,init
+2020-09-15 09:05:19,KeyBanc,Overweight,,init
+2020-09-21 10:32:22,Goldman Sachs,Buy,,init
+2020-10-13 09:08:47,Jefferies,Buy,,init
+2020-10-13 12:34:03,Morgan Stanley,Equal-Weight,,main
+2020-10-16 11:47:40,Stephens & Co.,Overweight,,init
+2020-10-30 08:49:36,KeyBanc,Overweight,,main
+2020-10-30 12:36:19,Credit Suisse,Neutral,,main
+2020-10-30 12:37:10,Morgan Stanley,Equal-Weight,,main
+2020-11-18 08:51:39,KeyBanc,Overweight,,main
+2021-02-10 13:02:53,Morgan Stanley,Equal-Weight,,main
+2021-03-10 12:24:23,Cowen & Co.,Outperform,Market Perform,up
+2021-03-29 10:55:53,Morgan Stanley,Overweight,Equal-Weight,up
+2021-03-31 11:46:10,RBC Capital,Outperform,Sector Perform,up
+2021-04-19 11:52:51,B of A Securities,Buy,,init
+2021-04-30 10:22:17,Atlantic Equities,Neutral,Overweight,down
+2021-04-30 11:55:32,Morgan Stanley,Overweight,,main
+2021-06-07 11:14:42,RBC Capital,Outperform,,main
+2021-06-08 11:10:09,Keybanc,Overweight,,main
+2021-06-23 09:34:54,Deutsche Bank,Buy,,init
+2021-07-08 08:53:28,Bernstein,Underperform,,init
+2021-07-30 08:44:30,Keybanc,Overweight,,main
+2021-07-30 12:49:25,Credit Suisse,Neutral,,main
+2021-07-30 13:48:39,RBC Capital,Outperform,,main
+2021-07-30 15:51:41,Morgan Stanley,Overweight,,main
+2021-08-12 11:32:05,UBS,Neutral,Buy,down
+2021-09-07 10:08:32,Wolfe Research,Peer Perform,Outperform,down
+2021-10-04 11:25:16,Barclays,Overweight,,main
+2021-10-08 08:58:02,Wells Fargo,Equal-Weight,,init
+2021-10-29 12:09:37,Credit Suisse,Neutral,,main
+2021-10-29 13:22:39,RBC Capital,Outperform,,main
+2021-12-10 10:15:12,Deutsche Bank,Hold,Buy,down
+2021-12-17 10:44:29,Mizuho,Neutral,,init
+2022-01-03 15:29:39,Vertical Research,Hold,Buy,down
+2022-01-03 20:43:06,Baird,Neutral,,init
+2022-01-04 13:01:20,Barclays,Overweight,,main
+2022-01-14 14:01:29,Morgan Stanley,Overweight,,main
+2022-02-09 11:43:11,Mizuho,Neutral,,main
+2022-02-09 12:49:35,Wells Fargo,Equal-Weight,,main
+2022-02-09 14:27:16,Credit Suisse,Neutral,,main

@@ -1,0 +1,115 @@
+,info
+exchange,PCX
+shortName,SPDR Select Sector Fund - Indus
+longName,Industrial Select Sector SPDR Fund
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,XLI
+messageBoardId,finmb_8795505
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,1.24
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,913766400
+annualReportExpenseRatio,
+totalAssets,17490221056
+bookValue,
+fundFamily,SPDR State Street Global Advisors
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,0.0125
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,0.1991
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Industrials
+fiveYearAverageReturn,0.1311
+phone,866-732-8673
+longBusinessSummary,"Under normal market conditions, the fund generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The index includes securities of companies from the following industries: aerospace and defense; industrial conglomerates; marine; transportation infrastructure; machinery; road and rail; air freight and logistics; commercial services and supplies; etc. It is non-diversified."
+companyOfficers,[]
+previousClose,99.16
+regularMarketOpen,98.98
+twoHundredDayAverage,103.154
+trailingAnnualDividendYield,0.012505042
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,99.73
+navPrice,107.05
+averageDailyVolume10Day,12522330
+regularMarketPreviousClose,99.16
+fiftyDayAverage,102.9648
+trailingAnnualDividendRate,1.24
+open,98.98
+toCurrency,
+averageVolume10days,12522330
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,98.02
+currency,USD
+trailingPE,3.3733532
+regularMarketVolume,11959351
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,14298603
+dayLow,98.02
+ask,98.07
+askSize,800
+volume,11959351
+fiftyTwoWeekHigh,107.88
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,89.85
+bid,97.5
+tradeable,False
+dividendYield,
+bidSize,1400
+dayHigh,99.73
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0.0069}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0.0182}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0.9749}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': 'HON', 'holdingName': 'Honeywell International Inc', 'holdingPercent': 0.049000002}, {'symbol': 'UPS', 'holdingName': 'United Parcel Service Inc Class B', 'holdingPercent': 0.0484}, {'symbol': 'UNP', 'holdingName': 'Union Pacific Corp', 'holdingPercent': 0.047}, {'symbol': 'BA', 'holdingName': 'Boeing Co', 'holdingPercent': 0.0424}, {'symbol': 'RTX', 'holdingName': 'Raytheon Technologies Corp', 'holdingPercent': 0.0416}, {'symbol': 'CAT', 'holdingName': 'Caterpillar Inc', 'holdingPercent': 0.038399998}, {'symbol': 'GE', 'holdingName': 'General Electric Co', 'holdingPercent': 0.038}, {'symbol': 'MMM', 'holdingName': '3M Co', 'holdingPercent': 0.037}, {'symbol': 'DE', 'holdingName': 'Deere & Co', 'holdingPercent': 0.0354}, {'symbol': 'LMT', 'holdingName': 'Lockheed Martin Corp', 'holdingPercent': 0.0298}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 17.71, 'priceToSales': 2.72, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 27.73, 'priceToBook': 5.16, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.9991
+regularMarketPrice,98.34
+preMarketPrice,
+logo_url,

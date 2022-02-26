@@ -1,0 +1,61 @@
+Date,Firm,To Grade,From Grade,Action
+2015-02-20 09:00:00,Jefferies,Buy,,main
+2015-05-20 04:17:21,Baird,Neutral,Outperform,down
+2015-08-17 09:11:19,Goldman Sachs,Neutral,,init
+2015-08-20 04:48:40,Baird,Outperform,Neutral,up
+2016-01-08 07:35:44,Baird,Neutral,Outperform,down
+2016-02-03 06:08:34,Goldman Sachs,Neutral,,init
+2016-02-19 12:16:17,Deutsche Bank,Hold,,main
+2016-03-09 06:17:16,Goldman Sachs,Sell,Neutral,down
+2016-08-18 13:22:51,Baird,Neutral,,main
+2016-09-19 03:35:59,Deutsche Bank,Buy,Hold,up
+2017-04-06 10:16:01,Wells Fargo,Outperform,,init
+2017-05-30 12:26:43,Citigroup,Buy,,init
+2017-06-16 11:33:13,Baird,Outperform,Neutral,up
+2017-08-07 12:06:07,Barclays,Overweight,,init
+2017-08-31 15:14:13,Credit Suisse,Outperform,,main
+2018-03-02 12:49:35,Credit Suisse,Outperform,Outperform,main
+2018-03-02 14:11:51,Baird,Outperform,Outperform,main
+2018-03-07 14:24:14,Credit Suisse,Outperform,Outperform,main
+2018-03-07 17:34:14,Barclays,Overweight,Overweight,main
+2018-03-08 13:42:42,Baird,Outperform,Outperform,main
+2018-03-09 13:13:36,Credit Suisse,Outperform,Outperform,main
+2018-03-09 13:41:00,Citigroup,Buy,Buy,main
+2018-05-31 12:21:42,Deutsche Bank,Buy,Buy,main
+2018-05-31 13:00:29,Barclays,Overweight,Overweight,main
+2018-05-31 13:23:13,Credit Suisse,Outperform,Outperform,main
+2018-07-18 12:06:54,Citigroup,Buy,Buy,main
+2018-08-22 12:43:04,Deutsche Bank,Buy,Buy,main
+2018-08-22 13:02:26,Credit Suisse,Outperform,Outperform,main
+2018-10-18 13:14:37,Goldman Sachs,Buy,Neutral,up
+2018-11-21 14:08:28,Jefferies,Buy,Buy,main
+2019-05-20 11:07:52,Baird,Neutral,Outperform,down
+2019-07-22 11:01:32,Goldman Sachs,Neutral,Buy,down
+2019-08-08 10:53:40,Barclays,Overweight,,init
+2019-08-22 10:57:18,Baird,Outperform,Neutral,up
+2019-10-18 10:24:57,Susquehanna,Positive,,init
+2019-11-27 13:04:55,Deutsche Bank,Buy,,main
+2019-11-27 13:09:37,Credit Suisse,Outperform,,main
+2019-11-27 15:14:27,Stifel Nicolaus,Buy,,main
+2020-02-25 14:05:10,Deutsche Bank,Buy,,main
+2020-04-14 09:52:38,JP Morgan,Neutral,,init
+2020-05-18 13:22:42,B of A Securities,Neutral,,reit
+2020-06-01 10:25:50,JP Morgan,Overweight,Neutral,up
+2020-08-13 09:44:40,Goldman Sachs,Buy,Neutral,up
+2020-08-21 11:03:52,B of A Securities,Neutral,,main
+2020-09-16 10:23:28,UBS,Buy,,init
+2020-11-16 14:38:40,Deutsche Bank,Buy,,init
+2021-01-25 12:26:52,Deutsche Bank,Hold,Buy,down
+2021-02-05 16:04:40,JP Morgan,Overweight,,main
+2021-02-19 14:11:52,Credit Suisse,Outperform,,main
+2021-05-24 12:48:10,Deutsche Bank,Hold,,main
+2021-07-02 09:14:17,Barclays,Equal-Weight,Overweight,down
+2021-08-19 10:48:37,Barclays,Equal-Weight,,main
+2021-08-19 11:09:43,Citigroup,Buy,,main
+2021-08-24 13:28:34,UBS,Buy,,main
+2021-09-27 11:30:39,Goldman Sachs,Buy,,main
+2021-11-23 12:31:18,Credit Suisse,Outperform,,main
+2021-11-24 13:09:55,Deutsche Bank,Hold,,main
+2021-12-08 12:37:37,Morgan Stanley,Equal-Weight,,init
+2021-12-13 14:46:21,JP Morgan,Overweight,,main
+2022-02-18 14:41:54,Morgan Stanley,Equal-Weight,,main

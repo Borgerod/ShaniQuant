@@ -1,0 +1,39 @@
+Date,Firm,To Grade,From Grade,Action
+2017-08-04 12:06:20,Oppenheimer,Outperform,,init
+2018-01-31 17:03:07,Oppenheimer,Outperform,Outperform,main
+2018-05-05 14:00:39,B. Riley FBR,Buy,Neutral,up
+2018-05-05 14:00:39,B. Riley FBR,Neutral,Buy,down
+2018-05-11 19:02:44,B. Riley FBR,Buy,Buy,main
+2018-10-12 16:29:28,H.C. Wainwright,Buy,Buy,main
+2019-02-07 11:55:11,Baird,Outperform,,init
+2019-04-29 10:40:24,PiperJaffray,Overweight,,init
+2019-10-01 11:10:35,Stifel,Buy,,init
+2019-11-05 13:33:52,Baird,Outperform,,main
+2019-12-18 13:21:57,JMP Securities,Outperform,,init
+2020-02-26 12:38:31,Wells Fargo,Overweight,,main
+2020-02-26 13:13:55,Oppenheimer,Outperform,,reit
+2020-03-04 10:35:21,Barclays,Overweight,,init
+2020-04-22 08:55:17,Mizuho,Buy,,init
+2020-04-27 14:20:08,Chardan Capital,Buy,,main
+2020-04-29 11:41:39,HC Wainwright & Co.,Buy,,main
+2020-05-06 15:48:11,Baird,Outperform,,main
+2020-05-28 13:39:37,Stifel,Buy,,main
+2020-08-07 12:05:41,Chardan Capital,Buy,,main
+2020-10-06 09:04:52,Chardan Capital,Buy,,main
+2020-10-06 10:30:55,HC Wainwright & Co.,Buy,,main
+2020-10-06 12:22:51,Wells Fargo,Equal-Weight,Overweight,down
+2020-10-06 12:42:04,Barclays,Overweight,,main
+2020-10-15 11:37:38,Wells Fargo,Equal-Weight,,main
+2020-11-09 12:03:41,JMP Securities,Market Outperform,,main
+2020-12-15 11:24:16,HC Wainwright & Co.,Neutral,Buy,down
+2021-03-08 11:09:13,HC Wainwright & Co.,Buy,Neutral,up
+2021-04-16 10:51:21,Goldman Sachs,Buy,,init
+2021-05-19 10:21:51,HC Wainwright & Co.,Buy,,main
+2021-05-19 11:04:04,Barclays,Overweight,,main
+2021-05-19 11:09:45,Oppenheimer,Outperform,,main
+2021-05-19 11:45:19,JMP Securities,Market Outperform,,main
+2021-05-19 12:26:07,Chardan Capital,Buy,,main
+2021-05-20 10:48:16,Piper Sandler,Neutral,Overweight,down
+2021-05-24 11:02:49,Oppenheimer,Outperform,,main
+2021-11-05 10:30:58,HC Wainwright & Co.,Buy,,main
+2022-01-28 13:11:01,Stifel,Buy,Hold,up

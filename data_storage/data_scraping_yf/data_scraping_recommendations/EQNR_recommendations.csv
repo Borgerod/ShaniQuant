@@ -1,0 +1,27 @@
+Date,Firm,To Grade,From Grade,Action
+2018-07-10 13:59:27,Bernstein,Market Perform,Outperform,down
+2018-09-11 10:29:25,Barclays,Equal-Weight,Underweight,up
+2018-09-11 13:19:20,Berenberg,Hold,,init
+2018-11-23 11:18:02,Barclays,Overweight,Equal-Weight,up
+2018-11-29 12:01:44,JP Morgan,Underweight,Neutral,down
+2018-12-11 12:14:50,Bank of America,Neutral,Buy,down
+2018-12-14 14:31:45,Goldman Sachs,Sell,,down
+2019-02-11 11:42:31,PiperJaffray,Neutral,Overweight,down
+2019-02-14 12:08:27,Macquarie,Neutral,Outperform,down
+2019-07-02 10:32:01,Bernstein,Outperform,Market Perform,up
+2019-08-02 10:49:05,Goldman Sachs,Neutral,Sell,up
+2019-09-27 11:02:28,DNB Markets,Hold,Buy,down
+2020-03-09 11:44:21,Bernstein,Market Perform,Outperform,down
+2020-07-27 14:25:25,B of A Securities,Buy,Neutral,up
+2020-09-11 10:23:36,RBC Capital,Outperform,Sector Perform,up
+2021-01-21 15:49:09,Jefferies,Buy,,init
+2021-03-12 11:27:33,Societe Generale,Buy,Hold,up
+2021-04-30 10:32:00,Kepler Cheuvreux,Hold,Buy,down
+2021-06-01 10:32:58,Bernstein,Outperform,Market Perform,up
+2021-08-25 11:56:30,MKM Partners,Buy,,init
+2021-09-16 11:35:47,Deutsche Bank,Hold,Buy,down
+2021-09-17 10:25:02,JP Morgan,Underweight,Neutral,down
+2022-01-04 11:43:54,Bernstein,Market Perform,Outperform,down
+2022-01-07 12:01:11,Exane BNP Paribas,Underperform,Neutral,down
+2022-01-26 12:11:32,B of A Securities,Neutral,Buy,down
+2022-02-17 13:43:53,HSBC,Buy,Hold,up

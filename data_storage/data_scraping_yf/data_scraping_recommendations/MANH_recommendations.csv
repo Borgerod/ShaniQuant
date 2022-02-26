@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action
+2012-10-17 06:30:00,Benchmark,Hold,,main
+2012-11-29 13:45:00,Benchmark,Hold,,main
+2012-12-20 09:42:20,Janney Capital,Buy,,init
+2013-03-11 08:36:32,Raymond James,Market Perform,Outperform,down
+2014-01-06 16:00:00,Raymond James,Outperform,Market Perform,up
+2014-07-23 22:36:57,Raymond James,Outperform,,main
+2015-02-04 05:48:35,Raymond James,Strong Buy,Outperform,up
+2015-04-20 09:00:00,Raymond James,Strong Buy,,main
+2015-04-22 06:24:07,Benchmark,Buy,Hold,up
+2015-07-15 05:57:07,Raymond James,Outperform,Strong Buy,down
+2016-01-12 16:34:42,Brean Capital,Buy,,init
+2016-02-09 07:02:44,Avondale Partners,Market Perform,,init
+2016-04-28 07:11:57,William Blair,Market Perform,Outperform,down
+2017-01-09 12:10:20,Raymond James,Market Perform,Outperform,down
+2017-06-27 18:32:58,SunTrust Robinson Humphrey,Hold,,init
+2017-10-03 11:50:43,SunTrust Robinson Humphrey,Buy,Hold,up
+2018-05-05 14:00:37,B. Riley FBR,Buy,,init
+2018-06-15 10:17:19,Benchmark,Buy,Hold,up
+2018-09-26 17:17:03,SunTrust Robinson Humphrey,Hold,Buy,down
+2019-04-22 11:15:53,SunTrust Robinson Humphrey,Buy,Hold,up
+2019-08-12 14:14:22,SunTrust Robinson Humphrey,Buy,,main
+2019-08-15 11:21:39,Rosenblatt,Buy,,init
+2020-02-05 13:22:00,Benchmark,Buy,,main
+2020-02-19 10:47:45,Baird,Outperform,,init
+2020-04-09 11:53:58,Rosenblatt,Buy,,main
+2020-04-14 15:09:58,SunTrust Robinson Humphrey,Buy,,main
+2020-04-22 11:32:28,Benchmark,Overweight,,main
+2020-05-21 11:13:22,Rosenblatt,Buy,,main
+2020-05-21 13:00:18,SunTrust Robinson Humphrey,Buy,,main
+2020-07-24 11:22:01,Benchmark,Buy,,main
+2020-07-24 11:28:45,Rosenblatt,Buy,,main
+2021-01-26 17:00:36,Truist Securities,Buy,,main
+2021-02-03 13:28:44,Rosenblatt,Buy,,main
+2021-05-06 11:49:00,Rosenblatt,Buy,,main
+2021-05-26 12:53:05,Benchmark,Buy,,main
+2021-07-28 11:39:47,Rosenblatt,Buy,,main
+2022-02-02 12:17:06,Rosenblatt,Buy,,main

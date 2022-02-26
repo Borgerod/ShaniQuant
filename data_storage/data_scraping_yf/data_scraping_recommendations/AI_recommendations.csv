@@ -1,0 +1,31 @@
+Date,Firm,To Grade,From Grade,Action
+2021-01-04 09:27:56,KeyBanc,Sector Weight,,init
+2021-01-04 09:29:15,Piper Sandler,Overweight,,init
+2021-01-04 10:21:12,Needham,Buy,,init
+2021-01-04 11:25:16,JMP Securities,Market Outperform,,init
+2021-01-04 11:27:08,JP Morgan,Underweight,,init
+2021-01-04 12:23:58,Wedbush,Outperform,,init
+2021-01-04 13:04:54,Canaccord Genuity,Hold,,init
+2021-01-04 13:54:55,Morgan Stanley,Underweight,,init
+2021-01-06 14:14:35,Piper Sandler,Overweight,,init
+2021-03-02 10:04:13,Piper Sandler,Overweight,,main
+2021-03-02 11:52:17,Needham,Buy,,main
+2021-03-02 12:53:48,Wedbush,Outperform,,main
+2021-03-02 15:01:56,Canaccord Genuity,Hold,,main
+2021-05-25 11:48:24,Morgan Stanley,Underweight,,main
+2021-06-03 10:07:26,Needham,Buy,,main
+2021-06-03 11:40:48,Piper Sandler,Overweight,,main
+2021-06-03 11:47:16,Morgan Stanley,Underweight,,main
+2021-06-03 13:09:22,Canaccord Genuity,Hold,,main
+2021-06-03 13:10:47,Deutsche Bank,Hold,,main
+2021-06-03 13:13:37,Wedbush,Outperform,,main
+2021-09-02 08:45:48,Piper Sandler,Overweight,,main
+2021-09-02 09:31:37,Needham,Buy,,main
+2021-09-02 11:31:17,Morgan Stanley,Underweight,,main
+2021-09-02 13:57:04,JMP Securities,Market Outperform,,main
+2021-12-02 09:35:33,Piper Sandler,Overweight,,main
+2021-12-02 11:16:33,Needham,Buy,,main
+2021-12-02 12:57:28,Wedbush,Outperform,,main
+2021-12-03 15:02:44,Deutsche Bank,Hold,,main
+2021-12-16 13:40:45,Morgan Stanley,Underweight,,main
+2022-01-13 12:37:08,Piper Sandler,Overweight,,main

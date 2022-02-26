@@ -1,0 +1,85 @@
+Date,Firm,To Grade,From Grade,Action
+2013-03-06 06:23:47,Bank of America,Buy,,init
+2013-03-06 06:24:37,Goldman Sachs,Neutral,,init
+2013-03-06 06:25:56,JP Morgan,Neutral,,init
+2013-03-06 06:41:03,Credit Suisse,Outperform,,init
+2013-03-06 07:37:05,Baird,Neutral,,init
+2013-03-06 07:37:32,Barclays,Overweight,,init
+2013-03-06 07:41:02,BMO Capital,Market Perform,,init
+2013-03-06 07:41:29,Stifel Nicolaus,Buy,,init
+2013-03-14 08:28:21,Stifel Nicolaus,Buy,,main
+2013-03-21 08:09:51,Stifel Nicolaus,Hold,Buy,down
+2013-05-29 17:13:03,Jefferies,Buy,,init
+2013-05-30 06:39:32,Jefferies,Buy,,init
+2013-06-07 08:09:20,Garp Research,Buy,,init
+2013-11-07 11:30:02,Jefferies,Buy,,main
+2013-11-14 09:10:08,Wells Fargo,Outperform,,init
+2014-03-14 06:54:12,Bank of America,Buy,,main
+2014-04-01 08:00:00,RBC Capital,Outperform,,init
+2014-05-02 07:08:08,Bank of America,Buy,,main
+2014-11-05 00:00:00,Bank of America,Buy,,main
+2014-11-05 09:00:00,Credit Suisse,Outperform,,main
+2014-12-23 09:00:00,Barclays,Overweight,,main
+2015-02-13 09:00:00,JP Morgan,Neutral,,main
+2015-05-29 09:00:00,Barclays,Overweight,,main
+2015-06-05 09:27:59,Goldman Sachs,Neutral,,init
+2015-11-25 04:40:38,Barclays,Overweight,,main
+2016-08-15 06:29:27,JP Morgan,Overweight,Neutral,up
+2016-11-02 13:40:26,William Blair,Market Weight,Outperform,down
+2017-02-10 14:10:12,William Blair,Market Perform,Outperform,down
+2017-05-12 12:22:23,Credit Suisse,Neutral,Outperform,down
+2017-07-18 16:48:01,Citigroup,Buy,,init
+2017-10-02 16:17:48,Barclays,Overweight,,main
+2017-11-02 13:08:41,BMO Capital,Market Perform,,main
+2017-11-02 16:48:40,Credit Suisse,Neutral,,main
+2017-11-03 18:33:43,Citigroup,Buy,,main
+2017-12-21 17:20:22,Macquarie,Neutral,,init
+2018-02-09 14:24:57,Credit Suisse,Neutral,Neutral,main
+2018-03-27 16:35:44,Goldman Sachs,Neutral,,init
+2018-04-03 11:15:37,RBC Capital,Sector Perform,Outperform,down
+2018-05-01 12:37:21,BMO Capital,Market Perform,Market Perform,main
+2018-05-01 13:15:39,JP Morgan,Overweight,Overweight,main
+2018-05-01 15:21:03,Bank of America,Buy,Buy,main
+2018-05-04 12:26:09,Citigroup,Buy,Buy,main
+2018-08-06 13:06:16,BMO Capital,Market Perform,Market Perform,main
+2018-11-02 16:32:25,Barclays,Overweight,Overweight,main
+2018-11-02 16:43:19,JP Morgan,Overweight,Overweight,main
+2018-11-02 17:40:56,Baird,Neutral,Neutral,main
+2018-11-06 13:25:39,BMO Capital,Market Perform,Market Perform,main
+2019-02-13 14:54:37,BMO Capital,Market Perform,Market Perform,main
+2019-03-01 13:28:08,Citigroup,Neutral,Neutral,main
+2019-03-04 13:25:36,Citigroup,Neutral,Neutral,main
+2019-06-20 10:28:49,Goldman Sachs,Buy,Neutral,up
+2019-09-11 10:21:50,BMO Capital,Outperform,Market Perform,up
+2019-10-08 12:04:19,Morgan Stanley,Equal-Weight,,init
+2019-11-07 12:22:12,Citigroup,Neutral,,main
+2019-11-22 11:56:11,Jefferies,Buy,,init
+2020-03-19 10:31:11,Baird,Outperform,Neutral,up
+2020-04-21 11:38:16,B of A Securities,Underperform,Neutral,down
+2020-04-21 14:10:23,Baird,Outperform,,main
+2020-04-21 14:28:04,BMO Capital,Outperform,,main
+2020-04-22 12:23:45,Morgan Stanley,Equal-Weight,,main
+2020-05-07 11:39:25,Morgan Stanley,Equal-Weight,,main
+2020-05-07 15:47:04,B of A Securities,Underperform,,reit
+2020-05-07 17:18:37,BMO Capital,Outperform,,main
+2020-05-08 11:33:55,Citigroup,Neutral,,main
+2020-07-10 12:19:47,Morgan Stanley,Equal-Weight,,main
+2020-08-06 12:30:19,Morgan Stanley,Equal-Weight,,main
+2020-08-06 15:18:54,BMO Capital,Outperform,,main
+2020-10-06 10:44:22,BMO Capital,Market Perform,Outperform,down
+2020-10-20 12:39:36,Morgan Stanley,Equal-Weight,,main
+2020-11-02 11:17:40,Baird,Neutral,Outperform,down
+2020-11-09 12:57:50,Morgan Stanley,Equal-Weight,,main
+2021-01-06 15:00:23,Morgan Stanley,Equal-Weight,,main
+2021-02-18 15:50:41,BMO Capital,Market Perform,,main
+2021-02-19 12:28:31,Barclays,Overweight,,main
+2021-04-07 11:51:36,Morgan Stanley,Underweight,Equal-Weight,down
+2021-05-10 11:01:26,Citigroup,Buy,Neutral,up
+2021-05-19 11:47:16,Morgan Stanley,Underweight,,main
+2021-07-06 10:20:45,BMO Capital,Outperform,Market Perform,up
+2021-08-05 12:37:06,Morgan Stanley,Underweight,,main
+2021-09-23 12:27:46,Morgan Stanley,Underweight,,main
+2021-11-03 13:58:07,Morgan Stanley,Underweight,,main
+2021-12-13 12:10:25,Barclays,Overweight,,main
+2021-12-16 14:09:48,Morgan Stanley,Underweight,,main
+2022-01-05 13:43:51,Morgan Stanley,Underweight,,main

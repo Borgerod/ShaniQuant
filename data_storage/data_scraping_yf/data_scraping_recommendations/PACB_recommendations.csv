@@ -1,0 +1,28 @@
+Date,Firm,To Grade,From Grade,Action
+2012-03-06 09:36:00,Morgan Stanley,Equal-Weight,,init
+2012-07-27 05:55:00,PiperJaffray,Underweight,Neutral,down
+2012-07-30 06:35:00,Morgan Stanley,Underweight,Equal-Weight,down
+2013-08-02 06:26:25,PiperJaffray,Neutral,Underweight,up
+2014-05-01 08:00:00,JP Morgan,Neutral,Underweight,up
+2015-03-31 08:18:06,Stephens & Co.,Equal-Weight,,init
+2015-05-01 06:37:45,William Blair,Outperform,Market Perform,up
+2015-08-27 07:36:55,Cantor Fitzgerald,Buy,,init
+2016-02-04 06:49:48,PiperJaffray,Neutral,Overweight,down
+2016-04-15 04:40:26,MKM Partners,Neutral,,init
+2016-04-15 06:44:57,First Analysis,Overweight,,init
+2018-08-09 11:24:03,Cantor Fitzgerald,Overweight,,init
+2018-10-19 16:11:51,Cowen & Co.,Outperform,,init
+2018-11-12 13:01:21,Cantor Fitzgerald,Neutral,Overweight,down
+2019-01-04 11:49:34,Cowen & Co.,Market Perform,Outperform,down
+2019-04-02 10:52:16,Stephens & Co.,Equal-Weight,Overweight,down
+2019-10-15 10:21:00,Piper Jaffray,Overweight,Neutral,up
+2020-09-09 12:14:54,Morgan Stanley,Equal-Weight,,init
+2020-10-01 13:59:32,Piper Sandler,Overweight,,main
+2020-10-02 08:55:26,JP Morgan,Overweight,Neutral,up
+2020-11-03 10:02:14,Piper Sandler,Neutral,Overweight,down
+2020-11-04 13:32:01,Morgan Stanley,Equal-Weight,,main
+2021-02-11 10:11:28,Piper Sandler,Overweight,Neutral,up
+2021-02-12 13:38:44,Morgan Stanley,Equal-Weight,,main
+2021-08-04 13:23:51,Morgan Stanley,Equal-Weight,,main
+2021-09-27 12:16:18,Canaccord Genuity,Buy,,init
+2022-02-16 12:51:50,Canaccord Genuity,Buy,,main

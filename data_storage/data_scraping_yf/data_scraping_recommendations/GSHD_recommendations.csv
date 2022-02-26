@@ -1,0 +1,21 @@
+Date,Firm,To Grade,From Grade,Action
+2018-05-22 18:13:45,Bank of America,Buy,,init
+2018-05-22 18:15:32,JP Morgan,Overweight,,init
+2018-05-24 14:42:10,William Blair,Outperform,,init
+2018-06-20 10:16:15,Keefe Bruyette & Woods,Market Perform,Outperform,down
+2019-12-17 12:26:35,RBC Capital,Outperform,,init
+2020-07-31 14:54:46,"Keefe, Bruyette & Woods",Market Perform,,main
+2021-02-02 16:57:50,RBC Capital,Outperform,,main
+2021-04-15 11:12:02,"Keefe, Bruyette & Woods",Outperform,Market Perform,up
+2021-06-25 09:28:30,Piper Sandler,Overweight,,init
+2021-07-01 10:43:28,JP Morgan,Neutral,Overweight,down
+2021-08-31 12:26:17,Piper Sandler,Overweight,,main
+2021-09-08 12:08:45,Truist Securities,Hold,,init
+2021-09-09 11:01:35,JMP Securities,Market Outperform,,init
+2021-10-05 14:05:26,Piper Sandler,Overweight,,main
+2021-10-18 11:57:46,B of A Securities,Underperform,Neutral,down
+2021-10-28 12:01:26,RBC Capital,Outperform,,main
+2022-01-14 11:53:43,JMP Securities,Market Outperform,,main
+2022-01-24 14:46:59,Piper Sandler,Overweight,,main
+2022-01-25 13:33:15,RBC Capital,Outperform,,main
+2022-02-01 14:26:32,Truist Securities,Hold,,main

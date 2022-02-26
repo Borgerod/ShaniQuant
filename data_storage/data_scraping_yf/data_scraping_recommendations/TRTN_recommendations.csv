@@ -1,0 +1,15 @@
+Date,Firm,To Grade,From Grade,Action
+2016-07-13 09:11:10,Cowen & Co.,Market Perform,,init
+2016-11-14 14:35:01,Bank of America,Buy,Underperform,up
+2016-11-22 11:00:17,Cowen & Co.,Outperform,Market Perform,up
+2017-02-13 12:55:57,Wells Fargo,Outperform,,init
+2017-10-20 13:01:10,Wells Fargo,Outperform,,main
+2017-11-14 13:31:55,Wells Fargo,Outperform,,main
+2018-04-24 16:26:44,Compass Point,Buy,,init
+2018-09-07 13:05:10,Keefe Bruyette & Woods,Outperform,Market Perform,up
+2018-09-28 11:52:13,Wells Fargo,Market Perform,Outperform,down
+2018-10-10 14:18:10,Bank of America,Buy,Buy,main
+2019-02-04 14:44:17,Bank of America,Underperform,Buy,down
+2020-08-28 14:30:20,B of A Securities,Buy,,main
+2020-09-16 13:14:35,B of A Securities,Buy,,main
+2020-12-09 11:30:09,B. Riley FBR,Buy,,init

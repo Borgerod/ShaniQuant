@@ -1,0 +1,24 @@
+Date,Firm,To Grade,From Grade,Action
+2021-03-04 12:45:22,Susquehanna,Positive,,init
+2021-03-08 10:59:50,Goldman Sachs,Neutral,,init
+2021-03-08 12:42:24,Raymond James,Market Perform,,init
+2021-03-08 12:56:52,JP Morgan,Neutral,,init
+2021-03-08 13:08:10,Morgan Stanley,Equal-Weight,,init
+2021-03-08 13:25:49,Stifel,Buy,,init
+2021-03-08 13:34:40,BMO Capital,Market Perform,,init
+2021-03-08 14:29:35,Jefferies,Buy,,init
+2021-03-08 14:34:07,Cowen & Co.,Outperform,,init
+2021-03-11 14:17:22,Morgan Stanley,Equal-Weight,,main
+2021-03-11 14:35:52,Stifel,Buy,,main
+2021-03-11 14:53:06,Jefferies,Buy,,main
+2021-03-31 11:07:29,Loop Capital,Hold,,init
+2021-04-01 11:05:26,Wolfe Research,Peer Perform,,init
+2021-04-06 10:59:00,Evercore ISI Group,In-Line,,init
+2021-04-12 11:06:11,BTIG,Buy,,init
+2021-07-09 10:21:50,RBC Capital,Outperform,,init
+2021-11-11 13:34:34,RBC Capital,Outperform,,main
+2021-11-23 12:17:36,Evercore ISI Group,Outperform,In-Line,up
+2021-11-29 09:55:56,Raymond James,Outperform,Market Perform,up
+2021-12-07 10:12:45,JP Morgan,Overweight,Neutral,up
+2022-01-13 10:23:07,Piper Sandler,Neutral,,init
+2022-02-08 13:12:48,Loop Capital,Hold,,main

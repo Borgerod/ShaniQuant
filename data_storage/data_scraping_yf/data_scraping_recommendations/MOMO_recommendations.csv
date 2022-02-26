@@ -1,0 +1,35 @@
+Date,Firm,To Grade,From Grade,Action
+2015-04-27 04:52:18,JP Morgan,Neutral,,init
+2016-08-31 07:30:16,JP Morgan,Overweight,,init
+2016-09-06 09:35:59,Morgan Stanley,Equal-Weight,Underweight,up
+2016-09-14 13:25:03,Credit Suisse,Outperform,,init
+2016-10-19 13:39:28,Morgan Stanley,Overweight,Equal-Weight,up
+2016-10-31 11:40:25,HSBC,Buy,,init
+2016-12-14 12:22:07,Deutsche Bank,Hold,,init
+2017-02-08 12:04:45,Jefferies,Buy,,init
+2017-04-18 18:13:54,Benchmark,Buy,,init
+2017-05-24 15:41:51,JP Morgan,Neutral,Overweight,down
+2017-08-30 12:24:40,Standpoint Research,Buy,,init
+2017-08-31 17:12:54,Goldman Sachs,Buy,,init
+2018-01-29 12:07:32,JP Morgan,Overweight,Neutral,up
+2018-03-19 13:47:36,Bank of America,Buy,Buy,main
+2018-06-18 17:30:53,Standpoint Research,Hold,Buy,down
+2018-07-31 14:46:18,Standpoint Research,Buy,Hold,up
+2018-11-09 13:49:15,86 Research,Buy,Hold,up
+2018-12-07 11:33:03,Morgan Stanley,Equal-Weight,Overweight,down
+2018-12-07 15:03:42,Nomura,Buy,Buy,main
+2019-03-13 11:09:48,Morgan Stanley,Overweight,Equal-Weight,up
+2019-05-29 14:26:51,Nomura,Buy,,main
+2019-08-05 12:46:14,Jefferies,Buy,,init
+2019-11-27 18:56:33,UBS,Buy,,main
+2020-03-20 14:34:30,Benchmark,Buy,,main
+2020-05-04 14:55:45,UBS,Buy,,main
+2020-05-29 13:05:55,Nomura Instinet,Neutral,Buy,down
+2020-06-01 15:28:49,JP Morgan,Overweight,,main
+2020-09-04 09:32:49,Credit Suisse,Neutral,Outperform,down
+2020-09-04 09:35:09,Morgan Stanley,Equal-Weight,Overweight,down
+2020-09-04 10:13:05,CMB International,Hold,Buy,down
+2020-09-04 11:27:26,Citigroup,Neutral,Buy,down
+2021-03-17 10:36:25,Morgan Stanley,Underweight,Equal-Weight,down
+2021-03-26 12:14:28,Citigroup,Buy,Neutral,up
+2021-12-01 11:25:06,Citigroup,Neutral,Buy,down

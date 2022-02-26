@@ -1,0 +1,34 @@
+Date,Firm,To Grade,From Grade,Action
+2020-11-19 10:57:00,JP Morgan,Neutral,Overweight,down
+2020-11-25 09:35:50,Roth Capital,Neutral,Buy,down
+2020-11-25 09:35:50,FBR Capital,Market Perform,Outperform,down
+2020-11-25 09:36:05,Sidoti & Co.,Neutral,,init
+2020-11-25 09:36:05,Craig-Hallum,Buy,,init
+2020-11-25 09:36:05,Roth Capital,Buy,,init
+2020-11-25 09:36:05,FBR Capital,Outperform,,main
+2020-11-25 09:36:05,Cowen & Co.,Outperform,,main
+2020-11-25 09:36:05,FBR Capital,Outperform,,init
+2020-11-25 09:36:05,Cowen & Co.,Outperform,Market Perform,up
+2020-11-25 09:36:05,Stifel,Buy,,init
+2020-11-25 09:36:05,Cowen & Co.,Market Perform,Outperform,down
+2020-11-25 09:36:05,Stifel Nicolaus,Buy,,main
+2020-11-25 09:36:05,FBR Capital,Market Perform,,init
+2020-11-25 09:36:05,Cowen & Co.,Outperform,,init
+2020-11-25 09:36:05,Dougherty,Buy,,init
+2020-11-25 09:36:05,Stifel Nicolaus,Buy,,main
+2020-11-25 09:36:50,Oppenheimer,Outperform,,init
+2020-11-25 09:36:53,B. Riley FBR,Buy,Neutral,up
+2020-11-25 09:37:03,Roth Capital,Neutral,Buy,down
+2020-11-25 09:37:06,Oppenheimer,Perform,Outperform,down
+2020-11-25 09:37:13,Craig-Hallum,Sell,Hold,down
+2020-11-25 09:37:24,JP Morgan,Overweight,,init
+2020-12-09 14:15:25,Canaccord Genuity,Hold,,init
+2021-01-07 11:48:34,Jefferies,Hold,,init
+2021-01-14 12:00:50,JP Morgan,Underweight,Neutral,down
+2021-03-30 12:09:39,Northcoast Research,Neutral,,init
+2021-04-16 12:27:06,B. Riley FBR,Neutral,,init
+2021-04-20 11:57:39,Wells Fargo,Underweight,,init
+2021-06-11 14:06:29,Canaccord Genuity,Hold,,main
+2021-12-30 12:50:22,Canaccord Genuity,Hold,,main
+2021-12-30 13:46:05,B. Riley Securities,Neutral,,main
+2022-01-05 09:50:51,Keybanc,Sector Weight,,init

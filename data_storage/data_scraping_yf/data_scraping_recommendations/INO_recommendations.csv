@@ -1,0 +1,38 @@
+Date,Firm,To Grade,From Grade,Action
+2013-01-17 16:09:23,PiperJaffray,Overweight,,init
+2013-01-31 09:30:07,Maxim Group,Buy,,init
+2013-03-11 10:07:23,Aegis Capital,Buy,,init
+2013-08-16 08:24:20,Aegis Capital,Hold,Buy,down
+2013-09-11 10:34:36,Aegis Capital,Hold,,main
+2013-11-13 10:47:30,Aegis Capital,Hold,,main
+2014-05-07 06:56:40,Stifel Nicolaus,Buy,,init
+2014-07-24 12:35:10,Aegis Capital,Buy,Hold,up
+2015-03-12 07:26:14,H.C. Wainwright,Buy,,init
+2016-03-14 12:54:56,Brean Capital,Buy,,main
+2016-08-09 07:08:11,Maxim Group,Hold,Buy,down
+2016-11-07 12:21:23,Aegis Capital,Buy,,init
+2017-03-16 13:47:09,PiperJaffray,Neutral,Overweight,down
+2017-06-08 14:59:13,PiperJaffray,Overweight,Neutral,up
+2017-10-18 15:42:40,RBC Capital,Outperform,,init
+2019-03-26 10:32:06,Cantor Fitzgerald,Overweight,,init
+2019-12-19 11:20:20,Roth Capital,Buy,,init
+2020-01-03 13:53:17,PiperJaffray,Overweight,,main
+2020-03-13 09:33:17,Piper Sandler,Neutral,Overweight,down
+2020-04-15 19:44:38,Cantor Fitzgerald,Overweight,,main
+2020-04-29 11:27:34,HC Wainwright & Co.,Buy,,reit
+2020-04-29 13:48:55,Stifel,Buy,,main
+2020-05-21 11:31:50,Benchmark,Buy,,init
+2020-06-26 09:52:47,Stifel,Hold,Buy,down
+2020-06-26 13:57:39,Cantor Fitzgerald,Overweight,,main
+2020-06-29 10:14:22,HC Wainwright & Co.,Neutral,Buy,down
+2020-07-01 14:19:15,Maxim Group,Hold,Buy,down
+2020-09-28 16:24:16,Maxim Group,Buy,Hold,up
+2020-09-28 16:30:32,Cantor Fitzgerald,Neutral,Overweight,down
+2020-11-10 12:34:36,Roth Capital,Neutral,Sell,up
+2020-11-17 15:58:10,Roth Capital,Sell,Neutral,down
+2021-02-12 11:32:35,Oppenheimer,Outperform,,init
+2021-03-23 11:24:53,B of A Securities,Neutral,,init
+2021-06-24 11:23:58,Jefferies,Hold,,init
+2021-09-10 15:58:30,B of A Securities,Underperform,Neutral,down
+2021-11-01 12:25:24,RBC Capital,Sector Perform,,main
+2022-01-21 11:57:18,B of A Securities,Neutral,Underperform,up

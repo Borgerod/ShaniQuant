@@ -1,0 +1,45 @@
+Date,Firm,To Grade,From Grade,Action
+2013-03-11 06:51:28,Leerink Swann,Outperform,,init
+2013-03-22 06:15:59,Canaccord Genuity,Buy,,init
+2013-05-15 07:48:16,Lazard,Buy,,init
+2013-06-18 07:43:27,UBS,Buy,,init
+2013-10-17 16:00:00,JMP Securities,Market Perform,,init
+2013-11-11 09:31:14,H.C. Wainwright,Buy,,init
+2013-11-26 16:24:28,PiperJaffray,Overweight,,init
+2014-01-09 08:15:33,JMP Securities,Market Outperform,Market Perform,up
+2014-02-11 16:00:00,Wedbush,Underperform,Outperform,down
+2014-04-23 08:00:00,PiperJaffray,Overweight,,main
+2014-09-05 06:29:46,Cowen & Co.,Outperform,,init
+2015-02-10 05:59:37,Janney Capital,Buy,,init
+2015-11-09 05:25:00,UBS,Neutral,Buy,down
+2016-03-15 07:12:50,Stifel Nicolaus,Buy,,init
+2016-03-16 06:22:43,Citigroup,Neutral,,main
+2017-07-11 13:15:33,Baird,Outperform,,init
+2017-08-17 13:11:53,Evercore ISI Group,Outperform,,init
+2018-01-17 21:54:31,Credit Suisse,Neutral,,init
+2018-03-21 17:33:32,Morgan Stanley,Overweight,,init
+2018-04-23 11:29:11,Credit Suisse,Outperform,Neutral,up
+2018-07-23 12:36:45,Goldman Sachs,Neutral,,init
+2018-08-06 11:49:35,Morgan Stanley,Overweight,Overweight,main
+2018-08-06 12:45:03,JMP Securities,Market Perform,Market Outperform,down
+2018-10-01 11:29:48,Morgan Stanley,Overweight,Overweight,main
+2018-10-01 13:52:45,Credit Suisse,Outperform,Outperform,main
+2018-12-04 13:56:19,Citigroup,Neutral,Neutral,main
+2019-01-02 13:05:58,Canaccord Genuity,Buy,,init
+2019-01-17 12:25:58,Goldman Sachs,Buy,Neutral,up
+2019-02-15 12:17:23,JMP Securities,Outperform,Market Perform,up
+2019-09-03 11:47:31,Goldman Sachs,Buy,,init
+2020-02-04 13:08:02,Morgan Stanley,Overweight,,main
+2020-03-17 11:58:14,Credit Suisse,Outperform,,main
+2020-03-17 14:08:41,Stifel,Buy,,main
+2020-04-15 14:13:27,Morgan Stanley,Overweight,,main
+2020-08-10 13:18:38,Morgan Stanley,Overweight,,main
+2020-11-11 13:03:38,Morgan Stanley,Overweight,,main
+2020-12-16 17:51:42,Morgan Stanley,Overweight,,main
+2020-12-17 14:54:17,Berenberg,Buy,,init
+2021-01-04 09:36:39,SVB Leerink,Outperform,,main
+2021-01-19 13:46:04,Credit Suisse,Outperform,,main
+2021-03-02 13:02:36,Morgan Stanley,Overweight,,main
+2021-05-10 13:17:19,Morgan Stanley,Overweight,,main
+2021-10-08 11:04:19,Cantor Fitzgerald,Overweight,,init
+2021-12-06 11:08:10,JP Morgan,Overweight,,init

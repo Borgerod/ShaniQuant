@@ -1,0 +1,56 @@
+Date,Firm,To Grade,From Grade,Action
+2013-08-13 11:11:10,Sidoti & Co.,Buy,,init
+2013-11-15 08:56:41,National Alliance,Buy,,init
+2014-01-22 16:00:00,Craig-Hallum,Buy,,init
+2014-02-03 16:00:00,Dougherty,Buy,,init
+2015-02-11 09:00:00,Citigroup,Neutral,,main
+2015-06-19 06:59:32,Oppenheimer,Outperform,,init
+2015-08-10 07:49:46,Canaccord Genuity,Buy,,init
+2015-08-21 08:04:35,Northland Securities,Outperform,,main
+2015-11-05 13:30:30,Oppenheimer,Outperform,,main
+2016-02-12 08:58:28,FBN Securities,Outperform,Sector Perform,up
+2016-02-12 13:01:56,Oppenheimer,Outperform,,main
+2016-03-08 10:11:08,Summit Research Partners,Hold,,init
+2016-06-14 06:17:33,Citigroup,Buy,Neutral,up
+2016-08-03 13:39:27,Oppenheimer,Outperform,,main
+2016-09-13 23:02:38,Baird,Outperform,,init
+2017-08-10 14:45:40,FBN Securities,Sector Perform,Outperform,down
+2017-11-09 14:12:34,Oppenheimer,Outperform,,main
+2018-02-22 14:45:48,Baird,Outperform,Outperform,main
+2019-01-04 13:12:49,Stephens & Co.,Overweight,,init
+2019-03-12 10:49:41,Guggenheim,Neutral,,init
+2019-05-31 11:41:16,Jefferies,Buy,,init
+2019-09-03 10:17:33,KeyBanc,Overweight,,init
+2019-09-19 11:09:13,Morgan Stanley,Equal-Weight,,init
+2019-11-07 11:19:33,KeyBanc,Overweight,,main
+2019-11-07 11:54:36,Citi,Buy,,main
+2019-11-27 11:23:06,JP Morgan,Neutral,,init
+2019-12-23 14:57:59,Needham,Buy,,main
+2020-02-19 13:25:02,Needham,Buy,,main
+2020-03-23 09:57:13,Needham,Buy,,main
+2020-03-25 11:14:55,Morgan Stanley,Overweight,Equal-Weight,up
+2020-04-15 12:09:02,Citigroup,Buy,,main
+2020-04-23 15:56:38,Morgan Stanley,Overweight,,main
+2020-05-08 10:14:58,KeyBanc,Overweight,,main
+2020-06-08 16:17:59,Needham,Buy,,main
+2020-06-09 11:44:50,Jefferies,Hold,Buy,down
+2020-06-09 12:12:43,Morgan Stanley,Overweight,,main
+2020-07-28 10:57:05,Rosenblatt,Neutral,,init
+2020-07-30 13:21:14,Citigroup,Buy,,main
+2020-08-07 08:48:01,KeyBanc,Overweight,,main
+2020-08-07 09:44:36,Needham,Buy,,main
+2020-08-07 14:21:59,Morgan Stanley,Overweight,,main
+2020-08-10 12:08:57,Citigroup,Buy,,main
+2020-08-18 11:18:17,Morgan Stanley,Equal-Weight,Overweight,down
+2020-11-06 13:36:27,Rosenblatt,Neutral,,main
+2021-02-19 10:58:43,Needham,Buy,,main
+2021-06-22 09:03:08,Needham,Hold,,init
+2021-09-23 12:57:48,Morgan Stanley,Equal-Weight,,main
+2021-10-06 10:35:48,Oppenheimer,Perform,Outperform,down
+2021-10-21 09:00:33,Barclays,Overweight,,init
+2021-11-05 08:49:45,Keybanc,Overweight,,main
+2021-11-05 10:14:32,JP Morgan,Overweight,Neutral,up
+2021-11-22 15:54:38,Colliers Securities,Neutral,Buy,down
+2021-11-23 09:29:57,Keybanc,Sector Weight,Overweight,down
+2021-11-23 11:12:00,Baird,Neutral,Outperform,down
+2022-01-03 20:43:41,Keybanc,Overweight,,main

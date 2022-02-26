@@ -1,0 +1,53 @@
+Date,Firm,To Grade,From Grade,Action
+2018-02-20 12:00:12,Deutsche Bank,Buy,,init
+2018-02-20 12:14:50,UBS,Buy,,init
+2018-02-20 12:18:02,Morgan Stanley,Overweight,,init
+2018-02-20 13:19:37,Bank of America,Buy,,init
+2018-02-20 13:38:35,Goldman Sachs,Buy,,init
+2018-02-20 13:49:16,JP Morgan,Neutral,,init
+2018-03-05 12:53:10,Credit Suisse,Neutral,,init
+2018-03-12 15:49:10,Susquehanna,Positive,Neutral,up
+2018-03-19 14:30:05,JP Morgan,Neutral,Neutral,main
+2018-04-13 10:01:16,KeyBanc,Overweight,,init
+2018-05-31 12:02:26,JP Morgan,Neutral,Neutral,main
+2018-06-11 11:24:34,Deutsche Bank,Buy,Buy,main
+2018-06-19 11:59:05,Credit Suisse,Underperform,Neutral,down
+2018-08-31 12:28:47,Deutsche Bank,Buy,Buy,main
+2018-11-13 11:27:13,Citigroup,Neutral,Sell,up
+2018-11-30 14:41:31,KeyBanc,Overweight,Overweight,main
+2019-01-09 13:40:20,Guggenheim,Neutral,,init
+2019-03-27 10:27:25,JP Morgan,Overweight,Neutral,up
+2019-05-08 10:29:36,HSBC,Reduce,,init
+2019-05-15 10:25:39,KeyBanc,Overweight,,main
+2019-06-10 10:57:59,Goldman Sachs,Buy,,init
+2019-06-28 11:33:22,Cantor Fitzgerald,Overweight,,init
+2019-07-17 11:45:05,Evercore ISI Group,Outperform,,init
+2019-08-06 12:29:30,Deutsche Bank,Buy,,main
+2019-08-08 10:12:09,KeyBanc,Overweight,,main
+2019-08-16 10:13:41,KeyBanc,Overweight,,main
+2019-09-17 10:20:39,HSBC,Hold,Reduce,up
+2019-11-11 11:37:08,HSBC,Buy,Hold,up
+2019-11-13 11:02:26,KeyBanc,Overweight,,main
+2019-11-20 12:25:53,Cantor Fitzgerald,Overweight,,main
+2019-11-26 11:25:40,JP Morgan,Neutral,Overweight,down
+2020-01-21 10:59:45,KeyBanc,Overweight,,main
+2020-02-28 09:25:36,KeyBanc,Overweight,,main
+2020-02-28 11:35:51,Cantor Fitzgerald,Overweight,,main
+2020-03-23 17:13:45,KeyBanc,Overweight,,main
+2020-04-28 12:01:39,Deutsche Bank,Buy,,main
+2020-05-27 09:14:35,KeyBanc,Overweight,,main
+2020-05-29 09:14:20,KeyBanc,Overweight,,main
+2020-09-01 12:54:08,UBS,Buy,,main
+2020-09-08 09:48:46,Goldman Sachs,Neutral,Buy,down
+2020-12-16 10:15:02,KeyBanc,Overweight,,main
+2021-01-29 12:48:08,New Street,Buy,,init
+2021-02-01 10:47:57,JP Morgan,Overweight,Neutral,up
+2021-06-07 16:11:25,Itau BBA,Outperform,Market Perform,up
+2021-11-15 09:48:32,Keybanc,Overweight,,main
+2021-11-22 13:21:57,Bradesco Corretora,Neutral,Outperform,down
+2021-12-01 15:20:48,Scotiabank,Sector Outperform,,init
+2021-12-16 15:27:33,Itau BBA,Market Perform,Outperform,down
+2022-01-04 11:51:11,UBS,Neutral,Buy,down
+2022-01-14 09:35:06,Keybanc,Sector Weight,Overweight,down
+2022-01-27 09:56:17,Goldman Sachs,Neutral,Buy,down
+2022-01-31 11:19:09,HSBC,Hold,Buy,down

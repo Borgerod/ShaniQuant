@@ -1,0 +1,114 @@
+,info
+exchange,PCX
+shortName,AdvisorShares Trust AdvisorShar
+longName,AdvisorShares Pure US Cannabis ETF
+exchangeTimezoneName,America/New_York
+exchangeTimezoneShortName,EST
+isEsgPopulated,False
+gmtOffSetMilliseconds,-18000000
+quoteType,ETF
+symbol,MSOS
+messageBoardId,finmb_671267018
+market,us_market
+annualHoldingsTurnover,
+enterpriseToRevenue,
+beta3Year,0
+profitMargins,
+enterpriseToEbitda,
+52WeekChange,
+morningStarRiskRating,
+forwardEps,
+revenueQuarterlyGrowth,
+fundInceptionDate,1598918400
+annualReportExpenseRatio,
+totalAssets,1143718528
+bookValue,
+fundFamily,AdvisorShares
+lastFiscalYearEnd,
+netIncomeToCommon,
+trailingEps,
+lastDividendValue,
+SandP52WeekChange,
+priceToBook,
+nextFiscalYearEnd,
+yield,
+mostRecentQuarter,
+enterpriseValue,
+priceHint,2
+threeYearAverageReturn,
+lastSplitDate,
+lastSplitFactor,
+legalType,Exchange Traded Fund
+lastDividendDate,
+morningStarOverallRating,
+earningsQuarterlyGrowth,
+priceToSalesTrailing12Months,
+pegRatio,
+ytdReturn,
+forwardPE,
+maxAge,1
+lastCapGain,
+category,Miscellaneous Sector
+fiveYearAverageReturn,
+phone,877-843-3831
+longBusinessSummary,"The fund is an actively managed ETF that seeks to achieve its investment objective by investing, under normal circumstances, at least 80% of its net assets (plus any borrowings for investment purposes) in securities of companies that derive at least 50% of their net revenue from the marijuana and hemp business in the United States and in derivatives that have economic characteristics similar to such securities. It will concentrate at least 25% of its investments in the pharmaceuticals, biotechnology & life sciences industry group within the health care sector. The fund is non-diversified."
+companyOfficers,[]
+previousClose,23.96
+regularMarketOpen,23.8
+twoHundredDayAverage,31.50715
+trailingAnnualDividendYield,
+payoutRatio,
+volume24Hr,
+regularMarketDayHigh,23.83
+navPrice,24.88
+averageDailyVolume10Day,1709220
+regularMarketPreviousClose,23.96
+fiftyDayAverage,23.7182
+trailingAnnualDividendRate,
+open,23.8
+toCurrency,
+averageVolume10days,1709220
+expireDate,
+algorithm,
+dividendRate,
+exDividendDate,
+beta,
+circulatingSupply,
+startDate,
+regularMarketDayLow,22.96
+currency,USD
+regularMarketVolume,1294101
+lastMarket,
+maxSupply,
+openInterest,
+marketCap,
+volumeAllCurrencies,
+strikePrice,
+averageVolume,1674541
+dayLow,22.96
+ask,23.4
+askSize,900
+volume,1294101
+fiftyTwoWeekHigh,51.774
+fromCurrency,
+fiveYearAvgDividendYield,
+fiftyTwoWeekLow,19.55
+bid,23.01
+tradeable,False
+dividendYield,
+bidSize,1100
+dayHigh,23.83
+preferredPosition,
+bondPosition,0
+convertiblePosition,
+sectorWeightings,"[{'realestate': 0}, {'consumer_cyclical': 0}, {'basic_materials': 0}, {'consumer_defensive': 0}, {'technology': 0}, {'communication_services': 0}, {'financial_services': 0}, {'utilities': 0}, {'industrials': 0}, {'energy': 0}, {'healthcare': 0}]"
+holdings,"[{'symbol': '', 'holdingName': 'Green Thumb Industries Swap Pay', 'holdingPercent': 0.1046}, {'symbol': '', 'holdingName': 'Green Thumb Industries Swap Rec', 'holdingPercent': 0.093}, {'symbol': '', 'holdingName': 'Curaleaf Holdings Inc Swap Pay', 'holdingPercent': 0.088999994}, {'symbol': '', 'holdingName': 'Trulieve Cannabis Swap Pay', 'holdingPercent': 0.083500005}, {'symbol': '', 'holdingName': 'Curaleaf Holdings Inc Swap Rec', 'holdingPercent': 0.0761}, {'symbol': '', 'holdingName': 'Trulieve Cannabis Swap Rec', 'holdingPercent': 0.0728}, {'symbol': '', 'holdingName': 'Cresco Labs Inc Swap Pay', 'holdingPercent': 0.069}, {'symbol': '', 'holdingName': 'Cresco Labs Inc Swap Rec', 'holdingPercent': 0.0644}, {'symbol': '', 'holdingName': 'Rec Ayr Wellness Inc', 'holdingPercent': 0.061300002}, {'symbol': '', 'holdingName': 'Pay Ayr Wellness Inc', 'holdingPercent': 0.060300004}]"
+bondHoldings,"{'maturity': None, 'duration': None, 'creditQuality': None, 'maturityCat': None, 'durationCat': None, 'creditQualityCat': None}"
+bondRatings,"[{'bb': 0}, {'aa': 0}, {'aaa': 0}, {'a': 0}, {'other': 0}, {'b': 0}, {'bbb': 0}, {'below_b': 0}, {'us_government': 0}]"
+equityHoldings,"{'priceToCashflow': 0, 'priceToSales': 5.85, 'priceToBookCat': None, 'priceToEarningsCat': None, 'medianMarketCapCat': None, 'threeYearEarningsGrowthCat': None, 'threeYearEarningsGrowth': None, 'medianMarketCap': None, 'priceToEarnings': 0, 'priceToBook': 0, 'priceToSalesCat': None, 'priceToCashflowCat': None}"
+otherPosition,
+cashPosition,
+stockPosition,0.2492
+regularMarketPrice,23.25
+preMarketPrice,
+logo_url,

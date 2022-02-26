@@ -1,0 +1,82 @@
+Date,Firm,To Grade,From Grade,Action
+2012-05-21 05:55:00,JP Morgan,Neutral,,down
+2013-01-17 08:18:53,Imperial Capital,In-Line,,init
+2013-01-17 09:06:12,Imperial Capital,In-line,,init
+2013-01-28 13:51:04,Sidoti & Co.,Neutral,Buy,down
+2013-02-08 09:50:59,Wells Fargo,Market Perform,,init
+2013-02-15 08:53:38,Imperial Capital,In-Line,,main
+2013-08-07 09:19:56,Wellington Shields,Hold,Gradually Accumulate,down
+2013-08-07 10:02:47,Imperial Capital,In-Line,,main
+2013-11-08 11:25:17,Imperial Capital,In-Line,,main
+2014-01-30 08:00:00,Northcoast Research,Buy,Neutral,up
+2014-02-20 09:25:32,Imperial Capital,In-Line,,main
+2014-04-16 06:41:06,Imperial Capital,Outperform,In-line,up
+2014-05-09 06:38:15,Imperial Capital,Outperform,,main
+2014-07-08 07:16:24,Imperial Capital,In-Line,Outperform,down
+2014-11-03 09:00:00,JP Morgan,Neutral,,main
+2014-11-07 05:39:40,Imperial Capital,In-Line,,main
+2014-11-21 00:00:00,JP Morgan,Overweight,Neutral,up
+2014-11-24 11:57:30,Imperial Capital,In-Line,,main
+2015-03-18 09:00:00,JP Morgan,Overweight,,main
+2015-03-31 05:46:39,Wells Fargo,Outperform,Market Perform,up
+2015-05-29 16:31:11,Oppenheimer,Outperform,,init
+2015-06-04 09:00:00,JP Morgan,Overweight,,main
+2015-06-16 06:55:14,Baird,Outperform,,init
+2015-08-12 06:48:57,Baird,Outperform,,up
+2015-08-24 08:26:28,Morgan Stanley,Overweight,,init
+2015-08-26 09:56:09,Barrington Research,Outperform,,init
+2015-09-01 03:56:11,Imperial Capital,Outperform,In-Line,up
+2016-01-20 12:11:50,Oppenheimer,Outperform,,main
+2016-03-28 17:43:09,Avondale Partners,Market Perform,,init
+2016-03-28 17:58:46,Avondale Partners,Market Perform,,init
+2016-06-08 06:31:24,Goldman Sachs,Neutral,,init
+2016-08-03 07:10:36,CLSA,Buy,,init
+2017-01-04 13:04:19,Imperial Capital,In-Line,Outperform,down
+2017-05-10 11:35:10,Wells Fargo,Market Perform,Outperform,down
+2017-05-31 13:11:38,Morgan Stanley,Equal-Weight,Overweight,down
+2017-10-31 19:23:05,Northcoast Research,Buy,Neutral,up
+2017-11-08 18:08:10,Wellington Shields,Buy,Hold,up
+2017-11-29 12:47:20,Imperial Capital,Outperform,In-Line,up
+2018-02-23 16:22:14,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-02-26 12:57:52,JP Morgan,Neutral,Overweight,down
+2018-02-27 15:45:40,Wells Fargo,Market Perform,Market Perform,main
+2018-03-26 18:50:51,JP Morgan,Overweight,Neutral,up
+2018-05-09 11:56:06,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-08-08 13:56:25,Morgan Stanley,Equal-Weight,Equal-Weight,main
+2018-11-12 18:09:07,Baird,Outperform,Outperform,main
+2019-03-07 12:43:57,Berenberg,Buy,,init
+2019-08-27 10:22:03,Atlantic Equities,Overweight,,init
+2019-09-16 11:41:14,Morgan Stanley,Equal-Weight,,main
+2019-10-30 12:40:36,Morgan Stanley,Equal-Weight,,main
+2019-10-30 13:45:58,Baird,Outperform,,main
+2019-10-31 10:06:30,Imperial Capital,Outperform,,main
+2019-11-05 11:47:11,JP Morgan,Neutral,Overweight,down
+2019-11-20 12:22:13,Imperial Capital,Outperform,,main
+2020-01-08 12:04:18,Morgan Stanley,Underweight,Equal-Weight,down
+2020-01-21 12:34:52,Needham,Buy,,main
+2020-02-14 10:34:44,JP Morgan,Overweight,Neutral,up
+2020-03-16 10:48:13,Morgan Stanley,Equal-Weight,Underweight,up
+2020-03-19 11:15:29,Needham,Buy,,main
+2020-04-29 13:41:35,Morgan Stanley,Equal-Weight,,main
+2020-04-30 08:52:02,JP Morgan,Neutral,Overweight,down
+2020-07-10 09:49:42,Needham,Buy,,main
+2020-07-23 12:47:39,Morgan Stanley,Equal-Weight,,main
+2020-07-29 10:54:32,Needham,Buy,,main
+2020-10-13 10:53:13,Needham,Buy,,main
+2020-10-16 10:07:02,Stephens & Co.,Overweight,,init
+2020-11-04 09:33:24,Needham,Buy,,main
+2020-11-04 13:43:44,Morgan Stanley,Equal-Weight,,main
+2020-12-15 18:22:30,Morgan Stanley,Equal-Weight,,main
+2021-02-03 11:42:18,Needham,Buy,,main
+2021-02-12 11:54:56,Needham,Buy,,main
+2021-02-12 14:01:22,Morgan Stanley,Equal-Weight,,main
+2021-03-23 13:10:30,Northcoast Research,Buy,Neutral,up
+2021-04-21 10:54:20,Morgan Stanley,Underweight,Equal-Weight,down
+2021-05-05 11:04:35,Needham,Buy,,main
+2021-07-02 09:52:40,Needham,Buy,,main
+2021-08-04 10:33:55,Needham,Buy,,main
+2021-08-04 13:06:09,Baird,Outperform,,main
+2021-09-13 11:20:48,Stephens & Co.,Overweight,,main
+2021-11-03 10:56:33,Needham,Buy,,main
+2022-02-08 11:24:35,Needham,Buy,,main
+2022-02-11 09:33:27,Needham,Buy,,main

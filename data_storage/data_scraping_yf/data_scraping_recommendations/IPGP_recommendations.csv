@@ -1,0 +1,63 @@
+Date,Firm,To Grade,From Grade,Action
+2012-02-10 15:37:00,Dougherty,Buy,,main
+2012-09-04 06:52:00,PiperJaffray,Overweight,,main
+2013-01-04 07:55:28,Stifel Nicolaus,Hold,Buy,down
+2013-01-07 13:32:33,Barclays,Equal-Weight,,main
+2013-09-05 09:23:53,Noble Financial,Buy,Hold,up
+2013-12-13 06:19:58,DA Davidson,Buy,,main
+2014-10-29 05:43:40,DA Davidson,Buy,,main
+2015-01-05 09:00:00,Stifel Nicolaus,Buy,,main
+2015-03-23 04:39:39,Stifel Nicolaus,Hold,Buy,down
+2015-03-23 06:15:57,Stifel Nicolaus,Hold,Buy,down
+2015-04-29 09:00:00,Needham,Buy,,main
+2015-06-02 07:58:01,Benchmark,Buy,,init
+2015-09-15 06:18:48,Canaccord Genuity,Hold,,init
+2015-09-21 08:23:32,DA Davidson,Buy,,init
+2015-11-11 09:20:02,FBR Capital,Outperform,,init
+2015-12-10 08:08:15,Oppenheimer,Perform,,init
+2016-04-15 06:28:44,Raymond James,Market Perform,,init
+2016-04-28 13:47:51,Dougherty,Neutral,Buy,down
+2016-04-29 08:59:11,CLSA,Outperform,Buy,down
+2016-05-11 08:55:15,FBR Capital,Market Perform,,init
+2016-06-29 06:55:08,Canaccord Genuity,Buy,Hold,up
+2017-02-15 13:32:48,Dougherty,Buy,Neutral,up
+2017-06-06 16:43:09,Longbow Research,Buy,,up
+2017-07-18 12:09:24,Canaccord Genuity,Hold,Buy,down
+2017-08-02 15:03:52,Canaccord Genuity,Hold,,main
+2018-02-20 13:24:26,Canaccord Genuity,Hold,Hold,main
+2018-04-18 12:20:45,Bernstein,Outperform,,init
+2018-08-01 11:42:22,Stifel Nicolaus,Buy,Buy,main
+2018-09-21 12:00:11,Raymond James,Strong Buy,Market Perform,up
+2018-09-28 10:42:29,Longbow Research,Neutral,Buy,down
+2018-10-08 11:32:22,Stifel Nicolaus,Buy,Buy,main
+2018-11-30 14:15:46,Susquehanna,Neutral,,init
+2019-02-13 14:49:27,Canaccord Genuity,Hold,Hold,main
+2019-04-22 11:15:33,Bank of America,Buy,Neutral,up
+2019-05-01 11:13:19,Benchmark,Hold,Buy,down
+2019-05-01 14:15:47,Canaccord Genuity,Hold,Hold,main
+2019-07-31 11:52:17,Raymond James,Strong Buy,,main
+2019-10-14 11:52:02,Needham,Hold,Buy,down
+2019-10-30 11:38:52,Citigroup,Buy,,main
+2019-12-20 14:26:50,PiperJaffray,Neutral,,init
+2020-01-29 14:23:55,Stifel Nicolaus,Hold,Buy,down
+2020-02-14 12:09:09,Citigroup,Buy,,main
+2020-05-26 11:02:13,Raymond James,Outperform,Strong Buy,down
+2020-06-10 11:36:47,B of A Securities,Buy,,main
+2020-08-05 11:30:18,Raymond James,Outperform,,main
+2020-08-05 16:27:23,Canaccord Genuity,Hold,,main
+2020-11-02 14:55:19,Stifel,Hold,,main
+2020-11-02 16:52:30,Canaccord Genuity,Hold,,main
+2020-11-03 11:03:16,Raymond James,Market Perform,Outperform,down
+2020-11-03 12:09:42,Northcoast Research,Buy,Neutral,up
+2021-01-19 12:39:27,Needham,Buy,Hold,up
+2021-02-17 17:43:39,DA Davidson,Buy,,main
+2021-02-22 16:33:16,Canaccord Genuity,Hold,,main
+2021-05-05 11:10:18,Needham,Buy,,main
+2021-05-05 14:40:57,Benchmark,Buy,Hold,up
+2021-06-30 12:23:30,Benchmark,Buy,,main
+2021-08-06 10:24:03,Citigroup,Neutral,Buy,down
+2021-10-11 12:38:38,B of A Securities,Neutral,Buy,down
+2021-11-04 11:05:23,B of A Securities,Underperform,Neutral,down
+2021-11-11 11:24:35,Bernstein,Market Perform,Outperform,down
+2022-02-16 09:55:12,Stifel,Buy,Hold,up
+2022-02-16 11:37:45,Needham,Buy,,main
