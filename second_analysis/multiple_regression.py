@@ -99,6 +99,12 @@ plt.plot(y_test, y_pred1)
 y_true = y_test.tolist()
 y_pred2 = y_pred1.tolist()
 
+y_pred2_df=pd.DataFrame(y_pred2)
+y_true_df=pd.DataFrame(y_true)
+print(y_true_df)
+print(y_pred2_df)
+
+
 r2_score(y_true, y_pred2)
 print(r2_score(y_true, y_pred2))
 
@@ -112,7 +118,3 @@ median_absolute_error(y_true, y_pred2)
 print(median_absolute_error(y_true, y_pred2))
 
 
-y_pred2_df=pd.DataFrame(y_pred2)
-y_true_df=pd.DataFrame(y_true)
-print(y_true_df)
-print(y_pred2_df)
