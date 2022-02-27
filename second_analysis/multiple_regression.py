@@ -10,7 +10,8 @@ from sklearn.metrics import mean_squared_error
 from sklearn.metrics import mean_squared_log_error
 from sklearn.metrics import median_absolute_error
 import statsmodels.regression.linear_model as lm
-
+import pandas as pd
+pd.options.display.max_columns=None
 
 
 # Importing the dataset
@@ -88,7 +89,10 @@ regressorr.fit(X_train1, y_train1)
 
 # Predicting the Test set results
 y_pred1 = regressorr.predict(X_test1)
-print(y_pred1)
+
+y_pred1_df=pd.DataFrame(y_pred1)
+print(y_pred1_df)
+
 plt.plot(y_test, y_pred)
 plt.plot(y_test, y_pred1)
 
@@ -106,3 +110,9 @@ mean_squared_log_error(y_true, y_pred2)
 print(mean_squared_log_error(y_true, y_pred2))
 median_absolute_error(y_true, y_pred2)
 print(median_absolute_error(y_true, y_pred2))
+
+
+y_pred2_df=pd.DataFrame(y_pred2)
+y_true_df=pd.DataFrame(y_true)
+print(y_true_df)
+print(y_pred2_df)
